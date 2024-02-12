@@ -1,0 +1,526 @@
+- ParentName: 
+  Name: default
+  Data:
+    AirSupportOptions:
+      Capacity: 1
+      Data:
+      - HeliStrategy: PURSUIT
+        Chance: 0
+        Duration: 30
+    HeavySupportOptions:
+      Capacity: 1
+      Data:
+      - HeavyStrategy: RAM
+        Chance: 0
+        Duration: 20
+        ChanceBigSUV: 0
+    LeaderSupportOptions:
+      Capacity: 1
+      Data:
+      - LeaderStrategy: CROSS_FOLLOW
+        Chance: 0
+        Duration: 0
+        PriorityChance: 0
+        PriorityTime: 0
+    MinimumSupportDelay: 10
+- ParentName: default
+  Name: supportrace_08
+  Data:
+    AirSupportOptions:
+      Capacity: 1
+      Data:
+      - HeliStrategy: HI_PATROL
+        Chance: 80
+        Duration: 90
+    HeavySupportOptions:
+      Capacity: 1
+      Data:
+      - HeavyStrategy: RAM
+        Chance: 40
+        Duration: 20
+        ChanceBigSUV: 100
+    LeaderSupportOptions:
+      Capacity: 1
+      Data:
+      - LeaderStrategy: CROSS_FOLLOW
+        Chance: 10
+        Duration: 240
+        PriorityChance: 0
+        PriorityTime: 0
+- ParentName: default
+  Name: support01
+  Data:
+    AirSupportOptions:
+      Capacity: 1
+      Data:
+      - HeliStrategy: PURSUIT
+        Chance: 0
+        Duration: 60
+    HeavySupportOptions:
+      Capacity: 1
+      Data:
+      - HeavyStrategy: RAM
+        Chance: 0
+        Duration: 0
+        ChanceBigSUV: 0
+    LeaderSupportOptions:
+      Capacity: 1
+      Data:
+      - LeaderStrategy: CROSS_FOLLOW
+        Chance: 0
+        Duration: 0
+        PriorityChance: 0
+        PriorityTime: 0
+    MinimumSupportDelay: 60
+- ParentName: default
+  Name: supportrace_04
+  Data:
+    AirSupportOptions:
+      Capacity: 1
+      Data:
+      - HeliStrategy: PURSUIT
+        Chance: 60
+        Duration: 80
+    HeavySupportOptions:
+      Capacity: 1
+      Data:
+      - HeavyStrategy: RAM
+        Chance: 0
+        Duration: 0
+        ChanceBigSUV: 100
+    LeaderSupportOptions:
+      Capacity: 1
+      Data:
+      - LeaderStrategy: CROSS_FOLLOW
+        Chance: 0
+        Duration: 0
+        PriorityChance: 0
+        PriorityTime: 0
+    MinimumSupportDelay: 30
+- ParentName: default
+  Name: supportrace_03
+  Data:
+    AirSupportOptions:
+      Capacity: 1
+      Data:
+      - HeliStrategy: PURSUIT
+        Chance: 0
+        Duration: 0
+    HeavySupportOptions:
+      Capacity: 1
+      Data:
+      - HeavyStrategy: RAM
+        Chance: 0
+        Duration: 0
+        ChanceBigSUV: 0
+    LeaderSupportOptions:
+      Capacity: 1
+      Data:
+      - LeaderStrategy: CROSS_FOLLOW
+        Chance: 0
+        Duration: 0
+        PriorityChance: 0
+        PriorityTime: 0
+- ParentName: default
+  Name: supportrace_10
+  Data:
+    AirSupportOptions:
+      Capacity: 1
+      Data:
+      - HeliStrategy: HI_PATROL
+        Chance: 100
+        Duration: 120
+    HeavySupportOptions:
+      Capacity: 1
+      Data:
+      - HeavyStrategy: RAM
+        Chance: 60
+        Duration: 20
+        ChanceBigSUV: 100
+    LeaderSupportOptions:
+      Capacity: 1
+      Data:
+      - LeaderStrategy: CROSS_FOLLOW
+        Chance: 20
+        Duration: 240
+        PriorityChance: 0
+        PriorityTime: 0
+- ParentName: default
+  Name: supportrace_05
+  Data:
+    AirSupportOptions:
+      Capacity: 1
+      Data:
+      - HeliStrategy: SKID_HIT
+        Chance: 60
+        Duration: 120
+    HeavySupportOptions:
+      Capacity: 1
+      Data:
+      - HeavyStrategy: RAM
+        Chance: 0
+        Duration: 0
+        ChanceBigSUV: 100
+    LeaderSupportOptions:
+      Capacity: 1
+      Data:
+      - LeaderStrategy: CROSS_FOLLOW
+        Chance: 0
+        Duration: 0
+        PriorityChance: 0
+        PriorityTime: 0
+    MinimumSupportDelay: 30
+- ParentName: default
+  Name: support06
+  Data:
+    AirSupportOptions:
+      Capacity: 1
+      Data:
+      - HeliStrategy: SKID_HIT
+        Chance: 100
+        Duration: 180
+    HeavySupportOptions:
+      Capacity: 1
+      Data:
+      - HeavyStrategy: RAM
+        Chance: 20
+        Duration: 30
+        ChanceBigSUV: 100
+    LeaderSupportOptions:
+      Capacity: 1
+      Data:
+      - LeaderStrategy: CROSS_FOLLOW
+        Chance: 5
+        Duration: 2000
+        PriorityChance: 100
+        PriorityTime: 60
+    MinimumSupportDelay: 10
+- ParentName: default
+  Name: supportrace_02
+  Data:
+    AirSupportOptions:
+      Capacity: 1
+      Data:
+      - HeliStrategy: PURSUIT
+        Chance: 0
+        Duration: 30
+    HeavySupportOptions:
+      Capacity: 1
+      Data:
+      - HeavyStrategy: RAM
+        Chance: 0
+        Duration: 20
+        ChanceBigSUV: 0
+    LeaderSupportOptions:
+      Capacity: 1
+      Data:
+      - LeaderStrategy: CROSS_FOLLOW
+        Chance: 0
+        Duration: 0
+        PriorityChance: 0
+        PriorityTime: 0
+- ParentName: default
+  Name: supportrace_01
+  Data:
+    AirSupportOptions:
+      Capacity: 1
+      Data:
+      - HeliStrategy: PURSUIT
+        Chance: 0
+        Duration: 30
+    HeavySupportOptions:
+      Capacity: 1
+      Data:
+      - HeavyStrategy: RAM
+        Chance: 0
+        Duration: 20
+        ChanceBigSUV: 0
+    LeaderSupportOptions:
+      Capacity: 1
+      Data:
+      - LeaderStrategy: CROSS_FOLLOW
+        Chance: 0
+        Duration: 0
+        PriorityChance: 0
+        PriorityTime: 0
+- ParentName: default
+  Name: support05
+  Data:
+    AirSupportOptions:
+      Capacity: 1
+      Data:
+      - HeliStrategy: SKID_HIT
+        Chance: 60
+        Duration: 90
+    HeavySupportOptions:
+      Capacity: 2
+      Data:
+      - HeavyStrategy: RAM
+        Chance: 25
+        Duration: 30
+        ChanceBigSUV: 100
+      - HeavyStrategy: HEAVY_ROADBLOCK
+        Chance: 40
+        Duration: 20
+        ChanceBigSUV: 100
+    LeaderSupportOptions:
+      Capacity: 1
+      Data:
+      - LeaderStrategy: CROSS_FOLLOW
+        Chance: 5
+        Duration: 2000
+        PriorityChance: 10
+        PriorityTime: 120
+    MinimumSupportDelay: 35
+- ParentName: default
+  Name: support07
+  Data:
+    AirSupportOptions:
+      Capacity: 1
+      Data:
+      - HeliStrategy: SKID_HIT
+        Chance: 0
+        Duration: 0
+    HeavySupportOptions:
+      Capacity: 1
+      Data:
+      - HeavyStrategy: RAM
+        Chance: 30
+        Duration: 30
+        ChanceBigSUV: 100
+    LeaderSupportOptions:
+      Capacity: 1
+      Data:
+      - LeaderStrategy: CROSS_FOLLOW
+        Chance: 0
+        Duration: 0
+        PriorityChance: 0
+        PriorityTime: 0
+    MinimumSupportDelay: 60
+- ParentName: default
+  Name: supportrace_07
+  Data:
+    AirSupportOptions:
+      Capacity: 1
+      Data:
+      - HeliStrategy: SKID_HIT
+        Chance: 75
+        Duration: 220
+    HeavySupportOptions:
+      Capacity: 1
+      Data:
+      - HeavyStrategy: RAM
+        Chance: 0
+        Duration: 0
+        ChanceBigSUV: 100
+    LeaderSupportOptions:
+      Capacity: 1
+      Data:
+      - LeaderStrategy: CROSS_FOLLOW
+        Chance: 0
+        Duration: 0
+        PriorityChance: 0
+        PriorityTime: 0
+- ParentName: default
+  Name: support09
+  Data:
+    AirSupportOptions:
+      Capacity: 1
+      Data:
+      - HeliStrategy: SKID_HIT
+        Chance: 100
+        Duration: 2000
+    HeavySupportOptions:
+      Capacity: 1
+      Data:
+      - HeavyStrategy: RAM
+        Chance: 0
+        Duration: 0
+        ChanceBigSUV: 0
+    LeaderSupportOptions:
+      Capacity: 1
+      Data:
+      - LeaderStrategy: CROSS_FOLLOW
+        Chance: 100
+        Duration: 2000
+        PriorityChance: 100
+        PriorityTime: 30
+- ParentName: default
+  Name: support03
+  Data:
+    AirSupportOptions:
+      Capacity: 1
+      Data:
+      - HeliStrategy: PURSUIT
+        Chance: 0
+        Duration: 0
+    HeavySupportOptions:
+      Capacity: 2
+      Data:
+      - HeavyStrategy: HEAVY_ROADBLOCK
+        Chance: 5
+        Duration: 40
+        ChanceBigSUV: 0
+      - HeavyStrategy: RAM
+        Chance: 10
+        Duration: 20
+        ChanceBigSUV: 0
+    LeaderSupportOptions:
+      Capacity: 1
+      Data:
+      - LeaderStrategy: CROSS_FOLLOW
+        Chance: 0
+        Duration: 0
+        PriorityChance: 0
+        PriorityTime: 0
+    MinimumSupportDelay: 60
+- ParentName: default
+  Name: supportrace_09
+  Data:
+    AirSupportOptions:
+      Capacity: 1
+      Data:
+      - HeliStrategy: HI_PATROL
+        Chance: 90
+        Duration: 120
+    HeavySupportOptions:
+      Capacity: 1
+      Data:
+      - HeavyStrategy: RAM
+        Chance: 50
+        Duration: 20
+        ChanceBigSUV: 100
+    LeaderSupportOptions:
+      Capacity: 1
+      Data:
+      - LeaderStrategy: CROSS_FOLLOW
+        Chance: 15
+        Duration: 240
+        PriorityChance: 0
+        PriorityTime: 0
+- ParentName: default
+  Name: support02
+  Data:
+    AirSupportOptions:
+      Capacity: 1
+      Data:
+      - HeliStrategy: PURSUIT
+        Chance: 0
+        Duration: 60
+    HeavySupportOptions:
+      Capacity: 1
+      Data:
+      - HeavyStrategy: RAM
+        Chance: 0
+        Duration: 20
+        ChanceBigSUV: 0
+    LeaderSupportOptions:
+      Capacity: 1
+      Data:
+      - LeaderStrategy: CROSS_FOLLOW
+        Chance: 0
+        Duration: 0
+        PriorityChance: 0
+        PriorityTime: 0
+    MinimumSupportDelay: 60
+- ParentName: default
+  Name: supportrace_06
+  Data:
+    AirSupportOptions:
+      Capacity: 1
+      Data:
+      - HeliStrategy: SKID_HIT
+        Chance: 70
+        Duration: 180
+    HeavySupportOptions:
+      Capacity: 1
+      Data:
+      - HeavyStrategy: RAM
+        Chance: 0
+        Duration: 0
+        ChanceBigSUV: 100
+    LeaderSupportOptions:
+      Capacity: 1
+      Data:
+      - LeaderStrategy: CROSS_FOLLOW
+        Chance: 0
+        Duration: 0
+        PriorityChance: 0
+        PriorityTime: 0
+- ParentName: default
+  Name: support08
+  Data:
+    AirSupportOptions:
+      Capacity: 1
+      Data:
+      - HeliStrategy: HI_PATROL
+        Chance: 75
+        Duration: 180
+    HeavySupportOptions:
+      Capacity: 1
+      Data:
+      - HeavyStrategy: RAM
+        Chance: 40
+        Duration: 20
+        ChanceBigSUV: 80
+    LeaderSupportOptions:
+      Capacity: 1
+      Data:
+      - LeaderStrategy: CROSS_FOLLOW
+        Chance: 0
+        Duration: 500
+        PriorityChance: 0
+        PriorityTime: 0
+- ParentName: default
+  Name: support10
+  Data:
+    AirSupportOptions:
+      Capacity: 1
+      Data:
+      - HeliStrategy: SKID_HIT
+        Chance: 100
+        Duration: 999
+    HeavySupportOptions:
+      Capacity: 1
+      Data:
+      - HeavyStrategy: RAM
+        Chance: 0
+        Duration: 20
+        ChanceBigSUV: 100
+    LeaderSupportOptions:
+      Capacity: 1
+      Data:
+      - LeaderStrategy: CROSS_FOLLOW
+        Chance: 0
+        Duration: 2000
+        PriorityChance: 0
+        PriorityTime: 0
+- ParentName: default
+  Name: support04
+  Data:
+    AirSupportOptions:
+      Capacity: 1
+      Data:
+      - HeliStrategy: PURSUIT
+        Chance: 50
+        Duration: 60
+    HeavySupportOptions:
+      Capacity: 2
+      Data:
+      - HeavyStrategy: RAM
+        Chance: 25
+        Duration: 30
+        ChanceBigSUV: 100
+      - HeavyStrategy: HEAVY_ROADBLOCK
+        Chance: 25
+        Duration: 20
+        ChanceBigSUV: 100
+    LeaderSupportOptions:
+      Capacity: 1
+      Data:
+      - LeaderStrategy: CROSS_FOLLOW
+        Chance: 0
+        Duration: 0
+        PriorityChance: 0
+        PriorityTime: 0
+    MinimumSupportDelay: 45

@@ -1,0 +1,152 @@
+- ParentName: finishline
+  Name: race_bin_03/3_2_1_sprint/finishline
+  Data:
+    CollectionName: race_bin_03/3_2_1_sprint/finishline
+    message_id: 0
+    Rotation: 12.168910026550293
+    Position:
+      X: 3612.56103515625
+      Y: 697.0133056640625
+      Z: -12.892580032348633
+    Name: race_bin_03/3_2_1_sprint/finishline
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 45
+      Z: 5
+- ParentName: checkpoint
+  Name: race_bin_03/3_2_1_sprint/checkpoint5
+  Data:
+    CollectionName: race_bin_03/3_2_1_sprint/checkpoint5
+    message_id: 0
+    Rotation: -132.89059448242188
+    Position:
+      X: 2007.052001953125
+      Y: 1057.501953125
+      Z: 139.71189880371094
+    Name: race_bin_03/3_2_1_sprint/checkpoint5
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 40
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_03/3_2_1_sprint/checkpoint2
+  Data:
+    CollectionName: race_bin_03/3_2_1_sprint/checkpoint2
+    message_id: 0
+    Rotation: -47.8125
+    Position:
+      X: 2915.18798828125
+      Y: 3023.8349609375
+      Z: 63.130859375
+    Name: race_bin_03/3_2_1_sprint/checkpoint2
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 40
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_03/3_2_1_sprint/checkpoint7
+  Data:
+    CollectionName: race_bin_03/3_2_1_sprint/checkpoint7
+    message_id: 0
+    Rotation: -82.96875
+    Position:
+      X: 995.46588134765625
+      Y: 221.47250366210938
+      Z: 101.65329742431641
+    Name: race_bin_03/3_2_1_sprint/checkpoint7
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 40
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_03/3_2_1_sprint/checkpoint3
+  Data:
+    CollectionName: race_bin_03/3_2_1_sprint/checkpoint3
+    message_id: 0
+    Rotation: 204.60940551757812
+    Position:
+      X: 3103.047119140625
+      Y: 2599.73193359375
+      Z: 40.4404296875
+    Name: race_bin_03/3_2_1_sprint/checkpoint3
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 45
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_03/3_2_1_sprint/checkpoint6
+  Data:
+    CollectionName: race_bin_03/3_2_1_sprint/checkpoint6
+    message_id: 0
+    Rotation: -93.515632629394531
+    Position:
+      X: 1801.93994140625
+      Y: 596.3895263671875
+      Z: 93.5595703125
+    Name: race_bin_03/3_2_1_sprint/checkpoint6
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 40
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_03/3_2_1_sprint/checkpoint1
+  Data:
+    CollectionName: race_bin_03/3_2_1_sprint/checkpoint1
+    message_id: 0
+    Rotation: 212.69520568847656
+    Position:
+      X: 3331.30908203125
+      Y: 3617.967041015625
+      Z: 37.109378814697266
+    Name: race_bin_03/3_2_1_sprint/checkpoint1
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 40
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_03/3_2_1_sprint/checkpoint4
+  Data:
+    CollectionName: race_bin_03/3_2_1_sprint/checkpoint4
+    message_id: 0
+    Rotation: 229.21879577636719
+    Position:
+      X: 2538.10205078125
+      Y: 1954.6700439453125
+      Z: 105.08889770507812
+    Name: race_bin_03/3_2_1_sprint/checkpoint4
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 35
+      Z: 40
+- ParentName: resetplayertrigger
+  Name: race_bin_03/3_2_1_sprint/wrongway
+  Data:
+    CollectionName: race_bin_03/3_2_1_sprint/wrongway
+    message_id: 0
+    Rotation: 297.94589233398438
+    Position:
+      X: 3957.989013671875
+      Y: 3375.638916015625
+      Z: 14.467769622802734
+    Name: race_bin_03/3_2_1_sprint/wrongway
+    Template: false
+- ParentName: startgrid
+  Name: race_bin_03/3_2_1_sprint/startgrid
+  Data:
+    CollectionName: race_bin_03/3_2_1_sprint/startgrid
+    message_id: 0
+    Rotation: 177.26620483398438
+    Position:
+      X: 3932.81689453125
+      Y: 3392.239990234375
+      Z: 10.291990280151367
+    Name: race_bin_03/3_2_1_sprint/startgrid
+    Template: false

@@ -1,0 +1,1243 @@
+- ParentName: finishline
+  Name: race_bin_02/2_7_1_drag/2_7_1_finishline
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/2_7_1_finishline
+    message_id: 0
+    Rotation: -158.5845947265625
+    Position:
+      X: 2561.008056640625
+      Y: 306.55081176757812
+      Z: 86.91845703125
+    FlareSpacing: 8
+    Name: race_bin_02/2_7_1_drag/2_7_1_finishline
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 30
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_02/2_7_1_drag/checkpoint4
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/checkpoint4
+    message_id: 0
+    Rotation: -52.525581359863281
+    Position:
+      X: 2667.320068359375
+      Y: 475.72421264648438
+      Z: 69.373046875
+    Name: race_bin_02/2_7_1_drag/checkpoint4
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 35
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_02/2_7_1_drag/checkpoint5
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/checkpoint5
+    message_id: 0
+    Rotation: -183.07159423828125
+    Position:
+      X: 3045.43701171875
+      Y: 544.6917724609375
+      Z: 20.395509719848633
+    Name: race_bin_02/2_7_1_drag/checkpoint5
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 30
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_02/2_7_1_drag/checkpoint6
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/checkpoint6
+    message_id: 0
+    Rotation: -174.7781982421875
+    Position:
+      X: 2763.35400390625
+      Y: 609.5570068359375
+      Z: 44.828128814697266
+    Name: race_bin_02/2_7_1_drag/checkpoint6
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 30
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_02/2_7_1_drag/checkpoint1
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/checkpoint1
+    message_id: 0
+    Rotation: -163.07200622558594
+    Position:
+      X: 3959.218017578125
+      Y: 782.49359130859375
+      Z: 36.150390625
+    Name: race_bin_02/2_7_1_drag/checkpoint1
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 25
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_02/2_7_1_drag/checkpoint2
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/checkpoint2
+    message_id: 0
+    Rotation: -166.17750549316406
+    Position:
+      X: 3418.739990234375
+      Y: 649.61639404296875
+      Z: -10.803709983825684
+    Name: race_bin_02/2_7_1_drag/checkpoint2
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 40
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_02/2_7_1_drag/checkpoint3
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/checkpoint3
+    message_id: 0
+    Rotation: -200.27299499511719
+    Position:
+      X: 3029.31494140625
+      Y: 546.5557861328125
+      Z: 21.380859375
+    Name: race_bin_02/2_7_1_drag/checkpoint3
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 35
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_02/2_7_1_drag/checkpoint7
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/checkpoint7
+    message_id: 0
+    Rotation: -56.825939178466797
+    Position:
+      X: 2677.85205078125
+      Y: 461.39129638671875
+      Z: 70.65234375
+    Name: race_bin_02/2_7_1_drag/checkpoint7
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 30
+      Z: 40
+- ParentName: trafficspawntrigger
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger5
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger5
+    message_id: 0
+    TargetMarker:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/start_marker
+    Template: false
+    Rotation: 330
+    TrafficCharacter:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger5/character5
+    InitialSpeed: 40
+    Children:
+      Capacity: 1
+      Data:
+      - ClassKey: gameplay
+        CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger5/character5
+    AutoSpawnTriggerType: traffic
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger5
+    Position:
+      X: 2933.385986328125
+      Y: 597.539306640625
+      Z: 34.964851379394531
+    Radius: 200
+- ParentName: trafficspawntrigger
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger12
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger12
+    message_id: 0
+    TargetMarker:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/start_marker
+    Template: false
+    Rotation: 15
+    TrafficCharacter:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger12/character12
+    InitialSpeed: 30
+    Children:
+      Capacity: 1
+      Data:
+      - ClassKey: gameplay
+        CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger12/character12
+    AutoSpawnTriggerType: traffic
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger12
+    Position:
+      X: 3564.0869140625
+      Y: 678.80072021484375
+      Z: -9.998046875
+    Radius: 250
+- ParentName: trafficspawntrigger
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger21
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger21
+    message_id: 0
+    TargetMarker:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger21/marker
+    Template: false
+    Rotation: 280
+    TrafficCharacter:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger21/character
+    InitialSpeed: 30
+    Children:
+      Capacity: 2
+      Data:
+      - ClassKey: gameplay
+        CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger21/character
+      - ClassKey: gameplay
+        CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger21/marker
+    Position:
+      X: 2829.81103515625
+      Y: 642.46478271484375
+      Z: 43.476558685302734
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger21
+    Radius: 250
+- ParentName: trafficspawntrigger
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger8
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger8
+    message_id: 0
+    TargetMarker:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/start_marker
+    Template: false
+    Rotation: 15
+    TrafficCharacter:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger8/character8
+    InitialSpeed: 30
+    Children:
+      Capacity: 1
+      Data:
+      - ClassKey: gameplay
+        CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger8/character8
+    AutoSpawnTriggerType: traffic
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger8
+    Position:
+      X: 3631.173095703125
+      Y: 694.5106201171875
+      Z: -10.493160247802734
+    Radius: 250
+- ParentName: trafficspawntrigger
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger25
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger25
+    message_id: 0
+    TargetMarker:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/finish_marker
+    Template: false
+    Rotation: 300
+    TrafficCharacter:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger25/character
+    InitialSpeed: 30
+    Children:
+      Capacity: 1
+      Data:
+      - ClassKey: gameplay
+        CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger25/character
+    Position:
+      X: 2644.114990234375
+      Y: 498.98910522460938
+      Z: 67.3525390625
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger25
+    Radius: 200
+- ParentName: trafficspawntrigger
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger19
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger19
+    message_id: 0
+    TargetMarker:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/start_marker
+    Template: false
+    Rotation: 0
+    TrafficCharacter:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger19/character
+    InitialSpeed: 30
+    Children:
+      Capacity: 1
+      Data:
+      - ClassKey: gameplay
+        CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger19/character
+    AutoSpawnTriggerType: traffic
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger19
+    Position:
+      X: 2862.762939453125
+      Y: 612.3416748046875
+      Z: 42.354488372802734
+    Radius: 200
+- ParentName: trafficspawntrigger
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger14
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger14
+    message_id: 0
+    TargetMarker:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/finish_marker
+    Template: false
+    Rotation: 190
+    TrafficCharacter:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger14/character
+    InitialSpeed: 30
+    Children:
+      Capacity: 1
+      Data:
+      - ClassKey: gameplay
+        CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger14/character
+    AutoSpawnTriggerType: traffic
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger14
+    Position:
+      X: 3305.787109375
+      Y: 624.91241455078125
+      Z: 4.1103520393371582
+    Radius: 200
+- ParentName: trafficspawntrigger
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger27
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger27
+    message_id: 0
+    TargetMarker:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/start_marker
+    Template: false
+    Rotation: 50
+    TrafficCharacter:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger27/character
+    InitialSpeed: 30
+    Children:
+      Capacity: 1
+      Data:
+      - ClassKey: gameplay
+        CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger27/character
+    Position:
+      X: 2690.052978515625
+      Y: 372.4453125
+      Z: 81.5859375
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger27
+    Radius: 200
+- ParentName: trafficspawntrigger
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger3
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger3
+    message_id: 0
+    TargetMarker:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/start_marker
+    Template: false
+    Rotation: 67.520271301269531
+    TrafficCharacter:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger3/character3
+    InitialSpeed: 30
+    Children:
+      Capacity: 1
+      Data:
+      - ClassKey: gameplay
+        CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger3/character3
+    AutoSpawnTriggerType: traffic
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger3
+    Position:
+      X: 4154.828125
+      Y: 851.3607177734375
+      Z: 60.007808685302734
+    Radius: 155
+- ParentName: trafficspawntrigger
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger4
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger4
+    message_id: 0
+    TargetMarker:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/start_marker
+    Template: false
+    Rotation: 15
+    TrafficCharacter:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger4/character4
+    InitialSpeed: 30
+    Children:
+      Capacity: 1
+      Data:
+      - ClassKey: gameplay
+        CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger4/character4
+    AutoSpawnTriggerType: traffic
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger4
+    Position:
+      X: 3426.26611328125
+      Y: 642.518798828125
+      Z: -10.454110145568848
+    Radius: 300
+- ParentName: trafficspawntrigger
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger2
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger2
+    message_id: 0
+    TargetMarker:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/start_marker
+    Template: false
+    Rotation: 735.28192138671875
+    TrafficCharacter:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger2/character2
+    InitialSpeed: 20
+    Children:
+      Capacity: 1
+      Data:
+      - ClassKey: gameplay
+        CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger2/character2
+    AutoSpawnTriggerType: traffic
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger2
+    Position:
+      X: 4021.39208984375
+      Y: 797.34747314453125
+      Z: 48.597648620605469
+    Radius: 235
+- ParentName: trafficspawntrigger
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger23
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger23
+    message_id: 0
+    TargetMarker:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/finish_marker
+    Template: false
+    Rotation: 200
+    TrafficCharacter:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger23/character
+    InitialSpeed: 30
+    Children:
+      Capacity: 1
+      Data:
+      - ClassKey: gameplay
+        CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger23/character
+    Position:
+      X: 2679.466064453125
+      Y: 597.369873046875
+      Z: 56.6650390625
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger23
+    Radius: 200
+- ParentName: trafficspawntrigger
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger20
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger20
+    message_id: 0
+    TargetMarker:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger20/marker
+    Template: false
+    Rotation: 90
+    TrafficCharacter:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger20/character
+    InitialSpeed: 30
+    Children:
+      Capacity: 2
+      Data:
+      - ClassKey: gameplay
+        CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger20/character
+      - ClassKey: gameplay
+        CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger20/marker
+    Position:
+      X: 2838.81689453125
+      Y: 591.77777099609375
+      Z: 42.539058685302734
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger20
+    Radius: 250
+- ParentName: trafficspawntrigger
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger1
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger1
+    message_id: 0
+    TargetMarker:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger1/marker1
+    Template: false
+    Rotation: -78.634811401367188
+    TrafficCharacter:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger1/character1
+    InitialSpeed: 15
+    Children:
+      Capacity: 2
+      Data:
+      - ClassKey: gameplay
+        CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger1/character1
+      - ClassKey: gameplay
+        CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger1/marker1
+    AutoSpawnTriggerType: traffic
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger1
+    Position:
+      X: 3862.297119140625
+      Y: 777.5811767578125
+      Z: 20.006839752197266
+    Radius: 230
+- ParentName: trafficspawntrigger
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger15
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger15
+    message_id: 0
+    TargetMarker:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/start_marker
+    Template: false
+    Rotation: 17.508529663085938
+    TrafficCharacter:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger15/character
+    InitialSpeed: 30
+    Children:
+      Capacity: 1
+      Data:
+      - ClassKey: gameplay
+        CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger15/character
+    AutoSpawnTriggerType: traffic
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger15
+    Position:
+      X: 3215.98291015625
+      Y: 589.761474609375
+      Z: 13.7470703125
+    Radius: 200
+- ParentName: trafficspawntrigger
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger18
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger18
+    message_id: 0
+    TargetMarker:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/finish_marker
+    Template: false
+    Rotation: 150.20480346679688
+    TrafficCharacter:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger18/character
+    InitialSpeed: 30
+    Children:
+      Capacity: 1
+      Data:
+      - ClassKey: gameplay
+        CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger18/character
+    AutoSpawnTriggerType: traffic
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger18
+    Position:
+      X: 3022.27490234375
+      Y: 552.8408203125
+      Z: 21.773439407348633
+    Radius: 250
+- ParentName: trafficspawntrigger
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger13
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger13
+    message_id: 0
+    TargetMarker:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger13/marker
+    Template: false
+    Rotation: 186.75770568847656
+    TrafficCharacter:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger13/character
+    InitialSpeed: 30
+    Children:
+      Capacity: 2
+      Data:
+      - ClassKey: gameplay
+        CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger13/character
+      - ClassKey: gameplay
+        CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger13/marker
+    AutoSpawnTriggerType: traffic
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger13
+    Position:
+      X: 3398.342041015625
+      Y: 657.84136962890625
+      Z: -8.8212890625
+    Radius: 250
+- ParentName: trafficspawntrigger
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger22
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger22
+    message_id: 0
+    TargetMarker:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/start_marker
+    Template: false
+    Rotation: 6.1433439254760742
+    TrafficCharacter:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger22/character
+    InitialSpeed: 30
+    Children:
+      Capacity: 1
+      Data:
+      - ClassKey: gameplay
+        CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger22/character
+    Position:
+      X: 2768.343994140625
+      Y: 607.75787353515625
+      Z: 44.260738372802734
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger22
+    Radius: 250
+- ParentName: trafficspawntrigger
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger7
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger7
+    message_id: 0
+    TargetMarker:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/finish_marker
+    Template: false
+    Rotation: 192.78190612792969
+    TrafficCharacter:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger7/character7
+    InitialSpeed: 30
+    Children:
+      Capacity: 1
+      Data:
+      - ClassKey: gameplay
+        CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger7/character7
+    AutoSpawnTriggerType: traffic
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger7
+    Position:
+      X: 3822.81201171875
+      Y: 755.12017822265625
+      Z: 20
+    Radius: 150
+- ParentName: trafficspawntrigger
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger6
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger6
+    message_id: 0
+    TargetMarker:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/finish_marker
+    Template: false
+    Rotation: 200
+    TrafficCharacter:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger6/character6
+    InitialSpeed: 30
+    Children:
+      Capacity: 1
+      Data:
+      - ClassKey: gameplay
+        CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger6/character6
+    AutoSpawnTriggerType: traffic
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger6
+    Position:
+      X: 3700.10595703125
+      Y: 727.14093017578125
+      Z: -0.31933590769767761
+    Radius: 200
+- ParentName: trafficspawntrigger
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger9
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger9
+    message_id: 0
+    TargetMarker:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/finish_marker
+    Template: false
+    Rotation: 191.91380310058594
+    TrafficCharacter:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger9/character9
+    InitialSpeed: 30
+    Children:
+      Capacity: 1
+      Data:
+      - ClassKey: gameplay
+        CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger9/character9
+    AutoSpawnTriggerType: traffic
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger9
+    Position:
+      X: 3656.716064453125
+      Y: 711.6317138671875
+      Z: -8
+    Radius: 250
+- ParentName: trafficspawntrigger
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger24
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger24
+    message_id: 0
+    TargetMarker:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/start_marker
+    Template: false
+    Rotation: 45
+    TrafficCharacter:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger24/character
+    InitialSpeed: 30
+    Children:
+      Capacity: 1
+      Data:
+      - ClassKey: gameplay
+        CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger24/character
+    Position:
+      X: 2658.60498046875
+      Y: 569.7305908203125
+      Z: 61.0478515625
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger24
+    Radius: 200
+- ParentName: trafficspawntrigger
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger26
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger26
+    message_id: 0
+    TargetMarker:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/finish_marker
+    Template: false
+    Rotation: 250
+    TrafficCharacter:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger26/character
+    InitialSpeed: 30
+    Children:
+      Capacity: 1
+      Data:
+      - ClassKey: gameplay
+        CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger26/character
+    Position:
+      X: 2691.40087890625
+      Y: 393.56689453125
+      Z: 78.9423828125
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger26
+    Radius: 200
+- ParentName: trafficspawntrigger
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger11
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger11
+    message_id: 0
+    TargetMarker:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/finish_marker
+    Template: false
+    Rotation: 190
+    TrafficCharacter:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger11/character11
+    InitialSpeed: 30
+    Children:
+      Capacity: 1
+      Data:
+      - ClassKey: gameplay
+        CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger11/character11
+    AutoSpawnTriggerType: traffic
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger11
+    Position:
+      X: 3571.51904296875
+      Y: 693.11248779296875
+      Z: -10
+    Radius: 250
+- ParentName: trafficspawntrigger
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger10
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger10
+    message_id: 0
+    TargetMarker:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/start_marker
+    Template: false
+    Rotation: 34.545520782470703
+    TrafficCharacter:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger10/character10
+    InitialSpeed: 30
+    Children:
+      Capacity: 1
+      Data:
+      - ClassKey: gameplay
+        CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger10/character10
+    AutoSpawnTriggerType: traffic
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger10
+    Position:
+      X: 3315.637939453125
+      Y: 584.59527587890625
+      Z: 7.1005859375
+    Radius: 200
+- ParentName: trafficspawntrigger
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger17
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger17
+    message_id: 0
+    TargetMarker:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/finish_marker
+    Template: false
+    Rotation: -109.65869903564453
+    TrafficCharacter:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger17/character
+    InitialSpeed: 30
+    Children:
+      Capacity: 1
+      Data:
+      - ClassKey: gameplay
+        CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger17/character
+    AutoSpawnTriggerType: traffic
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger17
+    Position:
+      X: 3200.3759765625
+      Y: 641.96221923828125
+      Z: 17.123050689697266
+    Radius: 200
+- ParentName: trafficspawntrigger
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger16
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger16
+    message_id: 0
+    TargetMarker:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger16/marker
+    Template: false
+    Rotation: 109.35150146484375
+    TrafficCharacter:
+      ClassKey: gameplay
+      CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger16/character
+    InitialSpeed: 15
+    Children:
+      Capacity: 2
+      Data:
+      - ClassKey: gameplay
+        CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger16/character
+      - ClassKey: gameplay
+        CollectionKey: race_bin_02/2_7_1_drag/trafficspawntrigger16/marker
+    AutoSpawnTriggerType: traffic
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger16
+    Position:
+      X: 3094.763916015625
+      Y: 527.06561279296875
+      Z: 19.641599655151367
+    Radius: 280
+- ParentName: resetplayertrigger
+  Name: race_bin_02/2_7_1_drag/resetplayertrigger1
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/resetplayertrigger1
+    message_id: 0
+    Rotation: 138.839599609375
+    Position:
+      X: 4105.0419921875
+      Y: 1077.237060546875
+      Z: 66.21484375
+    Name: race_bin_02/2_7_1_drag/resetplayertrigger1
+    Template: false
+- ParentName: startgrid
+  Name: race_bin_02/2_7_1_drag/2_7_1_startgrid
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/2_7_1_startgrid
+    message_id: 0
+    Rotation: -77.492439270019531
+    Position:
+      X: 4132.72802734375
+      Y: 1024.0050048828125
+      Z: 66.908210754394531
+    Radius: 0.5
+    Name: race_bin_02/2_7_1_drag/2_7_1_startgrid
+    Template: false
+- ParentName: marker
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger20/marker
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger20/marker
+    message_id: 0
+    Rotation: 97.372016906738281
+    Position:
+      X: 2832.867919921875
+      Y: 657.4176025390625
+      Z: 44.337890625
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger20/marker
+    Template: false
+- ParentName: marker
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger16/marker
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger16/marker
+    message_id: 0
+    Rotation: -177.23550415039062
+    Position:
+      X: 3056.64990234375
+      Y: 549.80126953125
+      Z: 20.010740280151367
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger16/marker
+    Template: false
+- ParentName: marker
+  Name: race_bin_02/2_7_1_drag/finish_marker
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/finish_marker
+    message_id: 0
+    Rotation: 187.06790161132812
+    Position:
+      X: 2532.01806640625
+      Y: 295.556396484375
+      Z: 91.3837890625
+    Name: race_bin_02/2_7_1_drag/finish_marker
+    Template: false
+- ParentName: marker
+  Name: race_bin_02/2_7_1_drag/start_marker
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/start_marker
+    message_id: 0
+    Rotation: 101.47319793701172
+    Position:
+      X: 4127.64501953125
+      Y: 1039.8819580078125
+      Z: 69.101570129394531
+    Radius: 0.5
+    Name: race_bin_02/2_7_1_drag/start_marker
+    Template: false
+- ParentName: marker
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger13/marker
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger13/marker
+    message_id: 0
+    Rotation: 140.06829833984375
+    Position:
+      X: 3250.177001953125
+      Y: 663.2587890625
+      Z: 14.166990280151367
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger13/marker
+    Template: false
+- ParentName: marker
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger1/marker1
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger1/marker1
+    message_id: 0
+    Rotation: -65.426620483398438
+    Position:
+      X: 3871.43701171875
+      Y: 731.61187744140625
+      Z: 21.025390625
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger1/marker1
+    Template: false
+- ParentName: marker
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger21/marker
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger21/marker
+    message_id: 0
+    Rotation: -83.242317199707031
+    Position:
+      X: 2835.89990234375
+      Y: 575.2017822265625
+      Z: 42.568359375
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger21/marker
+    Template: false
+- ParentName: character
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger22/character
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger22/character
+    message_id: 0
+    ForcePreload: true
+    Template: false
+    CarType: trafvanb
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger22/character
+- ParentName: character
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger3/character3
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger3/character3
+    message_id: 0
+    SkillLevel: 100
+    Template: false
+    CarType: trafpickupa
+    PresetRide: ''
+    AllowInvisibleSpawn: false
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger3/character3
+    ForcePreload: true
+- ParentName: character
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger15/character
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger15/character
+    message_id: 0
+    SkillLevel: 100
+    Template: false
+    CarType: traf4dseda
+    PresetRide: ''
+    AllowInvisibleSpawn: false
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger15/character
+    ForcePreload: true
+- ParentName: character
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger4/character4
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger4/character4
+    message_id: 0
+    SkillLevel: 100
+    Template: false
+    CarType: trafpickupa
+    PresetRide: ''
+    AllowInvisibleSpawn: false
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger4/character4
+    ForcePreload: true
+- ParentName: character
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger21/character
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger21/character
+    message_id: 0
+    ForcePreload: true
+    Template: false
+    CarType: trafvanb
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger21/character
+- ParentName: character
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger12/character12
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger12/character12
+    message_id: 0
+    SkillLevel: 100
+    Template: false
+    CarType: traf4dseda
+    PresetRide: ''
+    AllowInvisibleSpawn: false
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger12/character12
+    ForcePreload: true
+- ParentName: character
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger13/character
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger13/character
+    message_id: 0
+    SkillLevel: 100
+    Template: false
+    CarType: traf4dseda
+    PresetRide: ''
+    AllowInvisibleSpawn: false
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger13/character
+    ForcePreload: true
+- ParentName: character
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger20/character
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger20/character
+    message_id: 0
+    ForcePreload: true
+    Template: false
+    CarType: trafdmptr
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger20/character
+- ParentName: character
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger9/character9
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger9/character9
+    message_id: 0
+    SkillLevel: 100
+    Template: false
+    CarType: trafpickupa
+    PresetRide: ''
+    AllowInvisibleSpawn: false
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger9/character9
+    ForcePreload: true
+- ParentName: character
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger2/character2
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger2/character2
+    message_id: 0
+    SkillLevel: 100
+    Template: false
+    CarType: trafdmptr
+    PresetRide: ''
+    AllowInvisibleSpawn: false
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger2/character2
+    ForcePreload: true
+- ParentName: character
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger27/character
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger27/character
+    message_id: 0
+    ForcePreload: true
+    Template: false
+    CarType: trafpickupa
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger27/character
+- ParentName: character
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger25/character
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger25/character
+    message_id: 0
+    ForcePreload: true
+    Template: false
+    CarType: trafvanb
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger25/character
+- ParentName: character
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger26/character
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger26/character
+    message_id: 0
+    ForcePreload: true
+    Template: false
+    CarType: trafvanb
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger26/character
+- ParentName: character
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger17/character
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger17/character
+    message_id: 0
+    SkillLevel: 100
+    Template: false
+    CarType: traf4dseda
+    PresetRide: ''
+    AllowInvisibleSpawn: false
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger17/character
+    ForcePreload: true
+- ParentName: character
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger23/character
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger23/character
+    message_id: 0
+    ForcePreload: true
+    Template: false
+    CarType: trafvanb
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger23/character
+- ParentName: character
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger18/character
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger18/character
+    message_id: 0
+    SkillLevel: 100
+    Template: false
+    CarType: trafdmptr
+    PresetRide: ''
+    AllowInvisibleSpawn: false
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger18/character
+    ForcePreload: true
+- ParentName: character
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger7/character7
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger7/character7
+    message_id: 0
+    SkillLevel: 100
+    Template: false
+    CarType: trafpickupa
+    PresetRide: ''
+    AllowInvisibleSpawn: false
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger7/character7
+    ForcePreload: true
+- ParentName: character
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger14/character
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger14/character
+    message_id: 0
+    SkillLevel: 100
+    Template: false
+    CarType: traf4dseda
+    PresetRide: ''
+    AllowInvisibleSpawn: false
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger14/character
+    ForcePreload: true
+- ParentName: character
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger11/character11
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger11/character11
+    message_id: 0
+    SkillLevel: 100
+    Template: false
+    CarType: traf4dseda
+    PresetRide: ''
+    AllowInvisibleSpawn: false
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger11/character11
+    ForcePreload: true
+- ParentName: character
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger8/character8
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger8/character8
+    message_id: 0
+    SkillLevel: 100
+    Template: false
+    CarType: trafpickupa
+    PresetRide: ''
+    AllowInvisibleSpawn: false
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger8/character8
+    ForcePreload: true
+- ParentName: character
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger6/character6
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger6/character6
+    message_id: 0
+    SkillLevel: 100
+    Template: false
+    CarType: trafpickupa
+    PresetRide: ''
+    AllowInvisibleSpawn: false
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger6/character6
+    ForcePreload: true
+- ParentName: character
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger16/character
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger16/character
+    message_id: 0
+    SkillLevel: 100
+    Template: false
+    CarType: semicon
+    PresetRide: ''
+    AllowInvisibleSpawn: false
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger16/character
+    ForcePreload: true
+- ParentName: character
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger10/character10
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger10/character10
+    message_id: 0
+    SkillLevel: 100
+    Template: false
+    CarType: traf4dseda
+    PresetRide: ''
+    AllowInvisibleSpawn: false
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger10/character10
+    ForcePreload: true
+- ParentName: character
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger24/character
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger24/character
+    message_id: 0
+    ForcePreload: true
+    Template: false
+    CarType: trafvanb
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger24/character
+- ParentName: character
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger19/character
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger19/character
+    message_id: 0
+    SkillLevel: 100
+    Template: false
+    CarType: trafdmptr
+    PresetRide: ''
+    AllowInvisibleSpawn: false
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger19/character
+    ForcePreload: true
+- ParentName: character
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger1/character1
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger1/character1
+    message_id: 0
+    SkillLevel: 100
+    Template: false
+    CarType: semicon
+    PresetRide: ''
+    AllowInvisibleSpawn: false
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger1/character1
+    ForcePreload: true
+- ParentName: character
+  Name: race_bin_02/2_7_1_drag/trafficspawntrigger5/character5
+  Data:
+    CollectionName: race_bin_02/2_7_1_drag/trafficspawntrigger5/character5
+    message_id: 0
+    SkillLevel: 100
+    Template: false
+    CarType: trafpickupa
+    PresetRide: ''
+    AllowInvisibleSpawn: false
+    Name: race_bin_02/2_7_1_drag/trafficspawntrigger5/character5
+    ForcePreload: true

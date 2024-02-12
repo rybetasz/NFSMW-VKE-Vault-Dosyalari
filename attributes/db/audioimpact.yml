@@ -1,0 +1,2182 @@
+- ParentName: 
+  Name: default
+  Data:
+    Volumes:
+      Vol1: 16384
+      Vol2: 16384
+      Vol3: 16384
+      Vol4: 16384
+- ParentName: default
+  Name: smackables
+  Data: {}
+- ParentName: smackables
+  Name: smackable_2_car
+  Data:
+    Volumes:
+      Vol1: 23000
+      Vol2: 27000
+      Vol3: 27000
+      Vol4: 27000
+    DESCRIPTION:
+      Capacity: 2
+      Data:
+      - Value: SMOKABLE
+      - Value: CAR
+- ParentName: smackable_2_car
+  Name: umbrella_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 525
+      - 526
+      - 527
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 522
+      - 523
+      - 524
+    Volumes:
+      Vol1: 30000
+      Vol2: 30000
+      Vol3: 30000
+      Vol4: 30000
+- ParentName: smackable_2_car
+  Name: shrub_2_car
+  Data:
+    STITCH_LEVEL_0:
+      Capacity: 5
+      Data:
+      - 529
+      - 530
+      - 531
+      - 234
+      - 235
+    Volumes:
+      Vol1: 32767
+      Vol2: 30000
+      Vol3: 30000
+      Vol4: 30000
+- ParentName: smackable_2_car
+  Name: crate_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - SMK_WD_POST_LTvsWRLD_HRD1
+      - SMK_WD_POST_LTvsWRLD_HRD2
+      - SMK_WD_POST_LTvsWRLD_HRD3
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - SMK_WD_POST_LTvsWRLD_LIT1
+      - SMK_WD_POST_LTvsWRLD_LIT2
+      - SMK_WD_POST_LTvsWRLD_LIT3
+- ParentName: smackable_2_car
+  Name: 0x0EA83D1A
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - CRSH_CAR_2_WALL_FRNT_VLIT4
+      - CRSH_CAR_2_WALL_FRNT_LIT1
+      - CRSH_CAR_2_WALL_FRNT_LIT2
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - CRSH_CAR_2_WALL_FRNT_VLIT1
+      - CRSH_CAR_2_WALL_FRNT_VLIT2
+      - CRSH_CAR_2_WALL_FRNT_VLIT3
+    STITCH_LEVEL_2:
+      Capacity: 3
+      Data:
+      - CRSH_CAR_2_WALL_FRNT_LIT3
+      - CRSH_CAR_2_WALL_FRNT_LIT4
+      - CRSH_CAR_2_WALL_FRNT_MED1
+    Volumes:
+      Vol1: 20000
+      Vol2: 23000
+      Vol3: 30000
+      Vol4: 30000
+- ParentName: smackable_2_car
+  Name: pop_mach_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 450
+      - 451
+      - 452
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 447
+      - 448
+      - 449
+- ParentName: smackable_2_car
+  Name: seats_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 487
+      - 488
+      - 489
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 484
+      - 485
+      - 486
+- ParentName: smackable_2_car
+  Name: hydrant_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 262
+      - 263
+      - 264
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 259
+      - 260
+      - 261
+    Volumes:
+      Vol1: 20000
+      Vol2: 32767
+      Vol3: 32767
+      Vol4: 32767
+- ParentName: smackable_2_car
+  Name: post_light_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 575
+      - 576
+      - 577
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 572
+      - 573
+      - 574
+- ParentName: smackable_2_car
+  Name: soft_furn_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 438
+      - 439
+      - 440
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 435
+      - 436
+      - 437
+- ParentName: smackable_2_car
+  Name: portpotty_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 463
+      - 464
+      - 465
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 460
+      - 461
+      - 462
+- ParentName: smackable_2_car
+  Name: lawn_chr_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 319
+      - 320
+      - 321
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 316
+      - 317
+      - 318
+- ParentName: smackable_2_car
+  Name: golfcart_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 224
+      - 225
+      - 226
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 221
+      - 222
+      - 223
+- ParentName: smackable_2_car
+  Name: chlkfence_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - SMK_TIREvsWRLD_HRD1
+      - SMK_TIREvsWRLD_HRD2
+      - SMK_TIREvsWRLD_HRD3
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - SMK_TIREvsWRLD_LIT1
+      - SMK_TIREvsWRLD_LIT2
+      - SMK_TIREvsWRLD_LIT3
+- ParentName: smackable_2_car
+  Name: cardboard_2_car
+  Data:
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 435
+      - 436
+      - 437
+- ParentName: smackable_2_car
+  Name: sandbrd_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 414
+      - 415
+      - 416
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 411
+      - 412
+      - 413
+- ParentName: smackable_2_car
+  Name: prkg_mtr_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 286
+      - 287
+      - 288
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 283
+      - 284
+      - 285
+- ParentName: smackable_2_car
+  Name: vend_mach_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 538
+      - 539
+      - 540
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 535
+      - 536
+      - 537
+- ParentName: smackable_2_car
+  Name: rake_2_car
+  Data:
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - SMK_TIREvsWRLD_LIT1
+      - SMK_TIREvsWRLD_LIT2
+      - SMK_TIREvsWRLD_LIT3
+- ParentName: smackable_2_car
+  Name: bike_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - SMK_MTL_SIGNvsWRLD_LIT3
+      - SMK_MTL_SIGNvsWRLD_LIT4
+      - SMK_MTL_SIGNvsWRLD_HRD1
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - SMK_MTL_SIGNvsCAR_HRD3
+      - SMK_MTL_SIGNvsWRLD_LIT1
+      - SMK_MTL_SIGNvsWRLD_LIT2
+- ParentName: smackable_2_car
+  Name: tire_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 507
+      - 508
+      - 509
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 504
+      - 505
+      - 506
+- ParentName: smackable_2_car
+  Name: huge_object_2_car
+  Data:
+    STITCH_LEVEL_0:
+      Capacity: 6
+      Data:
+      - SMK_DUMPSTERvsCAR_HRD3
+      - SMK_DUMPSTERvsWRLD_LIT1
+      - SMK_DUMPSTERvsWRLD_LIT2
+      - SMK_DUMPSTERvsWRLD_LIT3
+      - SMK_DUMPSTERvsWRLD_HRD1
+      - SMK_DUMPSTERvsWRLD_HRD2
+    Volumes:
+      Vol1: 30000
+      Vol2: 32767
+      Vol3: 32767
+      Vol4: 32767
+- ParentName: smackable_2_car
+  Name: patioset_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 557
+      - 558
+      - 559
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 554
+      - 555
+      - 556
+- ParentName: smackable_2_car
+  Name: dumpster_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - SMK_WTR_DRUM_EMPvsCAR_HRD1
+      - SMK_WTR_DRUM_EMPvsCAR_HRD2
+      - SMK_WTR_DRUM_EMPvsCAR_HRD3
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - SMK_WTR_DRUM_EMPvsCAR_LIT1
+      - SMK_WTR_DRUM_EMPvsCAR_LIT2
+      - SMK_WTR_DRUM_EMPvsCAR_LIT3
+    Volumes:
+      Vol1: 32767
+      Vol2: 32767
+      Vol3: 32767
+      Vol4: 32767
+- ParentName: smackable_2_car
+  Name: trashcan_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 250
+      - 251
+      - 252
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 247
+      - 248
+      - 249
+- ParentName: smackable_2_car
+  Name: wood_support_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 563
+      - 564
+      - 565
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 560
+      - 561
+      - 562
+- ParentName: smackable_2_car
+  Name: donut_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - SMK_WTR_DRUM_EMPvsCAR_HRD1
+      - SMK_WTR_DRUM_EMPvsWRLD_HRD2
+      - SMK_WTR_DRUM_EMPvsCAR_HRD3
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - SMK_WTR_DRUM_EMPvsCAR_LIT1
+      - SMK_WTR_DRUM_EMPvsCAR_LIT2
+      - SMK_WTR_DRUM_EMPvsCAR_LIT3
+- ParentName: smackable_2_car
+  Name: mtl_bar_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 271
+      - 272
+      - 273
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 283
+      - 284
+      - 285
+- ParentName: smackable_2_car
+  Name: wood_furn_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 557
+      - 558
+      - 559
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 554
+      - 555
+      - 556
+- ParentName: smackable_2_car
+  Name: 0x94459957
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 237
+      - 238
+      - 239
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 234
+      - 235
+      - 236
+- ParentName: smackable_2_car
+  Name: lamp_lrg_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 274
+      - 275
+      - 276
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 271
+      - 272
+      - 273
+- ParentName: smackable_2_car
+  Name: payphone_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 426
+      - 427
+      - 428
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 423
+      - 424
+      - 425
+- ParentName: smackable_2_car
+  Name: wood_frag_med_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - CRSH_CAR_2_WALL_FRNT_LIT3
+      - CRSH_CAR_2_WALL_FRNT_LIT4
+      - CRSH_CAR_2_WALL_FRNT_MED1
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - CRSH_CAR_2_WALL_FRNT_VLIT4
+      - CRSH_CAR_2_WALL_FRNT_LIT1
+      - CRSH_CAR_2_WALL_FRNT_LIT2
+- ParentName: smackable_2_car
+  Name: log_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 306
+      - 307
+      - 308
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 303
+      - 304
+      - 305
+- ParentName: smackable_2_car
+  Name: wood_frag_sm_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - CRSH_CAR_2_WALL_FRNT_VLIT4
+      - CRSH_CAR_2_WALL_FRNT_LIT1
+      - CRSH_CAR_2_WALL_FRNT_LIT2
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - CRSH_CAR_2_WALL_FRNT_VLIT1
+      - CRSH_CAR_2_WALL_FRNT_VLIT2
+      - CRSH_CAR_2_WALL_FRNT_VLIT3
+- ParentName: smackable_2_car
+  Name: wtr_drum_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 605
+      - 606
+      - 607
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 602
+      - 603
+      - 604
+- ParentName: smackable_2_car
+  Name: barrel_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 402
+      - 403
+      - 404
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 399
+      - 400
+      - 401
+- ParentName: smackable_2_car
+  Name: tree_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 519
+      - 520
+      - 521
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 516
+      - 517
+      - 518
+- ParentName: smackable_2_car
+  Name: sign_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 389
+      - 390
+      - 391
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 386
+      - 387
+      - 388
+- ParentName: smackable_2_car
+  Name: glass_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 200
+      - 201
+      - 202
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 197
+      - 198
+      - 199
+- ParentName: smackable_2_car
+  Name: wtr_drum_emp_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 593
+      - 594
+      - 595
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 590
+      - 591
+      - 592
+    Volumes:
+      Vol1: 32767
+      Vol2: 30000
+      Vol3: 30000
+      Vol4: 30000
+- ParentName: smackable_2_car
+  Name: mtl_gate_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 274
+      - 275
+      - 276
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 283
+      - 284
+      - 285
+    Volumes:
+      Vol1: 30000
+      Vol2: 32767
+      Vol3: 32767
+      Vol4: 32767
+- ParentName: smackable_2_car
+  Name: mtlbox_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 352
+      - 353
+      - 354
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 349
+      - 350
+      - 351
+- ParentName: smackable_2_car
+  Name: wd_fence_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 551
+      - 552
+      - 553
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 548
+      - 549
+      - 550
+- ParentName: smackable_2_car
+  Name: bigsmack_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 4
+      Data:
+      - CRSH_CAR_2_WALL_FRNT_HRD2
+      - CRSH_CAR_2_WALL_FRNT_HRD3
+      - CRSH_CAR_2_WALL_FRNT_HRD4
+      - CRSH_CAR_2_WALL_SIDE_VLIT1
+    STITCH_LEVEL_0:
+      Capacity: 4
+      Data:
+      - CRSH_CAR_2_WALL_FRNT_MED2
+      - CRSH_CAR_2_WALL_FRNT_MED3
+      - CRSH_CAR_2_WALL_FRNT_MED4
+      - CRSH_CAR_2_WALL_FRNT_HRD1
+    STITCH_LEVEL_3:
+      Capacity: 4
+      Data:
+      - CRSH_CAR_2_WALL_SIDE_LIT2
+      - CRSH_CAR_2_WALL_SIDE_LIT3
+      - CRSH_CAR_2_WALL_SIDE_LIT4
+      - CRSH_CAR_2_WALL_SIDE_MED1
+    STITCH_LEVEL_2:
+      Capacity: 4
+      Data:
+      - CRSH_CAR_2_WALL_SIDE_VLIT2
+      - CRSH_CAR_2_WALL_SIDE_VLIT3
+      - CRSH_CAR_2_WALL_SIDE_VLIT4
+      - CRSH_CAR_2_WALL_SIDE_LIT1
+- ParentName: smackable_2_car
+  Name: cone_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - SMK_WD_FENCEvsCAR_HRD1
+      - SMK_WD_FENCEvsCAR_HRD2
+      - SMK_WD_FENCEvsCAR_HRD3
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - SMK_WD_FENCEvsCAR_LIT1
+      - SMK_WD_FENCEvsCAR_LIT2
+      - SMK_WD_FENCEvsCAR_LIT3
+- ParentName: smackable_2_car
+  Name: wood_frag_lrg_2_car
+  Data:
+    STITCH_LEVEL_0:
+      Capacity: 8
+      Data:
+      - 295
+      - 296
+      - 297
+      - 298
+      - 299
+      - 300
+      - 301
+      - 302
+- ParentName: smackable_2_car
+  Name: panel_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 414
+      - 415
+      - 416
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 411
+      - 412
+      - 413
+- ParentName: smackable_2_car
+  Name: sawhorse_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 551
+      - 552
+      - 553
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 548
+      - 549
+      - 550
+- ParentName: smackable_2_car
+  Name: mtl_fence_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 365
+      - 366
+      - 367
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 362
+      - 363
+      - 364
+- ParentName: smackable_2_car
+  Name: mast_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 331
+      - 332
+      - 333
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 328
+      - 329
+      - 330
+- ParentName: smackable_2_car
+  Name: wood_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 587
+      - 588
+      - 589
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 584
+      - 585
+      - 586
+- ParentName: smackable_2_car
+  Name: mtl_bus_shltr_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 377
+      - 378
+      - 379
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 399
+      - 400
+      - 401
+- ParentName: smackable_2_car
+  Name: boat_2_car
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - SMK_OILDRUMvsWRLD_LIT3
+      - SMK_OILDRUMvsWRLD_HRD1
+      - SMK_OILDRUMvsWRLD_HRD2
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - SMK_OILDRUMvsCAR_HRD3
+      - SMK_OILDRUMvsWRLD_LIT1
+      - SMK_OILDRUMvsWRLD_LIT2
+- ParentName: smackables
+  Name: debris
+  Data:
+    Volumes:
+      Vol1: 32767
+      Vol2: 32767
+      Vol3: 32767
+      Vol4: 32767
+    DESCRIPTION:
+      Capacity: 2
+      Data:
+      - Value: SMOKABLE
+      - Value: EVENT
+- ParentName: debris
+  Name: coin_spray
+  Data:
+    STITCH_LEVEL_0:
+      Capacity: 8
+      Data:
+      - SMK_CONEvsWRLD_HRD1
+      - SMK_CONEvsWRLD_HRD2
+      - SMK_CONEvsWRLD_HRD3
+      - SMK_DUMPSTERvsCAR_LIT1
+      - SMK_DUMPSTERvsCAR_LIT2
+      - SMK_DUMPSTERvsCAR_LIT3
+      - SMK_DUMPSTERvsCAR_HRD1
+      - SMK_DUMPSTERvsCAR_HRD2
+- ParentName: debris
+  Name: 0xFFA56FEE
+  Data:
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - SMK_MTL_FENCEvsCAR_HRD3
+      - SMK_MTL_FENCEvsWRLD_LIT1
+      - SMK_MTL_FENCEvsWRLD_LIT2
+    Volumes:
+      Vol1: 15000
+      Vol2: 32767
+      Vol3: 32767
+      Vol4: 32767
+- ParentName: smackables
+  Name: smackable_2_world
+  Data:
+    Volumes:
+      Vol1: 23000
+      Vol2: 27000
+      Vol3: 27000
+      Vol4: 27000
+    DESCRIPTION:
+      Capacity: 2
+      Data:
+      - Value: SMOKABLE
+      - Value: WALL
+- ParentName: smackable_2_world
+  Name: wood_frag_lrg_2_world
+  Data:
+    STITCH_LEVEL_0:
+      Capacity: 8
+      Data:
+      - 295
+      - 296
+      - 297
+      - 298
+      - 299
+      - 300
+      - 301
+      - 302
+    Volumes:
+      Vol1: 30000
+      Vol2: 30000
+      Vol3: 30000
+      Vol4: 30000
+- ParentName: smackable_2_world
+  Name: payphone_2_world
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 432
+      - 433
+      - 434
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 429
+      - 430
+      - 431
+- ParentName: smackable_2_world
+  Name: mtl_fence_2_world
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 371
+      - 372
+      - 373
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 368
+      - 369
+      - 370
+- ParentName: smackable_2_world
+  Name: prkg_mtr_2_world
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 292
+      - 293
+      - 294
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 289
+      - 290
+      - 294
+- ParentName: smackable_2_world
+  Name: post_light_2_world
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 581
+      - 582
+      - 583
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 578
+      - 579
+      - 580
+- ParentName: smackable_2_world
+  Name: wood_furn_2_world
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 557
+      - 558
+      - 559
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 554
+      - 555
+      - 556
+- ParentName: smackable_2_world
+  Name: sandbrd_2_world
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 420
+      - 421
+      - 422
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 417
+      - 418
+      - 419
+- ParentName: smackable_2_world
+  Name: hydrant_2_world
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 268
+      - 269
+      - 270
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 265
+      - 266
+      - 267
+    Volumes:
+      Vol1: 20000
+      Vol2: 32767
+      Vol3: 32767
+      Vol4: 32767
+- ParentName: smackable_2_world
+  Name: huge_object_2_world
+  Data:
+    STITCH_LEVEL_0:
+      Capacity: 6
+      Data:
+      - SMK_DUMPSTERvsCAR_HRD3
+      - SMK_DUMPSTERvsWRLD_LIT1
+      - SMK_DUMPSTERvsWRLD_LIT2
+      - SMK_DUMPSTERvsWRLD_LIT3
+      - SMK_DUMPSTERvsWRLD_HRD1
+      - SMK_DUMPSTERvsWRLD_HRD2
+    Volumes:
+      Vol1: 30000
+      Vol2: 32767
+      Vol3: 32767
+      Vol4: 32767
+- ParentName: smackable_2_world
+  Name: golfcart_2_world
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 231
+      - 232
+      - 233
+    STITCH_LEVEL_0:
+      Capacity: 4
+      Data:
+      - 227
+      - 228
+      - 229
+      - 230
+- ParentName: smackable_2_world
+  Name: umbrella_2_world
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 532
+      - 533
+      - 534
+    STITCH_LEVEL_0:
+      Capacity: 4
+      Data:
+      - 528
+      - 529
+      - 530
+      - 531
+    Volumes:
+      Vol1: 30000
+      Vol2: 30000
+      Vol3: 30000
+      Vol4: 30000
+- ParentName: smackable_2_world
+  Name: log_2_world
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 313
+      - 314
+      - 315
+    STITCH_LEVEL_0:
+      Capacity: 4
+      Data:
+      - 309
+      - 310
+      - 311
+      - 312
+- ParentName: smackable_2_world
+  Name: shelt_frag_2_world
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - SMK_MTL_SIGNvsCAR_LIT3
+      - SMK_MTL_SIGNvsCAR_HRD1
+      - SMK_MTL_SIGNvsCAR_HRD2
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - SMK_MTL_FENCEvsWRLD_HRD3
+      - SMK_MTL_SIGNvsCAR_LIT1
+      - SMK_MTL_SIGNvsCAR_LIT2
+- ParentName: smackable_2_world
+  Name: bike_2_world
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - SMK_OILDRUMvsCAR_LIT3
+      - SMK_OILDRUMvsCAR_HRD1
+      - SMK_OILDRUMvsCAR_HRD2
+    STITCH_LEVEL_0:
+      Capacity: 4
+      Data:
+      - SMK_MTL_SIGNvsWRLD_HRD2
+      - SMK_MTL_SIGNvsWRLD_HRD3
+      - SMK_OILDRUMvsCAR_LIT1
+      - SMK_OILDRUMvsCAR_LIT2
+- ParentName: smackable_2_world
+  Name: tire_2_world
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 513
+      - 514
+      - 515
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 510
+      - 511
+      - 512
+- ParentName: smackable_2_world
+  Name: lamp_lrg_2_world
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 280
+      - 281
+      - 282
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 277
+      - 278
+      - 279
+- ParentName: smackable_2_world
+  Name: wood_frag_med_2_world
+  Data:
+    STITCH_LEVEL_0:
+      Capacity: 8
+      Data:
+      - 341
+      - 342
+      - 343
+      - 344
+      - 345
+      - 346
+      - 347
+      - 348
+    Volumes:
+      Vol1: 24000
+      Vol2: 24000
+      Vol3: 24000
+      Vol4: 24000
+- ParentName: smackable_2_world
+  Name: sign_2_world
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 396
+      - 397
+      - 398
+    STITCH_LEVEL_0:
+      Capacity: 4
+      Data:
+      - 392
+      - 393
+      - 394
+      - 395
+- ParentName: smackable_2_world
+  Name: mtl_gate_2_world
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - SMK_WTR_DRUM_EMPvsWRLD_HRD1
+      - SMK_WTR_DRUM_EMPvsWRLD_HRD2
+      - SMK_WTR_DRUM_EMPvsWRLD_HRD3
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 277
+      - 278
+      - 279
+    Volumes:
+      Vol1: 26000
+      Vol2: 32767
+      Vol3: 32767
+      Vol4: 32767
+- ParentName: smackable_2_world
+  Name: portpotty_2_world
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 469
+      - 470
+      - 471
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 466
+      - 467
+      - 468
+- ParentName: smackable_2_world
+  Name: wood_frag_sm_2_world
+  Data:
+    STITCH_LEVEL_0:
+      Capacity: 8
+      Data:
+      - 496
+      - 497
+      - 498
+      - 499
+      - 500
+      - 501
+      - 502
+      - 503
+    Volumes:
+      Vol1: 16384
+      Vol2: 16384
+      Vol3: 16384
+      Vol4: 16384
+- ParentName: smackable_2_world
+  Name: boat_2_world
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - SMK_TIREvsCAR_HRD1
+      - SMK_TIREvsCAR_HRD2
+      - SMK_TIREvsCAR_HRD3
+    STITCH_LEVEL_0:
+      Capacity: 4
+      Data:
+      - SMK_OILDRUMvsWRLD_HRD3
+      - SMK_TIREvsCAR_LIT1
+      - SMK_TIREvsCAR_LIT2
+      - SMK_TIREvsCAR_LIT3
+- ParentName: smackable_2_world
+  Name: glass_2_world
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 206
+      - 207
+      - 208
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 203
+      - 204
+      - 205
+- ParentName: smackable_2_world
+  Name: panel_2_world
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 420
+      - 421
+      - 422
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 417
+      - 418
+      - 419
+- ParentName: smackable_2_world
+  Name: vend_mach_2_world
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 545
+      - 546
+      - 547
+    STITCH_LEVEL_0:
+      Capacity: 4
+      Data:
+      - 541
+      - 542
+      - 543
+      - 544
+- ParentName: smackable_2_world
+  Name: seats_2_world
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 493
+      - 494
+      - 495
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 490
+      - 491
+      - 492
+- ParentName: smackable_2_world
+  Name: rake_2_world
+  Data:
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - SMK_TREEvsCAR_LIT1
+      - SMK_TREEvsCAR_LIT2
+      - SMK_TREEvsCAR_LIT3
+- ParentName: smackable_2_world
+  Name: mast_2_world
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 338
+      - 339
+      - 340
+    STITCH_LEVEL_0:
+      Capacity: 4
+      Data:
+      - 334
+      - 335
+      - 336
+      - 337
+- ParentName: smackable_2_world
+  Name: mtl_bar_2_world
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 271
+      - 272
+      - 273
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 283
+      - 284
+      - 285
+- ParentName: smackable_2_world
+  Name: 0x9940BD80
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - CRSH_CAR_2_WALL_FRNT_VLIT4
+      - CRSH_CAR_2_WALL_FRNT_LIT1
+      - CRSH_CAR_2_WALL_FRNT_LIT2
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - CRSH_CAR_2_WALL_FRNT_VLIT1
+      - CRSH_CAR_2_WALL_FRNT_VLIT2
+      - CRSH_CAR_2_WALL_FRNT_VLIT3
+    STITCH_LEVEL_2:
+      Capacity: 3
+      Data:
+      - CRSH_CAR_2_WALL_FRNT_LIT3
+      - CRSH_CAR_2_WALL_FRNT_LIT4
+      - CRSH_CAR_2_WALL_FRNT_MED1
+    Volumes:
+      Vol1: 16384
+      Vol2: 23000
+      Vol3: 30000
+      Vol4: 30000
+- ParentName: smackable_2_world
+  Name: trashcan_2_world
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 256
+      - 257
+      - 258
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 253
+      - 254
+      - 255
+- ParentName: smackable_2_world
+  Name: chlkfence_2_world
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - SMK_TREEvsCAR_HRD1
+      - SMK_TREEvsCAR_HRD2
+      - SMK_TREEvsCAR_HRD3
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - SMK_TREEvsCAR_LIT1
+      - SMK_TREEvsCAR_LIT2
+      - SMK_TREEvsCAR_LIT3
+- ParentName: smackable_2_world
+  Name: wood_support_2_world
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 569
+      - 570
+      - 571
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 566
+      - 567
+      - 568
+- ParentName: smackable_2_world
+  Name: mtl_bus_shltr_2_world
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 371
+      - 372
+      - 373
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 380
+      - 381
+      - 382
+- ParentName: smackable_2_world
+  Name: soft_furn_2_world
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 444
+      - 445
+      - 446
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 441
+      - 442
+      - 443
+- ParentName: smackable_2_world
+  Name: mtlbox_2_world
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 359
+      - 360
+      - 361
+    STITCH_LEVEL_0:
+      Capacity: 4
+      Data:
+      - 355
+      - 356
+      - 357
+      - 358
+- ParentName: smackable_2_world
+  Name: lawn_chr_2_world
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 325
+      - 326
+      - 327
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 322
+      - 323
+      - 324
+- ParentName: smackable_2_world
+  Name: crate_2_world
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - SMK_WD_POST_LTvsWRLD_HRD1
+      - SMK_WD_POST_LTvsWRLD_HRD2
+      - SMK_WD_POST_LTvsWRLD_HRD3
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - SMK_WD_POST_LTvsWRLD_LIT1
+      - SMK_WD_POST_LTvsWRLD_LIT2
+      - SMK_WD_POST_LTvsWRLD_LIT3
+- ParentName: smackable_2_world
+  Name: shrub_2_world
+  Data:
+    STITCH_LEVEL_0:
+      Capacity: 5
+      Data:
+      - 529
+      - 530
+      - 531
+      - 235
+      - 234
+    Volumes:
+      Vol1: 30000
+      Vol2: 30000
+      Vol3: 30000
+      Vol4: 30000
+- ParentName: smackable_2_world
+  Name: 0xC1E78AB6
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 244
+      - 245
+      - 246
+    STITCH_LEVEL_0:
+      Capacity: 4
+      Data:
+      - 240
+      - 241
+      - 242
+      - 243
+- ParentName: smackable_2_world
+  Name: donut_2_world
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 313
+      - 314
+      - 315
+    STITCH_LEVEL_0:
+      Capacity: 4
+      Data:
+      - 309
+      - 310
+      - 311
+      - 312
+- ParentName: smackable_2_world
+  Name: cardboard_2_world
+  Data:
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 441
+      - 442
+      - 443
+- ParentName: smackable_2_world
+  Name: wtr_drum_emp_2_world
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 599
+      - 600
+      - 601
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 596
+      - 597
+      - 598
+    Volumes:
+      Vol1: 32767
+      Vol2: 30000
+      Vol3: 30000
+      Vol4: 30000
+- ParentName: smackable_2_world
+  Name: sawhorse_2_world
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 551
+      - 552
+      - 553
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 548
+      - 549
+      - 550
+- ParentName: smackable_2_world
+  Name: cone_2_world
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - SMK_WD_POST_LTvsCAR_HRD1
+      - SMK_WD_POST_LTvsCAR_HRD2
+      - SMK_WD_POST_LTvsCAR_HRD3
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - SMK_WD_POST_LTvsCAR_LIT1
+      - SMK_WD_POST_LTvsCAR_LIT2
+      - SMK_WD_POST_LTvsCAR_LIT3
+- ParentName: smackable_2_world
+  Name: wood_2_world
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 8
+      Data:
+      - 341
+      - 342
+      - 343
+      - 344
+      - 345
+      - 346
+      - 347
+      - 348
+    STITCH_LEVEL_0:
+      Capacity: 8
+      Data:
+      - 496
+      - 497
+      - 498
+      - 499
+      - 500
+      - 501
+      - 502
+      - 503
+    Volumes:
+      Vol1: 16422
+      Vol2: 23000
+      Vol3: 23000
+      Vol4: 23000
+- ParentName: smackable_2_world
+  Name: pop_mach_2_world
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 457
+      - 458
+      - 459
+    STITCH_LEVEL_0:
+      Capacity: 4
+      Data:
+      - 453
+      - 454
+      - 455
+      - 456
+- ParentName: smackable_2_world
+  Name: dumpster_2_world
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - SMK_WTR_DRUM_EMPvsWRLD_HRD1
+      - SMK_WTR_DRUM_EMPvsWRLD_HRD2
+      - SMK_WTR_DRUM_EMPvsWRLD_HRD3
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - SMK_WTR_DRUM_EMPvsWRLD_LIT1
+      - SMK_WTR_DRUM_EMPvsWRLD_LIT2
+      - SMK_WTR_DRUM_EMPvsWRLD_LIT3
+    Volumes:
+      Vol1: 32767
+      Vol2: 32767
+      Vol3: 32767
+      Vol4: 32767
+- ParentName: smackable_2_world
+  Name: barrel_2_world
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - 408
+      - 409
+      - 410
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 405
+      - 406
+      - 407
+- ParentName: smackables
+  Name: smackable_break
+  Data:
+    Volumes:
+      Vol1: 32767
+      Vol2: 32767
+      Vol3: 32767
+      Vol4: 32767
+    DESCRIPTION:
+      Capacity: 2
+      Data:
+      - Value: EVENT
+      - Value: SMOKABLE
+- ParentName: smackable_break
+  Name: ph_booth_brk
+  Data:
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 218
+      - 219
+      - 220
+    Volumes:
+      Vol1: 22000
+      Vol2: 22000
+      Vol3: 22000
+      Vol4: 22000
+- ParentName: smackable_break
+  Name: chainlink_brk
+  Data:
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - SMK_TIREvsWRLD_HRD1
+      - SMK_TIREvsWRLD_HRD2
+      - SMK_TIREvsWRLD_HRD3
+    Volumes:
+      Vol1: 20000
+      Vol2: 20000
+      Vol3: 20000
+      Vol4: 20000
+- ParentName: smackable_break
+  Name: glass_shatter
+  Data:
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - SMK_DUMPSTERvsWRLD_HRD3
+      - SMK_MTL_FENCEvsCAR_LIT1
+      - SMK_MTL_FENCEvsCAR_LIT2
+    StreamSweetner:
+      Capacity: 1
+      Data:
+      - StreamMoment:
+          ClassKey: aud_moment_strm
+          CollectionKey: window
+        Threshold: 90
+- ParentName: smackable_break
+  Name: tree_break
+  Data:
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 519
+      - 520
+      - 521
+- ParentName: smackable_break
+  Name: shrub_break
+  Data:
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 516
+      - 517
+      - 518
+    Volumes:
+      Vol1: 10000
+      Vol2: 10000
+      Vol3: 10000
+      Vol4: 10000
+- ParentName: smackable_break
+  Name: tollbooth_brk
+  Data:
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - SMK_MTL_FENCEvsCAR_LIT3
+      - SMK_MTL_FENCEvsCAR_HRD1
+      - SMK_MTL_FENCEvsCAR_HRD2
+    Volumes:
+      Vol1: 32767
+      Vol2: 32767
+      Vol3: 32767
+      Vol4: 32767
+    StreamSweetner:
+      Capacity: 1
+      Data:
+      - StreamMoment:
+          ClassKey: aud_moment_strm
+          CollectionKey: tollbooth
+        Threshold: 0
+- ParentName: smackable_break
+  Name: wd_roadblk_brk
+  Data:
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 587
+      - 588
+      - 589
+- ParentName: smackable_break
+  Name: wd_furn_brk
+  Data:
+    STITCH_LEVEL_0:
+      Capacity: 6
+      Data:
+      - 557
+      - 558
+      - 559
+      - 551
+      - 552
+      - 553
+- ParentName: smackable_break
+  Name: glass_med_brk
+  Data:
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - 200
+      - 201
+      - 202
+- ParentName: smackable_break
+  Name: wtr_drum_brk
+  Data:
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - SMK_MTL_FENCEvsCAR_HRD3
+      - SMK_MTL_FENCEvsWRLD_LIT1
+      - SMK_MTL_FENCEvsWRLD_LIT2
+    Volumes:
+      Vol1: 20000
+      Vol2: 20000
+      Vol3: 20000
+      Vol4: 20000
+- ParentName: default
+  Name: cars
+  Data:
+    Volumes:
+      Vol1: 11626
+      Vol2: 13045
+      Vol3: 14636
+      Vol4: 16422
+- ParentName: cars
+  Name: car_2_ground
+  Data:
+    Volumes:
+      Vol1: 18500
+      Vol2: 18500
+      Vol3: 20000
+      Vol4: 23000
+    DESCRIPTION:
+      Capacity: 1
+      Data:
+      - Value: CAR
+- ParentName: car_2_ground
+  Name: car_2_ground_roll
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 2
+      Data:
+      - CRSH_CAR_BOTM_VLIT4
+      - CRSH_CAR_BOTM_LIT1
+    STITCH_LEVEL_0:
+      Capacity: 2
+      Data:
+      - CRSH_CAR_BOTM_VLIT2
+      - CRSH_CAR_BOTM_VLIT3
+    STITCH_LEVEL_3:
+      Capacity: 2
+      Data:
+      - CRSH_CAR_BOTM_LIT4
+      - CRSH_CAR_BOTM_MED1
+    STITCH_LEVEL_2:
+      Capacity: 2
+      Data:
+      - CRSH_CAR_BOTM_LIT2
+      - CRSH_CAR_BOTM_LIT3
+    DESCRIPTION:
+      Capacity: 2
+      Data:
+      - Value: CAR
+      - Value: ROLLOVER
+- ParentName: car_2_ground
+  Name: car_2_ground_bottomout
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 4
+      Data:
+      - CRSH_CAR_BOTM_HRD2
+      - CRSH_CAR_BOTM_HRD3
+      - CRSH_CAR_BOTM_HRD4
+      - SMK_CONEvsCAR_LIT1
+    STITCH_LEVEL_0:
+      Capacity: 4
+      Data:
+      - CRSH_CAR_BOTM_MED2
+      - CRSH_CAR_BOTM_MED3
+      - CRSH_CAR_BOTM_MED4
+      - CRSH_CAR_BOTM_HRD1
+    STITCH_LEVEL_3:
+      Capacity: 4
+      Data:
+      - SMK_CONEvsCAR_HRD3
+      - SMK_CONEvsWRLD_LIT1
+      - SMK_CONEvsWRLD_LIT2
+      - SMK_CONEvsWRLD_LIT3
+    STITCH_LEVEL_2:
+      Capacity: 4
+      Data:
+      - SMK_CONEvsCAR_LIT2
+      - SMK_CONEvsCAR_LIT3
+      - SMK_CONEvsCAR_HRD1
+      - SMK_CONEvsCAR_HRD2
+    Volumes:
+      Vol1: 12500
+      Vol2: 15000
+      Vol3: 18500
+      Vol4: 23000
+    DESCRIPTION:
+      Capacity: 2
+      Data:
+      - Value: CAR
+      - Value: BOTTOMOUT
+- ParentName: cars
+  Name: car_2_smackable
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 3
+      Data:
+      - CRSH_CAR_2_WALL_FRNT_VLIT4
+      - CRSH_CAR_2_WALL_FRNT_LIT1
+      - CRSH_CAR_2_WALL_FRNT_LIT2
+    STITCH_LEVEL_0:
+      Capacity: 3
+      Data:
+      - CRSH_CAR_2_WALL_FRNT_VLIT1
+      - CRSH_CAR_2_WALL_FRNT_VLIT2
+      - CRSH_CAR_2_WALL_FRNT_VLIT3
+    STITCH_LEVEL_2:
+      Capacity: 3
+      Data:
+      - CRSH_CAR_2_WALL_FRNT_LIT3
+      - CRSH_CAR_2_WALL_FRNT_LIT4
+      - CRSH_CAR_2_WALL_FRNT_MED1
+    DESCRIPTION:
+      Capacity: 2
+      Data:
+      - Value: CAR
+      - Value: WALL
+- ParentName: cars
+  Name: car_2_wall
+  Data:
+    StreamSweetner:
+      Capacity: 1
+      Data:
+      - StreamMoment:
+          ClassKey: aud_moment_strm
+          CollectionKey: car2car
+        Threshold: 127
+    Volumes:
+      Vol1: 20000
+      Vol2: 20000
+      Vol3: 23000
+      Vol4: 26000
+    DESCRIPTION:
+      Capacity: 2
+      Data:
+      - Value: CAR
+      - Value: WALL
+- ParentName: car_2_wall
+  Name: car_2_wall_side
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 4
+      Data:
+      - CRSH_CAR_2_WALL_SIDE_HRD2
+      - CRSH_CAR_2_WALL_SIDE_HRD3
+      - CRSH_CAR_2_WALL_SIDE_HRD4
+      - CRSH_CAR_2_WRLD_ROLL_VLIT1
+    STITCH_LEVEL_0:
+      Capacity: 4
+      Data:
+      - CRSH_CAR_2_WALL_SIDE_MED2
+      - CRSH_CAR_2_WALL_SIDE_MED3
+      - CRSH_CAR_2_WALL_SIDE_MED4
+      - CRSH_CAR_2_WALL_SIDE_HRD1
+    STITCH_LEVEL_3:
+      Capacity: 4
+      Data:
+      - CRSH_CAR_2_WRLD_ROLL_MED2
+      - CRSH_CAR_2_WRLD_ROLL_HRD1
+      - CRSH_CAR_2_WRLD_ROLL_HRD2
+      - CRSH_CAR_BOTM_VLIT1
+    STITCH_LEVEL_2:
+      Capacity: 4
+      Data:
+      - CRSH_CAR_2_WRLD_ROLL_VLIT2
+      - CRSH_CAR_2_WRLD_ROLL_LIT1
+      - CRSH_CAR_2_WRLD_ROLL_LIT2
+      - CRSH_CAR_2_WRLD_ROLL_MED1
+    DESCRIPTION:
+      Capacity: 3
+      Data:
+      - Value: CAR
+      - Value: SIDE
+      - Value: WALL
+- ParentName: car_2_wall
+  Name: car_2_wall_front
+  Data:
+    STITCH_LEVEL_1:
+      Capacity: 4
+      Data:
+      - CRSH_CAR_2_WALL_FRNT_HRD2
+      - CRSH_CAR_2_WALL_FRNT_HRD3
+      - CRSH_CAR_2_WALL_FRNT_HRD4
+      - CRSH_CAR_2_WALL_SIDE_VLIT1
+    STITCH_LEVEL_0:
+      Capacity: 4
+      Data:
+      - CRSH_CAR_2_WALL_FRNT_MED2
+      - CRSH_CAR_2_WALL_FRNT_MED3
+      - CRSH_CAR_2_WALL_FRNT_MED4
+      - CRSH_CAR_2_WALL_FRNT_HRD1
+    STITCH_LEVEL_3:
+      Capacity: 4
+      Data:
+      - CRSH_CAR_2_WALL_SIDE_LIT2
+      - CRSH_CAR_2_WALL_SIDE_LIT3
+      - CRSH_CAR_2_WALL_SIDE_LIT4
+      - CRSH_CAR_2_WALL_SIDE_MED1
+    STITCH_LEVEL_2:
+      Capacity: 4
+      Data:
+      - CRSH_CAR_2_WALL_SIDE_VLIT2
+      - CRSH_CAR_2_WALL_SIDE_VLIT3
+      - CRSH_CAR_2_WALL_SIDE_VLIT4
+      - CRSH_CAR_2_WALL_SIDE_LIT1
+    DESCRIPTION:
+      Capacity: 3
+      Data:
+      - Value: CAR
+      - Value: FRONT
+      - Value: WALL
+- ParentName: cars
+  Name: car_2_car
+  Data:
+    StreamSweetner:
+      Capacity: 2
+      Data:
+      - StreamMoment:
+          ClassKey: aud_moment_strm
+          CollectionKey: car2car
+        Threshold: 127
+      - StreamMoment:
+          ClassKey: aud_moment_strm
+          CollectionKey: car2car
+        Threshold: 127
+    Volumes:
+      Vol1: 20000
+      Vol2: 20000
+      Vol3: 23000
+      Vol4: 26000
+    DESCRIPTION:
+      Capacity: 2
+      Data:
+      - Value: TWO_CAR
+      - Value: CAR
+- ParentName: car_2_car
+  Name: car_2_car_front
+  Data:
+    StreamSweetner:
+      Capacity: 1
+      Data:
+      - StreamMoment:
+          ClassKey: aud_moment_strm
+          CollectionKey: car2car
+        Threshold: 105
+    STITCH_LEVEL_1:
+      Capacity: 4
+      Data:
+      - CRSH_CAR_2_CAR_FRNT_LIT1
+      - CRSH_CAR_2_CAR_FRNT_LIT2
+      - CRSH_CAR_2_CAR_FRNT_LIT3
+      - CRSH_CAR_2_CAR_FRNT_LIT4
+    STITCH_LEVEL_0:
+      Capacity: 4
+      Data:
+      - CRSH_CAR_2_CAR_FRNT_VLIT1
+      - CRSH_CAR_2_CAR_FRNT_VLIT2
+      - CRSH_CAR_2_CAR_FRNT_VLIT3
+      - CRSH_CAR_2_CAR_FRNT_VLIT4
+    STITCH_LEVEL_3:
+      Capacity: 4
+      Data:
+      - CRSH_CAR_2_CAR_FRNT_HRD1
+      - CRSH_CAR_2_CAR_FRNT_HRD2
+      - CRSH_CAR_2_CAR_FRNT_HRD3
+      - CRSH_CAR_2_CAR_FRNT_HRD4
+    STITCH_LEVEL_2:
+      Capacity: 4
+      Data:
+      - CRSH_CAR_2_CAR_FRNT_MED1
+      - CRSH_CAR_2_CAR_FRNT_MED2
+      - CRSH_CAR_2_CAR_FRNT_MED3
+      - CRSH_CAR_2_CAR_FRNT_MED4
+    DESCRIPTION:
+      Capacity: 3
+      Data:
+      - Value: TWO_CAR
+      - Value: FRONT
+      - Value: CAR
+- ParentName: car_2_car
+  Name: car_2_car_side
+  Data:
+    StreamSweetner:
+      Capacity: 1
+      Data:
+      - StreamMoment:
+          ClassKey: aud_moment_strm
+          CollectionKey: car2car
+        Threshold: 110
+    STITCH_LEVEL_1:
+      Capacity: 4
+      Data:
+      - CRSH_CAR_2_CAR_SIDE_LIT1
+      - CRSH_CAR_2_CAR_SIDE_LIT2
+      - CRSH_CAR_2_CAR_SIDE_LIT3
+      - CRSH_CAR_2_CAR_SIDE_LIT4
+    STITCH_LEVEL_0:
+      Capacity: 4
+      Data:
+      - CRSH_CAR_2_CAR_SIDE_VLIT1
+      - CRSH_CAR_2_CAR_SIDE_VLIT2
+      - CRSH_CAR_2_CAR_SIDE_VLIT3
+      - CRSH_CAR_2_CAR_SIDE_VLIT4
+    STITCH_LEVEL_3:
+      Capacity: 4
+      Data:
+      - CRSH_CAR_2_CAR_SIDE_HRD1
+      - CRSH_CAR_2_CAR_SIDE_HRD2
+      - CRSH_CAR_2_CAR_SIDE_HRD3
+      - CRSH_CAR_2_CAR_SIDE_HRD4
+    STITCH_LEVEL_2:
+      Capacity: 4
+      Data:
+      - CRSH_CAR_2_CAR_SIDE_MED1
+      - CRSH_CAR_2_CAR_SIDE_MED2
+      - CRSH_CAR_2_CAR_SIDE_MED3
+      - CRSH_CAR_2_CAR_SIDE_MED4
+    DESCRIPTION:
+      Capacity: 3
+      Data:
+      - Value: TWO_CAR
+      - Value: SIDE
+      - Value: CAR

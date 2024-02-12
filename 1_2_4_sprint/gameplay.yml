@@ -1,0 +1,367 @@
+- ParentName: finishline
+  Name: race_bin_01/1_2_4_sprint/finishline_reverse
+  Data:
+    CollectionName: race_bin_01/1_2_4_sprint/finishline_reverse
+    message_id: 0
+    ParticleEffect: ''
+    Position:
+      X: 3814.652099609375
+      Y: 747.47198486328125
+      Z: 19.270509719848633
+    Name: race_bin_01/1_2_4_sprint/finishline_reverse
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 40
+      Z: 20
+    Rotation: 13
+- ParentName: finishline
+  Name: race_bin_01/1_2_4_sprint/1_2_4_finishline
+  Data:
+    CollectionName: race_bin_01/1_2_4_sprint/1_2_4_finishline
+    message_id: 0
+    Rotation: 167
+    Position:
+      X: 1429.251953125
+      Y: -90.685897827148438
+      Z: 98.001953125
+    FlareSpacing: 7
+    Name: race_bin_01/1_2_4_sprint/1_2_4_finishline
+    Template: false
+    Dimensions:
+      X: 3
+      Y: 25
+      Z: 3
+- ParentName: checkpoint
+  Name: race_bin_01/1_2_4_sprint/checkpoint5
+  Data:
+    CollectionName: race_bin_01/1_2_4_sprint/checkpoint5
+    message_id: 0
+    Rotation: 260.75079345703125
+    Position:
+      X: 537.39697265625
+      Y: 371.51190185546875
+      Z: 112.21189880371094
+    Name: race_bin_01/1_2_4_sprint/checkpoint5
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 50
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_2_4_sprint/checkpoint6
+  Data:
+    CollectionName: race_bin_01/1_2_4_sprint/checkpoint6
+    message_id: 0
+    Rotation: 224.64840698242188
+    Position:
+      X: 337.24560546875
+      Y: -46.023960113525391
+      Z: 115.40039825439453
+    Name: race_bin_01/1_2_4_sprint/checkpoint6
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 50
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_2_4_sprint/checkpoint9
+  Data:
+    CollectionName: race_bin_01/1_2_4_sprint/checkpoint9
+    message_id: 0
+    Rotation: 117.09089660644531
+    Position:
+      X: 1731.3489990234375
+      Y: -171.529296875
+      Z: 94.737297058105469
+    Name: race_bin_01/1_2_4_sprint/checkpoint9
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 40
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_2_4_sprint/checkpoint7
+  Data:
+    CollectionName: race_bin_01/1_2_4_sprint/checkpoint7
+    message_id: 0
+    Rotation: 315.70309448242188
+    Position:
+      X: 369.36068725585938
+      Y: -476.86358642578125
+      Z: 126.2666015625
+    Name: race_bin_01/1_2_4_sprint/checkpoint7
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 50
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_2_4_sprint/checkpoint8
+  Data:
+    CollectionName: race_bin_01/1_2_4_sprint/checkpoint8
+    message_id: 0
+    Rotation: 322.3828125
+    Position:
+      X: 1209.2869873046875
+      Y: -783.148193359375
+      Z: 124.91989898681641
+    Name: race_bin_01/1_2_4_sprint/checkpoint8
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 30
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_2_4_sprint/checkpoint4
+  Data:
+    CollectionName: race_bin_01/1_2_4_sprint/checkpoint4
+    message_id: 0
+    Rotation: 233.08590698242188
+    Position:
+      X: 1226.782958984375
+      Y: 784.52178955078125
+      Z: 115.69730377197266
+    Name: race_bin_01/1_2_4_sprint/checkpoint4
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 50
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_2_4_sprint/checkpoint2
+  Data:
+    CollectionName: race_bin_01/1_2_4_sprint/checkpoint2
+    message_id: 0
+    Rotation: 201
+    Position:
+      X: 2564.19091796875
+      Y: 308.55819702148438
+      Z: 84.711906433105469
+    Name: race_bin_01/1_2_4_sprint/checkpoint2
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 40
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_2_4_sprint/checkpoint1
+  Data:
+    CollectionName: race_bin_01/1_2_4_sprint/checkpoint1
+    message_id: 0
+    Rotation: 160.66409301757812
+    Position:
+      X: 2956.6669921875
+      Y: 591.67779541015625
+      Z: 31.267580032348633
+    Name: race_bin_01/1_2_4_sprint/checkpoint1
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 40
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_2_4_sprint/checkpoint3
+  Data:
+    CollectionName: race_bin_01/1_2_4_sprint/checkpoint3
+    message_id: 0
+    Rotation: 154.95449829101562
+    Position:
+      X: 2098.77197265625
+      Y: 950.5469970703125
+      Z: 125.17769622802734
+    Name: race_bin_01/1_2_4_sprint/checkpoint3
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 45
+      Z: 40
+- ParentName: resetplayertrigger
+  Name: race_bin_01/1_2_4_sprint/wrongway
+  Data:
+    CollectionName: race_bin_01/1_2_4_sprint/wrongway
+    message_id: 0
+    Rotation: 373
+    Position:
+      X: 3863.37109375
+      Y: 758.719482421875
+      Z: 19.270509719848633
+    Name: race_bin_01/1_2_4_sprint/wrongway
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_2_4_sprint/shortcut11
+  Data:
+    CollectionName: race_bin_01/1_2_4_sprint/shortcut11
+    message_id: 0
+    Rotation: 188
+    Position:
+      X: 1499.1800537109375
+      Y: 870.74957275390625
+      Z: 124.42870330810547
+    ShortcutMaxChance: 0
+    Name: race_bin_01/1_2_4_sprint/shortcut11
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_2_4_sprint/shortcut2
+  Data:
+    CollectionName: race_bin_01/1_2_4_sprint/shortcut2
+    message_id: 0
+    Rotation: 178.54539489746094
+    Position:
+      X: 1420.97802734375
+      Y: 897.04278564453125
+      Z: 115.99610137939453
+    ShortcutMaxChance: 0.89999997615814209
+    Name: race_bin_01/1_2_4_sprint/shortcut2
+    ShortcutMinChance: 0.80000001192092896
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_2_4_sprint/shortcut7
+  Data:
+    CollectionName: race_bin_01/1_2_4_sprint/shortcut7
+    message_id: 0
+    Rotation: -19.636360168457031
+    Position:
+      X: 967.51507568359375
+      Y: -664.02490234375
+      Z: 109.9219970703125
+    ShortcutMaxChance: 0
+    Name: race_bin_01/1_2_4_sprint/shortcut7
+    ShortcutMinChance: 0
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_2_4_sprint/shortcut6
+  Data:
+    CollectionName: race_bin_01/1_2_4_sprint/shortcut6
+    message_id: 0
+    Rotation: -133.09089660644531
+    Position:
+      X: 79.192848205566406
+      Y: -451.89599609375
+      Z: 116.69730377197266
+    ShortcutMaxChance: 20
+    Name: race_bin_01/1_2_4_sprint/shortcut6
+    ShortcutMinChance: 10
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_2_4_sprint/shortcut1
+  Data:
+    CollectionName: race_bin_01/1_2_4_sprint/shortcut1
+    message_id: 0
+    Rotation: 148.36360168457031
+    Position:
+      X: 2193.885986328125
+      Y: 897.13238525390625
+      Z: 134.81149291992188
+    ShortcutMaxChance: 30
+    Name: race_bin_01/1_2_4_sprint/shortcut1
+    ShortcutMinChance: 20
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_2_4_sprint/shortcut9
+  Data:
+    CollectionName: race_bin_01/1_2_4_sprint/shortcut9
+    message_id: 0
+    Rotation: -150.54539489746094
+    Position:
+      X: 591.23779296875
+      Y: 702.9852294921875
+      Z: 118.54199981689453
+    ShortcutMaxChance: 90
+    Name: race_bin_01/1_2_4_sprint/shortcut9
+    ShortcutMinChance: 80
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_2_4_sprint/shortcut5
+  Data:
+    CollectionName: race_bin_01/1_2_4_sprint/shortcut5
+    message_id: 0
+    Rotation: 132
+    Position:
+      X: 833.41192626953125
+      Y: 703.37957763671875
+      Z: 125.47460174560547
+    ShortcutMaxChance: 20
+    Name: race_bin_01/1_2_4_sprint/shortcut5
+    ShortcutMinChance: 10
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_2_4_sprint/shortcut8
+  Data:
+    CollectionName: race_bin_01/1_2_4_sprint/shortcut8
+    message_id: 0
+    Rotation: 87.272727966308594
+    Position:
+      X: 1882.4410400390625
+      Y: -551.4586181640625
+      Z: 111.06639862060547
+    ShortcutMaxChance: 90
+    Name: race_bin_01/1_2_4_sprint/shortcut8
+    ShortcutMinChance: 80
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_2_4_sprint/shortcut12
+  Data:
+    CollectionName: race_bin_01/1_2_4_sprint/shortcut12
+    message_id: 0
+    Rotation: -124.72730255126953
+    Position:
+      X: 481.3026123046875
+      Y: 235.38020324707031
+      Z: 104.78810119628906
+    ShortcutMaxChance: 0.30000001192092896
+    Name: race_bin_01/1_2_4_sprint/shortcut12
+    ShortcutMinChance: 0.20000000298023224
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_2_4_sprint/shortcut3
+  Data:
+    CollectionName: race_bin_01/1_2_4_sprint/shortcut3
+    message_id: 0
+    Rotation: -125.09089660644531
+    Position:
+      X: 521.7147216796875
+      Y: 192.49459838867188
+      Z: 104.28610229492188
+    ShortcutMaxChance: 0.30000001192092896
+    Name: race_bin_01/1_2_4_sprint/shortcut3
+    ShortcutMinChance: 0.20000000298023224
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_2_4_sprint/shortcut10
+  Data:
+    CollectionName: race_bin_01/1_2_4_sprint/shortcut10
+    message_id: 0
+    Rotation: 139.63639831542969
+    Position:
+      X: 754.16790771484375
+      Y: 749.9993896484375
+      Z: 119.25289916992188
+    ShortcutMaxChance: 90
+    Name: race_bin_01/1_2_4_sprint/shortcut10
+    ShortcutMinChance: 80
+    Template: false
+- ParentName: startgrid
+  Name: race_bin_01/1_2_4_sprint/1_2_4_startgrid
+  Data:
+    CollectionName: race_bin_01/1_2_4_sprint/1_2_4_startgrid
+    message_id: 0
+    Rotation: 193
+    Position:
+      X: 3814.652099609375
+      Y: 747.47198486328125
+      Z: 19.270509719848633
+    Name: race_bin_01/1_2_4_sprint/1_2_4_startgrid
+    Template: false
+- ParentName: startgrid
+  Name: race_bin_01/1_2_4_sprint/startgrid_reverse
+  Data:
+    CollectionName: race_bin_01/1_2_4_sprint/startgrid_reverse
+    message_id: 0
+    Rotation: -12
+    Position:
+      X: 1429.251953125
+      Y: -90.685897827148438
+      Z: 98.001953125
+    Name: race_bin_01/1_2_4_sprint/startgrid_reverse
+    Template: false

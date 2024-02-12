@@ -1,0 +1,32 @@
+- ParentName: 
+  Name: damage
+  Data:
+    amount: 100
+- ParentName: 
+  Name: reckless_driving
+  Data:
+    amount: 1000
+- ParentName: 
+  Name: speeding
+  Data:
+    amount: 150
+- ParentName: 
+  Name: racing
+  Data:
+    amount: 350
+- ParentName: 
+  Name: off_road
+  Data:
+    amount: 75
+- ParentName: 
+  Name: hit_and_run
+  Data:
+    amount: 300
+- ParentName: 
+  Name: resisting_arrest
+  Data:
+    amount: 300
+- ParentName: 
+  Name: assault
+  Data:
+    amount: 350

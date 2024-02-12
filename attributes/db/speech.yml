@@ -1,0 +1,2188 @@
+- ParentName: 
+  Name: default
+  Data:
+    CollectionName: default
+    SpeechID: 0
+    BackTime: 0
+    expiry: 5
+    CullingRange: 300
+    Interval: 20
+    priority: 50
+    DoNotDropout: false
+    EnforceDeadAir: 2
+    InitDelay: 0
+    Clarity: 10
+    OnScreenOnly: false
+    interrupt: false
+    reqLOS: false
+    RedundancyCheckIsGlobal: true
+    MinHeat: 0
+    Pan: false
+    Interruptable: true
+    RadioChirp: true
+    DeadAir: 0
+    MinPlayerSpeed: 0
+    MaxPlayerSpeed: 550
+    MaxHeat: 10
+    MaxPlayback: -1
+    cache_OnCreate: true
+    cache_SysInit: false
+- ParentName: default
+  Name: rollingstrategy_initstrategy
+  Data:
+    CollectionName: rollingstrategy_initstrategy
+    SpeechID: kSPCH1_EventID_InitStrategy
+    BackTime: 0
+    expiry: 5
+    CullingRange: 300
+    Interval: 40
+    priority: 90
+    DoNotDropout: true
+    MinPlayerSpeed: 50
+- ParentName: default
+  Name: cross_crossselfstrategy
+  Data:
+    CollectionName: cross_crossselfstrategy
+    SpeechID: 251
+    BackTime: 0
+    expiry: 5
+    CullingRange: 300
+    Interval: 60
+    priority: 80
+    DoNotDropout: true
+    MinPlayerSpeed: 30
+- ParentName: default
+  Name: anytimeevents_suspectuturn
+  Data:
+    CollectionName: anytimeevents_suspectuturn
+    SpeechID: kSPCH1_EventID_SuspectUTurn
+    BackTime: 0
+    expiry: 3
+    CullingRange: 300
+    Interval: 60
+    priority: 50
+    DoNotDropout: false
+    Interruptable: false
+    MinPlayerSpeed: 20
+- ParentName: default
+  Name: helispecific_heliquadrent
+  Data:
+    CollectionName: helispecific_heliquadrent
+    SpeechID: kSPCH1_EventID_HeliQuadrent
+    BackTime: 0
+    expiry: 5
+    CullingRange: 300
+    Interval: 20
+    priority: 50
+    DoNotDropout: false
+- ParentName: default
+  Name: arrest_arrest
+  Data:
+    CollectionName: arrest_arrest
+    SpeechID: kSPCH1_EventID_Arrest
+    BackTime: 0
+    expiry: 2
+    CullingRange: 10
+    Interval: 20
+    priority: 80
+    DoNotDropout: true
+    reqLOS: true
+    Interruptable: false
+    EnforceDeadAir: 1
+    cache_OnCreate: false
+    MaxPlayerSpeed: 10
+- ParentName: default
+  Name: setup_spotter
+  Data:
+    CollectionName: setup_spotter
+    SpeechID: kSPCH1_EventID_Spotter
+    BackTime: 0
+    expiry: 5
+    CullingRange: 1000
+    Interval: 0
+    priority: 90
+    DoNotDropout: true
+    Clarity: 5
+    MinPlayerSpeed: 30
+- ParentName: default
+  Name: interrupts_interruptram_re
+  Data:
+    CollectionName: interrupts_interruptram_re
+    SpeechID: kSPCH1_EventID_InterruptRam_RE
+    BackTime: 0
+    expiry: 2
+    CullingRange: 300
+    Interval: 20
+    priority: 80
+    DoNotDropout: true
+    Interruptable: false
+    MinPlayerSpeed: 30
+    EnforceDeadAir: 1
+    OnScreenOnly: true
+    InitDelay: 0.5
+- ParentName: default
+  Name: setup_initialcallforbu
+  Data:
+    CollectionName: setup_initialcallforbu
+    SpeechID: kSPCH1_EventID_InitialCallForBU
+    BackTime: 30
+    expiry: 5
+    CullingRange: 300
+    Interval: 20
+    priority: 50
+    DoNotDropout: false
+    DepFollow:
+      Capacity: 5
+      Data:
+      - ClassKey: speech
+        CollectionKey: setup_attmptvehstp
+      - ClassKey: speech
+        CollectionKey: setup_spotter
+      - ClassKey: speech
+        CollectionKey: setup_reinitpursuit
+      - ClassKey: speech
+        CollectionKey: setup_spotterreply
+      - ClassKey: speech
+        CollectionKey: setup_spotterwanted
+    MaxPlayback: 1
+- ParentName: default
+  Name: backup_disphelibueta
+  Data:
+    CollectionName: backup_disphelibueta
+    SpeechID: 229
+    BackTime: 0
+    expiry: 20
+    CullingRange: 300
+    Interval: 60
+    priority: 50
+    DoNotDropout: true
+    DepFollow:
+      Capacity: 1
+      Data:
+      - ClassKey: speech
+        CollectionKey: backup_callforswarming
+- ParentName: default
+  Name: setup_bullhorn
+  Data:
+    CollectionName: setup_bullhorn
+    SpeechID: kSPCH1_EventID_Bullhorn
+    BackTime: 40
+    expiry: 5
+    CullingRange: 25
+    Interval: 40
+    priority: 60
+    DoNotDropout: false
+    reqLOS: true
+    Pan: true
+    MinPlayerSpeed: 10
+    RadioChirp: false
+    MaxPlayerSpeed: 40
+    Clarity: 5
+- ParentName: setup_bullhorn
+  Name: setup_bullhornprefix
+  Data:
+    CollectionName: setup_bullhornprefix
+    SpeechID: kSPCH1_EventID_BullhornPrefix
+    BackTime: 40
+    expiry: 2.5
+    CullingRange: 0
+    Interval: 90
+    priority: 60
+    DoNotDropout: false
+    MaxPlayerSpeed: 100
+    EnforceDeadAir: 1.5
+- ParentName: default
+  Name: setup_spotterwanted
+  Data:
+    CollectionName: setup_spotterwanted
+    SpeechID: kSPCH1_EventID_SpotterWanted
+    BackTime: 0
+    expiry: 5
+    CullingRange: 300
+    Interval: 20
+    priority: 89
+    DoNotDropout: true
+    MinPlayerSpeed: 30
+- ParentName: default
+  Name: extracops_extrarbaverted
+  Data:
+    CollectionName: extracops_extrarbaverted
+    SpeechID: kSPCH1_EventID_ExtraRBAverted
+    BackTime: 0
+    expiry: 2
+    CullingRange: 1000
+    Interval: 10
+    priority: 95
+    DoNotDropout: true
+    reqLOS: true
+    Interruptable: false
+    EnforceDeadAir: 1
+    MinPlayerSpeed: 20
+- ParentName: default
+  Name: cross_crossbailoutdeny_sub
+  Data:
+    CollectionName: cross_crossbailoutdeny_sub
+    SpeechID: 254
+    BackTime: 0
+    expiry: 10
+    CullingRange: 300
+    Interval: 120
+    priority: 100
+    DoNotDropout: true
+    DepFollow:
+      Capacity: 1
+      Data:
+      - ClassKey: speech
+        CollectionKey: anytimeevents_bailout
+    EnforceDeadAir: 4
+    MaxPlayback: 1
+- ParentName: default
+  Name: extracops_quadrentmoving
+  Data:
+    CollectionName: extracops_quadrentmoving
+    SpeechID: kSPCH1_EventID_QuadrentMoving
+    BackTime: 0
+    expiry: 90
+    CullingRange: 3000
+    Interval: 20
+    priority: 50
+    DoNotDropout: false
+    DepFollow:
+      Capacity: 2
+      Data:
+      - ClassKey: speech
+        CollectionKey: extracops_quadrentforming
+      - ClassKey: speech
+        CollectionKey: helispecific_heliquadrent
+    EnforceDeadAir: 3
+- ParentName: default
+  Name: staticroadblock_disprbupdate
+  Data:
+    CollectionName: staticroadblock_disprbupdate
+    SpeechID: kSPCH1_EventID_DispRBUpdate
+    BackTime: 0
+    expiry: 8
+    CullingRange: 300
+    Interval: 20
+    priority: 65
+    DoNotDropout: true
+    RecallList:
+      Capacity: 5
+      Data:
+      - ClassKey: speech
+        CollectionKey: staticroadblock_callforrb
+      - ClassKey: speech
+        CollectionKey: staticroadblock_callforrb_sub
+      - ClassKey: speech
+        CollectionKey: staticroadblock_rbreminder
+      - ClassKey: speech
+        CollectionKey: staticroadblock_disprbreply
+      - ClassKey: speech
+        CollectionKey: staticroadblock_negativerbreply
+    MinPlayerSpeed: 35
+    EnforceDeadAir: 0.5
+- ParentName: default
+  Name: anytimeevents_offroadmoment
+  Data:
+    CollectionName: anytimeevents_offroadmoment
+    SpeechID: kSPCH1_EventID_OffroadMoment
+    BackTime: 0
+    expiry: 3
+    CullingRange: 800
+    Interval: 30
+    priority: 79
+    DoNotDropout: true
+    Interruptable: false
+    MinPlayerSpeed: 10
+    interrupt: true
+- ParentName: default
+  Name: setup_spotterreply
+  Data:
+    CollectionName: setup_spotterreply
+    SpeechID: kSPCH1_EventID_SpotterReply
+    BackTime: 0
+    expiry: 10
+    CullingRange: 300
+    Interval: 0
+    priority: 90
+    DoNotDropout: true
+    cache_OnCreate: false
+    MinPlayerSpeed: 30
+- ParentName: default
+  Name: anytimeevents_disppursuitupdate
+  Data:
+    CollectionName: anytimeevents_disppursuitupdate
+    SpeechID: 99
+    BackTime: 0
+    expiry: 5
+    CullingRange: 300
+    Interval: 300
+    priority: 50
+    DoNotDropout: false
+    DeadAir: 15
+    MaxPlayback: 2
+- ParentName: default
+  Name: backup_negativebureply
+  Data:
+    CollectionName: backup_negativebureply
+    SpeechID: kSPCH1_EventID_NegativeBUReply
+    BackTime: 0
+    expiry: 20
+    CullingRange: 300
+    Interval: 60
+    priority: 50
+    DoNotDropout: false
+    DepFollow:
+      Capacity: 2
+      Data:
+      - ClassKey: speech
+        CollectionKey: backup_dispbackupreply
+      - ClassKey: speech
+        CollectionKey: backup_dispbackupupdate
+    EnforceDeadAir: 5
+- ParentName: default
+  Name: outcomes
+  Data:
+    CollectionName: outcomes
+    SpeechID: 0
+    BackTime: 12
+    expiry: 5
+    CullingRange: 300
+    Interval: 40
+    priority: 80
+    DoNotDropout: false
+    Interruptable: false
+    DepFollow:
+      Capacity: 8
+      Data:
+      - ClassKey: speech
+        CollectionKey: rollingstrategy_strategyexecute
+      - ClassKey: speech
+        CollectionKey: anytimeevents_collisionworld
+      - ClassKey: speech
+        CollectionKey: anytimeevents_collworld_flip
+      - ClassKey: speech
+        CollectionKey: arrest_bullhornarrest
+      - ClassKey: speech
+        CollectionKey: helispecific_helibullhornarrest
+      - ClassKey: speech
+        CollectionKey: extracops_extrarbengage
+      - ClassKey: speech
+        CollectionKey: staticroadblock_rbengage
+      - ClassKey: speech
+        CollectionKey: anytimeevents_intenttoram
+    MinPlayerSpeed: 40
+- ParentName: outcomes
+  Name: outcome_anticipatesuccess
+  Data:
+    CollectionName: outcome_anticipatesuccess
+    SpeechID: kSPCH1_EventID_AnticipateSuccess
+    BackTime: 12
+    expiry: 5
+    CullingRange: 300
+    Interval: 40
+    priority: 70
+    DoNotDropout: false
+    MaxPlayerSpeed: 40
+    reqLOS: true
+- ParentName: outcomes
+  Name: outcome_anticipatefail
+  Data:
+    CollectionName: outcome_anticipatefail
+    SpeechID: kSPCH1_EventID_AnticipateFail
+    BackTime: 12
+    expiry: 5
+    CullingRange: 300
+    Interval: 40
+    priority: 75
+    DoNotDropout: true
+- ParentName: outcomes
+  Name: outcome_strategyreset
+  Data:
+    CollectionName: outcome_strategyreset
+    SpeechID: 94
+    BackTime: 12
+    expiry: 5
+    CullingRange: 300
+    Interval: 60
+    priority: 80
+    DoNotDropout: false
+    Interruptable: true
+    EnforceDeadAir: 1
+    MinPlayerSpeed: 80
+- ParentName: default
+  Name: setup_vehiclereport
+  Data:
+    CollectionName: setup_vehiclereport
+    SpeechID: kSPCH1_EventID_VehicleReport
+    BackTime: 60
+    expiry: 10
+    CullingRange: 1000
+    Interval: 20
+    priority: 99
+    DoNotDropout: true
+    DepFollow:
+      Capacity: 4
+      Data:
+      - ClassKey: speech
+        CollectionKey: setup_attmptvehstp
+      - ClassKey: speech
+        CollectionKey: anytimeevents_disp911report
+      - ClassKey: speech
+        CollectionKey: anytimeevents_disppursescgen
+      - ClassKey: speech
+        CollectionKey: anytimeevents_disppursuitescalation
+    Interruptable: false
+    EnforceDeadAir: 1
+- ParentName: default
+  Name: arrest_disparrestreply
+  Data:
+    CollectionName: arrest_disparrestreply
+    SpeechID: kSPCH1_EventID_DispArrestReply
+    BackTime: 0
+    expiry: 15
+    CullingRange: 65000
+    Interval: 20
+    priority: 90
+    DoNotDropout: true
+    Interruptable: false
+    cache_OnCreate: false
+    Clarity: 10
+- ParentName: default
+  Name: anytimeevents_driverhistory
+  Data:
+    CollectionName: anytimeevents_driverhistory
+    SpeechID: kSPCH1_EventID_DriverHistory
+    BackTime: 0
+    expiry: 5
+    CullingRange: 32000
+    Interval: 20
+    priority: 50
+    DoNotDropout: false
+    cache_OnCreate: false
+- ParentName: default
+  Name: setup_suspectconfirmed
+  Data:
+    CollectionName: setup_suspectconfirmed
+    SpeechID: kSPCH1_EventID_SuspectConfirmed
+    BackTime: 0
+    expiry: 5
+    CullingRange: 32000
+    Interval: 20
+    priority: 50
+    DoNotDropout: true
+    cache_OnCreate: false
+- ParentName: default
+  Name: staticroadblock_callforrb
+  Data:
+    CollectionName: staticroadblock_callforrb
+    SpeechID: kSPCH1_EventID_CallForRB
+    BackTime: 300
+    expiry: 2
+    CullingRange: 32000
+    Interval: 60
+    priority: 50
+    DoNotDropout: false
+    reqLOS: true
+    DepFollow:
+      Capacity: 7
+      Data:
+      - ClassKey: speech
+        CollectionKey: setup_spotter
+      - ClassKey: speech
+        CollectionKey: setup_attmptvehstp
+      - ClassKey: speech
+        CollectionKey: anytimeevents_disppursescgen
+      - ClassKey: speech
+        CollectionKey: anytimeevents_disppursuitescalation
+      - ClassKey: speech
+        CollectionKey: setup_spotterwanted
+      - ClassKey: speech
+        CollectionKey: setup_spotterreply
+      - ClassKey: speech
+        CollectionKey: setup_reinitpursuit
+    EnforceDeadAir: 0.5
+    OnScreenOnly: true
+    MinPlayerSpeed: 30
+- ParentName: default
+  Name: anytimeevents_unitdisabled
+  Data:
+    CollectionName: anytimeevents_unitdisabled
+    SpeechID: kSPCH1_EventID_UnitDisabled
+    BackTime: 0
+    expiry: 6
+    CullingRange: 1000
+    Interval: 30
+    priority: 80
+    DoNotDropout: true
+    Interruptable: false
+- ParentName: default
+  Name: rollingstrategy_strategyexecute
+  Data:
+    CollectionName: rollingstrategy_strategyexecute
+    SpeechID: kSPCH1_EventID_StrategyExecute
+    BackTime: 0
+    expiry: 1
+    CullingRange: 50
+    Interval: 60
+    priority: 80
+    DoNotDropout: false
+    reqLOS: true
+    MinPlayerSpeed: 40
+    Interruptable: false
+    EnforceDeadAir: 1.5
+    MaxPlayerSpeed: 100
+- ParentName: default
+  Name: anytimeevents_suspectoutrun
+  Data:
+    CollectionName: anytimeevents_suspectoutrun
+    SpeechID: kSPCH1_EventID_SuspectOutrun
+    BackTime: 0
+    expiry: 1.7999999523162842
+    CullingRange: 500
+    Interval: 60
+    priority: 75
+    DoNotDropout: false
+    MinPlayerSpeed: 50
+- ParentName: default
+  Name: anytimeevents_bailoutdeny
+  Data:
+    CollectionName: anytimeevents_bailoutdeny
+    SpeechID: kSPCH1_EventID_BailoutDeny
+    BackTime: 0
+    expiry: 10
+    CullingRange: 100
+    Interval: 60
+    priority: 50
+    DoNotDropout: false
+    reqLOS: true
+    DepFollow:
+      Capacity: 1
+      Data:
+      - ClassKey: speech
+        CollectionKey: anytimeevents_bailout
+    MinPlayerSpeed: 50
+    MaxPlayback: 1
+    Clarity: 7
+- ParentName: default
+  Name: anytimeevents_lostsuspect
+  Data:
+    CollectionName: anytimeevents_lostsuspect
+    SpeechID: kSPCH1_EventID_LostSuspect
+    BackTime: 0
+    expiry: 15
+    CullingRange: 100000
+    Interval: 40
+    priority: 91
+    DoNotDropout: true
+- ParentName: default
+  Name: staticroadblock_disprbreply
+  Data:
+    CollectionName: staticroadblock_disprbreply
+    SpeechID: kSPCH1_EventID_DispRBReply
+    BackTime: 0
+    expiry: 8
+    CullingRange: 300
+    Interval: 30
+    priority: 50
+    DoNotDropout: true
+    DepFollow:
+      Capacity: 3
+      Data:
+      - ClassKey: speech
+        CollectionKey: staticroadblock_callforrb
+      - ClassKey: speech
+        CollectionKey: staticroadblock_rbreminder
+      - ClassKey: speech
+        CollectionKey: staticroadblock_callforrb_sub
+    MinPlayerSpeed: 35
+- ParentName: default
+  Name: acknowledge
+  Data:
+    CollectionName: acknowledge
+    SpeechID: kSPCH1_EventID_Acknowledge
+    BackTime: 10
+    expiry: 15
+    CullingRange: 300
+    Interval: 60
+    priority: 50
+    DoNotDropout: false
+    Interruptable: false
+    DepFollow:
+      Capacity: 4
+      Data:
+      - ClassKey: speech
+        CollectionKey: setup_attmptvehstp
+      - ClassKey: speech
+        CollectionKey: setup_spotter
+      - ClassKey: speech
+        CollectionKey: setup_spotterwanted
+      - ClassKey: speech
+        CollectionKey: rollingstrategy_calltoposition
+    RedundancyCheckIsGlobal: false
+- ParentName: default
+  Name: anytimeevents_collworld_air
+  Data:
+    CollectionName: anytimeevents_collworld_air
+    SpeechID: kSPCH1_EventID_CollWorld_Air
+    BackTime: 0
+    expiry: 3
+    CullingRange: 100
+    Interval: 300
+    priority: 80
+    DoNotDropout: true
+    reqLOS: true
+    Interruptable: false
+    MinPlayerSpeed: 20
+    InitDelay: 0.5
+- ParentName: default
+  Name: extracops_suspectpossiblygone
+  Data:
+    CollectionName: extracops_suspectpossiblygone
+    SpeechID: kSPCH1_EventID_SuspectPossiblyGone
+    BackTime: 0
+    expiry: 90
+    CullingRange: 3000
+    Interval: 20
+    priority: 50
+    DoNotDropout: false
+    DepFollow:
+      Capacity: 2
+      Data:
+      - ClassKey: speech
+        CollectionKey: extracops_quadrentforming
+      - ClassKey: speech
+        CollectionKey: helispecific_heliquadrent
+    EnforceDeadAir: 3
+- ParentName: default
+  Name: anytimeevents_spotted
+  Data:
+    CollectionName: anytimeevents_spotted
+    SpeechID: kSPCH1_EventID_Spotted
+    BackTime: 0
+    expiry: 5
+    CullingRange: 300
+    Interval: 10
+    priority: 90
+    DoNotDropout: true
+    MinPlayerSpeed: 30
+- ParentName: default
+  Name: setup_locationreport
+  Data:
+    CollectionName: setup_locationreport
+    SpeechID: kSPCH1_EventID_LocationReport
+    BackTime: 0
+    expiry: 3
+    CullingRange: 300
+    Interval: 60
+    priority: 30
+    DoNotDropout: true
+    MinPlayerSpeed: 45
+    EnforceDeadAir: 1
+    Clarity: 5
+- ParentName: default
+  Name: anytimeevents_suspectbehaviour
+  Data:
+    CollectionName: anytimeevents_suspectbehaviour
+    SpeechID: kSPCH1_EventID_SuspectBehaviour
+    BackTime: 0
+    expiry: 5
+    CullingRange: 300
+    Interval: 20
+    priority: 50
+    DoNotDropout: false
+    MinHeat: 3
+    MinPlayerSpeed: 45
+- ParentName: default
+  Name: setup_attmptvehstp
+  Data:
+    CollectionName: setup_attmptvehstp
+    SpeechID: kSPCH1_EventID_AttmptVehStp
+    BackTime: 0
+    expiry: 9999
+    CullingRange: 1000
+    Interval: 0
+    priority: 90
+    DoNotDropout: true
+    cache_OnCreate: false
+- ParentName: default
+  Name: staticroadblock_callforrb_sub
+  Data:
+    CollectionName: staticroadblock_callforrb_sub
+    SpeechID: kSPCH1_EventID_CallForRB_sub
+    BackTime: 0
+    expiry: 5
+    CullingRange: 32000
+    Interval: 20
+    priority: 50
+    DoNotDropout: false
+    EnforceDeadAir: 1
+- ParentName: default
+  Name: setup_primaryengage
+  Data:
+    CollectionName: setup_primaryengage
+    SpeechID: kSPCH1_EventID_PrimaryEngage
+    BackTime: 0
+    expiry: 5
+    CullingRange: 150
+    Interval: 60
+    priority: 50
+    DoNotDropout: false
+    Clarity: 7
+    MaxHeat: 2
+    MaxPlayback: 1
+- ParentName: default
+  Name: anytimeevents_dispevreply
+  Data:
+    CollectionName: anytimeevents_dispevreply
+    SpeechID: kSPCH1_EventID_DispEVReply
+    BackTime: 10
+    expiry: 10
+    CullingRange: 300
+    Interval: 60
+    priority: 75
+    DoNotDropout: true
+    DepFollow:
+      Capacity: 1
+      Data:
+      - ClassKey: speech
+        CollectionKey: anytimeevents_callforev
+- ParentName: default
+  Name: d_day
+  Data:
+    CollectionName: d_day
+    SpeechID: 260
+    BackTime: 0
+    expiry: 5
+    CullingRange: 300
+    Interval: 20
+    priority: 100
+    DoNotDropout: true
+    Interruptable: false
+    interrupt: true
+    EnforceDeadAir: -1
+    cache_OnCreate: false
+    RadioChirp: false
+- ParentName: default
+  Name: anytimeevents_intenttoram
+  Data:
+    CollectionName: anytimeevents_intenttoram
+    SpeechID: kSPCH1_EventID_IntentToRam
+    BackTime: 0
+    expiry: 1.5
+    CullingRange: 100
+    Interval: 30
+    priority: 86
+    DoNotDropout: true
+    Interruptable: false
+    interrupt: true
+- ParentName: default
+  Name: anytimeevents_disppursescgen
+  Data:
+    CollectionName: anytimeevents_disppursescgen
+    SpeechID: kSPCH1_EventID_DispPursEscGen
+    BackTime: 0
+    expiry: 10
+    CullingRange: 300
+    Interval: 60
+    priority: 90
+    DoNotDropout: true
+    RecallList:
+      Capacity: 1
+      Data:
+      - ClassKey: speech
+        CollectionKey: anytimeevents_dispbreakaway
+    Interruptable: false
+    MinPlayerSpeed: 30
+- ParentName: default
+  Name: staticroadblock_rbreminder
+  Data:
+    CollectionName: staticroadblock_rbreminder
+    SpeechID: kSPCH1_EventID_RBReminder
+    BackTime: 60
+    expiry: 5
+    CullingRange: 300
+    Interval: 40
+    priority: 50
+    DoNotDropout: false
+    DepFollow:
+      Capacity: 1
+      Data:
+      - ClassKey: speech
+        CollectionKey: staticroadblock_callforrb
+- ParentName: default
+  Name: cross_crossfailreply
+  Data:
+    CollectionName: cross_crossfailreply
+    SpeechID: 248
+    BackTime: 0
+    expiry: 10
+    CullingRange: 300
+    Interval: 60
+    priority: 100
+    DoNotDropout: true
+    DepFollow:
+      Capacity: 2
+      Data:
+      - ClassKey: speech
+        CollectionKey: outcome_outcomefail
+      - ClassKey: speech
+        CollectionKey: outcome_anticipatefail
+    EnforceDeadAir: 4
+- ParentName: default
+  Name: helispecific_helilostvisual
+  Data:
+    CollectionName: helispecific_helilostvisual
+    SpeechID: 169
+    BackTime: 0
+    expiry: 5
+    CullingRange: 300
+    Interval: 60
+    priority: 50
+    DoNotDropout: false
+- ParentName: default
+  Name: rollingstrategy_calltoposition
+  Data:
+    CollectionName: rollingstrategy_calltoposition
+    SpeechID: 84
+    BackTime: 0
+    expiry: 3
+    CullingRange: 20
+    Interval: 60
+    priority: 75
+    DoNotDropout: false
+    DepFollow:
+      Capacity: 1
+      Data:
+      - ClassKey: speech
+        CollectionKey: rollingstrategy_initstrategy
+    EnforceDeadAir: 1
+    MinPlayerSpeed: 35
+- ParentName: default
+  Name: cross_crossmultistrategy
+  Data:
+    CollectionName: cross_crossmultistrategy
+    SpeechID: 252
+    BackTime: 0
+    expiry: 5
+    CullingRange: 300
+    Interval: 20
+    priority: 80
+    DoNotDropout: true
+    MinPlayerSpeed: 30
+- ParentName: default
+  Name: anytimeevents_disp911report
+  Data:
+    CollectionName: anytimeevents_disp911report
+    SpeechID: kSPCH1_EventID_Disp911Report
+    BackTime: 0
+    expiry: 5
+    CullingRange: 32000
+    Interval: 60
+    priority: 100
+    DoNotDropout: true
+    Interruptable: false
+    cache_OnCreate: false
+    MaxPlayback: -1
+- ParentName: default
+  Name: anytimeevents_collisionworld
+  Data:
+    CollectionName: anytimeevents_collisionworld
+    SpeechID: kSPCH1_EventID_CollisionWorld
+    BackTime: 0
+    expiry: 2
+    CullingRange: 1000
+    Interval: 20
+    priority: 98
+    DoNotDropout: true
+    Interruptable: false
+    interrupt: true
+    InitDelay: 1
+- ParentName: default
+  Name: helispecific_helibailout
+  Data:
+    CollectionName: helispecific_helibailout
+    SpeechID: kSPCH1_EventID_HeliBailout
+    BackTime: 0
+    expiry: 5
+    CullingRange: 300
+    Interval: 80
+    priority: 50
+    DoNotDropout: false
+    MaxPlayback: 1
+- ParentName: default
+  Name: setup_moredetails
+  Data:
+    CollectionName: setup_moredetails
+    SpeechID: kSPCH1_EventID_MoreDetails
+    BackTime: 0
+    expiry: 15
+    CullingRange: 300
+    Interval: 20
+    priority: 50
+    DoNotDropout: false
+- ParentName: default
+  Name: helispecific_heliintenttobail
+  Data:
+    CollectionName: helispecific_heliintenttobail
+    SpeechID: kSPCH1_EventID_HeliIntentToBail
+    BackTime: 0
+    expiry: 5
+    CullingRange: 0
+    Interval: 60
+    priority: 50
+    DoNotDropout: false
+    MaxPlayback: 0
+- ParentName: default
+  Name: helispecific_helispotter
+  Data:
+    CollectionName: helispecific_helispotter
+    SpeechID: kSPCH1_EventID_HeliSpotter
+    BackTime: 0
+    expiry: 5
+    CullingRange: 300
+    Interval: 60
+    priority: 50
+    DoNotDropout: false
+    DepFollow:
+      Capacity: 3
+      Data:
+      - ClassKey: speech
+        CollectionKey: anytimeevents_suspectoutrun
+      - ClassKey: speech
+        CollectionKey: anytimeevents_lostvisual
+      - ClassKey: speech
+        CollectionKey: anytimeevents_lostsuspect
+- ParentName: default
+  Name: helispecific_heliselfstrategy
+  Data:
+    CollectionName: helispecific_heliselfstrategy
+    SpeechID: 175
+    BackTime: 0
+    expiry: 5
+    CullingRange: 300
+    Interval: 60
+    priority: 85
+    DoNotDropout: true
+- ParentName: default
+  Name: anytimeevents_bailout
+  Data:
+    CollectionName: anytimeevents_bailout
+    SpeechID: kSPCH1_EventID_Bailout
+    BackTime: 0
+    expiry: 3
+    CullingRange: 20
+    Interval: 180
+    priority: 70
+    DoNotDropout: false
+    reqLOS: true
+    Interruptable: false
+    MinPlayerSpeed: 50
+    MaxPlayback: 1
+    Clarity: 7
+- ParentName: default
+  Name: setup_dispcustpaint
+  Data:
+    CollectionName: setup_dispcustpaint
+    SpeechID: 226
+    BackTime: 0
+    expiry: 5
+    CullingRange: 300
+    Interval: 20
+    priority: 90
+    DoNotDropout: true
+    cache_OnCreate: false
+    Interruptable: false
+- ParentName: default
+  Name: staticroadblock_rbapproach
+  Data:
+    CollectionName: staticroadblock_rbapproach
+    SpeechID: kSPCH1_EventID_RBApproach
+    BackTime: 30
+    expiry: 2.5
+    CullingRange: 300
+    Interval: 40
+    priority: 90
+    DoNotDropout: true
+    RecallList:
+      Capacity: 1
+      Data:
+      - ClassKey: speech
+        CollectionKey: staticroadblock_disprbupdate
+    DepFollow:
+      Capacity: 4
+      Data:
+      - ClassKey: speech
+        CollectionKey: staticroadblock_callforrb
+      - ClassKey: speech
+        CollectionKey: staticroadblock_rbreminder
+      - ClassKey: speech
+        CollectionKey: staticroadblock_disprbupdate
+      - ClassKey: speech
+        CollectionKey: staticroadblock_disprbreply
+    MinPlayerSpeed: 30
+    EnforceDeadAir: 0
+- ParentName: default
+  Name: backup_dispbackupreply
+  Data:
+    CollectionName: backup_dispbackupreply
+    SpeechID: kSPCH1_EventID_DispBackupReply
+    BackTime: 0
+    expiry: 10
+    CullingRange: 300
+    Interval: 5
+    priority: 50
+    DoNotDropout: false
+    DepFollow:
+      Capacity: 4
+      Data:
+      - ClassKey: speech
+        CollectionKey: backup_callforbu
+      - ClassKey: speech
+        CollectionKey: backup_bureminder
+      - ClassKey: speech
+        CollectionKey: setup_initialcallforbu
+      - ClassKey: speech
+        CollectionKey: setup_initialcallforbu_ms
+- ParentName: default
+  Name: staticroadblock_negativerbreply
+  Data:
+    CollectionName: staticroadblock_negativerbreply
+    SpeechID: kSPCH1_EventID_NegativeRBReply
+    BackTime: 0
+    expiry: 20
+    CullingRange: 300
+    Interval: 30
+    priority: 50
+    DoNotDropout: false
+    DepFollow:
+      Capacity: 2
+      Data:
+      - ClassKey: speech
+        CollectionKey: staticroadblock_disprbreply
+      - ClassKey: speech
+        CollectionKey: staticroadblock_disprbupdate
+    EnforceDeadAir: 5
+- ParentName: default
+  Name: backup_bureminder
+  Data:
+    CollectionName: backup_bureminder
+    SpeechID: kSPCH1_EventID_BUReminder
+    BackTime: 0
+    expiry: 5
+    CullingRange: 300
+    Interval: 60
+    priority: 50
+    DoNotDropout: false
+- ParentName: default
+  Name: setup_initialcallforbu_ms
+  Data:
+    CollectionName: setup_initialcallforbu_ms
+    SpeechID: kSPCH1_EventID_InitialCallForBU_MS
+    BackTime: 30
+    expiry: 5
+    CullingRange: 300
+    Interval: 20
+    priority: 50
+    DoNotDropout: false
+    DepFollow:
+      Capacity: 5
+      Data:
+      - ClassKey: speech
+        CollectionKey: setup_spotter
+      - ClassKey: speech
+        CollectionKey: setup_attmptvehstp
+      - ClassKey: speech
+        CollectionKey: setup_reinitpursuit
+      - ClassKey: speech
+        CollectionKey: setup_spotterreply
+      - ClassKey: speech
+        CollectionKey: setup_spotterwanted
+    MaxPlayback: 1
+- ParentName: default
+  Name: cross_crosspursuitesc
+  Data:
+    CollectionName: cross_crosspursuitesc
+    SpeechID: 250
+    BackTime: 0
+    expiry: 12
+    CullingRange: 300
+    Interval: 60
+    priority: 50
+    DoNotDropout: true
+    MinPlayerSpeed: 30
+- ParentName: default
+  Name: extracops_swarmingreply
+  Data:
+    CollectionName: extracops_swarmingreply
+    SpeechID: kSPCH1_EventID_SwarmingReply
+    BackTime: 15
+    expiry: 15
+    CullingRange: 300
+    Interval: 20
+    priority: 50
+    DoNotDropout: false
+    DepFollow:
+      Capacity: 3
+      Data:
+      - ClassKey: speech
+        CollectionKey: backup_callforswarming
+      - ClassKey: speech
+        CollectionKey: backup_dispbueta
+      - ClassKey: speech
+        CollectionKey: backup_disphelibueta
+- ParentName: default
+  Name: setup_initpursuit
+  Data:
+    CollectionName: setup_initpursuit
+    SpeechID: kSPCH1_EventID_InitPursuit
+    BackTime: 0
+    expiry: 8
+    CullingRange: 1000
+    Interval: 30
+    priority: 50
+    DoNotDropout: false
+    Interruptable: false
+    MaxPlayback: 1
+    MinPlayerSpeed: 20
+- ParentName: default
+  Name: helispecific_heliquadrentmoving
+  Data:
+    CollectionName: helispecific_heliquadrentmoving
+    SpeechID: kSPCH1_EventID_HeliQuadrentMoving
+    BackTime: 0
+    expiry: 5
+    CullingRange: 300
+    Interval: 20
+    priority: 50
+    DoNotDropout: false
+- ParentName: default
+  Name: extracops_rbposition
+  Data:
+    CollectionName: extracops_rbposition
+    SpeechID: kSPCH1_EventID_RBPosition
+    BackTime: 0
+    expiry: 2
+    CullingRange: 3000
+    Interval: 20
+    priority: 91
+    DoNotDropout: true
+    RecallList:
+      Capacity: 1
+      Data:
+      - ClassKey: speech
+        CollectionKey: staticroadblock_disprbupdate
+    MinPlayerSpeed: 40
+- ParentName: default
+  Name: anytimeevents_weatherreport
+  Data:
+    CollectionName: anytimeevents_weatherreport
+    SpeechID: kSPCH1_EventID_WeatherReport
+    BackTime: 0
+    expiry: 30
+    CullingRange: 1000
+    Interval: 60
+    priority: 50
+    DoNotDropout: false
+    MaxPlayback: 1
+    MinPlayerSpeed: 30
+- ParentName: default
+  Name: interrupts_interrupt
+  Data:
+    CollectionName: interrupts_interrupt
+    SpeechID: kSPCH1_EventID_Interrupt
+    BackTime: 0
+    expiry: 2
+    CullingRange: 300
+    Interval: 20
+    priority: 80
+    DoNotDropout: true
+    Interruptable: false
+    interrupt: true
+    EnforceDeadAir: 1
+- ParentName: default
+  Name: anytimeevents_heatjump
+  Data:
+    CollectionName: anytimeevents_heatjump
+    SpeechID: kSPCH1_EventID_HeatJump
+    BackTime: 1000
+    expiry: 20
+    CullingRange: 10000
+    Interval: 20
+    priority: 87
+    DoNotDropout: true
+    Interruptable: false
+    cache_OnCreate: false
+- ParentName: default
+  Name: setup_selfstrategy
+  Data:
+    CollectionName: setup_selfstrategy
+    SpeechID: kSPCH1_EventID_SelfStrategy
+    BackTime: 0
+    expiry: 5
+    CullingRange: 300
+    Interval: 40
+    priority: 50
+    DoNotDropout: true
+    MinPlayerSpeed: 50
+- ParentName: default
+  Name: interrupts_interruptram_ss
+  Data:
+    CollectionName: interrupts_interruptram_ss
+    SpeechID: kSPCH1_EventID_InterruptRam_SS
+    BackTime: 0
+    expiry: 2
+    CullingRange: 300
+    Interval: 20
+    priority: 80
+    DoNotDropout: true
+    Interruptable: false
+    MinPlayerSpeed: 30
+    interrupt: true
+    EnforceDeadAir: 1
+    OnScreenOnly: true
+- ParentName: default
+  Name: anytimeevents_dispjurisshift
+  Data:
+    CollectionName: anytimeevents_dispjurisshift
+    SpeechID: 223
+    BackTime: 10000
+    expiry: 20
+    CullingRange: 300
+    Interval: 1000
+    priority: 82
+    DoNotDropout: true
+    DepFollow:
+      Capacity: 3
+      Data:
+      - ClassKey: speech
+        CollectionKey: anytimeevents_disppursuitescalation
+      - ClassKey: speech
+        CollectionKey: anytimeevents_disppursescgen
+      - ClassKey: speech
+        CollectionKey: rollingstrategy_initstrategy
+    Interruptable: false
+    cache_OnCreate: false
+- ParentName: default
+  Name: arrest_bullhornarrest
+  Data:
+    CollectionName: arrest_bullhornarrest
+    SpeechID: kSPCH1_EventID_BullhornArrest
+    BackTime: 0
+    expiry: 5
+    CullingRange: 35
+    Interval: 5
+    priority: 97
+    DoNotDropout: true
+    Pan: true
+    Interruptable: false
+    interrupt: true
+    cache_OnCreate: false
+    MaxPlayerSpeed: 30
+    RadioChirp: false
+- ParentName: arrest_bullhornarrest
+  Name: helispecific_helibullhornarrest
+  Data:
+    CollectionName: helispecific_helibullhornarrest
+    SpeechID: 259
+    BackTime: 0
+    expiry: 5
+    CullingRange: 35
+    Interval: 5
+    priority: 97
+    DoNotDropout: true
+- ParentName: default
+  Name: setup_reinitpursuit
+  Data:
+    CollectionName: setup_reinitpursuit
+    SpeechID: kSPCH1_EventID_ReInitPursuit
+    BackTime: 0
+    expiry: 3
+    CullingRange: 300
+    Interval: 10
+    priority: 100
+    DoNotDropout: true
+    Interruptable: false
+    interrupt: true
+    EnforceDeadAir: 1.5
+    InitDelay: 0.5
+- ParentName: default
+  Name: interrupts_interruptram_ho
+  Data:
+    CollectionName: interrupts_interruptram_ho
+    SpeechID: kSPCH1_EventID_InterruptRam_HO
+    BackTime: 0
+    expiry: 2
+    CullingRange: 300
+    Interval: 20
+    priority: 80
+    DoNotDropout: true
+    Interruptable: false
+    interrupt: true
+    EnforceDeadAir: 1
+    OnScreenOnly: true
+    InitDelay: 0.5
+    MinPlayerSpeed: 30
+- ParentName: default
+  Name: interrupts_interruptramhigh
+  Data:
+    CollectionName: interrupts_interruptramhigh
+    SpeechID: kSPCH1_EventID_InterruptRamHigh
+    BackTime: 0
+    expiry: 2
+    CullingRange: 15
+    Interval: 20
+    priority: 80
+    DoNotDropout: true
+    Interruptable: false
+    interrupt: true
+    EnforceDeadAir: 1
+    OnScreenOnly: true
+    InitDelay: 0.5
+    MinPlayerSpeed: 30
+- ParentName: default
+  Name: setup_dispvehdescripvinyls
+  Data:
+    CollectionName: setup_dispvehdescripvinyls
+    SpeechID: 258
+    BackTime: 0
+    expiry: 5
+    CullingRange: 300
+    Interval: 20
+    priority: 48
+    DoNotDropout: true
+    cache_OnCreate: false
+    Interruptable: false
+- ParentName: default
+  Name: anytimeevents_callforev
+  Data:
+    CollectionName: anytimeevents_callforev
+    SpeechID: kSPCH1_EventID_CallForEV
+    BackTime: 200
+    expiry: 5
+    CullingRange: 300
+    Interval: 40
+    priority: 100
+    DoNotDropout: true
+    Interruptable: false
+    DepFollow:
+      Capacity: 4
+      Data:
+      - ClassKey: speech
+        CollectionKey: anytimeevents_collisionworld
+      - ClassKey: speech
+        CollectionKey: anytimeevents_offroadmoment
+      - ClassKey: speech
+        CollectionKey: rollingstrategy_initstrategy
+      - ClassKey: speech
+        CollectionKey: setup_selfstrategy
+- ParentName: default
+  Name: anytimeevents_collworld_civi
+  Data:
+    CollectionName: anytimeevents_collworld_civi
+    SpeechID: kSPCH1_EventID_CollWorld_Civi
+    BackTime: 0
+    expiry: 2
+    CullingRange: 100
+    Interval: 300
+    priority: 85
+    DoNotDropout: true
+    InitDelay: 0.5
+- ParentName: default
+  Name: cross_crossrbfailreply
+  Data:
+    CollectionName: cross_crossrbfailreply
+    SpeechID: 249
+    BackTime: 0
+    expiry: 10
+    CullingRange: 300
+    Interval: 60
+    priority: 80
+    DoNotDropout: true
+    DepFollow:
+      Capacity: 4
+      Data:
+      - ClassKey: speech
+        CollectionKey: outcome_anticipatefail
+      - ClassKey: speech
+        CollectionKey: outcome_outcomefail
+      - ClassKey: speech
+        CollectionKey: staticroadblock_rbaverted
+      - ClassKey: speech
+        CollectionKey: extracops_extrarbaverted
+    EnforceDeadAir: 4
+- ParentName: default
+  Name: setup_dispgoahead
+  Data:
+    CollectionName: setup_dispgoahead
+    SpeechID: kSPCH1_EventID_DispGoAhead
+    BackTime: 0
+    expiry: 20
+    CullingRange: 300
+    Interval: 20
+    priority: 90
+    DoNotDropout: true
+    cache_OnCreate: false
+    DepFollow:
+      Capacity: 1
+      Data:
+      - ClassKey: speech
+        CollectionKey: setup_attmptvehstp
+    EnforceDeadAir: 1
+- ParentName: default
+  Name: backup_callforbu
+  Data:
+    CollectionName: backup_callforbu
+    SpeechID: kSPCH1_EventID_CallForBU
+    BackTime: 300
+    expiry: 10
+    CullingRange: 300
+    Interval: 60
+    priority: 50
+    DoNotDropout: false
+    DepFollow:
+      Capacity: 2
+      Data:
+      - ClassKey: speech
+        CollectionKey: setup_selfstrategy
+      - ClassKey: speech
+        CollectionKey: rollingstrategy_initstrategy
+    MinPlayerSpeed: 30
+- ParentName: default
+  Name: cellcall
+  Data:
+    CollectionName: cellcall
+    SpeechID: 204
+    BackTime: 0
+    expiry: 55
+    CullingRange: 300
+    Interval: 0
+    priority: 100
+    DoNotDropout: true
+    Interruptable: false
+    interrupt: true
+    EnforceDeadAir: -1
+    cache_OnCreate: false
+    RadioChirp: false
+- ParentName: default
+  Name: dispintrorace
+  Data:
+    CollectionName: dispintrorace
+    SpeechID: 263
+    BackTime: 0
+    expiry: 5
+    CullingRange: 300
+    Interval: 20
+    priority: 100
+    DoNotDropout: true
+    Interruptable: false
+    interrupt: true
+    EnforceDeadAir: -1
+    cache_OnCreate: false
+    RadioChirp: false
+- ParentName: default
+  Name: interrupts_interruptram_tb
+  Data:
+    CollectionName: interrupts_interruptram_tb
+    SpeechID: kSPCH1_EventID_InterruptRam_TB
+    BackTime: 0
+    expiry: 2
+    CullingRange: 300
+    Interval: 20
+    priority: 80
+    DoNotDropout: true
+    Interruptable: false
+    interrupt: true
+    EnforceDeadAir: 1
+    OnScreenOnly: true
+    InitDelay: 0.5
+    MinPlayerSpeed: 30
+- ParentName: default
+  Name: anytimeevents_suspectbrake
+  Data:
+    CollectionName: anytimeevents_suspectbrake
+    SpeechID: kSPCH1_EventID_SuspectBrake
+    BackTime: 0
+    expiry: 5
+    CullingRange: 300
+    Interval: 60
+    priority: 60
+    DoNotDropout: false
+    interrupt: true
+    reqLOS: true
+    InitDelay: 1
+- ParentName: default
+  Name: extracops_wrongsuspect
+  Data:
+    CollectionName: extracops_wrongsuspect
+    SpeechID: kSPCH1_EventID_WrongSuspect
+    BackTime: 20
+    expiry: 50
+    CullingRange: 3000
+    Interval: 20
+    priority: 50
+    DoNotDropout: false
+    DepFollow:
+      Capacity: 1
+      Data:
+      - ClassKey: speech
+        CollectionKey: extracops_possiblesuspect
+    EnforceDeadAir: 3
+- ParentName: default
+  Name: extracops_quadrentforming
+  Data:
+    CollectionName: extracops_quadrentforming
+    SpeechID: kSPCH1_EventID_QuadrentForming
+    BackTime: 0
+    expiry: 40
+    CullingRange: 300
+    Interval: 20
+    priority: 50
+    DoNotDropout: true
+    DepFollow:
+      Capacity: 2
+      Data:
+      - ClassKey: speech
+        CollectionKey: anytimeevents_dispbreakaway
+      - ClassKey: speech
+        CollectionKey: anytimeevents_lostsuspect
+    EnforceDeadAir: 3
+    InitDelay: 1
+- ParentName: default
+  Name: extracops_superpursuitreply
+  Data:
+    CollectionName: extracops_superpursuitreply
+    SpeechID: kSPCH1_EventID_SuperPursuitReply
+    BackTime: 0
+    expiry: 5
+    CullingRange: 32000
+    Interval: 20
+    priority: 50
+    DoNotDropout: false
+- ParentName: default
+  Name: anytimeevents_disptimeexpired
+  Data:
+    CollectionName: anytimeevents_disptimeexpired
+    SpeechID: kSPCH1_EventID_DispTimeExpired
+    BackTime: 0
+    expiry: 150
+    CullingRange: 32000
+    Interval: 60
+    priority: 80
+    DoNotDropout: true
+    InitDelay: 1
+- ParentName: default
+  Name: anytimeevents_lostvisual
+  Data:
+    CollectionName: anytimeevents_lostvisual
+    SpeechID: kSPCH1_EventID_LostVisual
+    BackTime: 0
+    expiry: 6
+    CullingRange: 1000
+    Interval: 40
+    priority: 92
+    DoNotDropout: false
+- ParentName: default
+  Name: setup_dispvehdescrip
+  Data:
+    CollectionName: setup_dispvehdescrip
+    SpeechID: kSPCH1_EventID_DispVehDescrip
+    BackTime: 0
+    expiry: 15
+    CullingRange: 300
+    Interval: 20
+    priority: 50
+    DoNotDropout: true
+    cache_OnCreate: false
+    DepFollow:
+      Capacity: 4
+      Data:
+      - ClassKey: speech
+        CollectionKey: anytimeevents_disp911report
+      - ClassKey: speech
+        CollectionKey: anytimeevents_disppursuitescalation
+      - ClassKey: speech
+        CollectionKey: anytimeevents_disppursescgen
+      - ClassKey: speech
+        CollectionKey: setup_moredetails
+- ParentName: default
+  Name: staticroadblock_pursuitapproaching
+  Data:
+    CollectionName: staticroadblock_pursuitapproaching
+    SpeechID: kSPCH1_EventID_PursuitApproaching
+    BackTime: 10
+    expiry: 2
+    CullingRange: 300
+    Interval: 40
+    priority: 64
+    DoNotDropout: false
+    RecallList:
+      Capacity: 1
+      Data:
+      - ClassKey: speech
+        CollectionKey: staticroadblock_disprbupdate
+    DepFollow:
+      Capacity: 3
+      Data:
+      - ClassKey: speech
+        CollectionKey: staticroadblock_callforrb
+      - ClassKey: speech
+        CollectionKey: staticroadblock_disprbreply
+      - ClassKey: speech
+        CollectionKey: staticroadblock_disprbupdate
+    MinPlayerSpeed: 40
+    interrupt: true
+    EnforceDeadAir: 0.5
+- ParentName: default
+  Name: interrupts_staticinterrupt
+  Data:
+    CollectionName: interrupts_staticinterrupt
+    SpeechID: kSPCH1_EventID_StaticInterrupt
+    BackTime: 0
+    expiry: 1.5
+    CullingRange: 32000
+    Interval: 5
+    priority: 10
+    DoNotDropout: true
+    RedundancyCheckIsGlobal: false
+    Interruptable: false
+    EnforceDeadAir: 1
+    OnScreenOnly: true
+- ParentName: default
+  Name: helispecific_heliswarming
+  Data:
+    CollectionName: helispecific_heliswarming
+    SpeechID: kSPCH1_EventID_HeliSwarming
+    BackTime: 0
+    expiry: 5
+    CullingRange: 300
+    Interval: 20
+    priority: 50
+    DoNotDropout: false
+- ParentName: default
+  Name: backup_dispbackupupdate
+  Data:
+    CollectionName: backup_dispbackupupdate
+    SpeechID: kSPCH1_EventID_DispBackupUpdate
+    BackTime: 0
+    expiry: 10
+    CullingRange: 300
+    Interval: 5
+    priority: 50
+    DoNotDropout: true
+    Interruptable: false
+    DepFollow:
+      Capacity: 5
+      Data:
+      - ClassKey: speech
+        CollectionKey: backup_callforbu
+      - ClassKey: speech
+        CollectionKey: backup_bureminder
+      - ClassKey: speech
+        CollectionKey: setup_initialcallforbu
+      - ClassKey: speech
+        CollectionKey: setup_initialcallforbu_ms
+      - ClassKey: speech
+        CollectionKey: backup_callforswarming
+- ParentName: default
+  Name: staticroadblock_rbaverted
+  Data:
+    CollectionName: staticroadblock_rbaverted
+    SpeechID: kSPCH1_EventID_RBAverted
+    BackTime: 0
+    expiry: 2
+    CullingRange: 1000
+    Interval: 10
+    priority: 95
+    DoNotDropout: true
+    reqLOS: true
+    Interruptable: false
+    EnforceDeadAir: 1
+    MinPlayerSpeed: 10
+- ParentName: default
+  Name: anytimeevents_unit911reply
+  Data:
+    CollectionName: anytimeevents_unit911reply
+    SpeechID: kSPCH1_EventID_Unit911Reply
+    BackTime: 45
+    expiry: 20
+    CullingRange: 300
+    Interval: 60
+    priority: 50
+    DoNotDropout: true
+    DepFollow:
+      Capacity: 6
+      Data:
+      - ClassKey: speech
+        CollectionKey: anytimeevents_disp911report
+      - ClassKey: speech
+        CollectionKey: anytimeevents_disppursuitescalation
+      - ClassKey: speech
+        CollectionKey: anytimeevents_disppursescgen
+      - ClassKey: speech
+        CollectionKey: setup_spotter
+      - ClassKey: speech
+        CollectionKey: setup_spotterwanted
+      - ClassKey: speech
+        CollectionKey: setup_moredetails
+- ParentName: default
+  Name: cross_crossbureply
+  Data:
+    CollectionName: cross_crossbureply
+    SpeechID: 247
+    BackTime: 0
+    expiry: 15
+    CullingRange: 300
+    Interval: 20
+    priority: 100
+    DoNotDropout: true
+    MaxPlayback: 1
+- ParentName: default
+  Name: anytimeevents_focuschange
+  Data:
+    CollectionName: anytimeevents_focuschange
+    SpeechID: kSPCH1_EventID_FocusChange
+    BackTime: 500
+    expiry: 5
+    CullingRange: 100
+    Interval: 60
+    priority: 100
+    DoNotDropout: true
+    DepFollow:
+      Capacity: 3
+      Data:
+      - ClassKey: speech
+        CollectionKey: setup_attmptvehstp
+      - ClassKey: speech
+        CollectionKey: setup_spotter
+      - ClassKey: speech
+        CollectionKey: setup_spotterwanted
+    Interruptable: false
+    EnforceDeadAir: 3
+    cache_OnCreate: false
+    MaxPlayback: 1
+- ParentName: default
+  Name: outcome_outcomefail
+  Data:
+    CollectionName: outcome_outcomefail
+    SpeechID: kSPCH1_EventID_OutcomeFail
+    BackTime: 12
+    expiry: 5
+    CullingRange: 300
+    Interval: 20
+    priority: 80
+    DoNotDropout: false
+    DepFollow:
+      Capacity: 8
+      Data:
+      - ClassKey: speech
+        CollectionKey: rollingstrategy_strategyexecute
+      - ClassKey: speech
+        CollectionKey: anytimeevents_collisionworld
+      - ClassKey: speech
+        CollectionKey: anytimeevents_collworld_flip
+      - ClassKey: speech
+        CollectionKey: arrest_bullhornarrest
+      - ClassKey: speech
+        CollectionKey: helispecific_helibullhornarrest
+      - ClassKey: speech
+        CollectionKey: extracops_extrarbengage
+      - ClassKey: speech
+        CollectionKey: staticroadblock_rbengage
+      - ClassKey: speech
+        CollectionKey: anytimeevents_intenttoram
+    Interruptable: false
+    MinPlayerSpeed: 40
+- ParentName: default
+  Name: staticroadblock_dispsubrb
+  Data:
+    CollectionName: staticroadblock_dispsubrb
+    SpeechID: kSPCH1_EventID_DispSubRB
+    BackTime: 0
+    expiry: 5
+    CullingRange: 300
+    Interval: 20
+    priority: 50
+    DoNotDropout: false
+    DepFollow:
+      Capacity: 1
+      Data:
+      - ClassKey: speech
+        CollectionKey: staticroadblock_callforrb_sub
+- ParentName: default
+  Name: extracops_swarmingreplyfollow
+  Data:
+    CollectionName: extracops_swarmingreplyfollow
+    SpeechID: kSPCH1_EventID_SwarmingReplyFollow
+    BackTime: 10
+    expiry: 15
+    CullingRange: 300
+    Interval: 20
+    priority: 50
+    DoNotDropout: false
+    DepFollow:
+      Capacity: 1
+      Data:
+      - ClassKey: speech
+        CollectionKey: extracops_swarmingreply
+- ParentName: default
+  Name: backup_unitbureply
+  Data:
+    CollectionName: backup_unitbureply
+    SpeechID: kSPCH1_EventID_UnitBUReply
+    BackTime: 0
+    expiry: 3
+    CullingRange: 100
+    Interval: 60
+    priority: 50
+    DoNotDropout: false
+    MaxHeat: 2
+    DepFollow:
+      Capacity: 3
+      Data:
+      - ClassKey: speech
+        CollectionKey: backup_callforbu
+      - ClassKey: speech
+        CollectionKey: backup_bureminder
+      - ClassKey: speech
+        CollectionKey: backup_dispbackupreply
+    MaxPlayback: 1
+    Clarity: 0
+- ParentName: default
+  Name: anytimeevents_collworld_spin
+  Data:
+    CollectionName: anytimeevents_collworld_spin
+    SpeechID: kSPCH1_EventID_CollisionWorld
+    BackTime: 0
+    expiry: 3
+    CullingRange: 300
+    Interval: 300
+    priority: 90
+    DoNotDropout: true
+    interrupt: true
+- ParentName: default
+  Name: helispecific_helihazardalert
+  Data:
+    CollectionName: helispecific_helihazardalert
+    SpeechID: 179
+    BackTime: 0
+    expiry: 5
+    CullingRange: 0
+    Interval: 20
+    priority: 50
+    DoNotDropout: false
+    MaxPlayback: 0
+- ParentName: default
+  Name: extracops_otherlead
+  Data:
+    CollectionName: extracops_otherlead
+    SpeechID: kSPCH1_EventID_OtherLead
+    BackTime: 0
+    expiry: 90
+    CullingRange: 300
+    Interval: 10
+    priority: 50
+    DoNotDropout: false
+    DepFollow:
+      Capacity: 1
+      Data:
+      - ClassKey: speech
+        CollectionKey: extracops_quadrentforming
+    EnforceDeadAir: 3
+- ParentName: default
+  Name: backup_callforswarming
+  Data:
+    CollectionName: backup_callforswarming
+    SpeechID: kSPCH1_EventID_CallForSwarming
+    BackTime: 0
+    expiry: 10
+    CullingRange: 300
+    Interval: 60
+    priority: 50
+    DoNotDropout: true
+    MinPlayerSpeed: 30
+- ParentName: default
+  Name: anytimeevents_regainvisualinterrupt
+  Data:
+    CollectionName: anytimeevents_regainvisualinterrupt
+    SpeechID: kSPCH1_EventID_RegainVisualInterrupt
+    BackTime: 0
+    expiry: 3
+    CullingRange: 600
+    Interval: 20
+    priority: 70
+    DoNotDropout: false
+    interrupt: true
+    reqLOS: true
+- ParentName: default
+  Name: anytimeevents_dispbreakaway
+  Data:
+    CollectionName: anytimeevents_dispbreakaway
+    SpeechID: kSPCH1_EventID_DispBreakAway
+    BackTime: 20
+    expiry: 20
+    CullingRange: 32000
+    Interval: 40
+    priority: 90
+    DoNotDropout: true
+    EnforceDeadAir: 3
+- ParentName: default
+  Name: setup_vehiclereporttag
+  Data:
+    CollectionName: setup_vehiclereporttag
+    SpeechID: 182
+    BackTime: 0
+    expiry: 5
+    CullingRange: 300
+    Interval: 20
+    priority: 50
+    DoNotDropout: false
+- ParentName: default
+  Name: anytimeevents_pursuitupdaterep
+  Data:
+    CollectionName: anytimeevents_pursuitupdaterep
+    SpeechID: kSPCH1_EventID_PursuitUpdateRep
+    BackTime: 0
+    expiry: 10
+    CullingRange: 32000
+    Interval: 15
+    priority: 50
+    DoNotDropout: false
+    DepFollow:
+      Capacity: 1
+      Data:
+      - ClassKey: speech
+        CollectionKey: anytimeevents_disppursuitupdate
+- ParentName: default
+  Name: staticroadblock_rbengage
+  Data:
+    CollectionName: staticroadblock_rbengage
+    SpeechID: kSPCH1_EventID_RBEngage
+    BackTime: 0
+    expiry: 4
+    CullingRange: 1000
+    Interval: 5
+    priority: 95
+    DoNotDropout: true
+    Interruptable: false
+    interrupt: true
+    EnforceDeadAir: 1
+- ParentName: default
+  Name: interrupts_interruptram
+  Data:
+    CollectionName: interrupts_interruptram
+    SpeechID: kSPCH1_EventID_InterruptRam
+    BackTime: 0
+    expiry: 1
+    CullingRange: 300
+    Interval: 60
+    priority: 80
+    DoNotDropout: true
+    Interruptable: false
+    interrupt: true
+    EnforceDeadAir: 1
+    OnScreenOnly: true
+    InitDelay: 0.5
+    MinPlayerSpeed: 30
+- ParentName: default
+  Name: rollingstrategy_calltopositionrem
+  Data:
+    CollectionName: rollingstrategy_calltopositionrem
+    SpeechID: 86
+    BackTime: 10
+    expiry: 5
+    CullingRange: 10
+    Interval: 60
+    priority: 70
+    DoNotDropout: false
+    DepFollow:
+      Capacity: 1
+      Data:
+      - ClassKey: speech
+        CollectionKey: rollingstrategy_calltoposition
+    MinPlayerSpeed: 35
+- ParentName: default
+  Name: anytimeevents_disppursuitescalation
+  Data:
+    CollectionName: anytimeevents_disppursuitescalation
+    SpeechID: kSPCH1_EventID_DispPursuitEscalation
+    BackTime: 0
+    expiry: 10
+    CullingRange: 300
+    Interval: 60
+    priority: 90
+    DoNotDropout: true
+    RecallList:
+      Capacity: 1
+      Data:
+      - ClassKey: speech
+        CollectionKey: anytimeevents_dispbreakaway
+    Interruptable: false
+    MinPlayerSpeed: 30
+- ParentName: default
+  Name: setup_dispnovehdescrip
+  Data:
+    CollectionName: setup_dispnovehdescrip
+    SpeechID: 225
+    BackTime: 0
+    expiry: 20
+    CullingRange: 300
+    Interval: 20
+    priority: 50
+    DoNotDropout: true
+    cache_OnCreate: false
+    DepFollow:
+      Capacity: 1
+      Data:
+      - ClassKey: speech
+        CollectionKey: setup_moredetails
+    Interruptable: false
+- ParentName: default
+  Name: anytimeevents_directionhigh
+  Data:
+    CollectionName: anytimeevents_directionhigh
+    SpeechID: kSPCH1_EventID_DirectionHigh
+    BackTime: 200
+    expiry: 2
+    CullingRange: 300
+    Interval: 40
+    priority: 50
+    DoNotDropout: false
+    MinHeat: 2
+    DepFollow:
+      Capacity: 1
+      Data:
+      - ClassKey: speech
+        CollectionKey: setup_locationreport
+    reqLOS: true
+    Interruptable: false
+    MinPlayerSpeed: 50
+    Clarity: 3
+- ParentName: default
+  Name: extracops_rbwarning
+  Data:
+    CollectionName: extracops_rbwarning
+    SpeechID: kSPCH1_EventID_RBWarning
+    BackTime: 0
+    expiry: 2
+    CullingRange: 32000
+    Interval: 30
+    priority: 90
+    DoNotDropout: true
+    RecallList:
+      Capacity: 1
+      Data:
+      - ClassKey: speech
+        CollectionKey: staticroadblock_disprbupdate
+    MinPlayerSpeed: 30
+    interrupt: true
+- ParentName: default
+  Name: extracops_possiblesuspect
+  Data:
+    CollectionName: extracops_possiblesuspect
+    SpeechID: kSPCH1_EventID_PossibleSuspect
+    BackTime: 0
+    expiry: 30
+    CullingRange: 300
+    Interval: 10
+    priority: 50
+    DoNotDropout: true
+    DepFollow:
+      Capacity: 2
+      Data:
+      - ClassKey: speech
+        CollectionKey: extracops_quadrentforming
+      - ClassKey: speech
+        CollectionKey: helispecific_heliquadrent
+    EnforceDeadAir: 4
+- ParentName: default
+  Name: anytimeevents_collworld_flip
+  Data:
+    CollectionName: anytimeevents_collworld_flip
+    SpeechID: kSPCH1_EventID_CollWorld_Flip
+    BackTime: 0
+    expiry: 3
+    CullingRange: 300
+    Interval: 300
+    priority: 90
+    DoNotDropout: true
+    interrupt: true
+    InitDelay: 1
+- ParentName: default
+  Name: extracops_extrarbengage
+  Data:
+    CollectionName: extracops_extrarbengage
+    SpeechID: kSPCH1_EventID_ExtraRBEngage
+    BackTime: 0
+    expiry: 4
+    CullingRange: 300
+    Interval: 5
+    priority: 95
+    DoNotDropout: true
+    Interruptable: false
+    interrupt: true
+    EnforceDeadAir: 1
+- ParentName: default
+  Name: backup_dispbueta
+  Data:
+    CollectionName: backup_dispbueta
+    SpeechID: 228
+    BackTime: 0
+    expiry: 10
+    CullingRange: 300
+    Interval: 45
+    priority: 50
+    DoNotDropout: true
+    DepFollow:
+      Capacity: 5
+      Data:
+      - ClassKey: speech
+        CollectionKey: setup_initialcallforbu
+      - ClassKey: speech
+        CollectionKey: setup_initialcallforbu_ms
+      - ClassKey: speech
+        CollectionKey: backup_callforbu
+      - ClassKey: speech
+        CollectionKey: backup_bureminder
+      - ClassKey: speech
+        CollectionKey: backup_callforswarming
+- ParentName: default
+  Name: backup_buarrives
+  Data:
+    CollectionName: backup_buarrives
+    SpeechID: kSPCH1_EventID_BUArrives
+    BackTime: 0
+    expiry: 3
+    CullingRange: 75
+    Interval: 60
+    priority: 50
+    DoNotDropout: false
+    reqLOS: true
+    MaxPlayback: 1
+    Clarity: 5
+- ParentName: default
+  Name: anytimeevents_regainvisual
+  Data:
+    CollectionName: anytimeevents_regainvisual
+    SpeechID: kSPCH1_EventID_RegainVisual
+    BackTime: 30
+    expiry: 3
+    CullingRange: 300
+    Interval: 10
+    priority: 92
+    DoNotDropout: true
+    DepFollow:
+      Capacity: 4
+      Data:
+      - ClassKey: speech
+        CollectionKey: anytimeevents_lostsuspect
+      - ClassKey: speech
+        CollectionKey: anytimeevents_lostvisual
+      - ClassKey: speech
+        CollectionKey: anytimeevents_suspectoutrun
+      - ClassKey: speech
+        CollectionKey: anytimeevents_dispbreakaway
+    Interruptable: false
+    interrupt: true
+    EnforceDeadAir: 1.5
+    InitDelay: 0.5

@@ -1,0 +1,3144 @@
+- ParentName: 
+  Name: default
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 1
+        mMaxSpeed: 10
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0
+        mMaxSpeed: 0
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt_no_leaves
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    RenderNoise:
+      Frequency: 0
+      Amplitude: 0
+      MinSpeed: 0
+      MaxSpeed: 0
+    CollectionName: default
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 1
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 1
+    LATERAL_GRIP: 1
+    STICK: 0
+    WheelEffectFrequency: 0
+    WheelEffectIntensity: 0
+    WheelSurfaceEffect: kSine
+    Aud_Roadnoise_LOOP: 5
+    Aud_RoadNoise_TransOFF: -1
+    Aud_RoadNoise_TransON: -1
+    RSNMCHUNK_FERESNAMES: 0
+    DEBUG_COLOUR:
+      X: 1
+      Y: 0.37000000476837158
+      Z: 0.93999999761581421
+      W: 1
+- ParentName: default
+  Name: overrides
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 1
+        mMaxSpeed: 10
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0
+        mMaxSpeed: 0
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt_no_leaves
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    RenderNoise:
+      Frequency: 0
+      Amplitude: 0
+      MinSpeed: 0
+      MaxSpeed: 0
+    CollectionName: overrides
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 1
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 1
+    LATERAL_GRIP: 1
+    STICK: 0
+    WheelEffectFrequency: 0
+    WheelEffectIntensity: 0
+- ParentName: overrides
+  Name: blown_tire
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 1
+        mMaxSpeed: 10
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0
+        mMaxSpeed: 0
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt_no_leaves
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    RenderNoise:
+      Frequency: 0
+      Amplitude: 0
+      MinSpeed: 0
+      MaxSpeed: 0
+    CollectionName: blown_tire
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 1
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 1
+    LATERAL_GRIP: 1
+    STICK: 0
+    WheelEffectFrequency: 0
+    WheelEffectIntensity: 0
+    Aud_Roadnoise_LOOP: 6
+    Aud_RoadNoise_TransON: 3
+    Aud_RoadNoise_TransOFF: -1
+- ParentName: default
+  Name: unknown
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 1
+        mMaxSpeed: 10
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0
+        mMaxSpeed: 0
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt_no_leaves
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    RenderNoise:
+      Frequency: 0
+      Amplitude: 0
+      MinSpeed: 0
+      MaxSpeed: 0
+    CollectionName: unknown
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 1
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 1
+    LATERAL_GRIP: 1
+    STICK: 0
+    WheelEffectFrequency: 0
+    WheelEffectIntensity: 0
+    DEBUG_COLOUR:
+      X: 1
+      Y: 0.0099999997764825821
+      Z: 0.0099999997764825821
+      W: 1
+- ParentName: default
+  Name: solid
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 1
+        mMaxSpeed: 10
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0
+        mMaxSpeed: 0
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt_no_leaves
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    RenderNoise:
+      Frequency: 0
+      Amplitude: 0
+      MinSpeed: 0
+      MaxSpeed: 0
+    CollectionName: solid
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 1
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 1
+    LATERAL_GRIP: 1
+    STICK: 0
+    WheelEffectFrequency: 0
+    WheelEffectIntensity: 0
+    FFB_SLIP:
+      Capacity: 1
+      Data:
+      - Frequency_A: 0
+        Amplitude_A: 0
+        Offset_A: 0
+        Threshold_A: 0.5
+        Frequency_B: 1
+        Amplitude_B: 0.5
+        Offset_B: 0.5
+        Threshold_B: 20
+    DEBUG_COLOUR:
+      X: 1
+      Y: 0.94999998807907104
+      Z: 0.69999998807907104
+      W: 1
+- ParentName: solid
+  Name: glass
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 1
+        mMaxSpeed: 10
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0
+        mMaxSpeed: 0
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt_no_leaves
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    RenderNoise:
+      Frequency: 0
+      Amplitude: 0
+      MinSpeed: 0
+      MaxSpeed: 0
+    CollectionName: glass
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 1
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 1
+    LATERAL_GRIP: 1
+    STICK: 0
+    WheelEffectFrequency: 0
+    WheelEffectIntensity: 0
+- ParentName: solid
+  Name: organic
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 1
+        mMaxSpeed: 10
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0
+        mMaxSpeed: 0
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt_no_leaves
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    RenderNoise:
+      Frequency: 0
+      Amplitude: 0
+      MinSpeed: 0
+      MaxSpeed: 0
+    CollectionName: organic
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 1
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 1
+    LATERAL_GRIP: 1
+    STICK: 0
+    WheelEffectFrequency: 0
+    WheelEffectIntensity: 0
+    FFB_ROLL:
+      Capacity: 1
+      Data:
+      - Frequency_A: 1
+        Amplitude_A: 0.5
+        Offset_A: 0
+        Threshold_A: 5
+        Frequency_B: 4
+        Amplitude_B: 0.25
+        Offset_B: 0.25
+        Threshold_B: 50
+- ParentName: organic
+  Name: wood
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 1
+        mMaxSpeed: 10
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0
+        mMaxSpeed: 0
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt_no_leaves
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    RenderNoise:
+      Frequency: 4
+      Amplitude: 1
+      MinSpeed: 0
+      MaxSpeed: 12
+    CollectionName: wood
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 1
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 1
+    LATERAL_GRIP: 1
+    STICK: 0
+    WheelEffectFrequency: 120
+    WheelEffectIntensity: 100
+    WheelSurfaceEffect: kSquare
+    Aud_Roadnoise_LOOP: 1
+    Aud_RoadNoise_TransOFF: 0
+    Aud_RoadNoise_TransON: 1
+- ParentName: organic
+  Name: flesh
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 1
+        mMaxSpeed: 10
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0
+        mMaxSpeed: 0
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt_no_leaves
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    RenderNoise:
+      Frequency: 0
+      Amplitude: 0
+      MinSpeed: 0
+      MaxSpeed: 0
+    CollectionName: flesh
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 1
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 1
+    LATERAL_GRIP: 1
+    STICK: 0
+    WheelEffectFrequency: 0
+    WheelEffectIntensity: 0
+- ParentName: solid
+  Name: ice
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 1
+        mMaxSpeed: 10
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0
+        mMaxSpeed: 0
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt_no_leaves
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    RenderNoise:
+      Frequency: 0
+      Amplitude: 0
+      MinSpeed: 0
+      MaxSpeed: 0
+    CollectionName: ice
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 1
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 1
+    LATERAL_GRIP: 1
+    STICK: 0
+    WheelEffectFrequency: 0
+    WheelEffectIntensity: 0
+- ParentName: solid
+  Name: concrete
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 5
+        mMaxSpeed: 25
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 1
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: xecs_solid_wall
+        mMinSpeed: 1
+        mMaxSpeed: 5
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt
+        mMinSpeed: 1
+        mMaxSpeed: 2
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0
+        mMaxSpeed: 0
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 1
+        mMaxSpeed: 2
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sl_asphalt
+        mMinSpeed: 0.125
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 1
+        mMaxSpeed: 2
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 1
+        mMaxSpeed: 2
+    RenderNoise:
+      Frequency: 0
+      Amplitude: 0
+      MinSpeed: 0
+      MaxSpeed: 0
+    CollectionName: concrete
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 1
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 1
+    LATERAL_GRIP: 1
+    STICK: 0
+    WheelEffectFrequency: 0
+    WheelEffectIntensity: 0
+    Aud_Roadnoise_LOOP: 1
+    Aud_RoadNoise_TransON: 0
+    DEBUG_COLOUR:
+      X: 0.40999999642372131
+      Y: 0.40999999642372131
+      Z: 0.40999999642372131
+      W: 1
+    Aud_RoadNoise_TransOFF: 1
+- ParentName: concrete
+  Name: stone
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 5
+        mMaxSpeed: 25
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 1
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: xecs_solid_wall
+        mMinSpeed: 1
+        mMaxSpeed: 5
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt
+        mMinSpeed: 1
+        mMaxSpeed: 2
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0
+        mMaxSpeed: 0
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 1
+        mMaxSpeed: 2
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sl_asphalt
+        mMinSpeed: 0.125
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 1
+        mMaxSpeed: 2
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 1
+        mMaxSpeed: 2
+    RenderNoise:
+      Frequency: 0
+      Amplitude: 0
+      MinSpeed: 0
+      MaxSpeed: 0
+    CollectionName: stone
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 1
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 1
+    LATERAL_GRIP: 1
+    STICK: 0
+    WheelEffectFrequency: 90
+    WheelEffectIntensity: 70
+    WheelSurfaceEffect: kSquare
+- ParentName: concrete
+  Name: asphalt
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 5
+        mMaxSpeed: 25
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 1
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: xecs_solid_wall
+        mMinSpeed: 1
+        mMaxSpeed: 5
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt
+        mMinSpeed: 1
+        mMaxSpeed: 2
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0
+        mMaxSpeed: 0
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 1
+        mMaxSpeed: 2
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sl_asphalt
+        mMinSpeed: 0.125
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 1
+        mMaxSpeed: 2
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 1
+        mMaxSpeed: 2
+    RenderNoise:
+      Frequency: 0
+      Amplitude: 0
+      MinSpeed: 0
+      MaxSpeed: 0
+    CollectionName: asphalt
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 1
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 1
+    LATERAL_GRIP: 1
+    STICK: 0
+    WheelEffectFrequency: 0
+    WheelEffectIntensity: 0
+    Aud_Roadnoise_LOOP: 5
+    Aud_RoadNoise_TransON: -1
+    DEBUG_COLOUR:
+      X: 0.81999999284744263
+      Y: 0.81999999284744263
+      Z: 0.81999999284744263
+      W: 1
+    Aud_RoadNoise_TransOFF: -1
+- ParentName: asphalt
+  Name: wetpaved
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 5
+        mMaxSpeed: 25
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 1
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: xecs_solid_wall
+        mMinSpeed: 1
+        mMaxSpeed: 5
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt
+        mMinSpeed: 1
+        mMaxSpeed: 2
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0
+        mMaxSpeed: 0
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 1
+        mMaxSpeed: 2
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sl_asphalt
+        mMinSpeed: 0.125
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 1
+        mMaxSpeed: 2
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 1
+        mMaxSpeed: 2
+    RenderNoise:
+      Frequency: 0
+      Amplitude: 0
+      MinSpeed: 0
+      MaxSpeed: 0
+    CollectionName: wetpaved
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 1
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 1
+    LATERAL_GRIP: 1
+    STICK: 0
+    WheelEffectFrequency: 0
+    WheelEffectIntensity: 0
+- ParentName: asphalt
+  Name: asphalt_no_leaves
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 1
+        mMaxSpeed: 10
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 1
+        mMaxSpeed: 5
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt_no_leaves
+        mMinSpeed: 1
+        mMaxSpeed: 2
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0
+        mMaxSpeed: 0
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt_no_leaves
+        mMinSpeed: 1
+        mMaxSpeed: 2
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt_no_leaves
+        mMinSpeed: 1
+        mMaxSpeed: 2
+    RenderNoise:
+      Frequency: 0
+      Amplitude: 0
+      MinSpeed: 0
+      MaxSpeed: 0
+    CollectionName: asphalt_no_leaves
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 1
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 1
+    LATERAL_GRIP: 1
+    STICK: 0
+    WheelEffectFrequency: 0
+    WheelEffectIntensity: 0
+- ParentName: asphalt_no_leaves
+  Name: oilslick
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 1
+        mMaxSpeed: 10
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 1
+        mMaxSpeed: 5
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt_no_leaves
+        mMinSpeed: 1
+        mMaxSpeed: 2
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0
+        mMaxSpeed: 0
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt_no_leaves
+        mMinSpeed: 1
+        mMaxSpeed: 2
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt_no_leaves
+        mMinSpeed: 1
+        mMaxSpeed: 2
+    RenderNoise:
+      Frequency: 0
+      Amplitude: 0
+      MinSpeed: 0
+      MaxSpeed: 0
+    CollectionName: oilslick
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 1
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 1
+    LATERAL_GRIP: 1
+    STICK: 10
+    WheelEffectFrequency: 0
+    WheelEffectIntensity: 0
+- ParentName: asphalt_no_leaves
+  Name: acidslick
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 1
+        mMaxSpeed: 10
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 1
+        mMaxSpeed: 5
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt_no_leaves
+        mMinSpeed: 1
+        mMaxSpeed: 2
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0
+        mMaxSpeed: 0
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt_no_leaves
+        mMinSpeed: 1
+        mMaxSpeed: 2
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt_no_leaves
+        mMinSpeed: 1
+        mMaxSpeed: 2
+    RenderNoise:
+      Frequency: 0
+      Amplitude: 0
+      MinSpeed: 0
+      MaxSpeed: 0
+    CollectionName: acidslick
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 1
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 1
+    LATERAL_GRIP: 1
+    STICK: 3
+    WheelEffectFrequency: 0
+    WheelEffectIntensity: 0
+- ParentName: asphalt_no_leaves
+  Name: fireslick
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 1
+        mMaxSpeed: 10
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 1
+        mMaxSpeed: 5
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt_no_leaves
+        mMinSpeed: 1
+        mMaxSpeed: 2
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0
+        mMaxSpeed: 0
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt_no_leaves
+        mMinSpeed: 1
+        mMaxSpeed: 2
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt_no_leaves
+        mMinSpeed: 1
+        mMaxSpeed: 2
+    RenderNoise:
+      Frequency: 0
+      Amplitude: 0
+      MinSpeed: 0
+      MaxSpeed: 0
+    CollectionName: fireslick
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 1
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 1
+    LATERAL_GRIP: 1
+    STICK: 0
+    WheelEffectFrequency: 0
+    WheelEffectIntensity: 0
+- ParentName: asphalt
+  Name: roadfog
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxenv_fog1
+        mMinSpeed: 1
+        mMaxSpeed: 2
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt
+        mMinSpeed: 1
+        mMaxSpeed: 2
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0
+        mMaxSpeed: 0
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 1
+        mMaxSpeed: 2
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sl_asphalt
+        mMinSpeed: 0.125
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 1
+        mMaxSpeed: 2
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 1
+        mMaxSpeed: 2
+    RenderNoise:
+      Frequency: 0
+      Amplitude: 0
+      MinSpeed: 0
+      MaxSpeed: 0
+    CollectionName: roadfog
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 1
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 1
+    LATERAL_GRIP: 1
+    STICK: 0
+    WheelEffectFrequency: 0
+    WheelEffectIntensity: 0
+    DEBUG_COLOUR:
+      X: 0.72000002861022949
+      Y: 0.51999998092651367
+      Z: 0.30000001192092896
+      W: 1
+- ParentName: concrete
+  Name: cobble
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_cobble
+        mMinSpeed: 6
+        mMaxSpeed: 10
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_cobble_wet
+        mMinSpeed: 2
+        mMaxSpeed: 10
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_cobble
+        mMinSpeed: 1
+        mMaxSpeed: 2
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_cobble_wet
+        mMinSpeed: 1
+        mMaxSpeed: 2
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_cobble
+        mMinSpeed: 0.5
+        mMaxSpeed: 2
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_cobble_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 2
+    RenderNoise:
+      Frequency: 10
+      Amplitude: 1
+      MinSpeed: 0
+      MaxSpeed: 50
+    CollectionName: cobble
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 1
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 1
+    LATERAL_GRIP: 1
+    STICK: 0
+    WheelEffectFrequency: 100
+    WheelEffectIntensity: 120
+    WheelSurfaceEffect: kTriangle
+    Aud_Roadnoise_LOOP: 2
+    CAMERA_NOISE:
+      Capacity: 2
+      Data:
+      - 0.30000001192092896
+      - 2
+- ParentName: concrete
+  Name: rooftile
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 5
+        mMaxSpeed: 25
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 1
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: xecs_solid_wall
+        mMinSpeed: 1
+        mMaxSpeed: 5
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt
+        mMinSpeed: 1
+        mMaxSpeed: 2
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0
+        mMaxSpeed: 0
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 1
+        mMaxSpeed: 2
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sl_asphalt
+        mMinSpeed: 0.125
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 1
+        mMaxSpeed: 2
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 1
+        mMaxSpeed: 2
+    RenderNoise:
+      Frequency: 0
+      Amplitude: 0
+      MinSpeed: 0
+      MaxSpeed: 0
+    CollectionName: rooftile
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 1
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 1
+    LATERAL_GRIP: 1
+    STICK: 0
+    WheelEffectFrequency: 100
+    WheelEffectIntensity: 120
+    WheelSurfaceEffect: kTriangle
+- ParentName: solid
+  Name: particulate
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 1
+        mMaxSpeed: 10
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0
+        mMaxSpeed: 0
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt_no_leaves
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    RenderNoise:
+      Frequency: 10
+      Amplitude: 1
+      MinSpeed: 0
+      MaxSpeed: 50
+    CollectionName: particulate
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 1
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 1
+    LATERAL_GRIP: 1
+    STICK: 0
+    WheelEffectFrequency: 0
+    WheelEffectIntensity: 0
+    Aud_Roadnoise_LOOP: 0
+    CAMERA_NOISE:
+      Capacity: 2
+      Data:
+      - 0.5
+      - 1
+    FFB_ROLL:
+      Capacity: 2
+      Data:
+      - Frequency_A: 0
+        Amplitude_A: 0.25
+        Offset_A: 0.5
+        Threshold_A: 5
+        Frequency_B: 1
+        Amplitude_B: 0.5
+        Offset_B: 0.5
+        Threshold_B: 50
+      - Frequency_A: 0
+        Amplitude_A: 0
+        Offset_A: 0
+        Threshold_A: 1
+        Frequency_B: 4
+        Amplitude_B: 0.5
+        Offset_B: 0
+        Threshold_B: 20
+    RSNMCHUNK_FERESNAMES: 1
+- ParentName: particulate
+  Name: hay
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 1
+        mMaxSpeed: 10
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0
+        mMaxSpeed: 0
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt_no_leaves
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    RenderNoise:
+      Frequency: 10
+      Amplitude: 1
+      MinSpeed: 0
+      MaxSpeed: 50
+    CollectionName: hay
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 1
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 1
+    LATERAL_GRIP: 1
+    STICK: 0
+    WheelEffectFrequency: 40
+    WheelEffectIntensity: 80
+- ParentName: particulate
+  Name: grass_shoulder
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 1
+        mMaxSpeed: 10
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0
+        mMaxSpeed: 0
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt_no_leaves
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    RenderNoise:
+      Frequency: 10
+      Amplitude: 0.10000000149011612
+      MinSpeed: 0
+      MaxSpeed: 50
+    CollectionName: grass_shoulder
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 1
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 1
+    LATERAL_GRIP: 1
+    STICK: 0
+    WheelEffectFrequency: 40
+    WheelEffectIntensity: 80
+    CAMERA_NOISE:
+      Capacity: 2
+      Data:
+      - 0.10000000149011612
+      - 0.5
+    WheelSurfaceEffect: kTriangle
+    DEBUG_COLOUR:
+      X: 0.73000001907348633
+      Y: 1
+      Z: 0.62999999523162842
+      W: 1
+- ParentName: particulate
+  Name: grass
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_grass
+        mMinSpeed: 10
+        mMaxSpeed: 15
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_grass_wet
+        mMinSpeed: 3
+        mMaxSpeed: 15
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sl_grass
+        mMinSpeed: 1
+        mMaxSpeed: 2
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_grass_wet
+        mMinSpeed: 1
+        mMaxSpeed: 2
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sl_grass
+        mMinSpeed: 0.5
+        mMaxSpeed: 1
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_grass_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 1
+    RenderNoise:
+      Frequency: 10
+      Amplitude: 1
+      MinSpeed: 0
+      MaxSpeed: 50
+    CollectionName: grass
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 6
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 0.69999998807907104
+    LATERAL_GRIP: 0.60000002384185791
+    STICK: 0
+    WheelEffectFrequency: 40
+    WheelEffectIntensity: 80
+    WheelSurfaceEffect: kTriangle
+    DEBUG_COLOUR:
+      X: 0.12999999523162842
+      Y: 0.80000001192092896
+      Z: 0.14000000059604645
+      W: 1
+- ParentName: grass
+  Name: golf_fairway
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_grass
+        mMinSpeed: 10
+        mMaxSpeed: 15
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_grass_wet
+        mMinSpeed: 3
+        mMaxSpeed: 15
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sl_grass
+        mMinSpeed: 1
+        mMaxSpeed: 2
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_grass_wet
+        mMinSpeed: 1
+        mMaxSpeed: 2
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sl_grass
+        mMinSpeed: 0.5
+        mMaxSpeed: 1
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_grass_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 1
+    RenderNoise:
+      Frequency: 10
+      Amplitude: 1
+      MinSpeed: 0
+      MaxSpeed: 50
+    CollectionName: golf_fairway
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 1.5
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 0.75
+    LATERAL_GRIP: 0.75
+    STICK: 0
+    WheelEffectFrequency: 40
+    WheelEffectIntensity: 80
+    CAMERA_NOISE:
+      Capacity: 2
+      Data:
+      - 0.25
+      - 1
+- ParentName: grass
+  Name: golf_rough
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_grass
+        mMinSpeed: 10
+        mMaxSpeed: 15
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_grass_wet
+        mMinSpeed: 3
+        mMaxSpeed: 15
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sl_grass
+        mMinSpeed: 1
+        mMaxSpeed: 2
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_grass_wet
+        mMinSpeed: 1
+        mMaxSpeed: 2
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sl_grass
+        mMinSpeed: 0.5
+        mMaxSpeed: 1
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_grass_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 1
+    RenderNoise:
+      Frequency: 10
+      Amplitude: 1
+      MinSpeed: 0
+      MaxSpeed: 50
+    CollectionName: golf_rough
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 6
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 0.60000002384185791
+    LATERAL_GRIP: 0.5
+    STICK: 0
+    WheelEffectFrequency: 40
+    WheelEffectIntensity: 80
+    CAMERA_NOISE:
+      Capacity: 2
+      Data:
+      - 0.5
+      - 1
+- ParentName: grass
+  Name: golf_green
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_grass
+        mMinSpeed: 10
+        mMaxSpeed: 15
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_grass_wet
+        mMinSpeed: 3
+        mMaxSpeed: 15
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sl_grass
+        mMinSpeed: 1
+        mMaxSpeed: 2
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_grass_wet
+        mMinSpeed: 1
+        mMaxSpeed: 2
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sl_grass
+        mMinSpeed: 0.5
+        mMaxSpeed: 1
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_grass_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 1
+    RenderNoise:
+      Frequency: 0
+      Amplitude: 0
+      MinSpeed: 0
+      MaxSpeed: 0
+    CollectionName: golf_green
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 0.10000000149011612
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 0.5
+    LATERAL_GRIP: 0.25
+    STICK: 0
+    WheelEffectFrequency: 40
+    WheelEffectIntensity: 80
+    CAMERA_NOISE:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+- ParentName: particulate
+  Name: sand
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_sand
+        mMinSpeed: 1
+        mMaxSpeed: 2
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_sand_wet
+        mMinSpeed: 0
+        mMaxSpeed: 0
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_sand
+        mMinSpeed: 1
+        mMaxSpeed: 2
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_sand_wet
+        mMinSpeed: 1
+        mMaxSpeed: 2
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_sand
+        mMinSpeed: 1
+        mMaxSpeed: 2
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_sand_wet
+        mMinSpeed: 1
+        mMaxSpeed: 2
+    RenderNoise:
+      Frequency: 10
+      Amplitude: 1
+      MinSpeed: 0
+      MaxSpeed: 50
+    CollectionName: sand
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 30
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 0.25
+    LATERAL_GRIP: 1
+    STICK: 0
+    WheelEffectFrequency: 40
+    WheelEffectIntensity: 60
+- ParentName: particulate
+  Name: gravel
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_cobble
+        mMinSpeed: 0.125
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_cobble_wet
+        mMinSpeed: 0.125
+        mMaxSpeed: 5
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_cobble
+        mMinSpeed: 0
+        mMaxSpeed: 0
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_cobble_wet
+        mMinSpeed: 0
+        mMaxSpeed: 0
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_cobble
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_cobble_wet
+        mMinSpeed: 0
+        mMaxSpeed: 0
+    RenderNoise:
+      Frequency: 10
+      Amplitude: 1
+      MinSpeed: 0
+      MaxSpeed: 50
+    CollectionName: gravel
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 1
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 1
+    LATERAL_GRIP: 1
+    STICK: 0
+    WheelEffectFrequency: 60
+    WheelEffectIntensity: 110
+- ParentName: particulate
+  Name: dirt
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_dirt
+        mMinSpeed: 1
+        mMaxSpeed: 10
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_cobble_wet
+        mMinSpeed: 0
+        mMaxSpeed: 0
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_dirt
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_cobble_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_dirt
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    RenderNoise:
+      Frequency: 10
+      Amplitude: 1
+      MinSpeed: 0
+      MaxSpeed: 50
+    CollectionName: dirt
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 1
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 1
+    LATERAL_GRIP: 1
+    STICK: 0
+    WheelEffectFrequency: 80
+    WheelEffectIntensity: 130
+    DEBUG_COLOUR:
+      X: 0.72000002861022949
+      Y: 0.51999998092651367
+      Z: 0.30000001192092896
+      W: 1
+- ParentName: dirt
+  Name: mud
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_dirt
+        mMinSpeed: 1
+        mMaxSpeed: 10
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_cobble_wet
+        mMinSpeed: 0
+        mMaxSpeed: 0
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_dirt
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_cobble_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_dirt
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    RenderNoise:
+      Frequency: 10
+      Amplitude: 1
+      MinSpeed: 0
+      MaxSpeed: 50
+    CollectionName: mud
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 1
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 1
+    LATERAL_GRIP: 1
+    STICK: 0
+    WheelEffectFrequency: 80
+    WheelEffectIntensity: 130
+- ParentName: particulate
+  Name: snow
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 1
+        mMaxSpeed: 10
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0
+        mMaxSpeed: 0
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt_no_leaves
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    RenderNoise:
+      Frequency: 10
+      Amplitude: 1
+      MinSpeed: 0
+      MaxSpeed: 50
+    CollectionName: snow
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 1
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 1
+    LATERAL_GRIP: 1
+    STICK: 0
+    WheelEffectFrequency: 0
+    WheelEffectIntensity: 0
+- ParentName: solid
+  Name: plastic
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 1
+        mMaxSpeed: 10
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0
+        mMaxSpeed: 0
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt_no_leaves
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    RenderNoise:
+      Frequency: 0
+      Amplitude: 0
+      MinSpeed: 0
+      MaxSpeed: 0
+    CollectionName: plastic
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 1
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 1
+    LATERAL_GRIP: 1
+    STICK: 0
+    WheelEffectFrequency: 0
+    WheelEffectIntensity: 0
+- ParentName: plastic
+  Name: bumper
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 1
+        mMaxSpeed: 10
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0
+        mMaxSpeed: 0
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt_no_leaves
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    RenderNoise:
+      Frequency: 0
+      Amplitude: 0
+      MinSpeed: 0
+      MaxSpeed: 0
+    CollectionName: bumper
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 1
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 1
+    LATERAL_GRIP: 1
+    STICK: 0
+    WheelEffectFrequency: 0
+    WheelEffectIntensity: 0
+- ParentName: plastic
+  Name: wheels
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 1
+        mMaxSpeed: 10
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0
+        mMaxSpeed: 0
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt_no_leaves
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    RenderNoise:
+      Frequency: 0
+      Amplitude: 0
+      MinSpeed: 0
+      MaxSpeed: 0
+    CollectionName: wheels
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 1
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 1
+    LATERAL_GRIP: 1
+    STICK: 0
+    WheelEffectFrequency: 0
+    WheelEffectIntensity: 0
+- ParentName: solid
+  Name: metal
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 1
+        mMaxSpeed: 10
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0
+        mMaxSpeed: 0
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt_no_leaves
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    RenderNoise:
+      Frequency: 0
+      Amplitude: 0
+      MinSpeed: 0
+      MaxSpeed: 0
+    CollectionName: metal
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 1
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 1
+    LATERAL_GRIP: 1
+    STICK: 0
+    WheelEffectFrequency: 160
+    WheelEffectIntensity: 100
+    WheelSurfaceEffect: kSquare
+- ParentName: metal
+  Name: railroad
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 1
+        mMaxSpeed: 10
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0
+        mMaxSpeed: 0
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt_no_leaves
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    RenderNoise:
+      Frequency: 0
+      Amplitude: 0
+      MinSpeed: 0
+      MaxSpeed: 0
+    CollectionName: railroad
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 1
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 1
+    LATERAL_GRIP: 1
+    STICK: 0
+    WheelEffectFrequency: 160
+    WheelEffectIntensity: 100
+    Aud_Roadnoise_LOOP: 3
+    Aud_RoadNoise_TransON: 1
+    Aud_RoadNoise_TransOFF: 0
+- ParentName: metal
+  Name: carbody
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 1
+        mMaxSpeed: 10
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0
+        mMaxSpeed: 0
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt_no_leaves
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    RenderNoise:
+      Frequency: 0
+      Amplitude: 0
+      MinSpeed: 0
+      MaxSpeed: 0
+    CollectionName: carbody
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 1
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 1
+    LATERAL_GRIP: 1
+    STICK: 0
+    WheelEffectFrequency: 160
+    WheelEffectIntensity: 100
+    MATERIAL_STRENGTH: 20
+- ParentName: metal
+  Name: rotors
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 1
+        mMaxSpeed: 10
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0
+        mMaxSpeed: 0
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt_no_leaves
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    RenderNoise:
+      Frequency: 0
+      Amplitude: 0
+      MinSpeed: 0
+      MaxSpeed: 0
+    CollectionName: rotors
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 1
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 1
+    LATERAL_GRIP: 1
+    STICK: 0
+    WheelEffectFrequency: 160
+    WheelEffectIntensity: 100
+- ParentName: default
+  Name: null
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 1
+        mMaxSpeed: 10
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0
+        mMaxSpeed: 0
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt_no_leaves
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    RenderNoise:
+      Frequency: 0
+      Amplitude: 0
+      MinSpeed: 0
+      MaxSpeed: 0
+    CollectionName: null
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 1
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 1
+    LATERAL_GRIP: 1
+    STICK: 0
+    WheelEffectFrequency: 0
+    WheelEffectIntensity: 0
+- ParentName: default
+  Name: liquid
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 1
+        mMaxSpeed: 10
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0
+        mMaxSpeed: 0
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt_no_leaves
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    RenderNoise:
+      Frequency: 0
+      Amplitude: 0
+      MinSpeed: 0
+      MaxSpeed: 0
+    CollectionName: liquid
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 1
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 1
+    LATERAL_GRIP: 1
+    STICK: 0
+    WheelEffectFrequency: 0
+    WheelEffectIntensity: 0
+    DEBUG_COLOUR:
+      X: 0.74000000953674316
+      Y: 0.85000002384185791
+      Z: 1
+      W: 1
+- ParentName: liquid
+  Name: water
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0
+        mMaxSpeed: 5
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    RenderNoise:
+      Frequency: 0
+      Amplitude: 0
+      MinSpeed: 0
+      MaxSpeed: 0
+    CollectionName: water
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 1
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 1
+    LATERAL_GRIP: 1
+    STICK: 0
+    WheelEffectFrequency: 0
+    WheelEffectIntensity: 0
+    Aud_Roadnoise_LOOP: 3
+    Aud_RoadNoise_TransON: 0
+    DEBUG_COLOUR:
+      X: 0.4699999988079071
+      Y: 0.9100000262260437
+      Z: 1
+      W: 1
+- ParentName: default
+  Name: energy
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 1
+        mMaxSpeed: 10
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0
+        mMaxSpeed: 0
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt_no_leaves
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    RenderNoise:
+      Frequency: 0
+      Amplitude: 0
+      MinSpeed: 0
+      MaxSpeed: 0
+    CollectionName: energy
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 1
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 1
+    LATERAL_GRIP: 1
+    STICK: 0
+    WheelEffectFrequency: 0
+    WheelEffectIntensity: 0
+    DEBUG_COLOUR:
+      X: 1
+      Y: 0
+      Z: 0
+      W: 1
+- ParentName: energy
+  Name: explosion
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 1
+        mMaxSpeed: 10
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0
+        mMaxSpeed: 0
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt_no_leaves
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    RenderNoise:
+      Frequency: 0
+      Amplitude: 0
+      MinSpeed: 0
+      MaxSpeed: 0
+    CollectionName: explosion
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 1
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 1
+    LATERAL_GRIP: 1
+    STICK: 0
+    WheelEffectFrequency: 0
+    WheelEffectIntensity: 0
+- ParentName: energy
+  Name: softbarrier
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 1
+        mMaxSpeed: 10
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0
+        mMaxSpeed: 0
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt_no_leaves
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    RenderNoise:
+      Frequency: 0
+      Amplitude: 0
+      MinSpeed: 0
+      MaxSpeed: 0
+    CollectionName: softbarrier
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 1
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 1
+    LATERAL_GRIP: 1
+    STICK: 0
+    WheelEffectFrequency: 0
+    WheelEffectIntensity: 0
+- ParentName: energy
+  Name: shield
+  Data:
+    TireDriveEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: ''
+        mMinSpeed: 1
+        mMaxSpeed: 10
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0
+        mMaxSpeed: 0
+    TireSlideEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt_no_leaves
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    TireSlipEffects:
+      Capacity: 3
+      Data:
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_sk_asphalt
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+      - mTireCondition: kGrip
+        mEmitter:
+          ClassKey: emittergroup
+          CollectionKey: fxtd_dr_asphalt_wet
+        mMinSpeed: 0.5
+        mMaxSpeed: 5
+    RenderNoise:
+      Frequency: 0
+      Amplitude: 0
+      MinSpeed: 0
+      MaxSpeed: 0
+    CollectionName: shield
+    GROUND_FRICTION: 1
+    ROLLING_RESISTANCE: 1
+    WORLD_FRICTION: 1
+    DRIVE_GRIP: 1
+    LATERAL_GRIP: 1
+    STICK: 0
+    WheelEffectFrequency: 0
+    WheelEffectIntensity: 0

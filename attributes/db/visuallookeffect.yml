@@ -1,0 +1,178 @@
+- ParentName: 
+  Name: default
+  Data:
+    graph:
+      Data:
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0.30327871441841125
+      - 0.63157892227172852
+      - 0
+      - 0
+      - 0.69672131538391113
+      - 0.34210529923439026
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+    _testvalue: 0
+    length: 0
+    magnitude: 1
+    heattrigger: 0
+- ParentName: default
+  Name: uves_transition
+  Data:
+    graph:
+      Data:
+      - 0.0054054060019552708
+      - 0.98275858163833618
+      - 0
+      - 0
+      - 0.44324320554733276
+      - 0.98275858163833618
+      - 0
+      - 0
+      - 0.72972971200942993
+      - 0.58620691299438477
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+    _testvalue: 0
+    length: 5
+    magnitude: 1
+    heattrigger: 0
+- ParentName: default
+  Name: camera_flash
+  Data:
+    graph:
+      Data:
+      - 0
+      - 0.47368419170379639
+      - 0
+      - 0
+      - 0.12820510566234589
+      - 1.9473680257797241
+      - 0
+      - 0
+      - 0.11475410312414169
+      - -0.15789470076560974
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+    _testvalue: -0.10000000149011612
+    length: 0.20000000298023224
+    magnitude: 1
+    heattrigger: 11
+- ParentName: default
+  Name: uves_pulse
+  Data:
+    graph:
+      Data:
+      - 0
+      - 0.47368419170379639
+      - 0
+      - 0
+      - 0.12820510566234589
+      - 1.9473680257797241
+      - 0
+      - 0
+      - 0.11475410312414169
+      - -0.15789470076560974
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+    _testvalue: -0.10000000149011612
+    length: 0.60000002384185791
+    magnitude: 4
+    heattrigger: 0.10000000149011612
+- ParentName: default
+  Name: nos_radialblur
+  Data:
+    graph:
+      Data:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0.37288141250610352
+      - 0.39473679661750793
+      - 0
+      - 0
+      - 0.7118644118309021
+      - 0.76315790414810181
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+    _testvalue: -0.10000000149011612
+    length: 5
+    magnitude: 1
+    heattrigger: 0
+    radialblur_scale: 1.5
+- ParentName: default
+  Name: pursuitbreaker
+  Data:
+    graph:
+      Data:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0.37288141250610352
+      - 0.39473679661750793
+      - 0
+      - 0
+      - 0.7118644118309021
+      - 0.76315790414810181
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+    _testvalue: -0.10000000149011612
+    length: 0.80000001192092896
+    magnitude: 1
+    heattrigger: 0
+    radialblur_scale: 1.5
+- ParentName: default
+  Name: uves_radialblur
+  Data:
+    graph:
+      Data:
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0.48101270198822021
+      - 1.0789469480514526
+      - 0
+      - 0
+      - 1.1265820264816284
+      - 0.63157892227172852
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+    _testvalue: -0.10000000149011612
+    length: 10
+    magnitude: 1
+    heattrigger: 0.10000000149011612
+    radialblur_uvoffset: 0.014999999664723873

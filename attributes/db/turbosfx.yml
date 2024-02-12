@@ -1,0 +1,149 @@
+- ParentName: 
+  Name: default
+  Data:
+    BankName: TURBO_TUN_SML_0_MB.abk
+    Vol_Spool: 10000
+    ChargeTime: 20
+    Vol_Blowoff1: 26000
+    Vol_Blowoff2: 26000
+    Leak_Rate: 0.5
+- ParentName: default
+  Name: superchrg_must
+  Data:
+    BankName: TURBO_SC_MUSTANG_MB.abk
+    Vol_Spool: 13500
+    ChargeTime: 11
+    Vol_Blowoff1: 5000
+    Vol_Blowoff2: 5000
+    Leak_Rate: 0.5
+- ParentName: default
+  Name: turbo_sml2_00
+  Data:
+    BankName: TURBO_TUN_SML2_0_MB.abk
+    Vol_Spool: 7079
+    ChargeTime: 20
+    Vol_Blowoff1: 18500
+    Vol_Blowoff2: 18500
+- ParentName: default
+  Name: turbo_lrg_00
+  Data:
+    BankName: TURBO_EXOTIC_0_MB.abk
+    Vol_Spool: 8000
+    ChargeTime: 20
+    Vol_Blowoff1: 18426
+    Vol_Blowoff2: 18426
+- ParentName: default
+  Name: turbo_semi
+  Data:
+    BankName: TURBO_LRG_1_MB.abk
+    Vol_Spool: 5000
+    ChargeTime: 20
+    Vol_Blowoff1: 0
+    Vol_Blowoff2: 0
+- ParentName: default
+  Name: turbo_lrg_02
+  Data:
+    BankName: TURBO_EXOTIC_2_MB.abk
+    Vol_Spool: 8500
+    ChargeTime: 20
+    Vol_Blowoff1: 14000
+    Vol_Blowoff2: 14000
+- ParentName: default
+  Name: turbo_med_02
+  Data:
+    BankName: TURBO_TUN_MED_2_MB.abk
+    Vol_Spool: 12000
+    ChargeTime: 20
+    Vol_Blowoff1: 12500
+    Vol_Blowoff2: 12500
+- ParentName: default
+  Name: turbo_sml2_01
+  Data:
+    BankName: TURBO_TUN_SML2_1_MB.abk
+    Vol_Spool: 7700
+    ChargeTime: 20
+    Vol_Blowoff1: 18500
+    Vol_Blowoff2: 18500
+- ParentName: default
+  Name: superchrg_gen
+  Data:
+    BankName: TURBO_SC_GENERIC_MB.abk
+    Vol_Spool: 12000
+    ChargeTime: 15
+    Vol_Blowoff1: 0
+    Vol_Blowoff2: 0
+- ParentName: default
+  Name: superchrg_mbz
+  Data:
+    BankName: TURBO_SC_MBZ_MB.abk
+    Vol_Spool: 14000
+    ChargeTime: 20
+    Vol_Blowoff1: 5000
+    Vol_Blowoff2: 5000
+    Leak_Rate: 0.5
+- ParentName: default
+  Name: turbo_sml1_02
+  Data:
+    BankName: TURBO_TUN_SML_2_MB.abk
+    Vol_Spool: 10619
+    ChargeTime: 20
+    Vol_Blowoff1: 20176
+    Vol_Blowoff2: 20176
+- ParentName: default
+  Name: turbo_sml1_00
+  Data:
+    BankName: TURBO_TUN_SML_0_MB.abk
+    Vol_Spool: 6000
+    ChargeTime: 20
+    Vol_Blowoff1: 15900
+    Vol_Blowoff2: 15900
+- ParentName: default
+  Name: turbo_sml2_02
+  Data:
+    BankName: TURBO_TUN_SML2_2_MB.abk
+    Vol_Spool: 8500
+    ChargeTime: 20
+    Vol_Blowoff1: 20180
+    Vol_Blowoff2: 20180
+- ParentName: default
+  Name: turbo_lrg_01
+  Data:
+    BankName: TURBO_EXOTIC_1_MB.abk
+    Vol_Spool: 8500
+    ChargeTime: 20
+    Vol_Blowoff1: 14000
+    Vol_Blowoff2: 14000
+- ParentName: default
+  Name: superchrg_cobra
+  Data:
+    BankName: TURBO_SC_COBRA_MB.abk
+    Vol_Spool: 10000
+    ChargeTime: 20
+    Vol_Blowoff1: 4000
+    Vol_Blowoff2: 4000
+    Leak_Rate: 0.5
+- ParentName: default
+  Name: turbo_med_00
+  Data:
+    BankName: TURBO_TUN_MED_0_MB.abk
+    Vol_Spool: 11000
+    ChargeTime: 20
+    Vol_Blowoff1: 13000
+    Vol_Blowoff2: 13000
+- ParentName: default
+  Name: turbo_sml1_01
+  Data:
+    BankName: TURBO_TUN_SML_1_MB.abk
+    Vol_Spool: 7079
+    ChargeTime: 20
+    Vol_Blowoff1: 18400
+    Vol_Blowoff2: 18400
+- ParentName: default
+  Name: turbo_med_01
+  Data:
+    BankName: TURBO_TUN_MED_1_MB.abk
+    Vol_Spool: 12000
+    ChargeTime: 20
+    Vol_Blowoff1: 13500
+    Vol_Blowoff2: 11350
+    Leak_Rate: 0.5

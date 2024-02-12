@@ -1,0 +1,1954 @@
+- ParentName: 
+  Name: renderdebug
+  Data:
+    CollectionName: renderdebug
+    Pauseable: false
+    DEBUGACTION_LOOK_UP:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_NUMPAD9
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    CAMERAACTION_DEBUG:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_BACK
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    DEBUGACTION_MOVE_LEFT:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_NUMPAD4
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    DEBUGACTION_MOVE_DOWN:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_NUMPAD1
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    DEBUGACTION_MOVE_BACK:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_NUMPAD2
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    DEBUGACTION_MOVE_UP:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_NUMPAD7
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    DEBUGACTION_MOVE_RIGHT:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_NUMPAD6
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    DEBUGACTION_MOVE_FORWARD:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_NUMPAD8
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    DEBUGACTION_DROPCAR:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_BACKSLASH
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    DEBUGACTION_LOOK_RIGHT:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_DECIMAL
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    DEBUGACTION_LOOK_DOWN:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_NUMPAD3
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    DEBUGACTION_LOOK_LEFT:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_NUMPAD0
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+- ParentName: 
+  Name: hud
+  Data:
+    CollectionName: hud
+    Pauseable: true
+    HUDACTION_ENGAGE_EVENT:
+      Capacity: 1
+      Data:
+      - DeviceID: HUDACTION_ENGAGE_EVENT
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    HUDACTION_SKIPNIS:
+      Capacity: 1
+      Data:
+      - DeviceID: FE_ACTION_ACCEPT
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    HUDACTION_PAD_DOWN:
+      Capacity: 1
+      Data:
+      - DeviceID: HUDACTION_PAD_DOWN
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    HUDACTION_NEXTSONG:
+      Capacity: 1
+      Data:
+      - DeviceID: HUDACTION_NEXTSONG
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    HUDACTION_PAD_RIGHT:
+      Capacity: 1
+      Data:
+      - DeviceID: HUDACTION_PAD_RIGHT
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    HUDACTION_PAD_LEFT:
+      Capacity: 1
+      Data:
+      - DeviceID: HUDACTION_PAD_LEFT
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    HUDACTION_PAUSEREQUEST:
+      Capacity: 1
+      Data:
+      - DeviceID: HUDACTION_PAUSEREQUEST
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+- ParentName: hud
+  Name: hud_analog
+  Data:
+    CollectionName: hud_analog
+    Pauseable: true
+    HUDACTION_ENGAGE_EVENT:
+      Capacity: 1
+      Data:
+      - DeviceID: HUDACTION_ENGAGE_EVENT
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    HUDACTION_PAD_LEFT:
+      Capacity: 1
+      Data:
+      - DeviceID: HUDACTION_PAD_LEFT
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    HUDACTION_PAD_RIGHT:
+      Capacity: 1
+      Data:
+      - DeviceID: HUDACTION_PAD_RIGHT
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    HUDACTION_PAD_DOWN:
+      Capacity: 1
+      Data:
+      - DeviceID: HUDACTION_PAD_DOWN
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+- ParentName: 
+  Name: tedebugmenu
+  Data:
+    CollectionName: tedebugmenu
+    Pauseable: false
+    FRONTENDACTION_LTRIGGER:
+      Capacity: 1
+      Data:
+      - DeviceID: FE_ACTION_LTRIGGER
+        UpdateType: kUpdate
+        LowerDZ: 0.10000000149011612
+        UpperDZ: 0
+    FRONTENDACTION_BUTTON3:
+      Capacity: 1
+      Data:
+      - DeviceID: FE_ACTION_B3
+        UpdateType: kAnalogPress
+        LowerDZ: 0.10000000149011612
+        UpperDZ: 0
+    FRONTENDACTION_BUTTON2:
+      Capacity: 1
+      Data:
+      - DeviceID: FE_ACTION_B2
+        UpdateType: kAnalogPress
+        LowerDZ: 0.10000000149011612
+        UpperDZ: 0
+    FRONTENDACTION_BUTTON1:
+      Capacity: 1
+      Data:
+      - DeviceID: FE_ACTION_B1
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    FRONTENDACTION_BUTTON0:
+      Capacity: 1
+      Data:
+      - DeviceID: FE_ACTION_B0
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    FRONTENDACTION_DOWN:
+      Capacity: 1
+      Data:
+      - DeviceID: FE_ACTION_DOWN
+        UpdateType: kAnalogPress
+        LowerDZ: 0.10000000149011612
+        UpperDZ: 0
+    FRONTENDACTION_RTRIGGER:
+      Capacity: 1
+      Data:
+      - DeviceID: FE_ACTION_RTRIGGER
+        UpdateType: kUpdate
+        LowerDZ: 0.10000000149011612
+        UpperDZ: 0
+    FRONTENDACTION_UP:
+      Capacity: 1
+      Data:
+      - DeviceID: FE_ACTION_UP
+        UpdateType: kAnalogPress
+        LowerDZ: 0.10000000149011612
+        UpperDZ: 0
+    FRONTENDACTION_BUTTON4:
+      Capacity: 1
+      Data:
+      - DeviceID: FE_ACTION_B4
+        UpdateType: kAnalogPress
+        LowerDZ: 0.10000000149011612
+        UpperDZ: 0
+    FRONTENDACTION_RIGHT:
+      Capacity: 1
+      Data:
+      - DeviceID: FE_ACTION_RIGHT
+        UpdateType: kAnalogPress
+        LowerDZ: 0.10000000149011612
+        UpperDZ: 0
+    FRONTENDACTION_ACCEPT:
+      Capacity: 1
+      Data:
+      - DeviceID: FE_ACTION_ACCEPT
+        UpdateType: kAnalogPress
+        LowerDZ: 0.10000000149011612
+        UpperDZ: 0
+    FRONTENDACTION_CANCEL:
+      Capacity: 1
+      Data:
+      - DeviceID: FE_ACTION_CANCEL
+        UpdateType: kAnalogPress
+        LowerDZ: 0.10000000149011612
+        UpperDZ: 0
+    FRONTENDACTION_LEFT:
+      Capacity: 1
+      Data:
+      - DeviceID: FE_ACTION_LEFT
+        UpdateType: kAnalogPress
+        LowerDZ: 0.10000000149011612
+        UpperDZ: 0
+- ParentName: 
+  Name: roadeditor
+  Data:
+    CollectionName: roadeditor
+    Pauseable: false
+    REACTION_SELECTNEXT:
+      DeviceID: Y
+      UpdateType: kPress
+      LowerDZ: 0.5
+      UpperDZ: 0
+    REACTION_NEXTLANE:
+      DeviceID: DRight
+      UpdateType: kPress
+      LowerDZ: 0.5
+      UpperDZ: 0
+    CAMERAACTION_DEBUG:
+      Capacity: 1
+      Data:
+      - DeviceID: Back
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    REACTION_MOVE_RIGHT:
+      Capacity: 1
+      Data:
+      - DeviceID: ARX_R
+        UpdateType: kUpdate
+        LowerDZ: 0.30000001192092896
+        UpperDZ: 0
+    REACTION_LOOKRIGHT:
+      Capacity: 1
+      Data:
+      - DeviceID: ALX_R
+        UpdateType: kUpdate
+        LowerDZ: 0.30000001192092896
+        UpperDZ: 0
+    REACTION_PICK:
+      DeviceID: White
+      UpdateType: kPress
+      LowerDZ: 0.5
+      UpperDZ: 0
+    REACTION_MOVE_UP:
+      DeviceID: DUp
+      UpdateType: kUpdate
+      LowerDZ: 0.40000000596046448
+      UpperDZ: 0
+    REACTION_ACTIVATE_EDIT:
+      DeviceID: X
+      UpdateType: kPress
+      LowerDZ: 0.5
+      UpperDZ: 0
+    REACTION_MOVE_LEFT:
+      Capacity: 1
+      Data:
+      - DeviceID: ARX_L
+        UpdateType: kUpdate
+        LowerDZ: 0.30000001192092896
+        UpperDZ: 0
+    REACTION_APPLY_TO_NEXT:
+      DeviceID: B
+      UpdateType: kPress
+      LowerDZ: 0.5
+      UpperDZ: 0
+    REACTION_TURBO:
+      DeviceID: R
+      UpdateType: kUpdate
+      LowerDZ: 0.5
+      UpperDZ: 0
+    REACTION_LOOKDOWN:
+      Capacity: 1
+      Data:
+      - DeviceID: ALY_D
+        UpdateType: kUpdate
+        LowerDZ: 0.30000001192092896
+        UpperDZ: 0
+    REACTION_LOOKUP:
+      Capacity: 1
+      Data:
+      - DeviceID: ALY_U
+        UpdateType: kUpdate
+        LowerDZ: 0.30000001192092896
+        UpperDZ: 0
+    REACTION_MOVE_FORWARD:
+      Capacity: 1
+      Data:
+      - DeviceID: ARY_U
+        UpdateType: kUpdate
+        LowerDZ: 0.30000001192092896
+        UpperDZ: 0
+    REACTION_LOOKLEFT:
+      Capacity: 1
+      Data:
+      - DeviceID: ALX_L
+        UpdateType: kUpdate
+        LowerDZ: 0.30000001192092896
+        UpperDZ: 0
+    REACTION_EDIT_NODE:
+      DeviceID: A
+      UpdateType: kUpdate
+      LowerDZ: 0
+      UpperDZ: 0
+    REACTION_AUTOFIT:
+      DeviceID: Black
+      UpdateType: kPress
+      LowerDZ: 0.5
+      UpperDZ: 0
+    REACTION_MOVE_BACK:
+      Capacity: 1
+      Data:
+      - DeviceID: ARY_D
+        UpdateType: kUpdate
+        LowerDZ: 0.30000001192092896
+        UpperDZ: 0
+    REACTION_MOVE_DOWN:
+      DeviceID: DDown
+      UpdateType: kUpdate
+      LowerDZ: 0.40000000596046448
+      UpperDZ: 0
+    REACTION_PREVIOUSLANE:
+      DeviceID: DLeft
+      UpdateType: kPress
+      LowerDZ: 0.5
+      UpperDZ: 0
+- ParentName: 
+  Name: ice
+  Data:
+    CollectionName: ice
+    Pauseable: false
+    ICEACTION_BUBBLE_FORTH:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_NUMPAD2
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_ALT_1:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_LALT
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_SHUTTLE_UP:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_PAGEUP
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_CLIP_IN:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_MINUS
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_HIDE:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_X
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_SHAKE_FRQ_DEC:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_NUMPAD4
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_UP:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_NUMPAD8
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_DUTCH_RIGHT:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_EQUALS
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_SHUTTLE_SPEED_DEC:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_LBRACKET
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_LETTERBOX_OUT:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_SUBTRACT
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_ZOOM_IN:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_LBRACKET
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_CUT:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_NUMPAD8
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_BUBBLE_UP:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_ADD
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_BUBBLE_SPIN_RIGHT:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_NUMPAD6
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_COPY:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_C
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_SHAKE_MAG_DEC:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_NUMPAD2
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_LETTERBOX_IN:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_ADD
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_SCREENSHOT_STREAM:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_RALT
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_BUBBLE_LEFT:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_NUMPAD7
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_SIMSPEED_DEC:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_RBRACKET
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_BUBBLE_TILT_DOWN:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_NUMPAD3
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_UNDO:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_Z
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_DOWN:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_NUMPAD2
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_LEFT:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_NUMPAD4
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_BUBBLE_BACK:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_NUMPAD8
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_SHUTTLE_LEFT:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_NUMPAD0
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_GRAB_RIGHT:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_NUMPAD6
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_CANCEL:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_ESCAPE
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_BUBBLE_OUT:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_NUMPAD0
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_SHUTTLE_SPEED_INC:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_RBRACKET
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_HELP:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_F1
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_RIGHT:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_NUMPAD6
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_SHUTTLE_DOWN:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_PAGEDOWN
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_FAST_LEFT:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_NUMPAD2
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_CLIP_OUT:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_EQUALS
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_SIMSPEED_INC:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_LBRACKET
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_SHUTTLE_RIGHT:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_DECIMAL
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_BUBBLE_RIGHT:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_NUMPAD9
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_FAST_RIGHT:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_NUMPAD8
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_SCREENSHOT:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_RALT
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_BUBBLE_SPIN_LEFT:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_NUMPAD4
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_DUTCH_LEFT:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_MINUS
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_BUBBLE_IN:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_DECIMAL
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_INSERT:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_NUMPAD2
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_BUBBLE_TILT_UP:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_NUMPAD1
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_PASTE:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_V
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_GRAB_LEFT:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_NUMPAD4
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_SELECT:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_SPACE
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_SHAKE_MAG_INC:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_NUMPAD8
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_BUBBLE_DOWN:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_SUBTRACT
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_PLAY:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_NUMPADENTER
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_SHAKE_FRQ_INC:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_NUMPAD6
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    ICEACTION_ZOOM_OUT:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_RBRACKET
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+- ParentName: 
+  Name: voip
+  Data:
+    CollectionName: voip
+    Pauseable: false
+- ParentName: 
+  Name: drive
+  Data:
+    CollectionName: drive
+    Pauseable: true
+    GAMEACTION_STEERLEFT:
+      Capacity: 2
+      Data:
+      - DeviceID: GAME_ACTION_STEERLEFT
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+      - DeviceID: SC_LEFT
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    CAMERAACTION_PULLBACK:
+      Capacity: 1
+      Data:
+      - DeviceID: CAM_ACTION_PULLBACK
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_SHIFTDOWN:
+      Capacity: 1
+      Data:
+      - DeviceID: GAME_ACTION_SHIFTDOWN
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    CAMERAACTION_CHANGE:
+      Capacity: 1
+      Data:
+      - DeviceID: CAM_ACTION_CHANGE
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_TURNLEFT:
+      Capacity: 2
+      Data:
+      - DeviceID: GAME_ACTION_STEERLEFT
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+      - DeviceID: SC_LEFT
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_GAMEBREAKER:
+      Capacity: 1
+      Data:
+      - DeviceID: GAME_ACTION_GAMEBREAKER
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_NOS:
+      Capacity: 1
+      Data:
+      - DeviceID: GAME_ACTION_NOS
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_TURNRIGHT:
+      Capacity: 2
+      Data:
+      - DeviceID: GAME_ACTION_STEERRIGHT
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+      - DeviceID: SC_RIGHT
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_GAS:
+      Capacity: 2
+      Data:
+      - DeviceID: GAME_ACTION_GAS
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+      - DeviceID: SC_UP
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_RESET:
+      Capacity: 1
+      Data:
+      - DeviceID: GAME_ACTION_RESET
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_HANDBRAKE:
+      Capacity: 1
+      Data:
+      - DeviceID: GAME_ACTION_HANDBRAKE
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    CAMERAACTION_LOOKBACK:
+      Capacity: 1
+      Data:
+      - DeviceID: CAM_ACTION_LOOKBACK
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_STEERRIGHT:
+      Capacity: 2
+      Data:
+      - DeviceID: GAME_ACTION_STEERRIGHT
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+      - DeviceID: SC_RIGHT
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_BRAKE:
+      Capacity: 2
+      Data:
+      - DeviceID: GAME_ACTION_BRAKE
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+      - DeviceID: SC_DOWN
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_SHIFTUP:
+      Capacity: 1
+      Data:
+      - DeviceID: GAME_ACTION_SHIFTUP
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+- ParentName: drive
+  Name: drive2
+  Data:
+    CollectionName: drive2
+    Pauseable: true
+    GAMEACTION_STEERLEFT:
+      Capacity: 2
+      Data:
+      - DeviceID: GAME_ACTION_STEERLEFT
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+      - DeviceID: SC_LEFT
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    CAMERAACTION_PULLBACK:
+      Capacity: 1
+      Data:
+      - DeviceID: CAM_ACTION_PULLBACK
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_SHIFTDOWN:
+      Capacity: 1
+      Data:
+      - DeviceID: GAME_ACTION_SHIFTDOWN
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    CAMERAACTION_CHANGE:
+      Capacity: 1
+      Data:
+      - DeviceID: CAM_ACTION_CHANGE
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_TURNLEFT:
+      Capacity: 2
+      Data:
+      - DeviceID: GAME_ACTION_STEERLEFT
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+      - DeviceID: SC_LEFT
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_GAMEBREAKER:
+      Capacity: 1
+      Data:
+      - DeviceID: GAME_ACTION_GAMEBREAKER
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_NOS:
+      Capacity: 1
+      Data:
+      - DeviceID: GAME_ACTION_NOS
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_TURNRIGHT:
+      Capacity: 2
+      Data:
+      - DeviceID: GAME_ACTION_STEERRIGHT
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+      - DeviceID: SC_RIGHT
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_GAS:
+      Capacity: 2
+      Data:
+      - DeviceID: GAME_ACTION_GAS
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+      - DeviceID: SC_UP
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_RESET:
+      Capacity: 1
+      Data:
+      - DeviceID: GAME_ACTION_RESET
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_HANDBRAKE:
+      Capacity: 1
+      Data:
+      - DeviceID: GAME_ACTION_HANDBRAKE
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    CAMERAACTION_LOOKBACK:
+      Capacity: 1
+      Data:
+      - DeviceID: CAM_ACTION_LOOKBACK
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_STEERRIGHT:
+      Capacity: 2
+      Data:
+      - DeviceID: GAME_ACTION_STEERRIGHT
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+      - DeviceID: SC_RIGHT
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_BRAKE:
+      Capacity: 2
+      Data:
+      - DeviceID: GAME_ACTION_BRAKE
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+      - DeviceID: SC_DOWN
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_SHIFTUP:
+      Capacity: 1
+      Data:
+      - DeviceID: GAME_ACTION_SHIFTUP
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+- ParentName: drive2
+  Name: drive2_analog
+  Data:
+    CollectionName: drive2_analog
+    Pauseable: true
+    GAMEACTION_STEERLEFT:
+      Capacity: 1
+      Data:
+      - DeviceID: ALX_L
+        UpdateType: kUpdate
+        LowerDZ: 0.40000000596046448
+        UpperDZ: 0
+    GAMEACTION_TURNRIGHT:
+      Capacity: 1
+      Data:
+      - DeviceID: ALX_R
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_TURNLEFT:
+      Capacity: 1
+      Data:
+      - DeviceID: ALX_L
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_STEERRIGHT:
+      Capacity: 1
+      Data:
+      - DeviceID: ALX_R
+        UpdateType: kUpdate
+        LowerDZ: 0.40000000596046448
+        UpperDZ: 0
+- ParentName: drive
+  Name: drive5
+  Data:
+    CollectionName: drive5
+    Pauseable: true
+    GAMEACTION_STEERLEFT:
+      Capacity: 2
+      Data:
+      - DeviceID: GAME_ACTION_STEERLEFT
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+      - DeviceID: SC_LEFT
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    CAMERAACTION_PULLBACK:
+      Capacity: 1
+      Data:
+      - DeviceID: CAM_ACTION_PULLBACK
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_SHIFTDOWN:
+      Capacity: 1
+      Data:
+      - DeviceID: GAME_ACTION_SHIFTDOWN
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    CAMERAACTION_CHANGE:
+      Capacity: 1
+      Data:
+      - DeviceID: CAM_ACTION_CHANGE
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_TURNLEFT:
+      Capacity: 2
+      Data:
+      - DeviceID: GAME_ACTION_STEERLEFT
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+      - DeviceID: SC_LEFT
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_GAMEBREAKER:
+      Capacity: 1
+      Data:
+      - DeviceID: GAME_ACTION_GAMEBREAKER
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_NOS:
+      Capacity: 1
+      Data:
+      - DeviceID: GAME_ACTION_NOS
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_TURNRIGHT:
+      Capacity: 2
+      Data:
+      - DeviceID: GAME_ACTION_STEERRIGHT
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+      - DeviceID: SC_RIGHT
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_GAS:
+      Capacity: 2
+      Data:
+      - DeviceID: GAME_ACTION_GAS
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+      - DeviceID: SC_UP
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_RESET:
+      Capacity: 1
+      Data:
+      - DeviceID: GAME_ACTION_RESET
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_HANDBRAKE:
+      Capacity: 1
+      Data:
+      - DeviceID: GAME_ACTION_HANDBRAKE
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    CAMERAACTION_LOOKBACK:
+      Capacity: 1
+      Data:
+      - DeviceID: CAM_ACTION_LOOKBACK
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_STEERRIGHT:
+      Capacity: 2
+      Data:
+      - DeviceID: GAME_ACTION_STEERRIGHT
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+      - DeviceID: SC_RIGHT
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_BRAKE:
+      Capacity: 2
+      Data:
+      - DeviceID: GAME_ACTION_BRAKE
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+      - DeviceID: SC_DOWN
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_SHIFTUP:
+      Capacity: 1
+      Data:
+      - DeviceID: GAME_ACTION_SHIFTUP
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+- ParentName: drive5
+  Name: drive5_analog
+  Data:
+    CollectionName: drive5_analog
+    Pauseable: true
+    GAMEACTION_STEERLEFT:
+      Capacity: 2
+      Data:
+      - DeviceID: ALX_L
+        UpdateType: kUpdate
+        LowerDZ: 0.30000001192092896
+        UpperDZ: 0
+      - DeviceID: W_LEFT
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_TURNRIGHT:
+      Capacity: 2
+      Data:
+      - DeviceID: ALX_R
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+      - DeviceID: W_RIGHT
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_TURNLEFT:
+      Capacity: 2
+      Data:
+      - DeviceID: ALX_L
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+      - DeviceID: W_LEFT
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_STEERRIGHT:
+      Capacity: 2
+      Data:
+      - DeviceID: ALX_R
+        UpdateType: kUpdate
+        LowerDZ: 0.30000001192092896
+        UpperDZ: 0
+      - DeviceID: W_RIGHT
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+- ParentName: drive
+  Name: drive_analog
+  Data:
+    CollectionName: drive_analog
+    Pauseable: true
+    GAMEACTION_STEERLEFT:
+      Capacity: 2
+      Data:
+      - DeviceID: GAME_ACTION_STEERLEFT
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+      - DeviceID: SC_LEFT
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_TURNRIGHT:
+      Capacity: 2
+      Data:
+      - DeviceID: GAME_ACTION_STEERRIGHT
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+      - DeviceID: SC_RIGHT
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_TURNLEFT:
+      Capacity: 2
+      Data:
+      - DeviceID: GAME_ACTION_STEERLEFT
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+      - DeviceID: SC_LEFT
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_STEERRIGHT:
+      Capacity: 2
+      Data:
+      - DeviceID: GAME_ACTION_STEERRIGHT
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+      - DeviceID: SC_RIGHT
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+- ParentName: drive
+  Name: drive4
+  Data:
+    CollectionName: drive4
+    Pauseable: true
+    GAMEACTION_STEERLEFT:
+      Capacity: 2
+      Data:
+      - DeviceID: GAME_ACTION_STEERLEFT
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+      - DeviceID: SC_LEFT
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    CAMERAACTION_PULLBACK:
+      Capacity: 1
+      Data:
+      - DeviceID: CAM_ACTION_PULLBACK
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_SHIFTDOWN:
+      Capacity: 1
+      Data:
+      - DeviceID: GAME_ACTION_SHIFTDOWN
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    CAMERAACTION_CHANGE:
+      Capacity: 1
+      Data:
+      - DeviceID: CAM_ACTION_CHANGE
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_TURNLEFT:
+      Capacity: 2
+      Data:
+      - DeviceID: GAME_ACTION_STEERLEFT
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+      - DeviceID: SC_LEFT
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_GAMEBREAKER:
+      Capacity: 1
+      Data:
+      - DeviceID: GAME_ACTION_GAMEBREAKER
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_NOS:
+      Capacity: 1
+      Data:
+      - DeviceID: GAME_ACTION_NOS
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_TURNRIGHT:
+      Capacity: 2
+      Data:
+      - DeviceID: GAME_ACTION_STEERRIGHT
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+      - DeviceID: SC_RIGHT
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_GAS:
+      Capacity: 2
+      Data:
+      - DeviceID: GAME_ACTION_GAS
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+      - DeviceID: SC_UP
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_RESET:
+      Capacity: 1
+      Data:
+      - DeviceID: GAME_ACTION_RESET
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_HANDBRAKE:
+      Capacity: 1
+      Data:
+      - DeviceID: GAME_ACTION_HANDBRAKE
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    CAMERAACTION_LOOKBACK:
+      Capacity: 1
+      Data:
+      - DeviceID: CAM_ACTION_LOOKBACK
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_STEERRIGHT:
+      Capacity: 2
+      Data:
+      - DeviceID: GAME_ACTION_STEERRIGHT
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+      - DeviceID: SC_RIGHT
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_BRAKE:
+      Capacity: 2
+      Data:
+      - DeviceID: GAME_ACTION_BRAKE
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+      - DeviceID: SC_DOWN
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_SHIFTUP:
+      Capacity: 1
+      Data:
+      - DeviceID: GAME_ACTION_SHIFTUP
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+- ParentName: drive4
+  Name: drive4_analog
+  Data:
+    CollectionName: drive4_analog
+    Pauseable: true
+    GAMEACTION_STEERLEFT:
+      Capacity: 2
+      Data:
+      - DeviceID: ALX_L
+        UpdateType: kUpdate
+        LowerDZ: 0.20000000298023224
+        UpperDZ: 0
+      - DeviceID: W_LEFT
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_TURNRIGHT:
+      Capacity: 2
+      Data:
+      - DeviceID: ALX_R
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+      - DeviceID: W_RIGHT
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_TURNLEFT:
+      Capacity: 2
+      Data:
+      - DeviceID: ALX_L
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+      - DeviceID: W_LEFT
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_STEERRIGHT:
+      Capacity: 2
+      Data:
+      - DeviceID: ALX_R
+        UpdateType: kUpdate
+        LowerDZ: 0.20000000298023224
+        UpperDZ: 0
+      - DeviceID: W_RIGHT
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+- ParentName: drive
+  Name: drive3
+  Data:
+    CollectionName: drive3
+    Pauseable: true
+    GAMEACTION_STEERLEFT:
+      Capacity: 2
+      Data:
+      - DeviceID: GAME_ACTION_STEERLEFT
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+      - DeviceID: SC_LEFT
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    CAMERAACTION_PULLBACK:
+      Capacity: 1
+      Data:
+      - DeviceID: CAM_ACTION_PULLBACK
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_SHIFTDOWN:
+      Capacity: 1
+      Data:
+      - DeviceID: GAME_ACTION_SHIFTDOWN
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    CAMERAACTION_CHANGE:
+      Capacity: 1
+      Data:
+      - DeviceID: CAM_ACTION_CHANGE
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_TURNLEFT:
+      Capacity: 2
+      Data:
+      - DeviceID: GAME_ACTION_STEERLEFT
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+      - DeviceID: SC_LEFT
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_GAMEBREAKER:
+      Capacity: 1
+      Data:
+      - DeviceID: GAME_ACTION_GAMEBREAKER
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_NOS:
+      Capacity: 1
+      Data:
+      - DeviceID: GAME_ACTION_NOS
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_TURNRIGHT:
+      Capacity: 2
+      Data:
+      - DeviceID: GAME_ACTION_STEERRIGHT
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+      - DeviceID: SC_RIGHT
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_GAS:
+      Capacity: 2
+      Data:
+      - DeviceID: GAME_ACTION_GAS
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+      - DeviceID: SC_UP
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_RESET:
+      Capacity: 1
+      Data:
+      - DeviceID: GAME_ACTION_RESET
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_HANDBRAKE:
+      Capacity: 1
+      Data:
+      - DeviceID: GAME_ACTION_HANDBRAKE
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    CAMERAACTION_LOOKBACK:
+      Capacity: 1
+      Data:
+      - DeviceID: CAM_ACTION_LOOKBACK
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_STEERRIGHT:
+      Capacity: 2
+      Data:
+      - DeviceID: GAME_ACTION_STEERRIGHT
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+      - DeviceID: SC_RIGHT
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_BRAKE:
+      Capacity: 2
+      Data:
+      - DeviceID: GAME_ACTION_BRAKE
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+      - DeviceID: SC_DOWN
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_SHIFTUP:
+      Capacity: 1
+      Data:
+      - DeviceID: GAME_ACTION_SHIFTUP
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+- ParentName: drive3
+  Name: drive3_analog
+  Data:
+    CollectionName: drive3_analog
+    Pauseable: true
+    GAMEACTION_STEERLEFT:
+      Capacity: 2
+      Data:
+      - DeviceID: ALX_L
+        UpdateType: kUpdate
+        LowerDZ: 0.20000000298023224
+        UpperDZ: 0
+      - DeviceID: W_LEFT
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_TURNRIGHT:
+      Capacity: 2
+      Data:
+      - DeviceID: ALX_R
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+      - DeviceID: W_RIGHT
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_TURNLEFT:
+      Capacity: 2
+      Data:
+      - DeviceID: ALX_L
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+      - DeviceID: W_LEFT
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_STEERRIGHT:
+      Capacity: 2
+      Data:
+      - DeviceID: ALX_R
+        UpdateType: kUpdate
+        LowerDZ: 0.20000000298023224
+        UpperDZ: 0
+      - DeviceID: W_RIGHT
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+- ParentName: 
+  Name: fe
+  Data:
+    CollectionName: fe
+    Pauseable: false
+    FRONTENDACTION_RTRIGGER:
+      Capacity: 1
+      Data:
+      - DeviceID: FE_ACTION_RTRIG
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    FRONTENDACTION_BUTTON3:
+      Capacity: 1
+      Data:
+      - DeviceID: FE_ACTION_START
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    FRONTENDACTION_BUTTON2:
+      Capacity: 1
+      Data:
+      - DeviceID: FE_ACTION_B2
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    FRONTENDACTION_CANCEL:
+      Capacity: 1
+      Data:
+      - DeviceID: FE_ACTION_CANCEL
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    FRONTENDACTION_BUTTON0:
+      Capacity: 1
+      Data:
+      - DeviceID: FE_ACTION_B0
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    FRONTENDACTION_UP:
+      Capacity: 1
+      Data:
+      - DeviceID: FE_ACTION_UP
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    FRONTENDACTION_ACCEPT:
+      Capacity: 1
+      Data:
+      - DeviceID: FE_ACTION_ACCEPT
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    FRONTENDACTION_BUTTON5:
+      Capacity: 1
+      Data:
+      - DeviceID: FE_ACTION_B5
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    FRONTENDACTION_BUTTON4:
+      Capacity: 1
+      Data:
+      - DeviceID: FE_ACTION_B4
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    FRONTENDACTION_LEFT:
+      Capacity: 1
+      Data:
+      - DeviceID: FE_ACTION_LEFT
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    FRONTENDACTION_DOWN:
+      Capacity: 1
+      Data:
+      - DeviceID: FE_ACTION_DOWN
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    FRONTENDACTION_START:
+      Capacity: 1
+      Data:
+      - DeviceID: FE_ACTION_B3
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    FRONTENDACTION_RIGHT:
+      Capacity: 1
+      Data:
+      - DeviceID: FE_ACTION_RIGHT
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    FRONTENDACTION_LTRIGGER:
+      Capacity: 1
+      Data:
+      - DeviceID: FE_ACTION_LTRIG
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    FRONTENDACTION_BUTTON1:
+      Capacity: 1
+      Data:
+      - DeviceID: FE_ACTION_B1
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+- ParentName: 
+  Name: human
+  Data:
+    CollectionName: human
+    Pauseable: false
+- ParentName: 
+  Name: debug
+  Data:
+    CollectionName: debug
+    Pauseable: false
+    DEBUGACTION_LOOK_UP:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_NUMPAD9
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    CAMERAACTION_DEBUG:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_BACK
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    DEBUGACTION_MOVE_LEFT:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_NUMPAD4
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    DEBUGACTION_SIMSTEP:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_DOWN
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    DEBUGACTION_MOVE_DOWN:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_NUMPAD1
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    CAMERAACTION_ENABLE_ICE:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_INSERT
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    DEBUGACTION_MOVE_BACK:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_NUMPAD2
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    DEBUGACTION_MOVE_UP:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_NUMPAD7
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    DEBUGACTION_TURBO:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_SUBTRACT
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    DEBUGACTION_MOVE_RIGHT:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_NUMPAD6
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    DEBUGACTION_SUPER_TURBO:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_ADD
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    DEBUGACTION_MOVE_FORWARD:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_NUMPAD8
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    DEBUGACTION_DROPCAR:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_BACKSLASH
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    DEBUGACTION_TOGGLESIMSTEP:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_UP
+        UpdateType: kPress
+        LowerDZ: 0
+        UpperDZ: 0
+    DEBUGACTION_LOOK_RIGHT:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_DECIMAL
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    DEBUGACTION_LOOK_DOWN:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_NUMPAD3
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    DEBUGACTION_LOOK_LEFT:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_NUMPAD0
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+- ParentName: 
+  Name: fly
+  Data:
+    CollectionName: fly
+    Pauseable: false
+    GAMEACTION_STEERLEFT:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_LEFT
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    CAMERAACTION_CHANGE:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_C
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_GAS:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_UP
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_STEERRIGHT:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_RIGHT
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0
+    GAMEACTION_BRAKE:
+      Capacity: 1
+      Data:
+      - DeviceID: SC_DOWN
+        UpdateType: kUpdate
+        LowerDZ: 0
+        UpperDZ: 0

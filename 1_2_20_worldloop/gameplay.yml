@@ -1,0 +1,253 @@
+- ParentName: finishline
+  Name: race_bin_01/1_2_20_worldloop/finishline
+  Data:
+    CollectionName: race_bin_01/1_2_20_worldloop/finishline
+    message_id: 0
+    Rotation: 340
+    Position:
+      X: 1096.2950439453125
+      Y: 4435.25390625
+      Z: 211.90530395507812
+    FlareSpacing: 12
+    Name: race_bin_01/1_2_20_worldloop/finishline
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 45
+      Z: 10
+- ParentName: checkpoint
+  Name: race_bin_01/1_2_20_worldloop/checkpoint9
+  Data:
+    CollectionName: race_bin_01/1_2_20_worldloop/checkpoint9
+    message_id: 0
+    Rotation: -100
+    Position:
+      X: 4342.85400390625
+      Y: 180.23699951171875
+      Z: 20.836910247802734
+    Name: race_bin_01/1_2_20_worldloop/checkpoint9
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 30
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_2_20_worldloop/checkpoint8
+  Data:
+    CollectionName: race_bin_01/1_2_20_worldloop/checkpoint8
+    message_id: 0
+    Rotation: -82
+    Position:
+      X: 4328.8759765625
+      Y: 1515.571044921875
+      Z: 21.483400344848633
+    Name: race_bin_01/1_2_20_worldloop/checkpoint8
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 30
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_2_20_worldloop/checkpoint14
+  Data:
+    CollectionName: race_bin_01/1_2_20_worldloop/checkpoint14
+    message_id: 0
+    Rotation: 9
+    Position:
+      X: 389.87649536132812
+      Y: 4514.5517578125
+      Z: 233.68260192871094
+    Name: race_bin_01/1_2_20_worldloop/checkpoint14
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 50
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_2_20_worldloop/checkpoint10
+  Data:
+    CollectionName: race_bin_01/1_2_20_worldloop/checkpoint10
+    message_id: 0
+    Rotation: 215
+    Position:
+      X: 2664.14990234375
+      Y: 354.90850830078125
+      Z: 83.263671875
+    Name: race_bin_01/1_2_20_worldloop/checkpoint10
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 30
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_2_20_worldloop/checkpoint11
+  Data:
+    CollectionName: race_bin_01/1_2_20_worldloop/checkpoint11
+    message_id: 0
+    Rotation: 135
+    Position:
+      X: 361.91598510742188
+      Y: -468.23541259765625
+      Z: 125.66500091552734
+    Name: race_bin_01/1_2_20_worldloop/checkpoint11
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 50
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_2_20_worldloop/checkpoint12
+  Data:
+    CollectionName: race_bin_01/1_2_20_worldloop/checkpoint12
+    message_id: 0
+    Rotation: 145
+    Position:
+      X: 1462.7779541015625
+      Y: 1192.8809814453125
+      Z: 116.29979705810547
+    Name: race_bin_01/1_2_20_worldloop/checkpoint12
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 40
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_2_20_worldloop/checkpoint3
+  Data:
+    CollectionName: race_bin_01/1_2_20_worldloop/checkpoint3
+    message_id: 0
+    Rotation: 340
+    Position:
+      X: 2457.1240234375
+      Y: 2520.2890625
+      Z: 121.53029632568359
+    Name: race_bin_01/1_2_20_worldloop/checkpoint3
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 30
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_2_20_worldloop/checkpoint4
+  Data:
+    CollectionName: race_bin_01/1_2_20_worldloop/checkpoint4
+    message_id: 0
+    Rotation: -14.909090042114258
+    Position:
+      X: 2848.7529296875
+      Y: 2409.610107421875
+      Z: 76.2080078125
+    Name: race_bin_01/1_2_20_worldloop/checkpoint4
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 40
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_2_20_worldloop/checkpoint2
+  Data:
+    CollectionName: race_bin_01/1_2_20_worldloop/checkpoint2
+    message_id: 0
+    Rotation: 314
+    Position:
+      X: 2507.22412109375
+      Y: 3868.501953125
+      Z: 231.73049926757812
+    Name: race_bin_01/1_2_20_worldloop/checkpoint2
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 60
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_2_20_worldloop/checkpoint5
+  Data:
+    CollectionName: race_bin_01/1_2_20_worldloop/checkpoint5
+    message_id: 0
+    Rotation: 74.909088134765625
+    Position:
+      X: 2814.279052734375
+      Y: 3031.534912109375
+      Z: 61.089839935302734
+    Name: race_bin_01/1_2_20_worldloop/checkpoint5
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 25
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_2_20_worldloop/checkpoint7
+  Data:
+    CollectionName: race_bin_01/1_2_20_worldloop/checkpoint7
+    message_id: 0
+    Rotation: -105.45449829101562
+    Position:
+      X: 4061.009033203125
+      Y: 2968.2548828125
+      Z: 32.9912109375
+    Name: race_bin_01/1_2_20_worldloop/checkpoint7
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 30
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_2_20_worldloop/checkpoint1
+  Data:
+    CollectionName: race_bin_01/1_2_20_worldloop/checkpoint1
+    message_id: 0
+    Rotation: 30
+    Position:
+      X: 1988.9090576171875
+      Y: 4367.44482421875
+      Z: 230
+    Name: race_bin_01/1_2_20_worldloop/checkpoint1
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 40
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_2_20_worldloop/checkpoint13
+  Data:
+    CollectionName: race_bin_01/1_2_20_worldloop/checkpoint13
+    message_id: 0
+    Rotation: 80
+    Position:
+      X: -566.2510986328125
+      Y: 2677.3330078125
+      Z: 229.86909484863281
+    Name: race_bin_01/1_2_20_worldloop/checkpoint13
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 40
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_2_20_worldloop/checkpoint6
+  Data:
+    CollectionName: race_bin_01/1_2_20_worldloop/checkpoint6
+    message_id: 0
+    Rotation: -51
+    Position:
+      X: 3708.155029296875
+      Y: 3490.40087890625
+      Z: 24.78125
+    Name: race_bin_01/1_2_20_worldloop/checkpoint6
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 25
+      Z: 40
+- ParentName: startgrid
+  Name: race_bin_01/1_2_20_worldloop/startgrid
+  Data:
+    CollectionName: race_bin_01/1_2_20_worldloop/startgrid
+    message_id: 0
+    Rotation: 347
+    Position:
+      X: 1149.2659912109375
+      Y: 4408.47998046875
+      Z: 213.85450744628906
+    Name: race_bin_01/1_2_20_worldloop/startgrid
+    Template: false

@@ -1,0 +1,216 @@
+- ParentName: 
+  Name: default
+  Data:
+    Artist: Artist1
+    SongName: SongName1
+    Album: Song1
+    PathEvent: 0
+    DefPlay: Defplay1
+- ParentName: default
+  Name: bsidewinsagain
+  Data:
+    Artist: Styles of Beyond
+    SongName: Bleach
+    Album: Megadef
+    PathEvent: 32948573
+    DefPlay: FE
+- ParentName: default
+  Name: taoofthemachine
+  Data:
+    Artist: Mantis
+    SongName: The Crypt
+    Album: Voodoo
+    PathEvent: 22285916
+    DefPlay: IG
+- ParentName: default
+  Name: tilted
+  Data:
+    Artist: Twisted Individual
+    SongName: Nail Bomb
+    Album: Rare Turds
+    PathEvent: 22806674
+    DefPlay: IG
+- ParentName: default
+  Name: onegoodreason
+  Data:
+    Artist: Mudvayne
+    SongName: Forget to Remember
+    Album: Lost and Found
+    PathEvent: 28013545
+    DefPlay: IG
+- ParentName: default
+  Name: doyathang
+  Data:
+    Artist: Black Lab
+    SongName: This Blood
+    Album: 'Blade: Trinity'
+    PathEvent: 17962384
+    DefPlay: FE
+- ParentName: default
+  Name: decadence
+  Data:
+    Artist: Disturbed
+    SongName: Down with the Sickness
+    Album: The Sickness
+    PathEvent: 25999893
+    DefPlay: AL
+- ParentName: default
+  Name: youmustfollow
+  Data:
+    Artist: Paul Haslinger
+    SongName: Highway Battle
+    Album: 'Need For Speed: Undercover Soundtrack'
+    PathEvent: 29271837
+    DefPlay: IG
+- ParentName: default
+  Name: iamroc
+  Data:
+    Artist: Motorhead
+    SongName: The Game
+    Album: WWF The Music, Vol. 5
+    PathEvent: 22172890
+    DefPlay: FE
+- ParentName: default
+  Name: skinnyman
+  Data:
+    Artist: Slipknot
+    SongName: People=Shit
+    Album: Iowa
+    PathEvent: 22847278
+    DefPlay: IG
+- ParentName: default
+  Name: firedup
+  Data:
+    Artist: Limp Bizkit
+    SongName: Break Stuff
+    Album: Bulletproof
+    PathEvent: 17488199
+    DefPlay: FE
+- ParentName: default
+  Name: feelslikeitshould
+  Data:
+    Artist: Disturbed
+    SongName: The Game
+    Album: The Sickness
+    PathEvent: 32616845
+    DefPlay: IG
+- ParentName: default
+  Name: feedmyaddiction
+  Data:
+    Artist: Disturbed
+    SongName: Stricken
+    Album: Ten Thousand Fists
+    PathEvent: 28998089
+    DefPlay: IG
+- ParentName: default
+  Name: ninethou
+  Data:
+    Artist: 30 Seconds To Mars
+    SongName: Edge Of The Earth
+    Album: 30 Seconds To Mars
+    PathEvent: 32174475
+    DefPlay: FE
+- ParentName: default
+  Name: letsmove
+  Data:
+    Artist: The X-ecutioners
+    SongName: It's Goin' Down ft. Mike Shinoda and Mr. Hahn
+    Album: Build from Scratch
+    PathEvent: 22661185
+    DefPlay: FE
+- ParentName: default
+  Name: 0x67ABD3A6
+  Data:
+    Artist: Paul Linford and Chris Vrenna
+    SongName: The Mann
+    Album: ''
+    PathEvent: 17823263
+    DefPlay: IG
+- ParentName: default
+  Name: youllbeundermywheels
+  Data:
+    Artist: Black Neely
+    SongName: Supergirl(Ritreva Remix)
+    Album: 'Supergirl: Season 4 Soundtrack'
+    PathEvent: 19312035
+    DefPlay: IG
+- ParentName: default
+  Name: bloodandthunder
+  Data:
+    Artist: Cypecore
+    SongName: Saint of Zion
+    Album: Identity
+    PathEvent: 18947541
+    DefPlay: IG
+- ParentName: default
+  Name: setsgoup
+  Data:
+    Artist: Mathieu Vachon
+    SongName: Adrenaline
+    Album: 'Asphalt 6: Adrenaline Soundtracks'
+    PathEvent: 17536993
+    DefPlay: FE
+- ParentName: default
+  Name: inmyhood
+  Data:
+    Artist: Avenged Sevenfold
+    SongName: Almost Easy (Chris Lord-Alge Mix)
+    Album: Avenged Sevenfold
+    PathEvent: 27110178
+    DefPlay: AL
+- ParentName: default
+  Name: blindedinchains
+  Data:
+    Artist: bloodsimple
+    SongName: What If I Lost It
+    Album: A Cruel World
+    PathEvent: 30074533
+    DefPlay: IG
+- ParentName: default
+  Name: handofblood
+  Data:
+    Artist: Stigmata
+    SongName: Ministry(Instrumental)
+    Album: The Land of Rape and Honey
+    PathEvent: 31523993
+    DefPlay: IG
+- ParentName: default
+  Name: barrierbreak
+  Data:
+    Artist: Paul Haslinger
+    SongName: A Manner Of Speed
+    Album: 'Need For Speed: Undercover Soundtrack'
+    PathEvent: 24206384
+    DefPlay: IG
+- ParentName: default
+  Name: brokensword
+  Data:
+    Artist: Sevendust
+    SongName: Denial
+    Album: Home
+    PathEvent: 31885034
+    DefPlay: IG
+- ParentName: default
+  Name: shapeshifter
+  Data:
+    Artist: Falsalarma
+    SongName: El Mas Buscado
+    Album: El Mas Buscado
+    PathEvent: 25900638
+    DefPlay: IG
+- ParentName: default
+  Name: wecontrol
+  Data:
+    Artist: Plan B
+    SongName: No Good(Chase & Status and Beni G Remix)
+    Album: No Good
+    PathEvent: 20322518
+    DefPlay: IG
+- ParentName: default
+  Name: 0xFFB0D1C5
+  Data:
+    Artist: Paul Linford and Chris Vrenna
+    SongName: Most Wanted Mash Up
+    Album: ''
+    PathEvent: 17212418
+    DefPlay: IG

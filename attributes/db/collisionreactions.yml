@@ -1,0 +1,961 @@
+- ParentName: 
+  Name: default
+  Data:
+    REARSIDE_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0
+      MassScale: 0
+      StunSpeed: 0
+      StunTime: 0
+    FRONTSIDE_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0
+      MassScale: 0
+      StunSpeed: 0
+      StunTime: 0
+    FRONT_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0
+      MassScale: 0
+      StunSpeed: 0
+      StunTime: 0
+    REAR_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0
+      MassScale: 0
+      StunSpeed: 0
+      StunTime: 0
+- ParentName: default
+  Name: racers
+  Data:
+    REARSIDE_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0
+      MassScale: 0
+      StunSpeed: 0
+      StunTime: 0
+    FRONTSIDE_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0
+      MassScale: 0
+      StunSpeed: 0
+      StunTime: 0
+    FRONT_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0
+      MassScale: 0
+      StunSpeed: 0
+      StunTime: 0
+    REAR_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0
+      MassScale: 0
+      StunSpeed: 0
+      StunTime: 0
+- ParentName: racers
+  Name: racing
+  Data:
+    REARSIDE_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0
+      MassScale: 2
+      StunSpeed: 0
+      StunTime: 0
+    FRONTSIDE_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0
+      MassScale: 0
+      StunSpeed: 0
+      StunTime: 0
+    FRONT_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0
+      MassScale: 0
+      StunSpeed: 0
+      StunTime: 0
+    REAR_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0
+      MassScale: 0
+      StunSpeed: 0
+      StunTime: 0
+- ParentName: default
+  Name: cops
+  Data:
+    REARSIDE_REACTION:
+      Elasticity: 0.20000000298023224
+      RollHeight: 0.20000000298023224
+      WeightBias: 0.80000001192092896
+      MassScale: 0.20000000298023224
+      StunSpeed: 0
+      StunTime: 0
+    FRONTSIDE_REACTION:
+      Elasticity: 0.10000000149011612
+      RollHeight: 0.20000000298023224
+      WeightBias: 0.20000000298023224
+      MassScale: 0.60000002384185791
+      StunSpeed: 0
+      StunTime: 0
+    FRONT_REACTION:
+      Elasticity: 0.25
+      RollHeight: 0.20000000298023224
+      WeightBias: 0.20000000298023224
+      MassScale: 0.60000002384185791
+      StunSpeed: 0
+      StunTime: 0
+    REAR_REACTION:
+      Elasticity: 0
+      RollHeight: 0.20000000298023224
+      WeightBias: 1
+      MassScale: 1.2000000476837158
+      StunSpeed: 0
+      StunTime: 0
+- ParentName: cops
+  Name: copsuvpatrol
+  Data:
+    REARSIDE_REACTION:
+      Elasticity: 0.20000000298023224
+      RollHeight: 0.20000000298023224
+      WeightBias: 0.80000001192092896
+      MassScale: 0.89999997615814209
+      StunSpeed: 0
+      StunTime: 0
+    FRONTSIDE_REACTION:
+      Elasticity: 0.10000000149011612
+      RollHeight: 0.20000000298023224
+      WeightBias: 0.20000000298023224
+      MassScale: 0.80000001192092896
+      StunSpeed: 0
+      StunTime: 0
+    FRONT_REACTION:
+      Elasticity: 0.25
+      RollHeight: 0.20000000298023224
+      WeightBias: 0.20000000298023224
+      MassScale: 0.80000001192092896
+      StunSpeed: 0
+      StunTime: 0
+    REAR_REACTION:
+      Elasticity: 0
+      RollHeight: 0.20000000298023224
+      WeightBias: 1
+      MassScale: 1.2000000476837158
+      StunSpeed: 0
+      StunTime: 0
+- ParentName: cops
+  Name: coppit
+  Data:
+    REARSIDE_REACTION:
+      Elasticity: 0.20000000298023224
+      RollHeight: 0.20000000298023224
+      WeightBias: 0.80000001192092896
+      MassScale: 0
+      StunSpeed: 0
+      StunTime: 0
+    FRONTSIDE_REACTION:
+      Elasticity: 0.40000000596046448
+      RollHeight: 0.20000000298023224
+      WeightBias: 1
+      MassScale: 4
+      StunSpeed: 0
+      StunTime: 0
+    FRONT_REACTION:
+      Elasticity: 0.40000000596046448
+      RollHeight: 0.20000000298023224
+      WeightBias: 1
+      MassScale: 4
+      StunSpeed: 0
+      StunTime: 0
+    REAR_REACTION:
+      Elasticity: 0
+      RollHeight: 0.20000000298023224
+      WeightBias: 1
+      MassScale: 2
+      StunSpeed: 0
+      StunTime: 0
+- ParentName: cops
+  Name: suvs
+  Data:
+    REARSIDE_REACTION:
+      Elasticity: 0.20000000298023224
+      RollHeight: 0.20000000298023224
+      WeightBias: 0.80000001192092896
+      MassScale: 0.80000001192092896
+      StunSpeed: 0
+      StunTime: 0
+    FRONTSIDE_REACTION:
+      Elasticity: 0.10000000149011612
+      RollHeight: 0.20000000298023224
+      WeightBias: 0.20000000298023224
+      MassScale: 1
+      StunSpeed: 0
+      StunTime: 0
+    FRONT_REACTION:
+      Elasticity: 0.05000000074505806
+      RollHeight: 0.20000000298023224
+      WeightBias: 0.20000000298023224
+      MassScale: 2
+      StunSpeed: 0
+      StunTime: 0
+    REAR_REACTION:
+      Elasticity: 0
+      RollHeight: 0.20000000298023224
+      WeightBias: 1
+      MassScale: 2
+      StunSpeed: 0
+      StunTime: 0
+- ParentName: cops
+  Name: suvlight
+  Data:
+    REARSIDE_REACTION:
+      Elasticity: 0.20000000298023224
+      RollHeight: 0.20000000298023224
+      WeightBias: 0.80000001192092896
+      MassScale: 0.60000002384185791
+      StunSpeed: 0
+      StunTime: 0
+    FRONTSIDE_REACTION:
+      Elasticity: 0.10000000149011612
+      RollHeight: 0.20000000298023224
+      WeightBias: 0.20000000298023224
+      MassScale: 1
+      StunSpeed: 0
+      StunTime: 0
+    FRONT_REACTION:
+      Elasticity: 0.10000000149011612
+      RollHeight: 0.20000000298023224
+      WeightBias: 0.20000000298023224
+      MassScale: 1.5
+      StunSpeed: 0
+      StunTime: 0
+    REAR_REACTION:
+      Elasticity: 0
+      RollHeight: 0.20000000298023224
+      WeightBias: 1
+      MassScale: 2
+      StunSpeed: 0
+      StunTime: 0
+- ParentName: cops
+  Name: roadblock
+  Data:
+    REARSIDE_REACTION:
+      Elasticity: 0.20000000298023224
+      RollHeight: 0.25
+      WeightBias: 0.75
+      MassScale: 0.44999998807907104
+      StunSpeed: 0
+      StunTime: 0
+    FRONTSIDE_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0.5
+      MassScale: 2.5999999046325684
+      StunSpeed: 0
+      StunTime: 0
+    FRONT_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0.5
+      MassScale: 2.5999999046325684
+      StunSpeed: 0
+      StunTime: 0
+    REAR_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0
+      MassScale: 2
+      StunSpeed: 0
+      StunTime: 0
+- ParentName: roadblock
+  Name: roadblockcopghost
+  Data:
+    REARSIDE_REACTION:
+      Elasticity: 0.20000000298023224
+      RollHeight: 0.25
+      WeightBias: 0.75
+      MassScale: 0.60000002384185791
+      StunSpeed: 0
+      StunTime: 0
+    FRONTSIDE_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0.5
+      MassScale: 1.3999999761581421
+      StunSpeed: 0
+      StunTime: 0
+    FRONT_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0.5
+      MassScale: 2.5999999046325684
+      StunSpeed: 0
+      StunTime: 0
+    REAR_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0
+      MassScale: 2
+      StunSpeed: 0
+      StunTime: 0
+- ParentName: roadblock
+  Name: roadblockgtoghost
+  Data:
+    REARSIDE_REACTION:
+      Elasticity: 0.20000000298023224
+      RollHeight: 0.25
+      WeightBias: 0.75
+      MassScale: 0.69999998807907104
+      StunSpeed: 0
+      StunTime: 0
+    FRONTSIDE_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0.5
+      MassScale: 1.4500000476837158
+      StunSpeed: 0
+      StunTime: 0
+    FRONT_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0.5
+      MassScale: 2.5999999046325684
+      StunSpeed: 0
+      StunTime: 0
+    REAR_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0
+      MassScale: 2.2000000476837158
+      StunSpeed: 0
+      StunTime: 0
+- ParentName: roadblock
+  Name: roadblockcopsporthench
+  Data:
+    REARSIDE_REACTION:
+      Elasticity: 0.20000000298023224
+      RollHeight: 0.25
+      WeightBias: 0.75
+      MassScale: 0.75
+      StunSpeed: 0
+      StunTime: 0
+    FRONTSIDE_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0.5
+      MassScale: 1.5
+      StunSpeed: 0
+      StunTime: 0
+    FRONT_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0.5
+      MassScale: 2.5999999046325684
+      StunSpeed: 0
+      StunTime: 0
+    REAR_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0
+      MassScale: 2.4000000953674316
+      StunSpeed: 0
+      StunTime: 0
+- ParentName: roadblock
+  Name: roadblocksuvheavy
+  Data:
+    REARSIDE_REACTION:
+      Elasticity: 0.20000000298023224
+      RollHeight: 0.05000000074505806
+      WeightBias: 0.5
+      MassScale: 0.89999997615814209
+      StunSpeed: 0
+      StunTime: 0
+    FRONTSIDE_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0.5
+      MassScale: 1.7999999523162842
+      StunSpeed: 0
+      StunTime: 0
+    FRONT_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0.5
+      MassScale: 2.7999999523162842
+      StunSpeed: 0
+      StunTime: 0
+    REAR_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0
+      MassScale: 3.5
+      StunSpeed: 0
+      StunTime: 0
+- ParentName: roadblock
+  Name: roadblocksuvlight
+  Data:
+    REARSIDE_REACTION:
+      Elasticity: 0.20000000298023224
+      RollHeight: 0.10000000149011612
+      WeightBias: 0.5
+      MassScale: 0.85000002384185791
+      StunSpeed: 0
+      StunTime: 0
+    FRONTSIDE_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0.5
+      MassScale: 1.7999999523162842
+      StunSpeed: 0
+      StunTime: 0
+    FRONT_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0.5
+      MassScale: 2.7000000476837158
+      StunSpeed: 0
+      StunTime: 0
+    REAR_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0
+      MassScale: 3
+      StunSpeed: 0
+      StunTime: 0
+- ParentName: roadblock
+  Name: roadblockcopsportghost
+  Data:
+    REARSIDE_REACTION:
+      Elasticity: 0.20000000298023224
+      RollHeight: 0.25
+      WeightBias: 0.75
+      MassScale: 0.80000001192092896
+      StunSpeed: 0
+      StunTime: 0
+    FRONTSIDE_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0.5
+      MassScale: 1.3999999761581421
+      StunSpeed: 0
+      StunTime: 0
+    FRONT_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0.5
+      MassScale: 2.5999999046325684
+      StunSpeed: 0
+      StunTime: 0
+    REAR_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0
+      MassScale: 2.5999999046325684
+      StunSpeed: 0
+      StunTime: 0
+- ParentName: roadblock
+  Name: roadblockcopmidsize
+  Data:
+    REARSIDE_REACTION:
+      Elasticity: 0.20000000298023224
+      RollHeight: 0.25
+      WeightBias: 0.75
+      MassScale: 0.44999998807907104
+      StunSpeed: 0
+      StunTime: 0
+    FRONTSIDE_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0.5
+      MassScale: 1.2000000476837158
+      StunSpeed: 0
+      StunTime: 0
+    FRONT_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0.5
+      MassScale: 2.5999999046325684
+      StunSpeed: 0
+      StunTime: 0
+    REAR_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0
+      MassScale: 2
+      StunSpeed: 0
+      StunTime: 0
+- ParentName: roadblock
+  Name: roadblockgto
+  Data:
+    REARSIDE_REACTION:
+      Elasticity: 0.20000000298023224
+      RollHeight: 0.25
+      WeightBias: 0.75
+      MassScale: 0.64999997615814209
+      StunSpeed: 0
+      StunTime: 0
+    FRONTSIDE_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0.5
+      MassScale: 1.3999999761581421
+      StunSpeed: 0
+      StunTime: 0
+    FRONT_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0.5
+      MassScale: 2.5999999046325684
+      StunSpeed: 0
+      StunTime: 0
+    REAR_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0
+      MassScale: 1.6000000238418579
+      StunSpeed: 0
+      StunTime: 0
+- ParentName: cops
+  Name: copghost
+  Data:
+    REARSIDE_REACTION:
+      Elasticity: 0.20000000298023224
+      RollHeight: 0.20000000298023224
+      WeightBias: 0.80000001192092896
+      MassScale: 0.30000001192092896
+      StunSpeed: 0
+      StunTime: 0
+    FRONTSIDE_REACTION:
+      Elasticity: 0.10000000149011612
+      RollHeight: 0.20000000298023224
+      WeightBias: 0.20000000298023224
+      MassScale: 0.69999998807907104
+      StunSpeed: 0
+      StunTime: 0
+    FRONT_REACTION:
+      Elasticity: 0.20000000298023224
+      RollHeight: 0.20000000298023224
+      WeightBias: 0.20000000298023224
+      MassScale: 0.80000001192092896
+      StunSpeed: 0
+      StunTime: 0
+    REAR_REACTION:
+      Elasticity: 0
+      RollHeight: 0.20000000298023224
+      WeightBias: 1
+      MassScale: 1.2999999523162842
+      StunSpeed: 0
+      StunTime: 0
+- ParentName: cops
+  Name: copsportghost
+  Data:
+    REARSIDE_REACTION:
+      Elasticity: 0.20000000298023224
+      RollHeight: 0.20000000298023224
+      WeightBias: 0.80000001192092896
+      MassScale: 0.80000001192092896
+      StunSpeed: 0
+      StunTime: 0
+    FRONTSIDE_REACTION:
+      Elasticity: 0.10000000149011612
+      RollHeight: 0.20000000298023224
+      WeightBias: 0.20000000298023224
+      MassScale: 1.2000000476837158
+      StunSpeed: 0
+      StunTime: 0
+    FRONT_REACTION:
+      Elasticity: 0.25
+      RollHeight: 0.20000000298023224
+      WeightBias: 0.20000000298023224
+      MassScale: 1
+      StunSpeed: 0
+      StunTime: 0
+    REAR_REACTION:
+      Elasticity: 0
+      RollHeight: 0.20000000298023224
+      WeightBias: 1
+      MassScale: 1.7999999523162842
+      StunSpeed: 0
+      StunTime: 0
+- ParentName: cops
+  Name: copsporthench
+  Data:
+    REARSIDE_REACTION:
+      Elasticity: 0.20000000298023224
+      RollHeight: 0.20000000298023224
+      WeightBias: 0.80000001192092896
+      MassScale: 0.69999998807907104
+      StunSpeed: 0
+      StunTime: 0
+    FRONTSIDE_REACTION:
+      Elasticity: 0.10000000149011612
+      RollHeight: 0.20000000298023224
+      WeightBias: 0.20000000298023224
+      MassScale: 1.1000000238418579
+      StunSpeed: 0
+      StunTime: 0
+    FRONT_REACTION:
+      Elasticity: 0.25
+      RollHeight: 0.20000000298023224
+      WeightBias: 0.20000000298023224
+      MassScale: 0.94999998807907104
+      StunSpeed: 0
+      StunTime: 0
+    REAR_REACTION:
+      Elasticity: 0
+      RollHeight: 0.20000000298023224
+      WeightBias: 1
+      MassScale: 1.7000000476837158
+      StunSpeed: 0
+      StunTime: 0
+- ParentName: cops
+  Name: copgto
+  Data:
+    REARSIDE_REACTION:
+      Elasticity: 0.20000000298023224
+      RollHeight: 0.20000000298023224
+      WeightBias: 0.80000001192092896
+      MassScale: 0.40000000596046448
+      StunSpeed: 0
+      StunTime: 0
+    FRONTSIDE_REACTION:
+      Elasticity: 0.10000000149011612
+      RollHeight: 0.20000000298023224
+      WeightBias: 0.20000000298023224
+      MassScale: 0.80000001192092896
+      StunSpeed: 0
+      StunTime: 0
+    FRONT_REACTION:
+      Elasticity: 0.25
+      RollHeight: 0.20000000298023224
+      WeightBias: 0.20000000298023224
+      MassScale: 0.85000002384185791
+      StunSpeed: 0
+      StunTime: 0
+    REAR_REACTION:
+      Elasticity: 0
+      RollHeight: 0.20000000298023224
+      WeightBias: 1
+      MassScale: 1.3999999761581421
+      StunSpeed: 0
+      StunTime: 0
+- ParentName: cops
+  Name: copcross
+  Data:
+    REARSIDE_REACTION:
+      Elasticity: 0.20000000298023224
+      RollHeight: 0.20000000298023224
+      WeightBias: 0.80000001192092896
+      MassScale: 1
+      StunSpeed: 0
+      StunTime: 0
+    FRONTSIDE_REACTION:
+      Elasticity: 0.10000000149011612
+      RollHeight: 0.20000000298023224
+      WeightBias: 0.20000000298023224
+      MassScale: 1.5
+      StunSpeed: 0
+      StunTime: 0
+    FRONT_REACTION:
+      Elasticity: 0.25
+      RollHeight: 0.20000000298023224
+      WeightBias: 0.20000000298023224
+      MassScale: 2
+      StunSpeed: 0
+      StunTime: 0
+    REAR_REACTION:
+      Elasticity: 0
+      RollHeight: 0.20000000298023224
+      WeightBias: 1
+      MassScale: 2
+      StunSpeed: 0
+      StunTime: 0
+- ParentName: cops
+  Name: copgtoghost
+  Data:
+    REARSIDE_REACTION:
+      Elasticity: 0.20000000298023224
+      RollHeight: 0.20000000298023224
+      WeightBias: 0.80000001192092896
+      MassScale: 0.60000002384185791
+      StunSpeed: 0
+      StunTime: 0
+    FRONTSIDE_REACTION:
+      Elasticity: 0.10000000149011612
+      RollHeight: 0.20000000298023224
+      WeightBias: 0.20000000298023224
+      MassScale: 1
+      StunSpeed: 0
+      StunTime: 0
+    FRONT_REACTION:
+      Elasticity: 0.25
+      RollHeight: 0.20000000298023224
+      WeightBias: 0.20000000298023224
+      MassScale: 0.89999997615814209
+      StunSpeed: 0
+      StunTime: 0
+    REAR_REACTION:
+      Elasticity: 0
+      RollHeight: 0.20000000298023224
+      WeightBias: 1
+      MassScale: 1.6000000238418579
+      StunSpeed: 0
+      StunTime: 0
+- ParentName: default
+  Name: challengeseries
+  Data:
+    REARSIDE_REACTION:
+      Elasticity: 0.20000000298023224
+      RollHeight: 0.25
+      WeightBias: 0
+      MassScale: 0
+      StunSpeed: 0
+      StunTime: 0
+    FRONTSIDE_REACTION:
+      Elasticity: 0.10000000149011612
+      RollHeight: 0
+      WeightBias: 0
+      MassScale: 1
+      StunSpeed: 0
+      StunTime: 0
+    FRONT_REACTION:
+      Elasticity: 0
+      RollHeight: -0.10000000149011612
+      WeightBias: 0
+      MassScale: 2
+      StunSpeed: 0
+      StunTime: 0
+    REAR_REACTION:
+      Elasticity: 0
+      RollHeight: -0.125
+      WeightBias: 2
+      MassScale: 2
+      StunSpeed: 0
+      StunTime: 0
+- ParentName: challengeseries
+  Name: cscopmidsize
+  Data:
+    REARSIDE_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0
+      MassScale: 0
+      StunSpeed: 0
+      StunTime: 0
+    FRONTSIDE_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0
+      MassScale: 0
+      StunSpeed: 0
+      StunTime: 0
+    FRONT_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0
+      MassScale: 0
+      StunSpeed: 0
+      StunTime: 0
+    REAR_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0
+      MassScale: 0
+      StunSpeed: 0
+      StunTime: 0
+- ParentName: challengeseries
+  Name: cscopsuv
+  Data:
+    REARSIDE_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0
+      MassScale: 0
+      StunSpeed: 0
+      StunTime: 0
+    FRONTSIDE_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0
+      MassScale: 0
+      StunSpeed: 0
+      StunTime: 0
+    FRONT_REACTION:
+      Elasticity: 0.10000000149011612
+      RollHeight: -0.10000000149011612
+      WeightBias: 1
+      MassScale: 2
+      StunSpeed: 0
+      StunTime: 0
+    REAR_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0
+      MassScale: 0
+      StunSpeed: 0
+      StunTime: 0
+- ParentName: challengeseries
+  Name: semi
+  Data:
+    REARSIDE_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 1
+      MassScale: 2
+      StunSpeed: 0
+      StunTime: 0
+    FRONTSIDE_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 1
+      MassScale: 2
+      StunSpeed: 0
+      StunTime: 0
+    FRONT_REACTION:
+      Elasticity: 0.40000000596046448
+      RollHeight: 0
+      WeightBias: 1
+      MassScale: 7
+      StunSpeed: 0
+      StunTime: 0
+    REAR_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 1
+      MassScale: 2
+      StunSpeed: 0
+      StunTime: 0
+- ParentName: default
+  Name: traffic
+  Data:
+    REARSIDE_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0
+      MassScale: 0
+      StunSpeed: 0
+      StunTime: 0
+    FRONTSIDE_REACTION:
+      Elasticity: 0
+      RollHeight: 0
+      WeightBias: 0
+      MassScale: 0
+      StunSpeed: 0
+      StunTime: 0
+    FRONT_REACTION:
+      Elasticity: 0
+      RollHeight: 0.10000000149011612
+      WeightBias: -0.89999997615814209
+      MassScale: 0.94999998807907104
+      StunSpeed: 0
+      StunTime: 0
+    REAR_REACTION:
+      Elasticity: 0.10000000149011612
+      RollHeight: 0.10000000149011612
+      WeightBias: 0.89999997615814209
+      MassScale: 0.85000002384185791
+      StunSpeed: 0
+      StunTime: 0
+- ParentName: traffic
+  Name: truck
+  Data:
+    REARSIDE_REACTION:
+      Elasticity: 0
+      RollHeight: -0.30000001192092896
+      WeightBias: 0
+      MassScale: 0
+      StunSpeed: 0
+      StunTime: 0
+    FRONTSIDE_REACTION:
+      Elasticity: 0
+      RollHeight: -0.30000001192092896
+      WeightBias: 0
+      MassScale: 0.85000002384185791
+      StunSpeed: 0
+      StunTime: 0
+    FRONT_REACTION:
+      Elasticity: 0
+      RollHeight: -0.15000000596046448
+      WeightBias: -0.89999997615814209
+      MassScale: 0.80000001192092896
+      StunSpeed: 0
+      StunTime: 0
+    REAR_REACTION:
+      Elasticity: 0.15000000596046448
+      RollHeight: -0.15000000596046448
+      WeightBias: 0.89999997615814209
+      MassScale: 0.80000001192092896
+      StunSpeed: 0
+      StunTime: 0
+- ParentName: traffic
+  Name: street
+  Data:
+    REARSIDE_REACTION:
+      Elasticity: 0
+      RollHeight: -0.30000001192092896
+      WeightBias: 0.80000001192092896
+      MassScale: 0
+      StunSpeed: 0
+      StunTime: 0
+    FRONTSIDE_REACTION:
+      Elasticity: 0
+      RollHeight: -0.30000001192092896
+      WeightBias: 0
+      MassScale: 0.85000002384185791
+      StunSpeed: 0
+      StunTime: 0
+    FRONT_REACTION:
+      Elasticity: 0
+      RollHeight: -0.15000000596046448
+      WeightBias: -0.89999997615814209
+      MassScale: 0.80000001192092896
+      StunSpeed: 0
+      StunTime: 0
+    REAR_REACTION:
+      Elasticity: 0.17000000178813934
+      RollHeight: -0.15000000596046448
+      WeightBias: 0.89999997615814209
+      MassScale: 0.80000001192092896
+      StunSpeed: 0
+      StunTime: 0
+- ParentName: traffic
+  Name: van
+  Data:
+    REARSIDE_REACTION:
+      Elasticity: 0
+      RollHeight: -0.30000001192092896
+      WeightBias: 0.80000001192092896
+      MassScale: 0
+      StunSpeed: 0
+      StunTime: 0
+    FRONTSIDE_REACTION:
+      Elasticity: 0
+      RollHeight: -0.30000001192092896
+      WeightBias: 0
+      MassScale: 0.85000002384185791
+      StunSpeed: 0
+      StunTime: 0
+    FRONT_REACTION:
+      Elasticity: 0
+      RollHeight: -0.15000000596046448
+      WeightBias: -0.89999997615814209
+      MassScale: 0.60000002384185791
+      StunSpeed: 0
+      StunTime: 0
+    REAR_REACTION:
+      Elasticity: 0.25
+      RollHeight: -0.15000000596046448
+      WeightBias: 0.89999997615814209
+      MassScale: 0.64999997615814209
+      StunSpeed: 0
+      StunTime: 0

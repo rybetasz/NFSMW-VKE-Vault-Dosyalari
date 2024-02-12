@@ -1,0 +1,1369 @@
+- ParentName: 
+  Name: default
+  Data:
+    cops:
+      Capacity: 3
+      Data:
+      - CopType: copmidsize
+        Count: 1
+        Chance: 0
+    heliLOSdistance: 201
+    roadblockhelichance: 0
+    SirenMaxYelpTime: 6
+    roadblockprobability: 0
+    MilestoneCompleteHeatAdjust: 0.93000000715255737
+    SirenMaxScreamTime: 3
+    SearchModeRoadblockChance: 50
+    HeliFuelTime: 20
+    FullEngagementCopCount: 1
+    TimeBetweenHeliActive: 20
+    TimePerHeatLevel: 60
+    SirenWailPeriod: 11
+    TimeBetweenCopSpawn: 20
+    EventWinHeatAdjust: 0.93999999761581421
+    RepPointsPerMinute: 5
+    SearchModeCityMPH: 50
+    evadetimeout: 5
+    SearchModeHwyMPH: 71
+    FullEngagementRadius: 10
+    NumCopsToTriggerBackup: 0
+    BackupCallTimer: 5
+    SirenInitVariation: 1.5
+    EvadeSuccessHeatAdjust: 0.94999998807907104
+    SirenInitMinPeriod: 0.5
+    frontLOSdistance: 151
+    TimeToHideInZone: 3
+    rearLOSdistance: 51
+    SirenScreamPeriod: 60
+    SearchModeRoadblockRadius: 1000
+    TimeBetweenFirstFourSpawn: 10
+    SearchModeHeliSpawnChance: 0
+    NumPatrolCars: 2
+    BoxinTightness: 0.5
+    CollapseOuterRadius: 15
+    MaxCopsCollapsing: 6
+    StaggerFormationTime: 10
+    TimeInactiveFor911: 120
+    ScaleEscalationPerBucket:
+      Capacity: 15
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    BoxinDuration: 3
+    RollingBlockTightness: 0.5
+    CTSFor911: 1750
+    DestroyCopBonusTime: 120
+    CollapseSpeed: 15
+    BustSpeed: 5
+    MeterDeadZoneBustedDistance: 35
+    CollapseAggression: 0
+    MeterDeadZoneEvadeDist: 50
+    CopFormations:
+      Capacity: 1
+      Data:
+      - FormationType: PIT
+        Duration: 10
+        Frequency: 10
+    Lifetime911: 180
+    roadblockspikechance: 0
+    NumCiviHitsFor911: 5
+    RollingBlockDuration: 3
+    HiddenZoneTimeMultiplier: 4
+    CollapseInnerRadius: 3
+    SpeedReactionTime: 0
+- ParentName: default
+  Name: race_03
+  Data:
+    cops:
+      Capacity: 3
+      Data:
+      - CopType: copgto
+        Count: 4
+        Chance: 100
+    heliLOSdistance: 251
+    roadblockhelichance: 0
+    SirenMaxYelpTime: 6
+    roadblockprobability: 0
+    MilestoneCompleteHeatAdjust: 0
+    SirenMaxScreamTime: 3
+    SearchModeRoadblockChance: 0
+    HeliFuelTime: 60
+    FullEngagementCopCount: 15
+    TimeBetweenHeliActive: 120
+    TimePerHeatLevel: 900
+    SirenWailPeriod: 11
+    TimeBetweenCopSpawn: 5
+    EventWinHeatAdjust: 0.89999997615814209
+    RepPointsPerMinute: 0
+    SearchModeCityMPH: 55
+    evadetimeout: 120
+    SearchModeHwyMPH: 100
+    FullEngagementRadius: 50
+    NumCopsToTriggerBackup: 3
+    BackupCallTimer: 90
+    SirenInitVariation: 1.5
+    EvadeSuccessHeatAdjust: 0
+    SirenInitMinPeriod: 0.5
+    frontLOSdistance: 151
+    TimeToHideInZone: 3
+    rearLOSdistance: 51
+    SirenScreamPeriod: 60
+    SearchModeRoadblockRadius: 1000
+    CollapseOuterRadius: 15
+    SpeedReactionTime: 0
+    CollapseAggression: 0
+    CollapseInnerRadius: 3
+    DestroyCopBonusTime: 10
+    CollapseSpeed: 15
+    CopFormations:
+      Capacity: 1
+      Data:
+      - FormationType: ROLLING_BLOCK_LARGE
+        Duration: 10
+        Frequency: 100
+    NumPatrolCars: 2
+    MaxCopsCollapsing: 6
+    TimeBetweenFirstFourSpawn: 10
+- ParentName: default
+  Name: race_02
+  Data:
+    cops:
+      Capacity: 3
+      Data:
+      - CopType: copghost
+        Count: 3
+        Chance: 100
+    heliLOSdistance: 251
+    roadblockhelichance: 0
+    SirenMaxYelpTime: 6
+    roadblockprobability: 0
+    MilestoneCompleteHeatAdjust: 0
+    SirenMaxScreamTime: 3
+    SearchModeRoadblockChance: 0
+    HeliFuelTime: 20
+    FullEngagementCopCount: 10
+    TimeBetweenHeliActive: 120
+    TimePerHeatLevel: 900
+    SirenWailPeriod: 11
+    TimeBetweenCopSpawn: 4
+    EventWinHeatAdjust: 0.89999997615814209
+    RepPointsPerMinute: 0
+    SearchModeCityMPH: 55
+    evadetimeout: 120
+    SearchModeHwyMPH: 100
+    FullEngagementRadius: 50
+    NumCopsToTriggerBackup: 2
+    BackupCallTimer: 120
+    SirenInitVariation: 1.5
+    EvadeSuccessHeatAdjust: 0
+    SirenInitMinPeriod: 0.5
+    frontLOSdistance: 151
+    TimeToHideInZone: 3
+    rearLOSdistance: 51
+    SirenScreamPeriod: 60
+    SearchModeRoadblockRadius: 1000
+    CollapseOuterRadius: 15
+    SpeedReactionTime: 0
+    CollapseAggression: 0
+    CollapseInnerRadius: 3
+    CopFormations:
+      Capacity: 1
+      Data:
+      - FormationType: ROLLING_BLOCK_LARGE
+        Duration: 10
+        Frequency: 100
+    DestroyCopBonusTime: 10
+    CollapseSpeed: 15
+    NumPatrolCars: 2
+    MaxCopsCollapsing: 6
+    TimeBetweenFirstFourSpawn: 10
+- ParentName: default
+  Name: race_01
+  Data:
+    cops:
+      Capacity: 3
+      Data:
+      - CopType: copmidsize
+        Count: 2
+        Chance: 100
+    heliLOSdistance: 251
+    roadblockhelichance: 0
+    SirenMaxYelpTime: 6
+    roadblockprobability: 0
+    MilestoneCompleteHeatAdjust: 0
+    SirenMaxScreamTime: 3
+    SearchModeRoadblockChance: 0
+    HeliFuelTime: 10
+    FullEngagementCopCount: 5
+    TimeBetweenHeliActive: 120
+    TimePerHeatLevel: 900
+    SirenWailPeriod: 11
+    TimeBetweenCopSpawn: 10
+    EventWinHeatAdjust: 0.89999997615814209
+    RepPointsPerMinute: 0
+    SearchModeCityMPH: 55
+    evadetimeout: 120
+    SearchModeHwyMPH: 100
+    FullEngagementRadius: 50
+    NumCopsToTriggerBackup: 2
+    BackupCallTimer: 180
+    SirenInitVariation: 1.5
+    EvadeSuccessHeatAdjust: 0
+    SirenInitMinPeriod: 0.5
+    frontLOSdistance: 151
+    TimeToHideInZone: 3
+    rearLOSdistance: 51
+    SirenScreamPeriod: 60
+    SearchModeRoadblockRadius: 1000
+    CollapseOuterRadius: 15
+    SpeedReactionTime: 0
+    CollapseAggression: 0
+    CollapseInnerRadius: 3
+    DestroyCopBonusTime: 10
+    CollapseSpeed: 15
+    CopFormations:
+      Capacity: 1
+      Data:
+      - FormationType: ROLLING_BLOCK_LARGE
+        Duration: 10
+        Frequency: 100
+    MaxCopsCollapsing: 6
+- ParentName: default
+  Name: heat_05
+  Data:
+    cops:
+      Capacity: 3
+      Data:
+      - CopType: copsporthench
+        Count: 10
+        Chance: 50
+      - CopType: copheli
+        Count: 1
+        Chance: 60
+      - CopType: copsuper
+        Count: 10
+        Chance: 50
+    heliLOSdistance: 251
+    roadblockhelichance: 0
+    SirenMaxYelpTime: 6
+    roadblockprobability: 40
+    MilestoneCompleteHeatAdjust: 1
+    SirenMaxScreamTime: 3
+    SearchModeRoadblockChance: 10
+    HeliFuelTime: 90
+    FullEngagementCopCount: 25
+    TimeBetweenHeliActive: 180
+    TimePerHeatLevel: 1
+    SirenWailPeriod: 11
+    TimeBetweenCopSpawn: 2
+    EventWinHeatAdjust: 0.89999997615814209
+    RepPointsPerMinute: 25000
+    SearchModeCityMPH: 75
+    evadetimeout: 120
+    SearchModeHwyMPH: 100
+    FullEngagementRadius: 50
+    NumCopsToTriggerBackup: 2
+    BackupCallTimer: 90
+    SirenInitVariation: 1.5
+    EvadeSuccessHeatAdjust: 0.89999997615814209
+    SirenInitMinPeriod: 0.5
+    frontLOSdistance: 151
+    TimeToHideInZone: 1
+    rearLOSdistance: 151
+    SirenScreamPeriod: 60
+    SearchModeRoadblockRadius: 10000
+    TimeBetweenFirstFourSpawn: 10
+    SearchModeHeliSpawnChance: 4
+    NumPatrolCars: 1
+    BoxinTightness: 1
+    CollapseOuterRadius: 5
+    MaxCopsCollapsing: 8
+    StaggerFormationTime: 3
+    TimeInactiveFor911: 120
+    ScaleEscalationPerBucket:
+      Capacity: 15
+      Data:
+      - 600
+      - 600
+      - 600
+      - 600
+      - 600
+      - 600
+      - 600
+      - 600
+      - 600
+      - 600
+      - 600
+      - 600
+      - 600
+      - 600
+      - 600
+    BoxinDuration: 8
+    RollingBlockTightness: 1
+    CTSFor911: 1500
+    DestroyCopBonusTime: 10
+    CollapseSpeed: 96
+    BustSpeed: 25
+    MeterDeadZoneBustedDistance: 35
+    CollapseAggression: 0.80000001192092896
+    MeterDeadZoneEvadeDist: 50
+    CopFormations:
+      Capacity: 4
+      Data:
+      - FormationType: ROLLING_BLOCK
+        Duration: 40
+        Frequency: 50
+      - FormationType: BOX_IN
+        Duration: 40
+        Frequency: 50
+      - FormationType: PIT
+        Duration: 40
+        Frequency: 50
+      - FormationType: HERD
+        Duration: 40
+        Frequency: 50
+    Lifetime911: 45
+    roadblockspikechance: 80
+    NumCiviHitsFor911: 7
+    RollingBlockDuration: 8
+    HiddenZoneTimeMultiplier: 8
+    CollapseInnerRadius: 3
+    SpeedReactionTime: 0.10000000149011612
+- ParentName: default
+  Name: heat_03
+  Data:
+    cops:
+      Capacity: 3
+      Data:
+      - CopType: copgto
+        Count: 7
+        Chance: 100
+    heliLOSdistance: 251
+    roadblockhelichance: 0
+    SirenMaxYelpTime: 6
+    roadblockprobability: 25
+    MilestoneCompleteHeatAdjust: 1
+    SirenMaxScreamTime: 3
+    SearchModeRoadblockChance: 5
+    HeliFuelTime: 10
+    FullEngagementCopCount: 15
+    TimeBetweenHeliActive: 120
+    TimePerHeatLevel: 1
+    SirenWailPeriod: 11
+    TimeBetweenCopSpawn: 5
+    EventWinHeatAdjust: 0.89999997615814209
+    RepPointsPerMinute: 1000
+    SearchModeCityMPH: 75
+    evadetimeout: 75
+    SearchModeHwyMPH: 100
+    FullEngagementRadius: 50
+    NumCopsToTriggerBackup: 2
+    BackupCallTimer: 120
+    SirenInitVariation: 1.5
+    EvadeSuccessHeatAdjust: 0.89999997615814209
+    SirenInitMinPeriod: 0.5
+    frontLOSdistance: 151
+    TimeToHideInZone: 1
+    rearLOSdistance: 151
+    SirenScreamPeriod: 60
+    SearchModeRoadblockRadius: 2000
+    TimeBetweenFirstFourSpawn: 20
+    SearchModeHeliSpawnChance: 0
+    NumPatrolCars: 1
+    BoxinTightness: 0.80000001192092896
+    CollapseOuterRadius: 8
+    MaxCopsCollapsing: 6
+    StaggerFormationTime: 5
+    TimeInactiveFor911: 120
+    ScaleEscalationPerBucket:
+      Capacity: 15
+      Data:
+      - 120
+      - 120
+      - 120
+      - 120
+      - 120
+      - 180
+      - 240
+      - 300
+      - 600
+      - 600
+      - 600
+      - 600
+      - 600
+      - 600
+      - 600
+    BoxinDuration: 6
+    RollingBlockTightness: 0.80000001192092896
+    CTSFor911: 800
+    DestroyCopBonusTime: 10
+    CollapseSpeed: 78
+    BustSpeed: 19
+    MeterDeadZoneBustedDistance: 35
+    CollapseAggression: 0.60000002384185791
+    MeterDeadZoneEvadeDist: 50
+    CopFormations:
+      Capacity: 4
+      Data:
+      - FormationType: BOX_IN
+        Duration: 40
+        Frequency: 25
+      - FormationType: PIT
+        Duration: 40
+        Frequency: 60
+      - FormationType: ROLLING_BLOCK
+        Duration: 40
+        Frequency: 20
+      - FormationType: HERD
+        Duration: 40
+        Frequency: 40
+    Lifetime911: 45
+    NumCiviHitsFor911: 5
+    RollingBlockDuration: 6
+    HiddenZoneTimeMultiplier: 6
+    CollapseInnerRadius: 4
+    SpeedReactionTime: 0.75
+- ParentName: default
+  Name: heat_09
+  Data:
+    cops:
+      Capacity: 3
+      Data:
+      - CopType: copmidsize
+        Count: 4
+        Chance: 100
+      - CopType: copheli
+        Count: 1
+        Chance: 80
+    heliLOSdistance: 301
+    roadblockhelichance: 0
+    SirenMaxYelpTime: 6
+    roadblockprobability: 100
+    MilestoneCompleteHeatAdjust: 0
+    SirenMaxScreamTime: 3
+    SearchModeRoadblockChance: 0
+    HeliFuelTime: 120
+    FullEngagementCopCount: 20
+    TimeBetweenHeliActive: 60
+    TimePerHeatLevel: 820
+    SirenWailPeriod: 11
+    TimeBetweenCopSpawn: 2
+    EventWinHeatAdjust: 0.89999997615814209
+    RepPointsPerMinute: 10
+    SearchModeCityMPH: 55
+    evadetimeout: 60
+    SearchModeHwyMPH: 100
+    FullEngagementRadius: 50
+    NumCopsToTriggerBackup: 5
+    BackupCallTimer: 45
+    SirenInitVariation: 1.5
+    EvadeSuccessHeatAdjust: 0.89999997615814209
+    SirenInitMinPeriod: 0.5
+    frontLOSdistance: 201
+    TimeToHideInZone: 3
+    rearLOSdistance: 101
+    SirenScreamPeriod: 60
+    SearchModeRoadblockRadius: 4000
+    TimeBetweenFirstFourSpawn: 10
+    NumPatrolCars: 8
+    SpeedReactionTime: 0
+    CollapseOuterRadius: 5
+    MaxCopsCollapsing: 6
+    DestroyCopBonusTime: 10
+    CollapseSpeed: 1
+    CollapseAggression: 0
+    CopFormations:
+      Capacity: 1
+      Data:
+      - FormationType: PIT
+        Duration: 40
+        Frequency: 100
+    StaggerFormationTime: 7
+    roadblockspikechance: 100
+    HiddenZoneTimeMultiplier: 2
+    CollapseInnerRadius: 2
+- ParentName: default
+  Name: heat_02
+  Data:
+    cops:
+      Capacity: 3
+      Data:
+      - CopType: copghost
+        Count: 5
+        Chance: 100
+    heliLOSdistance: 251
+    roadblockhelichance: 0
+    SirenMaxYelpTime: 6
+    roadblockprobability: 10
+    MilestoneCompleteHeatAdjust: 1
+    SirenMaxScreamTime: 3
+    SearchModeRoadblockChance: 3
+    HeliFuelTime: 10
+    FullEngagementCopCount: 10
+    TimeBetweenHeliActive: 0
+    TimePerHeatLevel: 1
+    SirenWailPeriod: 11
+    TimeBetweenCopSpawn: 10
+    EventWinHeatAdjust: 0.89999997615814209
+    RepPointsPerMinute: 500
+    SearchModeCityMPH: 75
+    evadetimeout: 45
+    SearchModeHwyMPH: 100
+    FullEngagementRadius: 50
+    NumCopsToTriggerBackup: 2
+    BackupCallTimer: 120
+    SirenInitVariation: 1.5
+    EvadeSuccessHeatAdjust: 0.89999997615814209
+    SirenInitMinPeriod: 0.5
+    frontLOSdistance: 151
+    TimeToHideInZone: 1
+    rearLOSdistance: 151
+    SirenScreamPeriod: 60
+    SearchModeRoadblockRadius: 1000
+    TimeBetweenFirstFourSpawn: 30
+    NumPatrolCars: 1
+    BoxinTightness: 0.60000002384185791
+    CollapseOuterRadius: 15
+    MaxCopsCollapsing: 5
+    StaggerFormationTime: 6
+    TimeInactiveFor911: 120
+    ScaleEscalationPerBucket:
+      Capacity: 15
+      Data:
+      - 120
+      - 120
+      - 120
+      - 120
+      - 120
+      - 120
+      - 120
+      - 180
+      - 240
+      - 240
+      - 360
+      - 480
+      - 600
+      - 600
+      - 600
+    BoxinDuration: 5
+    RollingBlockTightness: 0.60000002384185791
+    CTSFor911: 600
+    DestroyCopBonusTime: 10
+    CollapseSpeed: 68
+    BustSpeed: 12
+    MeterDeadZoneBustedDistance: 35
+    CollapseAggression: 0.5
+    MeterDeadZoneEvadeDist: 50
+    CopFormations:
+      Capacity: 1
+      Data:
+      - FormationType: BOX_IN
+        Duration: 40
+        Frequency: 100
+    Lifetime911: 45
+    NumCiviHitsFor911: 4
+    RollingBlockDuration: 5
+    HiddenZoneTimeMultiplier: 5
+    CollapseInnerRadius: 5
+    SpeedReactionTime: 1.5
+- ParentName: default
+  Name: heat_04
+  Data:
+    cops:
+      Capacity: 3
+      Data:
+      - CopType: copgtoghost
+        Count: 8
+        Chance: 100
+      - CopType: copheli
+        Count: 1
+        Chance: 50
+    heliLOSdistance: 251
+    roadblockhelichance: 0
+    SirenMaxYelpTime: 6
+    roadblockprobability: 30
+    MilestoneCompleteHeatAdjust: 1
+    SirenMaxScreamTime: 3
+    SearchModeRoadblockChance: 7
+    HeliFuelTime: 60
+    FullEngagementCopCount: 20
+    TimeBetweenHeliActive: 180
+    TimePerHeatLevel: 1
+    SirenWailPeriod: 11
+    TimeBetweenCopSpawn: 5
+    EventWinHeatAdjust: 0.89999997615814209
+    RepPointsPerMinute: 5000
+    SearchModeCityMPH: 75
+    evadetimeout: 90
+    SearchModeHwyMPH: 100
+    FullEngagementRadius: 50
+    NumCopsToTriggerBackup: 2
+    BackupCallTimer: 120
+    SirenInitVariation: 1.5
+    EvadeSuccessHeatAdjust: 0.89999997615814209
+    SirenInitMinPeriod: 0.5
+    frontLOSdistance: 151
+    TimeToHideInZone: 1
+    rearLOSdistance: 151
+    SirenScreamPeriod: 60
+    SearchModeRoadblockRadius: 5000
+    TimeBetweenFirstFourSpawn: 15
+    SearchModeHeliSpawnChance: 2
+    NumPatrolCars: 1
+    BoxinTightness: 0.89999997615814209
+    CollapseOuterRadius: 5
+    MaxCopsCollapsing: 7
+    StaggerFormationTime: 4
+    TimeInactiveFor911: 120
+    ScaleEscalationPerBucket:
+      Capacity: 15
+      Data:
+      - 120
+      - 240
+      - 360
+      - 480
+      - 600
+      - 600
+      - 600
+      - 600
+      - 600
+      - 600
+      - 600
+      - 600
+      - 600
+      - 600
+      - 600
+    BoxinDuration: 7
+    RollingBlockTightness: 0.89999997615814209
+    CTSFor911: 1000
+    DestroyCopBonusTime: 10
+    CollapseSpeed: 88
+    BustSpeed: 20
+    MeterDeadZoneBustedDistance: 35
+    CollapseAggression: 0.69999998807907104
+    MeterDeadZoneEvadeDist: 50
+    CopFormations:
+      Capacity: 4
+      Data:
+      - FormationType: PIT
+        Duration: 40
+        Frequency: 50
+      - FormationType: BOX_IN
+        Duration: 40
+        Frequency: 50
+      - FormationType: HERD
+        Duration: 40
+        Frequency: 30
+      - FormationType: ROLLING_BLOCK
+        Duration: 40
+        Frequency: 50
+    Lifetime911: 45
+    roadblockspikechance: 70
+    NumCiviHitsFor911: 6
+    RollingBlockDuration: 7
+    HiddenZoneTimeMultiplier: 7
+    CollapseInnerRadius: 3
+    SpeedReactionTime: 0.5
+- ParentName: default
+  Name: heat_08
+  Data:
+    cops:
+      Capacity: 3
+      Data:
+      - CopType: copsportghost
+        Count: 8
+        Chance: 100
+      - CopType: copheli
+        Count: 1
+        Chance: 60
+    heliLOSdistance: 301
+    roadblockhelichance: 0
+    SirenMaxYelpTime: 6
+    roadblockprobability: 50
+    MilestoneCompleteHeatAdjust: 0
+    SirenMaxScreamTime: 3
+    SearchModeRoadblockChance: 60
+    HeliFuelTime: 75
+    FullEngagementCopCount: 80
+    TimeBetweenHeliActive: 120
+    TimePerHeatLevel: 780
+    SirenWailPeriod: 11
+    TimeBetweenCopSpawn: 2
+    EventWinHeatAdjust: 0.89999997615814209
+    RepPointsPerMinute: 5000
+    SearchModeCityMPH: 55
+    evadetimeout: 220
+    SearchModeHwyMPH: 100
+    FullEngagementRadius: 200
+    NumCopsToTriggerBackup: 3
+    BackupCallTimer: 60
+    SirenInitVariation: 1.5
+    EvadeSuccessHeatAdjust: 0.89999997615814209
+    SirenInitMinPeriod: 0.5
+    frontLOSdistance: 201
+    TimeToHideInZone: 3
+    rearLOSdistance: 101
+    SirenScreamPeriod: 60
+    SearchModeRoadblockRadius: 3500
+    CopFormations:
+      Capacity: 4
+      Data:
+      - FormationType: BOX_IN
+        Duration: 30
+        Frequency: 60
+      - FormationType: ROLLING_BLOCK
+        Duration: 20
+        Frequency: 40
+      - FormationType: PIT
+        Duration: 30
+        Frequency: 70
+      - FormationType: HERD
+        Duration: 30
+        Frequency: 50
+- ParentName: default
+  Name: race_09
+  Data:
+    cops:
+      Capacity: 3
+      Data:
+      - CopType: copghost
+        Count: 8
+        Chance: 100
+      - CopType: copheli
+        Count: 1
+        Chance: 80
+    heliLOSdistance: 301
+    roadblockhelichance: 0
+    SirenMaxYelpTime: 6
+    roadblockprobability: 40
+    MilestoneCompleteHeatAdjust: 0.93000000715255737
+    SirenMaxScreamTime: 3
+    SearchModeRoadblockChance: 50
+    HeliFuelTime: 120
+    FullEngagementCopCount: 1
+    TimeBetweenHeliActive: 120
+    TimePerHeatLevel: 900
+    SirenWailPeriod: 11
+    TimeBetweenCopSpawn: 2
+    EventWinHeatAdjust: 0.93999999761581421
+    RepPointsPerMinute: 0
+    SearchModeCityMPH: 55
+    evadetimeout: 90
+    SearchModeHwyMPH: 100
+    FullEngagementRadius: 10
+    NumCopsToTriggerBackup: 0
+    BackupCallTimer: 5
+    SirenInitVariation: 1.5
+    EvadeSuccessHeatAdjust: 0
+    SirenInitMinPeriod: 0.5
+    frontLOSdistance: 201
+    TimeToHideInZone: 3
+    rearLOSdistance: 101
+    SirenScreamPeriod: 60
+    SearchModeRoadblockRadius: 1000
+    CopFormations:
+      Capacity: 1
+      Data:
+      - FormationType: FOLLOW
+        Duration: 10
+        Frequency: 100
+- ParentName: default
+  Name: race_06
+  Data:
+    cops:
+      Capacity: 3
+      Data:
+      - CopType: copsportghost
+        Count: 6
+        Chance: 100
+      - CopType: copheli
+        Count: 1
+        Chance: 50
+      - CopType: copsuperghost
+        Count: 6
+        Chance: 100
+    heliLOSdistance: 251
+    roadblockhelichance: 0
+    SirenMaxYelpTime: 6
+    roadblockprobability: 0
+    MilestoneCompleteHeatAdjust: 0.93000000715255737
+    SirenMaxScreamTime: 3
+    SearchModeRoadblockChance: 0
+    HeliFuelTime: 120
+    FullEngagementCopCount: 30
+    TimeBetweenHeliActive: 120
+    TimePerHeatLevel: 900
+    SirenWailPeriod: 11
+    TimeBetweenCopSpawn: 5
+    EventWinHeatAdjust: 0.93999999761581421
+    RepPointsPerMinute: 0
+    SearchModeCityMPH: 55
+    evadetimeout: 120
+    SearchModeHwyMPH: 100
+    FullEngagementRadius: 10
+    NumCopsToTriggerBackup: 5
+    BackupCallTimer: 60
+    SirenInitVariation: 1.5
+    EvadeSuccessHeatAdjust: 0
+    SirenInitMinPeriod: 0.5
+    frontLOSdistance: 151
+    TimeToHideInZone: 3
+    rearLOSdistance: 51
+    SirenScreamPeriod: 60
+    SearchModeRoadblockRadius: 1000
+    CopFormations:
+      Capacity: 1
+      Data:
+      - FormationType: ROLLING_BLOCK_LARGE
+        Duration: 10
+        Frequency: 100
+- ParentName: default
+  Name: race_08
+  Data:
+    cops:
+      Capacity: 3
+      Data:
+      - CopType: copghost
+        Count: 8
+        Chance: 100
+      - CopType: copheli
+        Count: 1
+        Chance: 75
+    heliLOSdistance: 301
+    roadblockhelichance: 0
+    SirenMaxYelpTime: 6
+    roadblockprobability: 35
+    MilestoneCompleteHeatAdjust: 0.93000000715255737
+    SirenMaxScreamTime: 3
+    SearchModeRoadblockChance: 50
+    HeliFuelTime: 75
+    FullEngagementCopCount: 1
+    TimeBetweenHeliActive: 120
+    TimePerHeatLevel: 900
+    SirenWailPeriod: 11
+    TimeBetweenCopSpawn: 2
+    EventWinHeatAdjust: 0.93999999761581421
+    RepPointsPerMinute: 0
+    SearchModeCityMPH: 55
+    evadetimeout: 60
+    SearchModeHwyMPH: 100
+    FullEngagementRadius: 10
+    NumCopsToTriggerBackup: 0
+    BackupCallTimer: 5
+    SirenInitVariation: 1.5
+    EvadeSuccessHeatAdjust: 0
+    SirenInitMinPeriod: 0.5
+    frontLOSdistance: 201
+    TimeToHideInZone: 3
+    rearLOSdistance: 101
+    SirenScreamPeriod: 60
+    SearchModeRoadblockRadius: 1000
+    CopFormations:
+      Capacity: 1
+      Data:
+      - FormationType: FOLLOW
+        Duration: 10
+        Frequency: 100
+- ParentName: default
+  Name: race_05
+  Data:
+    cops:
+      Capacity: 3
+      Data:
+      - CopType: copsporthench
+        Count: 5
+        Chance: 100
+      - CopType: copheli
+        Count: 1
+        Chance: 60
+      - CopType: copsuper
+        Count: 5
+        Chance: 100
+    heliLOSdistance: 251
+    roadblockhelichance: 0
+    SirenMaxYelpTime: 6
+    roadblockprobability: 0
+    MilestoneCompleteHeatAdjust: 0
+    SirenMaxScreamTime: 3
+    SearchModeRoadblockChance: 0
+    HeliFuelTime: 120
+    FullEngagementCopCount: 25
+    TimeBetweenHeliActive: 120
+    TimePerHeatLevel: 900
+    SirenWailPeriod: 11
+    TimeBetweenCopSpawn: 5
+    EventWinHeatAdjust: 0.89999997615814209
+    RepPointsPerMinute: 0
+    SearchModeCityMPH: 55
+    evadetimeout: 120
+    SearchModeHwyMPH: 100
+    FullEngagementRadius: 50
+    NumCopsToTriggerBackup: 5
+    BackupCallTimer: 60
+    SirenInitVariation: 1.5
+    EvadeSuccessHeatAdjust: 0
+    SirenInitMinPeriod: 0.5
+    frontLOSdistance: 151
+    TimeToHideInZone: 3
+    rearLOSdistance: 51
+    SirenScreamPeriod: 60
+    SearchModeRoadblockRadius: 1000
+    CollapseOuterRadius: 15
+    SpeedReactionTime: 0
+    CollapseAggression: 0
+    CollapseInnerRadius: 3
+    DestroyCopBonusTime: 10
+    CollapseSpeed: 15
+    CopFormations:
+      Capacity: 1
+      Data:
+      - FormationType: ROLLING_BLOCK_LARGE
+        Duration: 10
+        Frequency: 100
+    NumPatrolCars: 2
+    MaxCopsCollapsing: 6
+    TimeBetweenFirstFourSpawn: 10
+- ParentName: default
+  Name: heat_06
+  Data:
+    cops:
+      Capacity: 3
+      Data:
+      - CopType: copsportghost
+        Count: 8
+        Chance: 80
+      - CopType: copheli
+        Count: 1
+        Chance: 50
+      - CopType: copsuvpatrol
+        Count: 2
+        Chance: 80
+    heliLOSdistance: 251
+    roadblockhelichance: 0
+    SirenMaxYelpTime: 6
+    roadblockprobability: 50
+    MilestoneCompleteHeatAdjust: 1
+    SirenMaxScreamTime: 3
+    SearchModeRoadblockChance: 12
+    HeliFuelTime: 180
+    FullEngagementCopCount: 40
+    TimeBetweenHeliActive: 180
+    TimePerHeatLevel: 600
+    SirenWailPeriod: 11
+    TimeBetweenCopSpawn: 5
+    EventWinHeatAdjust: 0.89999997615814209
+    RepPointsPerMinute: 30000
+    SearchModeCityMPH: 75
+    evadetimeout: 120
+    SearchModeHwyMPH: 100
+    FullEngagementRadius: 60
+    NumCopsToTriggerBackup: 2
+    BackupCallTimer: 90
+    SirenInitVariation: 1.5
+    EvadeSuccessHeatAdjust: 0.89999997615814209
+    SirenInitMinPeriod: 0.5
+    frontLOSdistance: 151
+    TimeToHideInZone: 3
+    rearLOSdistance: 151
+    SirenScreamPeriod: 60
+    SearchModeRoadblockRadius: 10000
+    TimeBetweenFirstFourSpawn: 10
+    SearchModeHeliSpawnChance: 5
+    NumPatrolCars: 1
+    BoxinTightness: 1
+    CollapseOuterRadius: 7
+    MaxCopsCollapsing: 8
+    BoxinDuration: 10
+    RollingBlockTightness: 1
+    DestroyCopBonusTime: 10
+    CollapseSpeed: 120
+    BustSpeed: 25
+    CollapseAggression: 0.80000001192092896
+    CopFormations:
+      Capacity: 3
+      Data:
+      - FormationType: ROLLING_BLOCK
+        Duration: 40
+        Frequency: 60
+      - FormationType: BOX_IN
+        Duration: 40
+        Frequency: 50
+      - FormationType: HERD
+        Duration: 40
+        Frequency: 50
+    StaggerFormationTime: 5
+    roadblockspikechance: 85
+    RollingBlockDuration: 10
+    HiddenZoneTimeMultiplier: 8
+    CollapseInnerRadius: 3
+    SpeedReactionTime: 0.10000000149011612
+- ParentName: default
+  Name: race_07
+  Data:
+    cops:
+      Capacity: 3
+      Data:
+      - CopType: copsuvpatrol
+        Count: 8
+        Chance: 100
+      - CopType: copheli
+        Count: 1
+        Chance: 60
+    heliLOSdistance: 251
+    roadblockhelichance: 0
+    SirenMaxYelpTime: 6
+    roadblockprobability: 0
+    MilestoneCompleteHeatAdjust: 0.93000000715255737
+    SirenMaxScreamTime: 3
+    SearchModeRoadblockChance: 0
+    HeliFuelTime: 220
+    FullEngagementCopCount: 1
+    TimeBetweenHeliActive: 120
+    TimePerHeatLevel: 900
+    SirenWailPeriod: 11
+    TimeBetweenCopSpawn: 2
+    EventWinHeatAdjust: 0.93999999761581421
+    RepPointsPerMinute: 0
+    SearchModeCityMPH: 55
+    evadetimeout: 60
+    SearchModeHwyMPH: 100
+    FullEngagementRadius: 10
+    NumCopsToTriggerBackup: 0
+    BackupCallTimer: 5
+    SirenInitVariation: 1.5
+    EvadeSuccessHeatAdjust: 0
+    SirenInitMinPeriod: 0.5
+    frontLOSdistance: 151
+    TimeToHideInZone: 3
+    rearLOSdistance: 51
+    SirenScreamPeriod: 60
+    SearchModeRoadblockRadius: 1000
+    CopFormations:
+      Capacity: 1
+      Data:
+      - FormationType: ROLLING_BLOCK_LARGE
+        Duration: 10
+        Frequency: 100
+- ParentName: default
+  Name: heat_01
+  Data:
+    cops:
+      Capacity: 3
+      Data:
+      - CopType: copmidsize
+        Count: 4
+        Chance: 100
+    heliLOSdistance: 251
+    roadblockhelichance: 0
+    SirenMaxYelpTime: 6
+    roadblockprobability: 0
+    MilestoneCompleteHeatAdjust: 1
+    SirenMaxScreamTime: 3
+    SearchModeRoadblockChance: 0
+    HeliFuelTime: 10
+    FullEngagementCopCount: 5
+    TimeBetweenHeliActive: 0
+    TimePerHeatLevel: 1
+    SirenWailPeriod: 11
+    TimeBetweenCopSpawn: 10
+    EventWinHeatAdjust: 0.89999997615814209
+    RepPointsPerMinute: 100
+    SearchModeCityMPH: 75
+    evadetimeout: 20
+    SearchModeHwyMPH: 100
+    FullEngagementRadius: 50
+    NumCopsToTriggerBackup: 2
+    BackupCallTimer: 180
+    SirenInitVariation: 1.5
+    EvadeSuccessHeatAdjust: 0.89999997615814209
+    SirenInitMinPeriod: 0.5
+    frontLOSdistance: 151
+    TimeToHideInZone: 1
+    rearLOSdistance: 151
+    SirenScreamPeriod: 60
+    SearchModeRoadblockRadius: 1000
+    TimeBetweenFirstFourSpawn: 40
+    SearchModeHeliSpawnChance: 0
+    NumPatrolCars: 1
+    BoxinTightness: 0.5
+    CollapseOuterRadius: 15
+    MaxCopsCollapsing: 4
+    StaggerFormationTime: 7
+    TimeInactiveFor911: 120
+    ScaleEscalationPerBucket:
+      Capacity: 15
+      Data:
+      - 120
+      - 120
+      - 120
+      - 120
+      - 120
+      - 120
+      - 120
+      - 120
+      - 120
+      - 120
+      - 120
+      - 180
+      - 240
+      - 360
+      - 600
+    BoxinDuration: 4
+    RollingBlockTightness: 0.5
+    CTSFor911: 400
+    DestroyCopBonusTime: 10
+    CollapseSpeed: 58
+    BustSpeed: 9
+    MeterDeadZoneBustedDistance: 35
+    CollapseAggression: 0.40000000596046448
+    MeterDeadZoneEvadeDist: 50
+    CopFormations:
+      Capacity: 1
+      Data:
+      - FormationType: ROLLING_BLOCK
+        Duration: 40
+        Frequency: 100
+    Lifetime911: 45
+    NumCiviHitsFor911: 3
+    RollingBlockDuration: 4
+    HiddenZoneTimeMultiplier: 4
+    CollapseInnerRadius: 6
+    SpeedReactionTime: 1.75
+- ParentName: default
+  Name: race_04
+  Data:
+    cops:
+      Capacity: 3
+      Data:
+      - CopType: copgtoghost
+        Count: 5
+        Chance: 100
+      - CopType: copheli
+        Count: 1
+        Chance: 60
+    heliLOSdistance: 251
+    roadblockhelichance: 0
+    SirenMaxYelpTime: 6
+    roadblockprobability: 0
+    MilestoneCompleteHeatAdjust: 0
+    SirenMaxScreamTime: 3
+    SearchModeRoadblockChance: 0
+    HeliFuelTime: 80
+    FullEngagementCopCount: 20
+    TimeBetweenHeliActive: 120
+    TimePerHeatLevel: 900
+    SirenWailPeriod: 11
+    TimeBetweenCopSpawn: 5
+    EventWinHeatAdjust: 0.89999997615814209
+    RepPointsPerMinute: 0
+    SearchModeCityMPH: 55
+    evadetimeout: 120
+    SearchModeHwyMPH: 100
+    FullEngagementRadius: 50
+    NumCopsToTriggerBackup: 4
+    BackupCallTimer: 60
+    SirenInitVariation: 1.5
+    EvadeSuccessHeatAdjust: 0
+    SirenInitMinPeriod: 0.5
+    frontLOSdistance: 151
+    TimeToHideInZone: 3
+    rearLOSdistance: 51
+    SirenScreamPeriod: 60
+    SearchModeRoadblockRadius: 1000
+    CollapseOuterRadius: 15
+    SpeedReactionTime: 0
+    CollapseAggression: 0
+    CollapseInnerRadius: 3
+    SearchModeHeliSpawnChance: 0
+    DestroyCopBonusTime: 10
+    CollapseSpeed: 15
+    CopFormations:
+      Capacity: 1
+      Data:
+      - FormationType: ROLLING_BLOCK_LARGE
+        Duration: 10
+        Frequency: 100
+    NumPatrolCars: 2
+    MaxCopsCollapsing: 6
+    TimeBetweenFirstFourSpawn: 10
+- ParentName: default
+  Name: race_10
+  Data:
+    cops:
+      Capacity: 3
+      Data:
+      - CopType: copghost
+        Count: 8
+        Chance: 100
+      - CopType: copheli
+        Count: 1
+        Chance: 90
+    heliLOSdistance: 301
+    roadblockhelichance: 0
+    SirenMaxYelpTime: 6
+    roadblockprobability: 50
+    MilestoneCompleteHeatAdjust: 0.93000000715255737
+    SirenMaxScreamTime: 3
+    SearchModeRoadblockChance: 50
+    HeliFuelTime: 120
+    FullEngagementCopCount: 1
+    TimeBetweenHeliActive: 120
+    TimePerHeatLevel: 900
+    SirenWailPeriod: 11
+    TimeBetweenCopSpawn: 2
+    EventWinHeatAdjust: 0.93999999761581421
+    RepPointsPerMinute: 0
+    SearchModeCityMPH: 55
+    evadetimeout: 120
+    SearchModeHwyMPH: 100
+    FullEngagementRadius: 10
+    NumCopsToTriggerBackup: 0
+    BackupCallTimer: 5
+    SirenInitVariation: 1.5
+    EvadeSuccessHeatAdjust: 0
+    SirenInitMinPeriod: 0.5
+    frontLOSdistance: 201
+    TimeToHideInZone: 3
+    rearLOSdistance: 101
+    SirenScreamPeriod: 60
+    SearchModeRoadblockRadius: 1000
+    CopFormations:
+      Capacity: 4
+      Data:
+      - FormationType: FOLLOW
+        Duration: 10
+        Frequency: 100
+      - FormationType: FOLLOW
+        Duration: 15
+        Frequency: 5
+      - FormationType: HERD
+        Duration: 15
+        Frequency: 30
+      - FormationType: BOX_IN
+        Duration: 50
+        Frequency: 50
+- ParentName: default
+  Name: heat_10
+  Data:
+    cops:
+      Capacity: 3
+      Data:
+      - CopType: copsport
+        Count: 1
+        Chance: 90
+      - CopType: copheli
+        Count: 1
+        Chance: 100
+    heliLOSdistance: 301
+    roadblockhelichance: 0
+    SirenMaxYelpTime: 6
+    roadblockprobability: 80
+    MilestoneCompleteHeatAdjust: 0
+    SirenMaxScreamTime: 3
+    SearchModeRoadblockChance: 80
+    HeliFuelTime: 400
+    FullEngagementCopCount: 100
+    TimeBetweenHeliActive: 5
+    TimePerHeatLevel: 2000
+    SirenWailPeriod: 11
+    TimeBetweenCopSpawn: 2
+    EventWinHeatAdjust: 0.89999997615814209
+    RepPointsPerMinute: 5000
+    SearchModeCityMPH: 55
+    evadetimeout: 220
+    SearchModeHwyMPH: 100
+    FullEngagementRadius: 200
+    NumCopsToTriggerBackup: 5
+    BackupCallTimer: 60
+    SirenInitVariation: 1.5
+    EvadeSuccessHeatAdjust: 0.89999997615814209
+    SirenInitMinPeriod: 0.5
+    frontLOSdistance: 201
+    TimeToHideInZone: 3
+    rearLOSdistance: 101
+    SirenScreamPeriod: 60
+    SearchModeRoadblockRadius: 5000
+    CopFormations:
+      Capacity: 1
+      Data:
+      - FormationType: FOLLOW
+        Duration: 10
+        Frequency: 100
+- ParentName: default
+  Name: heat_07
+  Data:
+    cops:
+      Capacity: 3
+      Data:
+      - CopType: copsuvpatrol
+        Count: 6
+        Chance: 90
+    heliLOSdistance: 251
+    roadblockhelichance: 0
+    SirenMaxYelpTime: 6
+    roadblockprobability: 35
+    MilestoneCompleteHeatAdjust: 1
+    SirenMaxScreamTime: 3
+    SearchModeRoadblockChance: 12
+    HeliFuelTime: 10
+    FullEngagementCopCount: 15
+    TimeBetweenHeliActive: 180
+    TimePerHeatLevel: 600
+    SirenWailPeriod: 11
+    TimeBetweenCopSpawn: 2
+    EventWinHeatAdjust: 0.89999997615814209
+    RepPointsPerMinute: 30000
+    SearchModeCityMPH: 75
+    evadetimeout: 120
+    SearchModeHwyMPH: 100
+    FullEngagementRadius: 50
+    NumCopsToTriggerBackup: 2
+    BackupCallTimer: 90
+    SirenInitVariation: 1.5
+    EvadeSuccessHeatAdjust: 0.89999997615814209
+    SirenInitMinPeriod: 0.5
+    frontLOSdistance: 151
+    TimeToHideInZone: 3
+    rearLOSdistance: 151
+    SirenScreamPeriod: 60
+    SearchModeRoadblockRadius: 10000
+    TimeBetweenFirstFourSpawn: 10
+    SearchModeHeliSpawnChance: 0
+    NumPatrolCars: 1
+    BoxinTightness: 1
+    CollapseOuterRadius: 10
+    MaxCopsCollapsing: 9
+    BoxinDuration: 10
+    RollingBlockTightness: 1
+    DestroyCopBonusTime: 10
+    CollapseSpeed: 78
+    BustSpeed: 19
+    CollapseAggression: 0.5
+    CopFormations:
+      Capacity: 2
+      Data:
+      - FormationType: BOX_IN
+        Duration: 40
+        Frequency: 10
+      - FormationType: ROLLING_BLOCK
+        Duration: 40
+        Frequency: 60
+    StaggerFormationTime: 4
+    roadblockspikechance: 85
+    RollingBlockDuration: 10
+    HiddenZoneTimeMultiplier: 8
+    CollapseInnerRadius: 4
+    SpeedReactionTime: 0.5

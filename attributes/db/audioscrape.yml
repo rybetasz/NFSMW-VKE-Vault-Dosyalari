@@ -1,0 +1,38 @@
+- ParentName: 
+  Name: default
+  Data: {}
+- ParentName: default
+  Name: car
+  Data:
+    DESCRIPTION:
+      Capacity: 1
+      Data:
+      - Value: CAR
+- ParentName: car
+  Name: car_2_ground
+  Data:
+    CSIS_EFFECT: SND_WORLDScrape
+- ParentName: car
+  Name: car_2_wall
+  Data:
+    CSIS_EFFECT: SND_WORLDScrape
+    DESCRIPTION:
+      Capacity: 2
+      Data:
+      - Value: CAR
+      - Value: WALL
+- ParentName: car
+  Name: car_2_car
+  Data:
+    CSIS_EFFECT: SND_WORLDScrape
+- ParentName: default
+  Name: smackable
+  Data:
+    DESCRIPTION:
+      Capacity: 1
+      Data:
+      - Value: SMOKABLE
+- ParentName: smackable
+  Name: smackable_2_ground
+  Data:
+    CSIS_EFFECT: SND_SmokeableScrape

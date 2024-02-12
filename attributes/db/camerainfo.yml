@@ -1,0 +1,4136 @@
+- ParentName: 
+  Name: default
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.5
+      - 0.5
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - -10
+      - -10
+    FOV:
+      Capacity: 2
+      Data:
+      - 78
+      - 78
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 2
+      - 1
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    CollectionName: default
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - false
+      - false
+- ParentName: default
+  Name: far
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.5
+      - 0.5
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - -5.435999870300293
+      - -8.1999998092651367
+    FOV:
+      Capacity: 2
+      Data:
+      - 90
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.7000000476837158
+      - 1.8500000238418579
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    CollectionName: far
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: far
+  Name: pickupa_far
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.5
+      - 0.5
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - -5.435999870300293
+      - -8.1999998092651367
+    FOV:
+      Capacity: 2
+      Data:
+      - 90
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 2
+      - 1.8500000238418579
+    ANGLE:
+      Capacity: 2
+      Data:
+      - -6
+      - 0
+    CollectionName: pickupa_far
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: far
+  Name: navi_far
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.5
+      - 0.5
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - -5.435999870300293
+      - -8.1999998092651367
+    FOV:
+      Capacity: 2
+      Data:
+      - 90
+      - 95
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 2.2999999523162842
+      - 1.8500000238418579
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    CollectionName: navi_far
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: far
+  Name: news_far
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.5
+      - 0.5
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - -5.435999870300293
+      - -8.1999998092651367
+    FOV:
+      Capacity: 2
+      Data:
+      - 95
+      - 95
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 2.4000000953674316
+      - 1.8500000238418579
+    ANGLE:
+      Capacity: 2
+      Data:
+      - -8
+      - 0
+    CollectionName: news_far
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: far
+  Name: semi_far_v2
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.5
+      - 0.5
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - -10
+      - -10
+    FOV:
+      Capacity: 2
+      Data:
+      - 65
+      - 65
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 3.5
+      - 2.5
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    CollectionName: semi_far_v2
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: far
+  Name: semi_far
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.5
+      - 0.5
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - -10
+      - -10
+    FOV:
+      Capacity: 2
+      Data:
+      - 90
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 3
+      - 3
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    CollectionName: semi_far
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: far
+  Name: van_far
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.5
+      - 0.5
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - -5.435999870300293
+      - -8.1999998092651367
+    FOV:
+      Capacity: 2
+      Data:
+      - 90
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 2
+      - 1.8500000238418579
+    ANGLE:
+      Capacity: 2
+      Data:
+      - -8
+      - 0
+    CollectionName: van_far
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: default
+  Name: bumper
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.5
+      - 0.5
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.5
+      - 0.7160000205039978
+    FOV:
+      Capacity: 2
+      Data:
+      - 83
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 0.74599999189376831
+      - 0.61000001430511475
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 1.5
+      - 0.029999999329447746
+    CollectionName: bumper
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: bumper
+  Name: semi_bumper
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.5
+      - 0.5
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.62999999523162842
+      - 0.7160000205039978
+    FOV:
+      Capacity: 2
+      Data:
+      - 83
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 2.5
+      - 0.47200000286102295
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 1.9800000190734863
+      - -7.369999885559082
+    CollectionName: semi_bumper
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: bumper
+  Name: van_bumper
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.5
+      - 0.5
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.5
+      - 0.7160000205039978
+    FOV:
+      Capacity: 2
+      Data:
+      - 83
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.2000000476837158
+      - 0.47200000286102295
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 0
+      - -7.369999885559082
+    CollectionName: van_bumper
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: bumper
+  Name: pickupa_bumper
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.5
+      - 0.5
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.62999999523162842
+      - 0.7160000205039978
+    FOV:
+      Capacity: 2
+      Data:
+      - 83
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.2999999523162842
+      - 0.47200000286102295
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 1.9800000190734863
+      - -7.369999885559082
+    CollectionName: pickupa_bumper
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: bumper
+  Name: news_bumper
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.5
+      - 0.5
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.5
+      - 0.7160000205039978
+    FOV:
+      Capacity: 2
+      Data:
+      - 83
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.1000000238418579
+      - 0.47200000286102295
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 1.5
+      - 0.029999999329447746
+    CollectionName: news_bumper
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: default
+  Name: hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.3969999551773071
+      - 1.2000000476837158
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: jaguarxk_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.2200000286102295
+      - 1.2000000476837158
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: jaguarxk_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: lancerevo3_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.3799999952316284
+      - 1
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: lancerevo3_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: racetransit_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 90
+      - 120
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.3799999952316284
+      - 1.1000000238418579
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: racetransit_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: imprezawrx_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.375
+      - 1.0499999523162842
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: imprezawrx_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: a3_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.3500000238418579
+      - 1.0499999523162842
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: a3_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: 911gt2_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.3969999551773071
+      - 1.2000000476837158
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: 911gt2_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: tt_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.2400000095367432
+      - 1.0750000476837158
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: tt_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: rx8_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.3969999551773071
+      - 1.1000000238418579
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: rx8_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: eclipsegt_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.2200000286102295
+      - 1
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: eclipsegt_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: truck_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - -1
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 1.2000000476837158
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 3.0799999237060547
+      - 3.0799999237060547
+    CollectionName: truck_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: clio_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.3400000333786011
+      - 1.0499999523162842
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: clio_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: rx7_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.1799999475479126
+      - 0.92500001192092896
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: rx7_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: viper_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.3799999952316284
+      - 1
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: viper_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: is300_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.3969999551773071
+      - 1.1000000238418579
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: is300_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: challenger71_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.25999999046325684
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.1200000047683716
+      - 1.2000000476837158
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: challenger71_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: 350z_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.3969999551773071
+      - 1.2000000476837158
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: 350z_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: gto_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.4249999523162842
+      - 1.1599999666213989
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: gto_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: continental_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.3999999761581421
+      - 1.1499999761581421
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: continental_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: 911turbo_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.3799999952316284
+      - 1.1000000238418579
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: 911turbo_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: sl65_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.25
+      - 1.0499999523162842
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: sl65_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: a4_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.4199999570846558
+      - 1.0249999761581421
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: a4_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: mustanggt_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.3999999761581421
+      - 1.1499999761581421
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: mustanggt_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: 997s_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.3500000238418579
+      - 1.0499999523162842
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: 997s_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: supra_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.2000000476837158
+      - 1.0499999523162842
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: supra_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: r32_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.4099999666213989
+      - 1.2000000476837158
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: r32_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: regera_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.10000000149011612
+      - 0.10000000149011612
+    FOV:
+      Capacity: 2
+      Data:
+      - 70
+      - 70
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.3999999761581421
+      - 1.3999999761581421
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    CollectionName: regera_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: lexuslfa_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.40000000596046448
+      - 0.40000000596046448
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.2000000476837158
+      - 1.1000000238418579
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: lexuslfa_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: cts_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.3700000047683716
+      - 1.1499999761581421
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: cts_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: zondaf_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.3400000333786011
+      - 1.0499999523162842
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: zondaf_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: caymans_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.3500000238418579
+      - 1
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: caymans_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: bmwm3gtr_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.25
+      - 1.059999942779541
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: bmwm3gtr_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: corvettec6r_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.2300000190734863
+      - 1
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: corvettec6r_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: slr_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.1699999570846558
+      - 1
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: slr_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: jesko_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 1
+      - 1
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1
+      - 1
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: jesko_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: rx8speedt_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.3969999551773071
+      - 1.2000000476837158
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: rx8speedt_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: van_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.3999999761581421
+      - 1.2000000476837158
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2
+      - 3.0799999237060547
+    CollectionName: van_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: gti_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.4099999666213989
+      - 1.2000000476837158
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: gti_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: crx91_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.4199999570846558
+      - 1.0249999761581421
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: crx91_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: lancerevo8_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.3969999551773071
+      - 1.1000000238418579
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: lancerevo8_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: pickupa_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.60000002384185791
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.3999999761581421
+      - 1.2000000476837158
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 3.0799999237060547
+      - 3.0799999237060547
+    CollectionName: pickupa_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: trafcemtr_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 1.128000020980835
+      - 1.128000020980835
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.7339999675750732
+      - 1.7339999675750732
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: trafcemtr_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: elise_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.1799999475479126
+      - 0.89999997615814209
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: elise_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: news_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - -2
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.3999999761581421
+      - 1.2000000476837158
+    ANGLE:
+      Capacity: 2
+      Data:
+      - -2
+      - 3.0799999237060547
+    CollectionName: news_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: sl500_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.3300000429153442
+      - 1.0499999523162842
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: sl500_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: ccx_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.1699999570846558
+      - 1.0499999523162842
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: ccx_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: charger69_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.1200000047683716
+      - 1.2000000476837158
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: charger69_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: camaro_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.3300000429153442
+      - 1
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: camaro_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: camaron_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.18000000715255737
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.1000000238418579
+      - 1.2000000476837158
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: camaron_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: fordgt_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.1699999570846558
+      - 1.0499999523162842
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: fordgt_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: db9_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.2599999904632568
+      - 1.0199999809265137
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: db9_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: skylinelm_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.3969999551773071
+      - 1.1000000238418579
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: skylinelm_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: venomf5_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 1
+      - 1
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1
+      - 1
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: venomf5_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: senna_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.64999997615814209
+      - 0.80000001192092896
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.2200000286102295
+      - 1.2000000476837158
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: senna_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: ccxr_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.1699999570846558
+      - 1.0499999523162842
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: ccxr_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: punto_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.3969999551773071
+      - 1.1000000238418579
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: punto_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: clk500_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.3300000429153442
+      - 1.0800000429153442
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: clk500_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: zonda_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.69999998807907104
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.1000000238418579
+      - 1.2000000476837158
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: zonda_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: cobaltss_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.440000057220459
+      - 1.1000000238418579
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: cobaltss_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: carreragt_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.3500000238418579
+      - 1.0800000429153442
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: carreragt_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: silvia_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.2000000476837158
+      - 1.0499999523162842
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: silvia_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: semi_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 3
+      - 1.2000000476837158
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 3.0799999237060547
+      - 3.0799999237060547
+    CollectionName: semi_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: monaro_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.5
+      - 1.2000000476837158
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: monaro_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: corvette_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.2300000190734863
+      - 1
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: corvette_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: corolla_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.190000057220459
+      - 1.2000000476837158
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: corolla_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: skyline_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.34999999403953552
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.2999999523162842
+      - 1.2000000476837158
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: skyline_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: lvnoire_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.3799999952316284
+      - 1
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: lvnoire_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: murcielago_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.4099999666213989
+      - 1
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: murcielago_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: gallardo_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.2999999523162842
+      - 1.0499999523162842
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: gallardo_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: hood
+  Name: bmwm3gtre46_hood
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.98000001907348633
+      - 0.95999997854232788
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - 0.23999999463558197
+      - 0.25
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.25
+      - 1.059999942779541
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 2.7999999523162842
+      - 3.0799999237060547
+    CollectionName: bmwm3gtre46_hood
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: default
+  Name: drift
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.5
+      - 0.5
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - -15.489999771118164
+      - -8.1999998092651367
+    FOV:
+      Capacity: 2
+      Data:
+      - 29.709999084472656
+      - 86.041000366210938
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 2.0420000553131104
+      - 3.2300000190734863
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 0
+      - 11.130000114440918
+    CollectionName: drift
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - false
+      - false
+- ParentName: default
+  Name: superfar
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.20000000298023224
+      - 0.20000000298023224
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - -4
+      - -4
+    FOV:
+      Capacity: 2
+      Data:
+      - 75
+      - 80
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.3999999761581421
+      - 1.3999999761581421
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 10
+      - 10
+    CollectionName: superfar
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: default
+  Name: close
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.20000000298023224
+      - 0.20000000298023224
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - -4
+      - -4
+    FOV:
+      Capacity: 2
+      Data:
+      - 80
+      - 100
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.3999999761581421
+      - 1.3999999761581421
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 10
+      - 10
+    CollectionName: close
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: close
+  Name: van_close
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.5
+      - 0.5
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - -4.6999998092651367
+      - -6.8000001907348633
+    FOV:
+      Capacity: 2
+      Data:
+      - 78
+      - 78
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 2
+      - 1.7000000476837158
+    ANGLE:
+      Capacity: 2
+      Data:
+      - -8
+      - 0
+    CollectionName: van_close
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: close
+  Name: semi_close
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.5
+      - 0.5
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - -8.6999998092651367
+      - -8.6999998092651367
+    FOV:
+      Capacity: 2
+      Data:
+      - 78
+      - 78
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 2.7000000476837158
+      - 2.7000000476837158
+    ANGLE:
+      Capacity: 2
+      Data:
+      - -1.3999999761581421
+      - -1.3999999761581421
+    CollectionName: semi_close
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: close
+  Name: h2_close
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.5
+      - 0.5
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - -4.6999998092651367
+      - -6.8000001907348633
+    FOV:
+      Capacity: 2
+      Data:
+      - 94
+      - 96
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 2
+      - 1.3999999761581421
+    ANGLE:
+      Capacity: 2
+      Data:
+      - -10
+      - 0
+    CollectionName: h2_close
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: close
+  Name: tir_close
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.5
+      - 0.5
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - -8.6999998092651367
+      - -8.6999998092651367
+    FOV:
+      Capacity: 2
+      Data:
+      - 74
+      - 78
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 3.2000000476837158
+      - 3.2000000476837158
+    ANGLE:
+      Capacity: 2
+      Data:
+      - -1.3999999761581421
+      - -1.3999999761581421
+    CollectionName: tir_close
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: close
+  Name: pickupa_close
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.5
+      - 0.5
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - -4.6999998092651367
+      - -6.8000001907348633
+    FOV:
+      Capacity: 2
+      Data:
+      - 78
+      - 78
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.7999999523162842
+      - 1.7000000476837158
+    ANGLE:
+      Capacity: 2
+      Data:
+      - -5.5
+      - 0
+    CollectionName: pickupa_close
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: close
+  Name: news_close
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.5
+      - 0.5
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - -4.6999998092651367
+      - -6.8000001907348633
+    FOV:
+      Capacity: 2
+      Data:
+      - 78
+      - 78
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 2.2999999523162842
+      - 1.7000000476837158
+    ANGLE:
+      Capacity: 2
+      Data:
+      - -10
+      - 0
+    CollectionName: news_close
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: close
+  Name: navi_close
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.5
+      - 0.5
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - -4.6999998092651367
+      - -6.8000001907348633
+    FOV:
+      Capacity: 2
+      Data:
+      - 85
+      - 90
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 2.0999999046325684
+      - 1.7000000476837158
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    CollectionName: navi_close
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - true
+      - true
+- ParentName: default
+  Name: pursuit
+  Data:
+    STIFFNESS:
+      Capacity: 2
+      Data:
+      - 0.5
+      - 0.5
+    LATOFFSET:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    LAG:
+      Capacity: 2
+      Data:
+      - -9
+      - -8.1999998092651367
+    FOV:
+      Capacity: 2
+      Data:
+      - 65
+      - 86.041000366210938
+    HEIGHT:
+      Capacity: 2
+      Data:
+      - 1.5
+      - 3.2300000190734863
+    ANGLE:
+      Capacity: 2
+      Data:
+      - 0
+      - 11.130000114440918
+    CollectionName: pursuit
+    TILTING:
+      Capacity: 2
+      Data:
+      - true
+      - true
+    SELECTABLE:
+      Capacity: 2
+      Data:
+      - false
+      - false

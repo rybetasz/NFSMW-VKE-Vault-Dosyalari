@@ -1,0 +1,38 @@
+- ParentName: 
+  Name: default
+  Data:
+    SimTasks:
+      Capacity: 14
+      Data:
+      - Value: SimStart
+      - Value: Comment
+      - Value: AIVehicle
+      - Value: Physics
+      - Value: AvoidableManager
+      - Value: AITrafficManager
+      - Value: AICopManager
+      - Value: AIPursuit
+      - Value: FX
+      - Value: WorldUpdate
+      - Value: Speech
+      - Value: AIParkedCarSpawner
+      - Value: SimEnd
+      - Value: GameplayActivity
+    SimControls:
+      Capacity: 2
+      Data:
+      - Value: drive
+      - Value: hud
+    SimSubSystems:
+      Capacity: 10
+      Data:
+      - Value: World
+      - Value: CameraAI
+      - Value: VehicleSystem
+      - Value: RigidBody
+      - Value: AIElementController
+      - Value: AIVehicleController
+      - Value: AIZoneController
+      - Value: WRoadNetwork
+      - Value: AIRoadSpawn
+      - Value: SceneryModel

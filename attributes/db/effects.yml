@@ -1,0 +1,1892 @@
+- ParentName: 
+  Name: fog
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: fog
+    BrMultiply: 3
+    InScatterMulitply: 8.1000003814697266
+    FogG: -0.15000000596046448
+    FogEnable: true
+    ConstantBr:
+      X: 0.27000001072883606
+      Y: 0.44999998807907104
+      Z: 0.93999999761581421
+      W: 1
+    BmMultiply: 0
+    ConstantBm:
+      X: 0.18999999761581421
+      Y: 0.25
+      Z: 0.37999999523162842
+      W: 1
+- ParentName: 
+  Name: default
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: default
+    EmitterQuadratic:
+      X: 0
+      Y: 1
+      Z: 0
+      W: 0
+    VisualCullDist: 100
+    AudioQuadratic:
+      X: 0
+      Y: 1
+      Z: 0
+      W: 0
+    AudioCullDist: 30
+- ParentName: default
+  Name: car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: car
+- ParentName: car
+  Name: carexhaustbmw
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: carexhaustbmw
+    EmitterQuadratic:
+      X: 0
+      Y: 1
+      Z: 0
+      W: 0
+    VisualCullDist: 100
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxcar_exhaust_bmw
+    InheritVelocity: 0.25
+    AudioQuadratic:
+      X: 0
+      Y: 0
+      Z: 0
+      W: 0
+- ParentName: carexhaustbmw
+  Name: carexhaustbmw2
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: carexhaustbmw2
+    EmitterQuadratic:
+      X: 0
+      Y: 0
+      Z: 0.75
+      W: 0
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxcar_exhaust_bmw2
+- ParentName: car
+  Name: cardeath1
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: cardeath1
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxcar_cop_death1
+- ParentName: car
+  Name: carscrape
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: carscrape
+    InheritVelocity: 1
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxcs_sc_metal
+    AudioQuadratic:
+      X: 0
+      Y: 2
+      Z: -1
+      W: 0
+- ParentName: carscrape
+  Name: CarScrapeConcrete
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioscrape
+      CollectionKey: car_2_wall
+    CollectionName: CarScrapeConcrete
+    EmitterQuadratic:
+      X: 0.30000001192092896
+      Y: 3
+      Z: 0
+      W: 0
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: FxCS_Sc_Stone
+- ParentName: carscrape
+  Name: carscrapecar
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioscrape
+      CollectionKey: car_2_car
+    CollectionName: carscrapecar
+    EmitterQuadratic:
+      X: 0.40000000596046448
+      Y: 2
+      Z: 0
+      W: 0
+- ParentName: carscrape
+  Name: carscrapeground
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioscrape
+      CollectionKey: car_2_ground
+    CollectionName: carscrapeground
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: FxCS_Sc_Stone
+- ParentName: carscrapeground
+  Name: carscrapeearth
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioscrape
+      CollectionKey: car_2_ground
+    CollectionName: carscrapeearth
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxmis_dustpuff
+- ParentName: carscrapeground
+  Name: carscrapepavement
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioscrape
+      CollectionKey: car
+    CollectionName: carscrapepavement
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: FxCS_Sc_Stone
+- ParentName: carscrapepavement
+  Name: tankerscrapepavement
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioscrape
+      CollectionKey: car
+    CollectionName: tankerscrapepavement
+    EmitterQuadratic:
+      X: 0
+      Y: 1
+      Z: 0
+      W: 0
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxcar_impactdebrisl
+- ParentName: carscrape
+  Name: carscrapewall
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioscrape
+      CollectionKey: car_2_wall
+    CollectionName: carscrapewall
+    EmitterQuadratic:
+      X: 0.30000001192092896
+      Y: 3
+      Z: 0
+      W: 0
+- ParentName: carscrape
+  Name: carscrapewood
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioscrape
+      CollectionKey: car_2_wall
+    CollectionName: carscrapewood
+    EmitterQuadratic:
+      X: 0.30000001192092896
+      Y: 3
+      Z: 0
+      W: 0
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: FxCS_Sc_Wood
+- ParentName: car
+  Name: carexhaustnos
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: carexhaustnos
+    EmitterQuadratic:
+      X: 0
+      Y: 1
+      Z: 0
+      W: 0
+    VisualCullDist: 100
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxcar_nos
+    InheritVelocity: 0
+    AudioQuadratic:
+      X: 0
+      Y: 0
+      Z: 0
+      W: 0
+- ParentName: car
+  Name: carexhaustdrip
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: carexhaustdrip
+    EmitterQuadratic:
+      X: 0
+      Y: 1
+      Z: 0
+      W: 0
+    VisualCullDist: 100
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxcar_exhaust_drip
+    InheritVelocity: 1
+    AudioQuadratic:
+      X: 0
+      Y: 0
+      Z: 0
+      W: 0
+- ParentName: car
+  Name: carglass
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: carglass
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxtd_dr_cobble
+    InheritVelocity: 1
+- ParentName: car
+  Name: heliwash
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: heliwash
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxtd_fly_dirt
+- ParentName: car
+  Name: carblowtire
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: carblowtire
+    VisualCullDist: 50
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxcar_tireblow
+    InheritVelocity: 1
+- ParentName: car
+  Name: carhit
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: carhit
+    InheritVelocity: 1
+    EmitterQuadratic:
+      X: 0
+      Y: 1
+      Z: 0
+      W: 0
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxcar_impactl
+    AudioQuadratic:
+      X: 0
+      Y: 2
+      Z: -1
+      W: 0
+- ParentName: carhit
+  Name: carhitground
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: car_2_wall_side
+    CollectionName: carhitground
+    AudioFX_BOTTOM:
+      ClassKey: audioimpact
+      CollectionKey: car_2_ground_bottomout
+    EmitterQuadratic:
+      X: 0
+      Y: 0.25
+      Z: 1
+      W: 0
+    AudioFX_TOP:
+      ClassKey: audioimpact
+      CollectionKey: car_2_ground_roll
+    AudioFX_FRONT:
+      ClassKey: audioimpact
+      CollectionKey: car_2_wall_front
+    AudioQuadratic:
+      X: -0.25
+      Y: 1
+      Z: 0.25
+      W: 0
+- ParentName: carhitground
+  Name: carhitpavement
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: car_2_wall_side
+    CollectionName: carhitpavement
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxcar_impactpavement
+- ParentName: carhitpavement
+  Name: carhitsand
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: car_2_wall_side
+    CollectionName: carhitsand
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxtd_hit_sand
+- ParentName: carhitpavement
+  Name: carhitgrass
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: car_2_wall_side
+    CollectionName: carhitgrass
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxtd_hit_grass
+- ParentName: carhitground
+  Name: tankerhitground
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: car_2_wall_side
+    CollectionName: tankerhitground
+    EmitterQuadratic:
+      X: 0
+      Y: 1
+      Z: 0
+      W: 0
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxcar_impactpavement
+    AudioQuadratic:
+      X: 0.15000000596046448
+      Y: 2.5
+      Z: 0
+      W: 0
+- ParentName: carhitground
+  Name: carhitwood
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: car_2_wall_side
+    CollectionName: carhitwood
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: FxCS_Sc_Wood
+    AudioQuadratic:
+      X: 0.05000000074505806
+      Y: 2
+      Z: 0
+      W: 0
+- ParentName: carhit
+  Name: carhitcar
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: car_2_car_side
+    CollectionName: carhitcar
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxcar_impactdebrisl
+    EmitterQuadratic:
+      X: 0
+      Y: 0.5
+      Z: 2
+      W: 4
+    AudioFX_TOP:
+      ClassKey: audioimpact
+      CollectionKey: car_2_car_front
+    AudioFX_FRONT:
+      ClassKey: audioimpact
+      CollectionKey: car_2_car_front
+    AudioQuadratic:
+      X: 0
+      Y: 1.7999999523162842
+      Z: -0.80000001192092896
+      W: 0
+    AudioFX_REAR:
+      ClassKey: audioimpact
+      CollectionKey: car_2_car_front
+- ParentName: carhit
+  Name: carhitwall
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: car_2_wall_side
+    CollectionName: carhitwall
+    AudioFX_FRONT:
+      ClassKey: audioimpact
+      CollectionKey: car_2_wall_front
+    AudioQuadratic:
+      X: 0
+      Y: 1.7999999523162842
+      Z: -0.80000001192092896
+      W: 0
+- ParentName: carhit
+  Name: carhitsmackable
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: car_2_smackable
+    CollectionName: carhitsmackable
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxmis_dustpuff
+    AudioQuadratic:
+      X: 0
+      Y: 1
+      Z: 0
+      W: 0
+- ParentName: car
+  Name: carextradust
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: carextradust
+    EmitterQuadratic:
+      X: 0
+      Y: 1
+      Z: 0
+      W: 0
+    VisualCullDist: 100
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxnis_extradust1
+    InheritVelocity: 0
+    AudioQuadratic:
+      X: 0
+      Y: 0
+      Z: 0
+      W: 0
+- ParentName: default
+  Name: smackable
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: smackable
+    VisualCullDist: 99
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxmis_dustpuff
+    AudioCullDist: 30
+- ParentName: smackable
+  Name: smackable_events
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: smackable_events
+- ParentName: smackable_events
+  Name: fountain1
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: fountain1
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxwtr_fountain1
+- ParentName: smackable_events
+  Name: papertrail1
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: papertrail1
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxmis_paper1
+    InheritVelocity: 1
+- ParentName: smackable_events
+  Name: exp_gasstation
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: exp_gasstation
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxex_gasstation
+    InheritVelocity: 1
+- ParentName: smackable_events
+  Name: firetrail1
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: firetrail1
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxfire_trail1
+    InheritVelocity: 1
+- ParentName: smackable_events
+  Name: dust_exp_lg1
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: dust_exp_lg1
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxdust_med_exup
+- ParentName: smackable_events
+  Name: hitleaves
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: hitleaves
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxmis_leafhit
+- ParentName: smackable_events
+  Name: exp_lg1
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: exp_lg1
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxex_large1
+    InheritVelocity: 1
+- ParentName: smackable_events
+  Name: hitcoin1
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: coin_spray
+    CollectionName: hitcoin1
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxmis_coins1
+    InheritVelocity: 1
+    AudioQuadratic:
+      X: 0
+      Y: 1
+      Z: 0
+      W: 0
+- ParentName: smackable_events
+  Name: waterbarrel_lg1
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: 0xFFA56FEE
+    CollectionName: waterbarrel_lg1
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxwtr_waterbarrel_L
+- ParentName: waterbarrel_lg1
+  Name: waterbarrel_sm1
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: 0xFFA56FEE
+    CollectionName: waterbarrel_sm1
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxwtr_waterbarrel_sm
+    AudioQuadratic:
+      X: 0
+      Y: 1
+      Z: 0
+      W: 0
+- ParentName: smackable_events
+  Name: hitdust1
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: hitdust1
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxmis_hitdust1
+    InheritVelocity: 1
+- ParentName: smackable_events
+  Name: sprkdir_md1
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: sprkdir_md1
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxsprk_md_dir
+    InheritVelocity: 1
+- ParentName: smackable_events
+  Name: smoketrail1
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: smoketrail1
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxsmk_md_trail
+    InheritVelocity: 1
+- ParentName: smoketrail1
+  Name: smoketrail2
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: smoketrail2
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxsmk_md_trail02
+- ParentName: smackable_events
+  Name: dustbillow_lg1
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: dustbillow_lg1
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxdust_lg_billow1
+- ParentName: smackable_events
+  Name: firearea1
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: firearea1
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxfire_lg_area1
+    InheritVelocity: 1
+- ParentName: smackable_events
+  Name: dustfall_md1
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: dustfall_md1
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxdust_med_fall
+- ParentName: smackable_events
+  Name: hitgrass
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: hitgrass
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxmis_grasshit
+- ParentName: smackable_events
+  Name: sprkdir_lg1
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: sprkdir_lg1
+    EmitterQuadratic:
+      X: 1
+      Y: 1
+      Z: 0
+      W: 0
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxsprk_lg_dir
+    InheritVelocity: 1
+- ParentName: smackable_events
+  Name: exp_lg2
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: exp_lg2
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxex_large2
+    InheritVelocity: 1
+- ParentName: smackable_events
+  Name: sprktrail1
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: sprktrail1
+    EmitterQuadratic:
+      X: 0.80000001192092896
+      Y: 1
+      Z: 0
+      W: 0
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxsprk_md_trail
+    InheritVelocity: 1
+- ParentName: smackable_events
+  Name: wooddust1
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: wooddust1
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxmis_wooddust1
+    InheritVelocity: 1
+- ParentName: smackable_events
+  Name: glasstrail1
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: glasstrail1
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxmis_glass1
+    InheritVelocity: 1
+- ParentName: smackable_events
+  Name: dustbillow_md1
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: dustbillow_md1
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxdust_med_billow1
+- ParentName: smackable_events
+  Name: dustfall_lg1
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: dustfall_lg1
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxdust_lg_fall
+- ParentName: smackable
+  Name: smackable_hit
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: smackable_hit
+    InheritVelocity: 0
+    AudioQuadratic:
+      X: 0
+      Y: 2
+      Z: -1
+      W: 0
+    AudioCullDist: 30
+- ParentName: smackable_hit
+  Name: smackable_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: 0x9940BD80
+    CollectionName: smackable_hit_world
+- ParentName: smackable_hit_world
+  Name: wd_roadblk_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: sawhorse_2_car
+    CollectionName: wd_roadblk_hit_world
+- ParentName: smackable_hit_world
+  Name: cone_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: cone_2_world
+    CollectionName: cone_hit_world
+- ParentName: smackable_hit_world
+  Name: prkg_mtr_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: prkg_mtr_2_world
+    CollectionName: prkg_mtr_hit_world
+- ParentName: smackable_hit_world
+  Name: mtl_bar_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: lamp_lrg_2_world
+    CollectionName: mtl_bar_hit_world
+- ParentName: smackable_hit_world
+  Name: mast_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: mast_2_world
+    CollectionName: mast_hit_world
+- ParentName: smackable_hit_world
+  Name: pop_mach_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: pop_mach_2_world
+    CollectionName: pop_mach_hit_world
+- ParentName: smackable_hit_world
+  Name: soft_furn_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: soft_furn_2_world
+    CollectionName: soft_furn_hit_world
+- ParentName: smackable_hit_world
+  Name: bike_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: bike_2_world
+    CollectionName: bike_hit_world
+- ParentName: smackable_hit_world
+  Name: crate_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: crate_2_world
+    CollectionName: crate_hit_world
+- ParentName: smackable_hit_world
+  Name: shelt_frag_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: shelt_frag_2_world
+    CollectionName: shelt_frag_hit_world
+- ParentName: smackable_hit_world
+  Name: post_light_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: post_light_2_world
+    CollectionName: post_light_hit_world
+- ParentName: smackable_hit_world
+  Name: bigrollingtorus_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: dumpster_2_world
+    CollectionName: bigrollingtorus_hit_world
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxdust_med_exup
+- ParentName: smackable_hit_world
+  Name: barrel_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: barrel_2_world
+    CollectionName: barrel_hit_world
+- ParentName: smackable_hit_world
+  Name: donut_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: dumpster_2_world
+    CollectionName: donut_hit_world
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxdust_med_exup
+- ParentName: smackable_hit_world
+  Name: wood_sign_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: sandbrd_2_world
+    CollectionName: wood_sign_hit_world
+- ParentName: smackable_hit_world
+  Name: garbagebag_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: 0x94459957
+    CollectionName: garbagebag_hit_world
+- ParentName: smackable_hit_world
+  Name: wtr_drum_emp_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: wtr_drum_emp_2_world
+    CollectionName: wtr_drum_emp_hit_world
+- ParentName: smackable_hit_world
+  Name: golfcart_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: golfcart_2_world
+    CollectionName: golfcart_hit_world
+- ParentName: smackable_hit_world
+  Name: wood_frag_sm_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: wood_frag_sm_2_world
+    CollectionName: wood_frag_sm_hit_world
+- ParentName: smackable_hit_world
+  Name: payphone_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: payphone_2_world
+    CollectionName: payphone_hit_world
+- ParentName: smackable_hit_world
+  Name: glass_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: glass_2_world
+    CollectionName: glass_hit_world
+- ParentName: smackable_hit_world
+  Name: dumpster_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: dumpster_2_world
+    CollectionName: dumpster_hit_world
+- ParentName: smackable_hit_world
+  Name: panel_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: panel_2_world
+    CollectionName: panel_hit_world
+- ParentName: smackable_hit_world
+  Name: umbrella_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: umbrella_2_world
+    CollectionName: umbrella_hit_world
+- ParentName: smackable_hit_world
+  Name: seats_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: seats_2_world
+    CollectionName: seats_hit_world
+- ParentName: smackable_hit_world
+  Name: lawn_chr_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: lawn_chr_2_world
+    CollectionName: lawn_chr_hit_world
+- ParentName: smackable_hit_world
+  Name: generic_wood_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: wood_2_world
+    CollectionName: generic_wood_hit_world
+    EmitterQuadratic:
+      X: 0
+      Y: 1.5
+      Z: 0
+      W: 0
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: FxCS_Sc_Wood
+- ParentName: smackable_hit_world
+  Name: chlkfence_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: chlkfence_2_world
+    CollectionName: chlkfence_hit_world
+- ParentName: smackable_hit_world
+  Name: wood_frag_lrg_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: wood_frag_lrg_2_world
+    CollectionName: wood_frag_lrg_hit_world
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxdust_med_exup
+- ParentName: smackable_hit_world
+  Name: mtl_gate_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: mtl_gate_2_world
+    CollectionName: mtl_gate_hit_world
+- ParentName: smackable_hit_world
+  Name: trashcan_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: trashcan_2_world
+    CollectionName: trashcan_hit_world
+- ParentName: smackable_hit_world
+  Name: huge_object_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: huge_object_2_world
+    CollectionName: huge_object_hit_world
+- ParentName: smackable_hit_world
+  Name: lamp_lrg_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: lamp_lrg_2_world
+    CollectionName: lamp_lrg_hit_world
+- ParentName: smackable_hit_world
+  Name: portpotty_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: portpotty_2_world
+    CollectionName: portpotty_hit_world
+- ParentName: smackable_hit_world
+  Name: rake_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: 0x9940BD80
+    CollectionName: rake_hit_world
+- ParentName: smackable_hit_world
+  Name: tire_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: tire_2_world
+    CollectionName: tire_hit_world
+- ParentName: tire_hit_world
+  Name: shrub_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: shrub_2_world
+    CollectionName: shrub_hit_world
+- ParentName: smackable_hit_world
+  Name: vend_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: vend_mach_2_world
+    CollectionName: vend_hit_world
+- ParentName: smackable_hit_world
+  Name: mtl_bus_roof_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: mtlbox_2_world
+    CollectionName: mtl_bus_roof_hit_world
+- ParentName: smackable_hit_world
+  Name: wood_furn_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: wood_furn_2_world
+    CollectionName: wood_furn_hit_world
+- ParentName: smackable_hit_world
+  Name: mtl_sign_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: sign_2_world
+    CollectionName: mtl_sign_hit_world
+- ParentName: smackable_hit_world
+  Name: wood_frag_med_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: wood_frag_med_2_world
+    CollectionName: wood_frag_med_hit_world
+- ParentName: smackable_hit_world
+  Name: mtl_box_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: mtlbox_2_world
+    CollectionName: mtl_box_hit_world
+- ParentName: smackable_hit_world
+  Name: mtl_fence_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: mtl_fence_2_world
+    CollectionName: mtl_fence_hit_world
+- ParentName: smackable_hit_world
+  Name: hydrant_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: hydrant_2_world
+    CollectionName: hydrant_hit_world
+- ParentName: smackable_hit_world
+  Name: log_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: log_2_world
+    CollectionName: log_hit_world
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxdust_med_exup
+- ParentName: smackable_hit_world
+  Name: carboard_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: cardboard_2_world
+    CollectionName: carboard_hit_world
+- ParentName: smackable_hit_world
+  Name: wood_support_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: wood_support_2_world
+    CollectionName: wood_support_hit_world
+- ParentName: smackable_hit_world
+  Name: boat_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: boat_2_world
+    CollectionName: boat_hit_world
+- ParentName: smackable_hit_world
+  Name: mtl_bus_shltr_hit_world
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: mtl_bus_shltr_2_world
+    CollectionName: mtl_bus_shltr_hit_world
+- ParentName: smackable_hit
+  Name: smackable_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: 0x0EA83D1A
+    CollectionName: smackable_hit_car
+- ParentName: smackable_hit_car
+  Name: golfcart_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: golfcart_2_car
+    CollectionName: golfcart_hit_car
+- ParentName: smackable_hit_car
+  Name: mast_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: mast_2_car
+    CollectionName: mast_hit_car
+- ParentName: smackable_hit_car
+  Name: portpotty_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: portpotty_2_car
+    CollectionName: portpotty_hit_car
+- ParentName: smackable_hit_car
+  Name: umbrella_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: umbrella_2_car
+    CollectionName: umbrella_hit_car
+- ParentName: smackable_hit_car
+  Name: vend_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: vend_mach_2_car
+    CollectionName: vend_hit_car
+- ParentName: smackable_hit_car
+  Name: huge_object_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: huge_object_2_car
+    CollectionName: huge_object_hit_car
+- ParentName: smackable_hit_car
+  Name: mtl_sign_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: sign_2_car
+    CollectionName: mtl_sign_hit_car
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxcs_sc_metal
+- ParentName: smackable_hit_car
+  Name: payphone_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: payphone_2_car
+    CollectionName: payphone_hit_car
+- ParentName: smackable_hit_car
+  Name: lamp_lrg_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: lamp_lrg_2_car
+    CollectionName: lamp_lrg_hit_car
+    EmitterQuadratic:
+      X: 0.20000000298023224
+      Y: 0.89999997615814209
+      Z: 0
+      W: 0
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxcs_sc_metal
+- ParentName: smackable_hit_car
+  Name: log_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: log_2_car
+    CollectionName: log_hit_car
+- ParentName: smackable_hit_car
+  Name: wood_furn_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: wood_furn_2_car
+    CollectionName: wood_furn_hit_car
+- ParentName: smackable_hit_car
+  Name: soft_furn_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: soft_furn_2_car
+    CollectionName: soft_furn_hit_car
+- ParentName: smackable_hit_car
+  Name: mtl_bus_shltr_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: mtl_bus_shltr_2_car
+    CollectionName: mtl_bus_shltr_hit_car
+- ParentName: smackable_hit_car
+  Name: lawn_chr_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: lawn_chr_2_car
+    CollectionName: lawn_chr_hit_car
+- ParentName: smackable_hit_car
+  Name: barrel_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: barrel_2_car
+    CollectionName: barrel_hit_car
+- ParentName: smackable_hit_car
+  Name: donut_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: dumpster_2_car
+    CollectionName: donut_hit_car
+- ParentName: smackable_hit_car
+  Name: tree_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: tree_2_car
+    CollectionName: tree_hit_car
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxmis_leafhit
+- ParentName: tree_hit_car
+  Name: shrub_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: shrub_2_car
+    CollectionName: shrub_hit_car
+- ParentName: smackable_hit_car
+  Name: mtl_box_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: mtlbox_2_car
+    CollectionName: mtl_box_hit_car
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxcs_sc_metal
+- ParentName: smackable_hit_car
+  Name: seats_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: seats_2_car
+    CollectionName: seats_hit_car
+- ParentName: smackable_hit_car
+  Name: picket_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: wd_fence_2_car
+    CollectionName: picket_hit_car
+- ParentName: smackable_hit_car
+  Name: bigsmack_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: bigsmack_2_car
+    CollectionName: bigsmack_hit_car
+- ParentName: smackable_hit_car
+  Name: cone_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: cone_2_car
+    CollectionName: cone_hit_car
+- ParentName: smackable_hit_car
+  Name: mtl_gate_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: mtl_gate_2_car
+    CollectionName: mtl_gate_hit_car
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxcs_sc_metal
+- ParentName: smackable_hit_car
+  Name: post_light_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: post_light_2_car
+    CollectionName: post_light_hit_car
+- ParentName: smackable_hit_car
+  Name: wood_frag_lrg_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: wood_frag_lrg_2_car
+    CollectionName: wood_frag_lrg_hit_car
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxdust_med_exup
+- ParentName: smackable_hit_car
+  Name: wtr_drum_emp_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: wtr_drum_emp_2_car
+    CollectionName: wtr_drum_emp_hit_car
+- ParentName: smackable_hit_car
+  Name: prkg_mtr_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: prkg_mtr_2_car
+    CollectionName: prkg_mtr_hit_car
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxcs_sc_metal
+- ParentName: smackable_hit_car
+  Name: dumpster_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: dumpster_2_car
+    CollectionName: dumpster_hit_car
+- ParentName: smackable_hit_car
+  Name: mtl_bus_roof_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: mtlbox_2_car
+    CollectionName: mtl_bus_roof_hit_car
+- ParentName: smackable_hit_car
+  Name: generic_wood_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: wood_2_car
+    CollectionName: generic_wood_hit_car
+- ParentName: smackable_hit_car
+  Name: carboard_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: cardboard_2_car
+    CollectionName: carboard_hit_car
+- ParentName: smackable_hit_car
+  Name: wood_frag_med_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: wood_frag_med_2_car
+    CollectionName: wood_frag_med_hit_car
+- ParentName: smackable_hit_car
+  Name: tire_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: tire_2_car
+    CollectionName: tire_hit_car
+- ParentName: smackable_hit_car
+  Name: rake_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: rake_2_car
+    CollectionName: rake_hit_car
+- ParentName: smackable_hit_car
+  Name: pop_mach_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: pop_mach_2_car
+    CollectionName: pop_mach_hit_car
+- ParentName: smackable_hit_car
+  Name: bike_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: bike_2_car
+    CollectionName: bike_hit_car
+- ParentName: smackable_hit_car
+  Name: wd_roadblk_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: sawhorse_2_car
+    CollectionName: wd_roadblk_hit_car
+- ParentName: smackable_hit_car
+  Name: panel_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: panel_2_car
+    CollectionName: panel_hit_car
+- ParentName: smackable_hit_car
+  Name: glass_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: glass_2_car
+    CollectionName: glass_hit_car
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxmis_glass1
+- ParentName: smackable_hit_car
+  Name: mtl_bar_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: mtl_bar_2_car
+    CollectionName: mtl_bar_hit_car
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxcs_sc_metal
+- ParentName: smackable_hit_car
+  Name: garbagebag_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: 0x94459957
+    CollectionName: garbagebag_hit_car
+- ParentName: smackable_hit_car
+  Name: mtl_fence_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: mtl_fence_2_car
+    CollectionName: mtl_fence_hit_car
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxcs_sc_metal
+- ParentName: smackable_hit_car
+  Name: trashcan_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: trashcan_2_car
+    CollectionName: trashcan_hit_car
+- ParentName: smackable_hit_car
+  Name: wtr_drum_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: wtr_drum_2_car
+    CollectionName: wtr_drum_hit_car
+- ParentName: smackable_hit_car
+  Name: boat_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: boat_2_car
+    CollectionName: boat_hit_car
+- ParentName: smackable_hit_car
+  Name: wood_support_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: wood_support_2_car
+    CollectionName: wood_support_hit_car
+- ParentName: smackable_hit_car
+  Name: wood_sign_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: sandbrd_2_car
+    CollectionName: wood_sign_hit_car
+- ParentName: smackable_hit_car
+  Name: chlkfence_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: chlkfence_2_car
+    CollectionName: chlkfence_hit_car
+- ParentName: smackable_hit_car
+  Name: wood_frag_sm_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: wood_frag_sm_2_car
+    CollectionName: wood_frag_sm_hit_car
+- ParentName: smackable_hit_car
+  Name: hydrant_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: hydrant_2_car
+    CollectionName: hydrant_hit_car
+- ParentName: smackable_hit_car
+  Name: pillar_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: car_2_wall_front
+    CollectionName: pillar_hit_car
+- ParentName: smackable_hit_car
+  Name: crate_hit_car
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: crate_2_car
+    CollectionName: crate_hit_car
+- ParentName: smackable_hit
+  Name: smackable_break
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: smackable_break
+    AudioQuadratic:
+      X: 0
+      Y: 1
+      Z: 0
+      W: 0
+- ParentName: smackable_break
+  Name: huge_object_break
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: huge_object_2_car
+    CollectionName: huge_object_break
+- ParentName: smackable_break
+  Name: sfx_tree_brk
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: tree_break
+    CollectionName: sfx_tree_brk
+- ParentName: smackable_break
+  Name: sfx_wd_roadblk_brk
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: wd_roadblk_brk
+    CollectionName: sfx_wd_roadblk_brk
+- ParentName: smackable_break
+  Name: sfx_wd_furn_brk
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: wd_furn_brk
+    CollectionName: sfx_wd_furn_brk
+- ParentName: smackable_break
+  Name: sfx_glass_med_brk
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: glass_med_brk
+    CollectionName: sfx_glass_med_brk
+- ParentName: smackable_break
+  Name: sfx_tollbooth_brk
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: tollbooth_brk
+    CollectionName: sfx_tollbooth_brk
+- ParentName: sfx_tollbooth_brk
+  Name: sfx_ph_booth_brk
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: ph_booth_brk
+    CollectionName: sfx_ph_booth_brk
+- ParentName: smackable_break
+  Name: sfx_chainlnk_brk
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: chainlink_brk
+    CollectionName: sfx_chainlnk_brk
+- ParentName: smackable_break
+  Name: sfx_coin_spray
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: coin_spray
+    CollectionName: sfx_coin_spray
+- ParentName: smackable_break
+  Name: sfx_shrub_brk
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: shrub_break
+    CollectionName: sfx_shrub_brk
+- ParentName: smackable_break
+  Name: sfx_glass_shatter
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: glass_shatter
+    CollectionName: sfx_glass_shatter
+- ParentName: smackable_break
+  Name: sfx_wtr_drum_brk
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: wtr_drum_brk
+    CollectionName: sfx_wtr_drum_brk
+- ParentName: smackable
+  Name: leaffall1
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: leaffall1
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxmis_leaffall1
+    InheritVelocity: 0
+- ParentName: smackable
+  Name: smackable_scrapes
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: smackable_scrapes
+    AudioQuadratic:
+      X: 0
+      Y: 1
+      Z: 0
+      W: 0
+    AudioCullDist: 10
+- ParentName: smackable_scrapes
+  Name: smackable_scrape_earth
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: smackable_scrape_earth
+- ParentName: smackable_scrape_earth
+  Name: smack_lrg_scrape_earth
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioscrape
+      CollectionKey: smackable_2_ground
+    CollectionName: smack_lrg_scrape_earth
+- ParentName: smackable_scrapes
+  Name: smackable_scrape_concrete
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: smackable_scrape_concrete
+- ParentName: smackable_scrape_concrete
+  Name: smack_lrg_scrape_concrete
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioscrape
+      CollectionKey: smackable_2_ground
+    CollectionName: smack_lrg_scrape_concrete
+- ParentName: smackable_scrape_concrete
+  Name: metal_scrape_concrete
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: metal_scrape_concrete
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: xecs_solid_wall
+- ParentName: metal_scrape_concrete
+  Name: metal_lrg_scrape_concrete
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioscrape
+      CollectionKey: car_2_ground
+    CollectionName: metal_lrg_scrape_concrete
+- ParentName: default
+  Name: no_sound
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: audioimpact
+      CollectionKey: default
+    CollectionName: no_sound
+- ParentName: default
+  Name: environment
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: environment
+- ParentName: environment
+  Name: env_leaves1
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: env_leaves1
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxmis_paper1
+    InheritVelocity: 1
+- ParentName: environment
+  Name: env_steamlarge
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: env_steamlarge
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxnis_steamjet
+- ParentName: environment
+  Name: env_fog
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: env_fog
+    EmitterQuadratic:
+      X: 0
+      Y: 1
+      Z: 0
+      W: 0
+    VisualCullDist: 100
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxenv_fog1
+    InheritVelocity: 0
+    AudioQuadratic:
+      X: 0
+      Y: 0
+      Z: 0
+      W: 0
+- ParentName: environment
+  Name: env_leafblast1
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: env_leafblast1
+    VisualCullDist: 500
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxnis_leafblast2
+- ParentName: environment
+  Name: env_birdflock1
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: env_birdflock1
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxenv_birdblack01
+- ParentName: env_birdflock1
+  Name: env_birdflock2
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: env_birdflock2
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxenv_blackbird02
+- ParentName: environment
+  Name: env_carsmash1
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: env_carsmash1
+    VisualCullDist: 500
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxex_carexplode_sm1
+- ParentName: environment
+  Name: env_leaffall_hvy
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: env_leaffall_hvy
+    VisualCullDist: 500
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxenv_leaffall_hvy
+- ParentName: environment
+  Name: env_fogbig
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: env_fogbig
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxenv_fog1thick
+- ParentName: environment
+  Name: env_extrasparks
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: env_extrasparks
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxsprk_lg_dir
+- ParentName: environment
+  Name: env_finish
+  Data:
+    AudioFX_DEFAULT:
+      ClassKey: ''
+      CollectionKey: ''
+    CollectionName: env_finish
+    emittergroup:
+      ClassKey: emittergroup
+      CollectionKey: fxgame_flare_red

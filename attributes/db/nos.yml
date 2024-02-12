@@ -1,0 +1,77 @@
+- ParentName: 
+  Name: default
+  Data:
+    NOS_DISENGAGE: 0
+    TORQUE_BOOST: 0
+    FLOW_RATE: 0
+    RECHARGE_MIN: 0
+    NOS_CAPACITY: 0
+    RECHARGE_MAX: 0
+    RECHARGE_MAX_SPEED: 0
+    RECHARGE_MIN_SPEED: 0
+- ParentName: default
+  Name: nos_base
+  Data:
+    NOS_DISENGAGE: 2
+    TORQUE_BOOST: 0.75
+    FLOW_RATE: 3
+    RECHARGE_MIN: 50
+    NOS_CAPACITY: 2.5
+    RECHARGE_MAX: 30
+    RECHARGE_MAX_SPEED: 100
+    RECHARGE_MIN_SPEED: 50
+- ParentName: nos_base
+  Name: nos_top
+  Data:
+    NOS_DISENGAGE: 2
+    TORQUE_BOOST: 1
+    FLOW_RATE: 3
+    RECHARGE_MIN: 50
+    NOS_CAPACITY: 5
+    RECHARGE_MAX: 30
+    RECHARGE_MAX_SPEED: 100
+    RECHARGE_MIN_SPEED: 50
+- ParentName: default
+  Name: 0x5E087A3A
+  Data:
+    NOS_DISENGAGE: 2
+    TORQUE_BOOST: 0.60000002384185791
+    FLOW_RATE: 4
+    RECHARGE_MIN: 50
+    NOS_CAPACITY: 3.7000000476837158
+    RECHARGE_MAX: 40
+    RECHARGE_MAX_SPEED: 100
+    RECHARGE_MIN_SPEED: 50
+- ParentName: default
+  Name: cops
+  Data:
+    NOS_DISENGAGE: 2
+    TORQUE_BOOST: 1
+    FLOW_RATE: 20
+    RECHARGE_MIN: 1
+    NOS_CAPACITY: 120
+    RECHARGE_MAX: 1
+    RECHARGE_MAX_SPEED: 1
+    RECHARGE_MIN_SPEED: 0
+- ParentName: default
+  Name: starter
+  Data:
+    NOS_DISENGAGE: 2
+    TORQUE_BOOST: 1
+    FLOW_RATE: 0
+    RECHARGE_MIN: 0
+    NOS_CAPACITY: 40
+    RECHARGE_MAX: 0
+    RECHARGE_MAX_SPEED: 0
+    RECHARGE_MIN_SPEED: 0
+- ParentName: default
+  Name: ztest_trigger_fast
+  Data:
+    NOS_DISENGAGE: 0
+    TORQUE_BOOST: 0
+    FLOW_RATE: 0
+    RECHARGE_MIN: 0
+    NOS_CAPACITY: 0
+    RECHARGE_MAX: 0
+    RECHARGE_MAX_SPEED: 0
+    RECHARGE_MIN_SPEED: 0

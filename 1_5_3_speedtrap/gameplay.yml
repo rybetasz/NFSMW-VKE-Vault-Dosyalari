@@ -1,0 +1,510 @@
+- ParentName: finishline
+  Name: race_bin_01/1_5_3_speedtrap/finishline_reverse
+  Data:
+    CollectionName: race_bin_01/1_5_3_speedtrap/finishline_reverse
+    message_id: 0
+    ParticleEffect: ''
+    Template: false
+    Rotation: 87.636337280273438
+    FlareSpacing: 7.5
+    Dimensions:
+      X: 2
+      Y: 35
+      Z: 10
+    Position:
+      X: 1989.6719970703125
+      Y: 2054.427978515625
+      Z: 144.16700744628906
+    Name: race_bin_01/1_5_3_speedtrap/finishline_reverse
+- ParentName: finishline
+  Name: race_bin_01/1_5_3_speedtrap/1_5_3_finishline
+  Data:
+    CollectionName: race_bin_01/1_5_3_speedtrap/1_5_3_finishline
+    message_id: 0
+    Rotation: 212.18179321289062
+    Position:
+      X: 3328.758056640625
+      Y: 3616.887939453125
+      Z: 39.33203125
+    FlareSpacing: 10
+    Name: race_bin_01/1_5_3_speedtrap/1_5_3_finishline
+    Template: false
+    Dimensions:
+      X: 3
+      Y: 22
+      Z: 3
+- ParentName: checkpoint
+  Name: race_bin_01/1_5_3_speedtrap/1_2_2_ai_cp4
+  Data:
+    CollectionName: race_bin_01/1_5_3_speedtrap/1_2_2_ai_cp4
+    message_id: 0
+    Rotation: 70
+    Position:
+      X: 4776.6337890625
+      Y: 307.28048706054688
+      Z: 4.890625
+    Name: race_bin_01/1_5_3_speedtrap/1_2_2_ai_cp4
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 45
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_5_3_speedtrap/1_2_2_ai_cp1
+  Data:
+    CollectionName: race_bin_01/1_5_3_speedtrap/1_2_2_ai_cp1
+    message_id: 0
+    Rotation: 88.732398986816406
+    Position:
+      X: 4054.58203125
+      Y: 2920.970947265625
+      Z: 29.581050872802734
+    Name: race_bin_01/1_5_3_speedtrap/1_2_2_ai_cp1
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 40
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_5_3_speedtrap/1_2_2_ai_cp2
+  Data:
+    CollectionName: race_bin_01/1_5_3_speedtrap/1_2_2_ai_cp2
+    message_id: 0
+    Rotation: 11
+    Position:
+      X: 3448.35009765625
+      Y: 2023.4310302734375
+      Z: 78.943359375
+    Name: race_bin_01/1_5_3_speedtrap/1_2_2_ai_cp2
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 50
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_5_3_speedtrap/1_2_2_ai_cp6
+  Data:
+    CollectionName: race_bin_01/1_5_3_speedtrap/1_2_2_ai_cp6
+    message_id: 0
+    Rotation: 216.57510375976562
+    Position:
+      X: 2636.196044921875
+      Y: 755.76007080078125
+      Z: 62.416011810302734
+    Name: race_bin_01/1_5_3_speedtrap/1_2_2_ai_cp6
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 40
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_5_3_speedtrap/1_2_2_ai_cp3
+  Data:
+    CollectionName: race_bin_01/1_5_3_speedtrap/1_2_2_ai_cp3
+    message_id: 0
+    Rotation: 152.86039733886719
+    Position:
+      X: 4398.5380859375
+      Y: 1164.9959716796875
+      Z: 28.311529159545898
+    Name: race_bin_01/1_5_3_speedtrap/1_2_2_ai_cp3
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 45
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_5_3_speedtrap/1_2_2_ai_cp5
+  Data:
+    CollectionName: race_bin_01/1_5_3_speedtrap/1_2_2_ai_cp5
+    message_id: 0
+    Rotation: -28
+    Position:
+      X: 3001.39599609375
+      Y: -3.463547945022583
+      Z: 19.572259902954102
+    Name: race_bin_01/1_5_3_speedtrap/1_2_2_ai_cp5
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 51
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_5_3_speedtrap/1_2_2_ai_cp7
+  Data:
+    CollectionName: race_bin_01/1_5_3_speedtrap/1_2_2_ai_cp7
+    message_id: 0
+    Rotation: 269.07119750976562
+    Position:
+      X: 1982.8740234375
+      Y: 1914.56298828125
+      Z: 148.53709411621094
+    Name: race_bin_01/1_5_3_speedtrap/1_2_2_ai_cp7
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 40
+      Z: 40
+- ParentName: speedtrap
+  Name: race_bin_01/1_5_3_speedtrap/speedtrap2
+  Data:
+    CollectionName: race_bin_01/1_5_3_speedtrap/speedtrap2
+    message_id: 0
+    Position:
+      X: 2793.6298828125
+      Y: 717.81610107421875
+      Z: 52.784671783447266
+    Radius: 30
+    Name: race_bin_01/1_5_3_speedtrap/speedtrap2
+    Template: false
+- ParentName: speedtrap
+  Name: race_bin_01/1_5_3_speedtrap/speedtrap1
+  Data:
+    CollectionName: race_bin_01/1_5_3_speedtrap/speedtrap1
+    message_id: 0
+    Position:
+      X: 2430.712890625
+      Y: 1143.3819580078125
+      Z: 110.62300109863281
+    Name: race_bin_01/1_5_3_speedtrap/speedtrap1
+    Template: false
+- ParentName: speedtrap
+  Name: race_bin_01/1_5_3_speedtrap/speedtrap5
+  Data:
+    CollectionName: race_bin_01/1_5_3_speedtrap/speedtrap5
+    message_id: 0
+    Position:
+      X: 4686.134765625
+      Y: 1114.2020263671875
+      Z: 8.84814453125
+    Name: race_bin_01/1_5_3_speedtrap/speedtrap5
+    Template: false
+- ParentName: speedtrap
+  Name: race_bin_01/1_5_3_speedtrap/speedtrap3
+  Data:
+    CollectionName: race_bin_01/1_5_3_speedtrap/speedtrap3
+    message_id: 0
+    Position:
+      X: 3285.302978515625
+      Y: -140.41949462890625
+      Z: 21.589839935302734
+    Radius: 25
+    Name: race_bin_01/1_5_3_speedtrap/speedtrap3
+    Template: false
+- ParentName: speedtrap
+  Name: race_bin_01/1_5_3_speedtrap/speedtrap4
+  Data:
+    CollectionName: race_bin_01/1_5_3_speedtrap/speedtrap4
+    message_id: 0
+    Position:
+      X: 4272.97412109375
+      Y: -85.088790893554688
+      Z: 12.399900436401367
+    Name: race_bin_01/1_5_3_speedtrap/speedtrap4
+    Template: false
+- ParentName: speedtrap
+  Name: race_bin_01/1_5_3_speedtrap/speedtrap9
+  Data:
+    CollectionName: race_bin_01/1_5_3_speedtrap/speedtrap9
+    message_id: 0
+    Position:
+      X: 4075.047119140625
+      Y: 3354.89599609375
+      Z: 14.691889762878418
+    Name: race_bin_01/1_5_3_speedtrap/speedtrap9
+    Template: false
+- ParentName: speedtrap
+  Name: race_bin_01/1_5_3_speedtrap/speedtrap8
+  Data:
+    CollectionName: race_bin_01/1_5_3_speedtrap/speedtrap8
+    message_id: 0
+    Position:
+      X: 4090.60595703125
+      Y: 2307.68896484375
+      Z: 32.875
+    Name: race_bin_01/1_5_3_speedtrap/speedtrap8
+    Template: false
+- ParentName: speedtrap
+  Name: race_bin_01/1_5_3_speedtrap/speedtrap7
+  Data:
+    CollectionName: race_bin_01/1_5_3_speedtrap/speedtrap7
+    message_id: 0
+    Position:
+      X: 3296.178955078125
+      Y: 1954.5909423828125
+      Z: 98.398933410644531
+    Name: race_bin_01/1_5_3_speedtrap/speedtrap7
+    Template: false
+- ParentName: speedtrap
+  Name: race_bin_01/1_5_3_speedtrap/speedtrap6
+  Data:
+    CollectionName: race_bin_01/1_5_3_speedtrap/speedtrap6
+    message_id: 0
+    Position:
+      X: 3787.865966796875
+      Y: 1229.8580322265625
+      Z: 69.649406433105469
+    Name: race_bin_01/1_5_3_speedtrap/speedtrap6
+    Template: false
+- ParentName: resetplayertrigger
+  Name: race_bin_01/1_5_3_speedtrap/wrongway
+  Data:
+    CollectionName: race_bin_01/1_5_3_speedtrap/wrongway
+    message_id: 0
+    Rotation: 446
+    Position:
+      X: 1992.8370361328125
+      Y: 2095.31103515625
+      Z: 144.2001953125
+    Name: race_bin_01/1_5_3_speedtrap/wrongway
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_5_3_speedtrap/shortcut16
+  Data:
+    CollectionName: race_bin_01/1_5_3_speedtrap/shortcut16
+    message_id: 0
+    Position:
+      X: 2798
+      Y: 365
+      Z: 36
+    ShortcutMaxChance: 0
+    Name: race_bin_01/1_5_3_speedtrap/shortcut16
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_5_3_speedtrap/shortcut1
+  Data:
+    CollectionName: race_bin_01/1_5_3_speedtrap/shortcut1
+    message_id: 0
+    Rotation: -58.181819915771484
+    Position:
+      X: 2014.2840576171875
+      Y: 1621.02001953125
+      Z: 150.02239990234375
+    ShortcutMaxChance: 0
+    Name: race_bin_01/1_5_3_speedtrap/shortcut1
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_5_3_speedtrap/shortcut5
+  Data:
+    CollectionName: race_bin_01/1_5_3_speedtrap/shortcut5
+    message_id: 0
+    Rotation: 57.818180084228516
+    Position:
+      X: 4150.4541015625
+      Y: 2333.64892578125
+      Z: 33.927730560302734
+    ShortcutMaxChance: 0.10000000149011612
+    Name: race_bin_01/1_5_3_speedtrap/shortcut5
+    ShortcutMinChance: 0
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_5_3_speedtrap/shortcut6
+  Data:
+    CollectionName: race_bin_01/1_5_3_speedtrap/shortcut6
+    message_id: 0
+    Rotation: 0
+    Position:
+      X: 4606
+      Y: 119
+      Z: 7
+    ShortcutMaxChance: 0
+    Name: race_bin_01/1_5_3_speedtrap/shortcut6
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_5_3_speedtrap/shortcut3
+  Data:
+    CollectionName: race_bin_01/1_5_3_speedtrap/shortcut3
+    message_id: 0
+    Rotation: -39.636360168457031
+    Position:
+      X: 3226.14990234375
+      Y: -60.895530700683594
+      Z: 16.869140625
+    ShortcutMaxChance: 0.89999997615814209
+    Name: race_bin_01/1_5_3_speedtrap/shortcut3
+    ShortcutMinChance: 0.80000001192092896
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_5_3_speedtrap/shortcut9
+  Data:
+    CollectionName: race_bin_01/1_5_3_speedtrap/shortcut9
+    message_id: 0
+    Rotation: 12.727270126342773
+    Position:
+      X: 4181.11181640625
+      Y: -124.51969909667969
+      Z: 13.449219703674316
+    ShortcutMaxChance: 0.60000002384185791
+    Name: race_bin_01/1_5_3_speedtrap/shortcut9
+    ShortcutMinChance: 0.5
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_5_3_speedtrap/shortcut13
+  Data:
+    CollectionName: race_bin_01/1_5_3_speedtrap/shortcut13
+    message_id: 0
+    Position:
+      X: 2964
+      Y: 71
+      Z: 27
+    ShortcutMaxChance: 0
+    Name: race_bin_01/1_5_3_speedtrap/shortcut13
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_5_3_speedtrap/shortcut11
+  Data:
+    CollectionName: race_bin_01/1_5_3_speedtrap/shortcut11
+    message_id: 0
+    Rotation: 90.18182373046875
+    Position:
+      X: 3458.35888671875
+      Y: 1516.9969482421875
+      Z: 81.1328125
+    ShortcutMaxChance: 0
+    Name: race_bin_01/1_5_3_speedtrap/shortcut11
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_5_3_speedtrap/shortcut14
+  Data:
+    CollectionName: race_bin_01/1_5_3_speedtrap/shortcut14
+    message_id: 0
+    Position:
+      X: 3854.4150390625
+      Y: -247.18499755859375
+      Z: 15.4375
+    ShortcutMaxChance: 0.5
+    Name: race_bin_01/1_5_3_speedtrap/shortcut14
+    ShortcutMinChance: 0.40000000596046448
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_5_3_speedtrap/shortcut2
+  Data:
+    CollectionName: race_bin_01/1_5_3_speedtrap/shortcut2
+    message_id: 0
+    Rotation: -121.09089660644531
+    Position:
+      X: 2866.91796875
+      Y: 491.42999267578125
+      Z: 42.2646484375
+    ShortcutMaxChance: 0
+    Name: race_bin_01/1_5_3_speedtrap/shortcut2
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_5_3_speedtrap/shortcut8
+  Data:
+    CollectionName: race_bin_01/1_5_3_speedtrap/shortcut8
+    message_id: 0
+    Rotation: 9.8181829452514648
+    Position:
+      X: 3580.152099609375
+      Y: -337.05380249023438
+      Z: 21.047849655151367
+    ShortcutMaxChance: 0
+    Name: race_bin_01/1_5_3_speedtrap/shortcut8
+    ShortcutMinChance: 0
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_5_3_speedtrap/shortcut7
+  Data:
+    CollectionName: race_bin_01/1_5_3_speedtrap/shortcut7
+    message_id: 0
+    Rotation: 34.909088134765625
+    Position:
+      X: 4654.31201171875
+      Y: 681.569580078125
+      Z: 8.486328125
+    ShortcutMaxChance: 1
+    Name: race_bin_01/1_5_3_speedtrap/shortcut7
+    ShortcutMinChance: 1
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_5_3_speedtrap/shortcut10
+  Data:
+    CollectionName: race_bin_01/1_5_3_speedtrap/shortcut10
+    message_id: 0
+    Rotation: 64.363639831542969
+    Position:
+      X: 4573
+      Y: 125
+      Z: 5
+    ShortcutMaxChance: 1
+    Name: race_bin_01/1_5_3_speedtrap/shortcut10
+    ShortcutMinChance: 1
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_5_3_speedtrap/shortcut12
+  Data:
+    CollectionName: race_bin_01/1_5_3_speedtrap/shortcut12
+    message_id: 0
+    Rotation: -48.727268218994141
+    Position:
+      X: 2000.073974609375
+      Y: 1682.8780517578125
+      Z: 149.82710266113281
+    ShortcutMaxChance: 0
+    Name: race_bin_01/1_5_3_speedtrap/shortcut12
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_5_3_speedtrap/shortcut17
+  Data:
+    CollectionName: race_bin_01/1_5_3_speedtrap/shortcut17
+    message_id: 0
+    Position:
+      X: 4611
+      Y: 147
+      Z: 5
+    ShortcutMaxChance: 1
+    Name: race_bin_01/1_5_3_speedtrap/shortcut17
+    ShortcutMinChance: 1
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_5_3_speedtrap/shortcut4
+  Data:
+    CollectionName: race_bin_01/1_5_3_speedtrap/shortcut4
+    message_id: 0
+    Rotation: 29.090909957885742
+    Position:
+      X: 3872.007080078125
+      Y: -272.4755859375
+      Z: 13.720700263977051
+    ShortcutMaxChance: 0.89999997615814209
+    Name: race_bin_01/1_5_3_speedtrap/shortcut4
+    ShortcutMinChance: 0.80000001192092896
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_5_3_speedtrap/shortcut15
+  Data:
+    CollectionName: race_bin_01/1_5_3_speedtrap/shortcut15
+    message_id: 0
+    Position:
+      X: 2844
+      Y: 496
+      Z: 42
+    ShortcutMaxChance: 1
+    Name: race_bin_01/1_5_3_speedtrap/shortcut15
+    ShortcutMinChance: 1
+    Template: false
+- ParentName: startgrid
+  Name: race_bin_01/1_5_3_speedtrap/startgrid_reverse
+  Data:
+    CollectionName: race_bin_01/1_5_3_speedtrap/startgrid_reverse
+    message_id: 0
+    Rotation: 37.090900421142578
+    Position:
+      X: 3318.6279296875
+      Y: 3609.10205078125
+      Z: 39.963871002197266
+    Name: race_bin_01/1_5_3_speedtrap/startgrid_reverse
+    Template: false
+- ParentName: startgrid
+  Name: race_bin_01/1_5_3_speedtrap/1_5_3_startgrid
+  Data:
+    CollectionName: race_bin_01/1_5_3_speedtrap/1_5_3_startgrid
+    message_id: 0
+    Rotation: 266
+    Position:
+      X: 1989.3489990234375
+      Y: 2045.4329833984375
+      Z: 144.2001953125
+    Name: race_bin_01/1_5_3_speedtrap/1_5_3_startgrid
+    Template: false

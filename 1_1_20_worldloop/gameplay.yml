@@ -1,0 +1,257 @@
+- ParentName: finishline
+  Name: race_bin_01/1_1_20_worldloop/finishline
+  Data:
+    CollectionName: race_bin_01/1_1_20_worldloop/finishline
+    message_id: 0
+    Rotation: 226
+    Position:
+      X: 2592.81005859375
+      Y: -324.48141479492188
+      Z: 114.77149963378906
+    FlareSpacing: 12
+    Name: race_bin_01/1_1_20_worldloop/finishline
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 45
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_1_20_worldloop/checkpoint1
+  Data:
+    CollectionName: race_bin_01/1_1_20_worldloop/checkpoint1
+    message_id: 0
+    Rotation: 180
+    Position:
+      X: 2123.93798828125
+      Y: -551.0477294921875
+      Z: 112.36620330810547
+    Name: race_bin_01/1_1_20_worldloop/checkpoint1
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 35
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_1_20_worldloop/checkpoint4
+  Data:
+    CollectionName: race_bin_01/1_1_20_worldloop/checkpoint4
+    message_id: 0
+    Rotation: 35
+    Position:
+      X: 1110.2330322265625
+      Y: 660.33087158203125
+      Z: 113.0458984375
+    Name: race_bin_01/1_1_20_worldloop/checkpoint4
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 50
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_1_20_worldloop/checkpoint3
+  Data:
+    CollectionName: race_bin_01/1_1_20_worldloop/checkpoint3
+    message_id: 0
+    Rotation: 60
+    Position:
+      X: 353.74179077148438
+      Y: -29.655519485473633
+      Z: 115.1708984375
+    Name: race_bin_01/1_1_20_worldloop/checkpoint3
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 50
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_1_20_worldloop/checkpoint5
+  Data:
+    CollectionName: race_bin_01/1_1_20_worldloop/checkpoint5
+    message_id: 0
+    Rotation: 0
+    Position:
+      X: 2017.885986328125
+      Y: 973.94732666015625
+      Z: 120.14839935302734
+    Name: race_bin_01/1_1_20_worldloop/checkpoint5
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 45
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_1_20_worldloop/checkpoint2
+  Data:
+    CollectionName: race_bin_01/1_1_20_worldloop/checkpoint2
+    message_id: 0
+    Rotation: 132
+    Position:
+      X: 449.99749755859375
+      Y: -572.59588623046875
+      Z: 127.22650146484375
+    Name: race_bin_01/1_1_20_worldloop/checkpoint2
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 45
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_1_20_worldloop/checkpoint6
+  Data:
+    CollectionName: race_bin_01/1_1_20_worldloop/checkpoint6
+    message_id: 0
+    Rotation: -72
+    Position:
+      X: 2558.072998046875
+      Y: -5.0647640228271484
+      Z: 107.38870239257812
+    Name: race_bin_01/1_1_20_worldloop/checkpoint6
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 45
+      Z: 40
+- ParentName: planetrigger
+  Name: race_bin_01/epic_pursuit/win_trigger
+  Data:
+    CollectionName: race_bin_01/epic_pursuit/win_trigger
+    message_id: 0
+    Rotation: 226
+    Position:
+      X: 2592.81005859375
+      Y: -324.48141479492188
+      Z: 114.77149963378906
+    Name: race_bin_01/epic_pursuit/win_trigger
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_1_20_worldloop/shortcut5
+  Data:
+    CollectionName: race_bin_01/1_1_20_worldloop/shortcut5
+    message_id: 0
+    Position:
+      X: 425
+      Y: 132
+      Z: 106
+    ShortcutMaxChance: 0
+    Name: race_bin_01/1_1_20_worldloop/shortcut5
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_1_20_worldloop/shortcut2
+  Data:
+    CollectionName: race_bin_01/1_1_20_worldloop/shortcut2
+    message_id: 0
+    Position:
+      X: 1011
+      Y: -681
+      Z: 112
+    ShortcutMaxChance: 0
+    Name: race_bin_01/1_1_20_worldloop/shortcut2
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_1_20_worldloop/shortcut9
+  Data:
+    CollectionName: race_bin_01/1_1_20_worldloop/shortcut9
+    message_id: 0
+    Position:
+      X: 1758
+      Y: 948
+      Z: 124
+    ShortcutMaxChance: 0
+    Name: race_bin_01/1_1_20_worldloop/shortcut9
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_1_20_worldloop/shortcut4
+  Data:
+    CollectionName: race_bin_01/1_1_20_worldloop/shortcut4
+    message_id: 0
+    Position:
+      X: 302
+      Y: -426
+      Z: 122
+    ShortcutMaxChance: 0
+    Name: race_bin_01/1_1_20_worldloop/shortcut4
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_1_20_worldloop/shortcut3
+  Data:
+    CollectionName: race_bin_01/1_1_20_worldloop/shortcut3
+    message_id: 0
+    Position:
+      X: 884
+      Y: -645
+      Z: 111
+    ShortcutMaxChance: 0
+    Name: race_bin_01/1_1_20_worldloop/shortcut3
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_1_20_worldloop/shortcut10
+  Data:
+    CollectionName: race_bin_01/1_1_20_worldloop/shortcut10
+    message_id: 0
+    Position:
+      X: 2260
+      Y: 935
+      Z: 134
+    ShortcutMaxChance: 0
+    Name: race_bin_01/1_1_20_worldloop/shortcut10
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_1_20_worldloop/shortcut7
+  Data:
+    CollectionName: race_bin_01/1_1_20_worldloop/shortcut7
+    message_id: 0
+    Position:
+      X: 523
+      Y: 647
+      Z: 122
+    ShortcutMaxChance: 0
+    Name: race_bin_01/1_1_20_worldloop/shortcut7
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_1_20_worldloop/shortcut8
+  Data:
+    CollectionName: race_bin_01/1_1_20_worldloop/shortcut8
+    message_id: 0
+    Position:
+      X: 1377
+      Y: 873
+      Z: 120
+    ShortcutMaxChance: 0
+    Name: race_bin_01/1_1_20_worldloop/shortcut8
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_1_20_worldloop/shortcut1
+  Data:
+    CollectionName: race_bin_01/1_1_20_worldloop/shortcut1
+    message_id: 0
+    Position:
+      X: 1461
+      Y: -736
+      Z: 117
+    ShortcutMaxChance: 0
+    Name: race_bin_01/1_1_20_worldloop/shortcut1
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_1_20_worldloop/shortcut6
+  Data:
+    CollectionName: race_bin_01/1_1_20_worldloop/shortcut6
+    message_id: 0
+    Position:
+      X: 536
+      Y: 466
+      Z: 120
+    ShortcutMaxChance: 0
+    Name: race_bin_01/1_1_20_worldloop/shortcut6
+    Template: false
+- ParentName: startgrid
+  Name: race_bin_01/1_1_20_worldloop/startgrid
+  Data:
+    CollectionName: race_bin_01/1_1_20_worldloop/startgrid
+    message_id: 0
+    Rotation: 219
+    Position:
+      X: 2577.366943359375
+      Y: -337.81900024414062
+      Z: 114.95899963378906
+    Name: race_bin_01/1_1_20_worldloop/startgrid
+    Template: false

@@ -1,0 +1,9472 @@
+- ParentName: 
+  Name: default
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3
+      - 0
+      - 3
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 1.5
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3
+- ParentName: default
+  Name: cerberalm
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.6500000953674316
+      - 0
+      - 2.8499999046325684
+      - 1.9500000476837158
+      - 1.3500000238418579
+      - 1.0499999523162842
+      - 0.85000002384185791
+      - 0.64999997615814209
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.85000002384185791
+      - 0.85000002384185791
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.20000000298023224
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.21500000357627869
+    FINAL_GEAR: 3.4500000476837158
+- ParentName: default
+  Name: 0x02AE8B00
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.5899999141693115
+      - 0
+      - 2.5199999809265137
+      - 1.8799999952316284
+      - 1.4600000381469727
+      - 1
+      - 0.80000001192092896
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.40000000596046448
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.309999942779541
+- ParentName: 0x02AE8B00
+  Name: 0x79DD4443
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.5899999141693115
+      - 0
+      - 2.5199999809265137
+      - 1.8799999952316284
+      - 1.4600000381469727
+      - 1
+      - 0.80000001192092896
+      - 0.64999997615814209
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.60000002384185791
+      - 0.60000002384185791
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.60000002384185791
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.69999998807907104
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.2999999523162842
+- ParentName: default
+  Name: 0x062FB333
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.5899999141693115
+      - 0
+      - 3.2309999465942383
+      - 2.187999963760376
+      - 1.6089999675750732
+      - 1.2330000400543213
+      - 0.97000002861022949
+      - 0.79500001668930054
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0.80000001192092896
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 4.3000001907348633
+- ParentName: 0x062FB333
+  Name: 0xAC5CE480
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.5899999141693115
+      - 0
+      - 3.2309999465942383
+      - 2.187999963760376
+      - 1.6089999675750732
+      - 1.2330000400543213
+      - 0.97000002861022949
+      - 0.79500001668930054
+      - 0.67000001668930054
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.64999997615814209
+      - 0.64999997615814209
+      - 0.80000001192092896
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.5
+- ParentName: default
+  Name: 0x097C7B7D
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.7899999618530273
+      - 0
+      - 2.7999999523162842
+      - 1.7000000476837158
+      - 1.3799999952316284
+      - 1.1599999666213989
+      - 1.0499999523162842
+      - 0.93000000715255737
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 1.5
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 2.7000000476837158
+- ParentName: default
+  Name: impreza
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.3329999446868896
+      - 0
+      - 3.5450000762939453
+      - 2.1110000610351562
+      - 1.4479999542236328
+      - 1.0880000591278076
+      - 0.77999997138977051
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.5
+      - 0.64999997615814209
+      - 0.40000000596046448
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.85000002384185791
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.15000000596046448
+    FINAL_GEAR: 4.1110000610351562
+- ParentName: impreza
+  Name: 0x91FFC4C1
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.7000000476837158
+      - 0
+      - 3.2999999523162842
+      - 2.1500000953674316
+      - 1.5700000524520874
+      - 1.1799999475479126
+      - 0.93000000715255737
+      - 0.77999997138977051
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.64999997615814209
+      - 0.70999997854232788
+      - 0.50499999523162842
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.30000001192092896
+    FINAL_GEAR: 3.125
+- ParentName: default
+  Name: golf
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.6600000858306885
+      - 0
+      - 3.3599998950958252
+      - 2.0899999141693115
+      - 1.4700000286102295
+      - 1.1000000238418579
+      - 0.87000000476837158
+      - 0.77499997615814209
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.60000002384185791
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.940000057220459
+- ParentName: golf
+  Name: 0x9B399813
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.7000000476837158
+      - 0
+      - 3.5
+      - 2.0899999141693115
+      - 1.4700000286102295
+      - 1.1000000238418579
+      - 0.87000000476837158
+      - 0.70999997854232788
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.40000000596046448
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.0999999046325684
+- ParentName: default
+  Name: focus
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 4.1599998474121094
+      - 0
+      - 4.440000057220459
+      - 2.6700000762939453
+      - 1.9600000381469727
+      - 1.5900000333786011
+      - 1.3300000429153442
+      - 1.0800000429153442
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 1
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 2.880000114440918
+- ParentName: focus
+  Name: 0xE30CBCD6
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 4.1599998474121094
+      - 0
+      - 4.440000057220459
+      - 2.6700000762939453
+      - 1.9600000381469727
+      - 1.5900000333786011
+      - 1.25
+      - 1
+      - 0.80000001192092896
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.75
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 1
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.130000114440918
+- ParentName: default
+  Name: enzo
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.7300000190734863
+      - 0
+      - 3.2899999618530273
+      - 2.1600000858306885
+      - 1.6100000143051147
+      - 1.2699999809265137
+      - 1.0299999713897705
+      - 0.81999999284744263
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.75
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 4.440000057220459
+- ParentName: enzo
+  Name: 0x17727DE3
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.7300000190734863
+      - 0
+      - 3.2899999618530273
+      - 2.1600000858306885
+      - 1.6100000143051147
+      - 1.2699999809265137
+      - 1.0299999713897705
+      - 0.81999999284744263
+      - 0.69999998807907104
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.9700000286102295
+- ParentName: default
+  Name: 0x132BAEC9
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.2799999713897705
+      - 0
+      - 2.9700000286102295
+      - 2.0699999332427979
+      - 1.4299999475479126
+      - 1
+      - 0.8399999737739563
+      - 0.67000001668930054
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.5
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.75
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.4200000762939453
+- ParentName: 0x132BAEC9
+  Name: 0x16B8F959
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.9000000953674316
+      - 0
+      - 2.7699999809265137
+      - 1.8799999952316284
+      - 1.4600000381469727
+      - 1.1799999475479126
+      - 1
+      - 0.86000001430511475
+      - 0.60000002384185791
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.72500002384185791
+      - 0.75
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.25
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.89999997615814209
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 2.5
+- ParentName: default
+  Name: tt
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.0840001106262207
+      - 0
+      - 3.3570001125335693
+      - 2.0869998931884766
+      - 1.468999981880188
+      - 1.0880000591278076
+      - 0.85600000619888306
+      - 0.70499998331069946
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0.69999998807907104
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 4.2350001335144043
+- ParentName: tt
+  Name: tt_top
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.0840001106262207
+      - 0
+      - 3.3570001125335693
+      - 2.0869998931884766
+      - 1.468999981880188
+      - 1.0880000591278076
+      - 0.85000002384185791
+      - 0.69999998807907104
+      - 0.60000002384185791
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0.5
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.75
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.7999999523162842
+- ParentName: default
+  Name: regera
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.880000114440918
+      - 0
+      - 4.130000114440918
+      - 2.5999999046325684
+      - 1.7699999809265137
+      - 1.2699999809265137
+      - 1.1399999856948853
+      - 1.0499999523162842
+      - 1
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.69999998807907104
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.10000000149011612
+    FINAL_GEAR: 2.7300000190734863
+- ParentName: regera
+  Name: 0xC2D75A21
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.8499999046325684
+      - 0
+      - 3.630000114440918
+      - 2.0999999046325684
+      - 1.5
+      - 1.1200000047683716
+      - 0.92000001668930054
+      - 0.76999998092651367
+      - 0.68999999761581421
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.10000000149011612
+    FINAL_GEAR: 3.7999999523162842
+- ParentName: default
+  Name: jaguarxk
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.4030001163482666
+      - 0
+      - 4.1710000038146973
+      - 2.3399999141693115
+      - 1.5210000276565552
+      - 1.1430000066757202
+      - 0.86699998378753662
+      - 0.69099998474121094
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.85000002384185791
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.309999942779541
+- ParentName: jaguarxk
+  Name: jaguarxk_top
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.4030001163482666
+      - 0
+      - 4.1710000038146973
+      - 2.3399999141693115
+      - 1.5210000276565552
+      - 1.1430000066757202
+      - 0.87000000476837158
+      - 0.75
+      - 0.67000001668930054
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.85000002384185791
+      - 0.85000002384185791
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.2699999809265137
+- ParentName: default
+  Name: audisport4
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.5
+      - 0
+      - 3.5999999046325684
+      - 2.130000114440918
+      - 1.3600000143051147
+      - 1
+      - 0.77999997138977051
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0.5
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.30000001192092896
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.8900001049041748
+- ParentName: audisport4
+  Name: 0x56F68DD2
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.5
+      - 0
+      - 3.5
+      - 2.0799999237060547
+      - 1.3700000047683716
+      - 1
+      - 0.81999999284744263
+      - 0.67000001668930054
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.75
+      - 0.75
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.44999998807907104
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.5
+- ParentName: default
+  Name: vipergts
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.9000000953674316
+      - 0
+      - 2.6600000858306885
+      - 1.7799999713897705
+      - 1.2999999523162842
+      - 1
+      - 0.8399999737739563
+      - 0.69999998807907104
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.85000002384185791
+      - 0.85000002384185791
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.69999998807907104
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.0699999332427979
+- ParentName: vipergts
+  Name: 0x4C0E2739
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.9000000953674316
+      - 0
+      - 2.6600000858306885
+      - 1.7799999713897705
+      - 1.2999999523162842
+      - 1
+      - 0.8399999737739563
+      - 0.69999998807907104
+      - 0.60000002384185791
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.75
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.69999998807907104
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.5
+- ParentName: default
+  Name: continental
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.4030001163482666
+      - 0
+      - 4.1710000038146973
+      - 2.3399999141693115
+      - 1.5210000276565552
+      - 1.1430000066757202
+      - 0.86699998378753662
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.75
+      - 0.5
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.89999997615814209
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.5199999809265137
+- ParentName: continental
+  Name: 0x16DD0F00
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.25
+      - 0
+      - 4.8449997901916504
+      - 2.8399999141693115
+      - 1.8630000352859497
+      - 1.4359999895095825
+      - 1.215999960899353
+      - 1
+      - 0.81499999761581421
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0.80000001192092896
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.20000000298023224
+    FINAL_GEAR: 3.1099998950958252
+- ParentName: default
+  Name: 0x28B9279B
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.2799999713897705
+      - 0
+      - 2.9700000286102295
+      - 2.0699999332427979
+      - 1.4299999475479126
+      - 1
+      - 0.8399999737739563
+      - 0.67000001668930054
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.75
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.60000002384185791
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.69999998807907104
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.4600000381469727
+- ParentName: 0x28B9279B
+  Name: 0xD390D06B
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.2799999713897705
+      - 0
+      - 2.9700000286102295
+      - 2.0699999332427979
+      - 1.4299999475479126
+      - 1
+      - 0.8399999737739563
+      - 0.70999997854232788
+      - 0.60000002384185791
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.80000001192092896
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.69999998807907104
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.9000000953674316
+- ParentName: default
+  Name: 0x2AFF6E40
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 10
+      - 0
+      - 10
+      - 6
+      - 4.5
+      - 3.4500000476837158
+      - 2.7999999523162842
+      - 2.3499999046325684
+      - 2.1400001049041748
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.75
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.81999999284744263
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 1
+- ParentName: 0x2AFF6E40
+  Name: 0x3BEC9626
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.190000057220459
+      - 0
+      - 3
+      - 1.8700000047683716
+      - 1.3600000143051147
+      - 1.0700000524520874
+      - 0.89999997615814209
+      - 0.77999997138977051
+      - 0.64999997615814209
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.2100000381469727
+- ParentName: default
+  Name: dbr9
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.3900001049041748
+      - 0
+      - 3.1500000953674316
+      - 1.940000057220459
+      - 1.434999942779541
+      - 1.1480000019073486
+      - 0.93500000238418579
+      - 0.75999999046325684
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0.80000001192092896
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.5399999618530273
+- ParentName: dbr9
+  Name: 0xE9BD8DD3
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.3900001049041748
+      - 0
+      - 3.1500000953674316
+      - 1.940000057220459
+      - 1.434999942779541
+      - 1.1480000019073486
+      - 0.93500000238418579
+      - 0.75999999046325684
+      - 0.64999997615814209
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.64999997615814209
+      - 0.64999997615814209
+      - 0.80000001192092896
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.25
+- ParentName: default
+  Name: corsa
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.3080000877380371
+      - 0
+      - 3.7269999980926514
+      - 2.1359999179840088
+      - 1.4140000343322754
+      - 1.1210000514984131
+      - 0.89200001955032349
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.64999997615814209
+      - 0.64999997615814209
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 1
+    CLUTCH_SLIP: 0.75
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.7400000095367432
+- ParentName: corsa
+  Name: 0x9CF00E3F
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.3080000877380371
+      - 0
+      - 3.7269999980926514
+      - 2.1359999179840088
+      - 1.4140000343322754
+      - 1.1210000514984131
+      - 0.89200001955032349
+      - 0.69999998807907104
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 1
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3
+- ParentName: default
+  Name: 0x30C72248
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.119999885559082
+      - 0
+      - 2.309999942779541
+      - 1.5199999809265137
+      - 1.1200000047683716
+      - 0.87999999523162842
+      - 0.67599999904632568
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0.69999998807907104
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.89999997615814209
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 4.0960001945495605
+- ParentName: 0x30C72248
+  Name: 0x009D9B1C
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.7999999523162842
+      - 0
+      - 2.940000057220459
+      - 2.0559999942779541
+      - 1.5199999809265137
+      - 1.1790000200271606
+      - 0.97000002861022949
+      - 0.81999999284744263
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.60000002384185791
+      - 0.60000002384185791
+      - 0.5
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.89999997615814209
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.0499999523162842
+- ParentName: default
+  Name: elise
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.25
+      - 0
+      - 3.1159999370574951
+      - 2.0499999523162842
+      - 1.4809999465942383
+      - 1.1660000085830688
+      - 0.91600000858306885
+      - 0.81499999761581421
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.85000002384185791
+      - 0.85000002384185791
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.69999998807907104
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 4.5289998054504395
+- ParentName: elise
+  Name: elise_top
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.25
+      - 0
+      - 3.1159999370574951
+      - 2.0499999523162842
+      - 1.4809999465942383
+      - 1.1660000085830688
+      - 0.91600000858306885
+      - 0.81499999761581421
+      - 0.69999998807907104
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.85000002384185791
+      - 0.85000002384185791
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.69999998807907104
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.7000000476837158
+- ParentName: default
+  Name: ccx
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3
+      - 0
+      - 2.875
+      - 1.7730000019073486
+      - 1.2669999599456787
+      - 1
+      - 0.83300000429153442
+      - 0.71100002527236938
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.72500002384185791
+      - 0.72500002384185791
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.89999997615814209
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.3640000820159912
+- ParentName: ccx
+  Name: ccx_top
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3
+      - 0
+      - 2.875
+      - 1.7730000019073486
+      - 1.2669999599456787
+      - 1
+      - 0.83300000429153442
+      - 0.71100002527236938
+      - 0.60000002384185791
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.72500002384185791
+      - 0.75
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.89999997615814209
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.7699999809265137
+- ParentName: default
+  Name: 0x3348AB19
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.2799999713897705
+      - 0
+      - 2.9700000286102295
+      - 2.0699999332427979
+      - 1.4299999475479126
+      - 1
+      - 0.8399999737739563
+      - 0.67000001668930054
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.75
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.60000002384185791
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.69999998807907104
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.4600000381469727
+- ParentName: 0x3348AB19
+  Name: 0xC832E373
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.2799999713897705
+      - 0
+      - 2.9700000286102295
+      - 2.0699999332427979
+      - 1.4299999475479126
+      - 1
+      - 0.8399999737739563
+      - 0.70999997854232788
+      - 0.60000002384185791
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.80000001192092896
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.69999998807907104
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.9000000953674316
+- ParentName: default
+  Name: corolla
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.4839999675750732
+      - 0
+      - 3.5869998931884766
+      - 2.0220000743865967
+      - 1.3839999437332153
+      - 1
+      - 0.86100000143051147
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 4.3000001907348633
+- ParentName: corolla
+  Name: corolla_top
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.4839999675750732
+      - 0
+      - 3.5869998931884766
+      - 2.0220000743865967
+      - 1.2999999523162842
+      - 1.0499999523162842
+      - 0.87999999523162842
+      - 0.77999997138977051
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3
+- ParentName: default
+  Name: 350z
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.4460000991821289
+      - 0
+      - 3.7939999103546143
+      - 2.3239998817443848
+      - 1.6239999532699585
+      - 1.2710000276565552
+      - 1
+      - 0.79400002956390381
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0
+      - 0.85000002384185791
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.5380001068115234
+- ParentName: 350z
+  Name: 350z_top
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.4460000991821289
+      - 0
+      - 3.7939999103546143
+      - 2.3239998817443848
+      - 1.6239999532699585
+      - 1.2710000276565552
+      - 1
+      - 0.80000001192092896
+      - 0.69999998807907104
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0
+      - 0.80000001192092896
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.0499999523162842
+      - 1.1499999761581421
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 4
+- ParentName: default
+  Name: xsaraf2
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.5350000858306885
+      - 0
+      - 4.0500001907348633
+      - 1.7350000143051147
+      - 1.4850000143051147
+      - 1.1000000238418579
+      - 0.79500001668930054
+      - 0.625
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 1
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.20499999821186066
+    FINAL_GEAR: 4.75
+- ParentName: xsaraf2
+  Name: 0xCFB388CD
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.5350000858306885
+      - 0
+      - 4.0500001907348633
+      - 1.7350000143051147
+      - 1.4850000143051147
+      - 1.1000000238418579
+      - 0.79500001668930054
+      - 0.625
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 1
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.20499999821186066
+    FINAL_GEAR: 3.25
+- ParentName: default
+  Name: 997s
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.5899999141693115
+      - 0
+      - 3.9100000858306885
+      - 2.3199999332427979
+      - 1.6100000143051147
+      - 1.2799999713897705
+      - 1.0800000429153442
+      - 0.87999999523162842
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.89999997615814209
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.440000057220459
+- ParentName: 997s
+  Name: 997s_top
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.5899999141693115
+      - 0
+      - 3.9100000858306885
+      - 2.3199999332427979
+      - 1.6100000143051147
+      - 1.2799999713897705
+      - 1.0800000429153442
+      - 0.87999999523162842
+      - 0.80000001192092896
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+    TORQUE_CONVERTER: 0.5
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.2000000476837158
+- ParentName: default
+  Name: f50
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.5290000438690186
+      - 0
+      - 2.9330000877380371
+      - 2.1570000648498535
+      - 1.6809999942779541
+      - 1.3600000143051147
+      - 1.1069999933242798
+      - 0.90299999713897705
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.64999997615814209
+      - 0.64999997615814209
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.89999997615814209
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.7000000476837158
+- ParentName: f50
+  Name: 0xA457978F
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.5290000438690186
+      - 0
+      - 2.9330000877380371
+      - 2.1570000648498535
+      - 1.6809999942779541
+      - 1.3600000143051147
+      - 1.1069999933242798
+      - 0.90299999713897705
+      - 0.80000001192092896
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.60000002384185791
+      - 0.60000002384185791
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.89999997615814209
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.4500000476837158
+- ParentName: default
+  Name: mc12
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.3849999904632568
+      - 0
+      - 3.1540000438690186
+      - 2.1760001182556152
+      - 1.565000057220459
+      - 1.184999942779541
+      - 0.93500000238418579
+      - 0.75800001621246338
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 0.80000001192092896
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.69999998807907104
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 4.0999999046325684
+- ParentName: mc12
+  Name: 0x6F26FD4C
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.75
+      - 0
+      - 3.1540000438690186
+      - 2.1760001182556152
+      - 1.565000057220459
+      - 1.184999942779541
+      - 0.93500000238418579
+      - 0.75800001621246338
+      - 0.67000001668930054
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.75
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.72000002861022949
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.20000000298023224
+    FINAL_GEAR: 3.869999885559082
+- ParentName: default
+  Name: caymans
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.3299999237060547
+      - 0
+      - 3.6700000762939453
+      - 2.0499999523162842
+      - 1.4099999666213989
+      - 1.1299999952316284
+      - 0.97000002861022949
+      - 0.81999999284744263
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.75
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.69999998807907104
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.880000114440918
+- ParentName: caymans
+  Name: caymans_top
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.3299999237060547
+      - 0
+      - 3.6700000762939453
+      - 2.0499999523162842
+      - 1.5
+      - 1.1699999570846558
+      - 0.97000002861022949
+      - 0.81999999284744263
+      - 0.75
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.69999998807907104
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.2000000476837158
+- ParentName: default
+  Name: 0x42B8384F
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.0639998912811279
+      - 0
+      - 4.0269999504089355
+      - 2.3640000820159912
+      - 1.5219999551773071
+      - 1.1519999504089355
+      - 0.85199999809265137
+      - 0.66699999570846558
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0.5
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.7300000190734863
+- ParentName: 0x42B8384F
+  Name: 0xFAEB3728
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.0639998912811279
+      - 0
+      - 4.0269999504089355
+      - 2.3640000820159912
+      - 1.5219999551773071
+      - 1.1519999504089355
+      - 0.91900002956390381
+      - 0.72000002861022949
+      - 0.62000000476837158
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.75
+      - 0.75
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.7000000476837158
+- ParentName: default
+  Name: fordgt
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.1349999904632568
+      - 0
+      - 2.6110000610351562
+      - 1.7079999446868896
+      - 1.2330000400543213
+      - 0.94300001859664917
+      - 0.76700001955032349
+      - 0.625
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.72500002384185791
+      - 0.72500002384185791
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.89999997615814209
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.3599998950958252
+- ParentName: fordgt
+  Name: fordgt_top
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.1349999904632568
+      - 0
+      - 2.6110000610351562
+      - 1.7079999446868896
+      - 1.2330000400543213
+      - 0.94300001859664917
+      - 0.76700001955032349
+      - 0.6600000262260437
+      - 0.60000002384185791
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.72500002384185791
+      - 0.75
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.89999997615814209
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 4
+- ParentName: default
+  Name: 0x44511411
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.0999999046325684
+      - 0
+      - 2.940000057220459
+      - 2.0559999942779541
+      - 1.5199999809265137
+      - 1.1790000200271606
+      - 1.0299999713897705
+      - 0.91399997472763062
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0.69999998807907104
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.40000000596046448
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.89999997615814209
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3
+- ParentName: 0x44511411
+  Name: 0x88FD40FE
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.7999999523162842
+      - 0
+      - 2.940000057220459
+      - 2.0559999942779541
+      - 1.5199999809265137
+      - 1.1790000200271606
+      - 0.97000002861022949
+      - 0.81999999284744263
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.60000002384185791
+      - 0.60000002384185791
+      - 0.5
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.30000001192092896
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.89999997615814209
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.0499999523162842
+- ParentName: default
+  Name: huayra
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.875
+      - 0
+      - 3.1329998970031738
+      - 2.0999999046325684
+      - 1.5199999809265137
+      - 1.1720000505447388
+      - 0.94099998474121094
+      - 0.7839999794960022
+      - 0.67500001192092896
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0.69999998807907104
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.89999997615814209
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 2.6670000553131104
+- ParentName: huayra
+  Name: 0x46F6195A
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.875
+      - 0
+      - 3.1329998970031738
+      - 2.0999999046325684
+      - 1.5199999809265137
+      - 1.1790000200271606
+      - 0.97000002861022949
+      - 0.81999999284744263
+      - 0.69999998807907104
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.60000002384185791
+      - 0.60000002384185791
+      - 0.5
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.89999997615814209
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3
+- ParentName: default
+  Name: corvette
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.9000000953674316
+      - 0
+      - 2.6600000858306885
+      - 1.7799999713897705
+      - 1.2999999523162842
+      - 1
+      - 0.8399999737739563
+      - 0.69999998807907104
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.64999997615814209
+      - 0.64999997615814209
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.4200000762939453
+- ParentName: corvette
+  Name: corvette_top
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.9000000953674316
+      - 0
+      - 2.6600000858306885
+      - 1.7799999713897705
+      - 1.2999999523162842
+      - 1.0499999523162842
+      - 0.88999998569488525
+      - 0.75
+      - 0.64999997615814209
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.75
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.4000000953674316
+- ParentName: default
+  Name: cien
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3
+      - 0
+      - 2.6099998950958252
+      - 1.7100000381469727
+      - 1.2300000190734863
+      - 0.93999999761581421
+      - 0.76999998092651367
+      - 0.62999999523162842
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.72500002384185791
+      - 0.72500002384185791
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.20000000298023224
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.89999997615814209
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.3599998950958252
+- ParentName: cien
+  Name: 0x66D99741
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.5
+      - 0
+      - 2.6099998950958252
+      - 1.7100000381469727
+      - 1.2300000190734863
+      - 0.93999999761581421
+      - 0.76999998092651367
+      - 0.6600000262260437
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.72500002384185791
+      - 0.75
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.20000000298023224
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.89999997615814209
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.5
+- ParentName: default
+  Name: speedtest
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.7899999618530273
+      - 0
+      - 2.7999999523162842
+      - 1.7000000476837158
+      - 1.3799999952316284
+      - 1.1599999666213989
+      - 1.0499999523162842
+      - 0.93000000715255737
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 2.7000000476837158
+- ParentName: default
+  Name: bmwm3gtre46
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.2000000476837158
+      - 0
+      - 4.0999999046325684
+      - 2.5299999713897705
+      - 1.6699999570846558
+      - 1.2300000190734863
+      - 1
+      - 0.82999998331069946
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.30000001192092896
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.4000000953674316
+- ParentName: bmwm3gtre46
+  Name: m3gtre46careerstart
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.7899999618530273
+      - 0
+      - 4.2300000190734863
+      - 2.5299999713897705
+      - 1.6699999570846558
+      - 1.2300000190734863
+      - 1
+      - 0.82999998331069946
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.5
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.619999885559082
+- ParentName: default
+  Name: bora
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.2400000095367432
+      - 0
+      - 3.4200000762939453
+      - 2.1099998950958252
+      - 1.4299999475479126
+      - 1.0900000333786011
+      - 0.87000000476837158
+      - 0.72000002861022949
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.75
+      - 0.75
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 4.1999998092651367
+- ParentName: bora
+  Name: 0xCB3F0806
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.2400000095367432
+      - 0
+      - 3.4200000762939453
+      - 2.1099998950958252
+      - 1.4299999475479126
+      - 1.0900000333786011
+      - 0.87000000476837158
+      - 0.72000002861022949
+      - 0.61000001430511475
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0.69999998807907104
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.9000000953674316
+- ParentName: default
+  Name: 0x507EF366
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.4159998893737793
+      - 0
+      - 2.7850000858306885
+      - 1.9500000476837158
+      - 1.406999945640564
+      - 1.031000018119812
+      - 0.76099997758865356
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0.69999998807907104
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.5290000438690186
+- ParentName: 0x507EF366
+  Name: 0x52FF35B6
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.4159998893737793
+      - 0
+      - 2.7999999523162842
+      - 1.9500000476837158
+      - 1.406999945640564
+      - 1.0299999713897705
+      - 0.86000001430511475
+      - 0.76099997758865356
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.75
+      - 0.75
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 2.809999942779541
+- ParentName: default
+  Name: neon
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.4200000762939453
+      - 0
+      - 3.5399999618530273
+      - 2.130000114440918
+      - 1.3600000143051147
+      - 1.0299999713897705
+      - 0.72000002861022949
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.75
+      - 0.75
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 1
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.940000057220459
+- ParentName: neon
+  Name: 0x585688A9
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.4200000762939453
+      - 0
+      - 3.5399999618530273
+      - 2.130000114440918
+      - 1.3600000143051147
+      - 1.0299999713897705
+      - 0.85000002384185791
+      - 0.64999997615814209
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0.69999998807907104
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 1
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.3199999332427979
+- ParentName: default
+  Name: 911gt1
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.809999942779541
+      - 0
+      - 2.5799999237060547
+      - 1.8999999761581421
+      - 1.4500000476837158
+      - 1.1499999761581421
+      - 0.94999998807907104
+      - 0.82999998331069946
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.75
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.20999999344348907
+    FINAL_GEAR: 3.5
+- ParentName: 911gt1
+  Name: 0x43290D1F
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.809999942779541
+      - 0
+      - 2.309999942779541
+      - 1.75
+      - 1.3500000238418579
+      - 1.1000000238418579
+      - 0.85000002384185791
+      - 0.74000000953674316
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.75
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.20000000298023224
+    FINAL_GEAR: 3.25
+- ParentName: default
+  Name: lancerevo3
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.1659998893737793
+      - 0
+      - 2.75
+      - 1.6840000152587891
+      - 1.1599999666213989
+      - 0.8619999885559082
+      - 0.61699998378753662
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.75
+      - 0.75
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.10000000149011612
+    FINAL_GEAR: 4.3579998016357422
+- ParentName: lancerevo3
+  Name: 0x39EBB438
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.1659998893737793
+      - 0
+      - 2.75
+      - 1.6840000152587891
+      - 1.1599999666213989
+      - 1
+      - 0.80000001192092896
+      - 0.64999997615814209
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0.69999998807907104
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.10000000149011612
+    FINAL_GEAR: 3.4149999618530273
+- ParentName: default
+  Name: cobaltss
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.1700000762939453
+      - 0
+      - 3.380000114440918
+      - 1.7599999904632568
+      - 1.1799999475479126
+      - 0.88999998569488525
+      - 0.69999998807907104
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.64999997615814209
+      - 0.64999997615814209
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 1
+    CLUTCH_SLIP: 0.69999998807907104
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 4.0500001907348633
+- ParentName: cobaltss
+  Name: cobaltss_top
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.1700000762939453
+      - 0
+      - 3.380000114440918
+      - 1.7599999904632568
+      - 1.1799999475479126
+      - 0.89999997615814209
+      - 0.70999997854232788
+      - 0.5899999737739563
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 1
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.75
+- ParentName: default
+  Name: navigator
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.4030001163482666
+      - 0
+      - 4.1710000038146973
+      - 2.3399999141693115
+      - 1.5210000276565552
+      - 1.1430000066757202
+      - 0.86699998378753662
+      - 0.69099998474121094
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.7300000190734863
+- ParentName: navigator
+  Name: 0xCA169295
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.4030001163482666
+      - 0
+      - 4.1710000038146973
+      - 2.3399999141693115
+      - 1.5210000276565552
+      - 1.1430000066757202
+      - 0.86699998378753662
+      - 0.69099998474121094
+      - 0.60000002384185791
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.5999999046325684
+- ParentName: default
+  Name: is300
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.4309999942779541
+      - 0
+      - 3.3570001125335693
+      - 2.1800000667572021
+      - 1.4240000247955322
+      - 1
+      - 0.75300002098083496
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.60000002384185791
+      - 0.60000002384185791
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.10000000149011612
+    FINAL_GEAR: 3.9089999198913574
+- ParentName: is300
+  Name: is300_top
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3
+      - 0
+      - 3.5699999332427979
+      - 2.059999942779541
+      - 1.3799999952316284
+      - 1
+      - 0.80000001192092896
+      - 0.67000001668930054
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.10000000149011612
+    FINAL_GEAR: 3.5
+- ParentName: default
+  Name: 0x5E6BFCE4
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.2799999713897705
+      - 0
+      - 2.9700000286102295
+      - 2.0699999332427979
+      - 1.4299999475479126
+      - 1
+      - 0.8399999737739563
+      - 0.67000001668930054
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.72500002384185791
+      - 0.72500002384185791
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.89999997615814209
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.4600000381469727
+- ParentName: 0x5E6BFCE4
+  Name: 0xFFD527C3
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.2799999713897705
+      - 0
+      - 2.9700000286102295
+      - 2.0699999332427979
+      - 1.4299999475479126
+      - 1
+      - 0.8399999737739563
+      - 0.69999998807907104
+      - 0.60000002384185791
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.72500002384185791
+      - 0.75
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0.20000000298023224
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.89999997615814209
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.5
+- ParentName: default
+  Name: 0x60C81988
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.437000036239624
+      - 0
+      - 3.625999927520752
+      - 2.2000000476837158
+      - 1.5410000085830688
+      - 1.2130000591278076
+      - 1
+      - 0.76700001955032349
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.30000001192092896
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.10000000149011612
+    FINAL_GEAR: 3.6919999122619629
+- ParentName: 0x60C81988
+  Name: 0x2663EC09
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.437000036239624
+      - 0
+      - 3.625999927520752
+      - 2.2000000476837158
+      - 1.5410000085830688
+      - 1.2130000591278076
+      - 1
+      - 0.8399999737739563
+      - 0.76700001955032349
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.75
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.40000000596046448
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.5
+- ParentName: default
+  Name: avantime
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.25
+      - 0
+      - 3.75
+      - 1.75
+      - 1.1499999761581421
+      - 0.85000002384185791
+      - 0.64999997615814209
+      - 0.55000001192092896
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0
+      - 1
+      - 1
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 1
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.21500000357627869
+    FINAL_GEAR: 4.1500000953674316
+- ParentName: avantime
+  Name: 0x05E26712
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.25
+      - 0
+      - 3.9500000476837158
+      - 2.4500000476837158
+      - 1.6499999761581421
+      - 1.25
+      - 0.94999998807907104
+      - 0.75
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0
+      - 2.1500000953674316
+      - 1
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 1
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.15000000596046448
+    FINAL_GEAR: 2.9500000476837158
+- ParentName: 0x05E26712
+  Name: 0x3D3F4F71
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.25
+      - 0
+      - 2.8499999046325684
+      - 2.4500000476837158
+      - 1.6499999761581421
+      - 1.25
+      - 0.94999998807907104
+      - 0.75
+      - 0.44999998807907104
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0
+      - 2.5
+      - 1
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 1
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.15000000596046448
+    FINAL_GEAR: 2.6500000953674316
+- ParentName: 0x3D3F4F71
+  Name: 0x96E46FF4
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.9500000476837158
+      - 0
+      - 2.75
+      - 1.7079999446868896
+      - 1.2330000400543213
+      - 0.94300001859664917
+      - 0.76700001955032349
+      - 0.6600000262260437
+      - 0.60000002384185791
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.72500002384185791
+      - 0.75
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.89999997615814209
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.05000000074505806
+    FINAL_GEAR: 2.4500000476837158
+- ParentName: default
+  Name: supra
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.2799999713897705
+      - 0
+      - 3.8269999027252197
+      - 2.3599998950958252
+      - 1.684999942779541
+      - 1.312999963760376
+      - 1
+      - 0.7929999828338623
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.85000002384185791
+      - 0.85000002384185791
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.2660000324249268
+- ParentName: supra
+  Name: supra_top
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.2799999713897705
+      - 0
+      - 3.8269999027252197
+      - 2.3599998950958252
+      - 1.684999942779541
+      - 1.312999963760376
+      - 1
+      - 0.85000002384185791
+      - 0.70999997854232788
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.85000002384185791
+      - 0.85000002384185791
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.25
+- ParentName: default
+  Name: carreragt
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.8599998950958252
+      - 0
+      - 3.2000000476837158
+      - 1.8700000047683716
+      - 1.3600000143051147
+      - 1.0700000524520874
+      - 0.9100000262260437
+      - 0.75
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.75
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.81999999284744263
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 4.440000057220459
+- ParentName: carreragt
+  Name: carreragt_top
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.8599998950958252
+      - 0
+      - 3.2000000476837158
+      - 1.8700000047683716
+      - 1.3600000143051147
+      - 1.0700000524520874
+      - 0.94999998807907104
+      - 0.82999998331069946
+      - 0.75
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.7100000381469727
+- ParentName: default
+  Name: 0x6B4CE945
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3
+      - 0
+      - 3
+      - 2
+      - 1.5
+      - 1.25
+      - 1.125
+      - 1
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.64999997615814209
+      - 0.80000001192092896
+      - 0.5
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 1.5
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3
+- ParentName: default
+  Name: venomf5
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.9000000953674316
+      - 0
+      - 3.0999999046325684
+      - 2.119999885559082
+      - 1.5
+      - 1.2000000476837158
+      - 0.94999998807907104
+      - 0.80000001192092896
+      - 0.64999997615814209
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.75
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 0.94999998807907104
+      - 1
+      - 0.94999998807907104
+      - 0.94999998807907104
+      - 0.94999998807907104
+      - 0.94999998807907104
+      - 0.94999998807907104
+      - 0.94999998807907104
+      - 0.94999998807907104
+    TORQUE_CONVERTER: 0.64999997615814209
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.81999999284744263
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.10000000149011612
+    FINAL_GEAR: 3.6099998950958252
+- ParentName: venomf5
+  Name: 0x0C01E1F8
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.9000000953674316
+      - 0
+      - 3.2000000476837158
+      - 2.119999885559082
+      - 1.5
+      - 1.1000000238418579
+      - 0.89999997615814209
+      - 0.75
+      - 0.64999997615814209
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.85000002384185791
+      - 0.85000002384185791
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.85000002384185791
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.89999997615814209
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.0099999997764825821
+    FINAL_GEAR: 3.2100000381469727
+- ParentName: default
+  Name: viper
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.9000000953674316
+      - 0
+      - 2.6600000858306885
+      - 1.7799999713897705
+      - 1.2999999523162842
+      - 1
+      - 0.8399999737739563
+      - 0.69999998807907104
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.85000002384185791
+      - 0.85000002384185791
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.69999998807907104
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.0699999332427979
+- ParentName: viper
+  Name: viper_top
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.9000000953674316
+      - 0
+      - 2.6600000858306885
+      - 1.7799999713897705
+      - 1.2999999523162842
+      - 1
+      - 0.8399999737739563
+      - 0.69999998807907104
+      - 0.60000002384185791
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.75
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.69999998807907104
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.5
+- ParentName: default
+  Name: reno5
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.1819999217987061
+      - 0
+      - 3.3640000820159912
+      - 2.0590000152587891
+      - 1.3810000419616699
+      - 1.0570000410079956
+      - 0.82099997997283936
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.10000000149011612
+    FINAL_GEAR: 3.8889999389648438
+- ParentName: reno5
+  Name: 0x5849EE22
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.1819999217987061
+      - 0
+      - 3.3640000820159912
+      - 2.0590000152587891
+      - 1.3810000419616699
+      - 1.1000000238418579
+      - 0.85000002384185791
+      - 0.69999998807907104
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.10000000149011612
+    FINAL_GEAR: 3
+- ParentName: default
+  Name: sl65
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.1600000858306885
+      - 0
+      - 3.5899999141693115
+      - 2.190000057220459
+      - 1.4099999666213989
+      - 1.0399999618530273
+      - 0.82999998331069946
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0.95999997854232788
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.69999998807907104
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 2.6500000953674316
+- ParentName: default
+  Name: 0x71CCBA4D
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.2799999713897705
+      - 0
+      - 3.8269999027252197
+      - 2.3599998950958252
+      - 1.684999942779541
+      - 1.312999963760376
+      - 1
+      - 0.7929999828338623
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0.69999998807907104
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.10000000149011612
+    FINAL_GEAR: 3.5450000762939453
+- ParentName: 0x71CCBA4D
+  Name: 0xB4101D4B
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.2799999713897705
+      - 0
+      - 3.8269999027252197
+      - 2.3599998950958252
+      - 1.684999942779541
+      - 1.312999963760376
+      - 1
+      - 0.85000002384185791
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.75
+      - 0.69999998807907104
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.10000000149011612
+    FINAL_GEAR: 3.4000000953674316
+- ParentName: default
+  Name: gti
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.6600000858306885
+      - 0
+      - 3.3599998950958252
+      - 2.0899999141693115
+      - 1.4700000286102295
+      - 1.1000000238418579
+      - 0.87000000476837158
+      - 0.73000001907348633
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 1
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.940000057220459
+- ParentName: gti
+  Name: gti_top
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.7000000476837158
+      - 0
+      - 3.5
+      - 2.0899999141693115
+      - 1.4700000286102295
+      - 1.1000000238418579
+      - 0.92000001668930054
+      - 0.81000000238418579
+      - 0.75
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 1
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.2249999046325684
+- ParentName: default
+  Name: 0x79B526BB
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.4549999237060547
+      - 0
+      - 3.5
+      - 1.8890000581741333
+      - 1.3200000524520874
+      - 1.034000039100647
+      - 0.85699999332427979
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0.5
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 4.1110000610351562
+- ParentName: 0x79B526BB
+  Name: 0x2BB06DB9
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.4549999237060547
+      - 0
+      - 3.5
+      - 2.0499999523162842
+      - 1.4620000123977661
+      - 1.1330000162124634
+      - 0.91900002956390381
+      - 0.72000002861022949
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.75
+      - 0.75
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.4500000476837158
+- ParentName: default
+  Name: gallardo
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.809999942779541
+      - 0
+      - 2.562999963760376
+      - 1.8500000238418579
+      - 1.4229999780654907
+      - 1.1380000114440918
+      - 0.93900001049041748
+      - 0.8059999942779541
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0.80000001192092896
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.5999999046325684
+- ParentName: gallardo
+  Name: gallardo_top
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.7999999523162842
+      - 0
+      - 2.562999963760376
+      - 1.8500000238418579
+      - 1.4229999780654907
+      - 1.1380000114440918
+      - 0.87300002574920654
+      - 0.76999998092651367
+      - 0.69999998807907104
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.64999997615814209
+      - 0.64999997615814209
+      - 0.80000001192092896
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.47499999403953552
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.625
+- ParentName: default
+  Name: lancerevo9
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.7070000171661377
+      - 0
+      - 2.9089999198913574
+      - 1.9440000057220459
+      - 1.4340000152587891
+      - 1.1000000238418579
+      - 0.86799997091293335
+      - 0.69300001859664917
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.75
+      - 0.75
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.10000000149011612
+    FINAL_GEAR: 3.5829999446868896
+- ParentName: lancerevo9
+  Name: lancerevo9_top
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.7070000171661377
+      - 0
+      - 2.9089999198913574
+      - 1.9440000057220459
+      - 1.4340000152587891
+      - 1.1000000238418579
+      - 0.97000002861022949
+      - 0.81000000238418579
+      - 0.68999999761581421
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0.69999998807907104
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.20000000298023224
+    FINAL_GEAR: 3.130000114440918
+- ParentName: default
+  Name: 0x80F5D559
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.9000000953674316
+      - 0
+      - 2.6600000858306885
+      - 1.7799999713897705
+      - 1.2999999523162842
+      - 1
+      - 0.8399999737739563
+      - 0.69999998807907104
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.72500002384185791
+      - 0.72500002384185791
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.20000000298023224
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.89999997615814209
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.4200000762939453
+- ParentName: 0x80F5D559
+  Name: 0x8787C71B
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.9000000953674316
+      - 0
+      - 2.6600000858306885
+      - 1.7799999713897705
+      - 1.2999999523162842
+      - 1
+      - 0.8399999737739563
+      - 0.69999998807907104
+      - 0.60000002384185791
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.72500002384185791
+      - 0.75
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.20000000298023224
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.89999997615814209
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 4
+- ParentName: default
+  Name: clk500
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.4159998893737793
+      - 0
+      - 4.3769998550415039
+      - 2.8589999675750732
+      - 1.9210000038146973
+      - 1.3680000305175781
+      - 1
+      - 0.81999999284744263
+      - 0.7279999852180481
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.81999999284744263
+      - 0.81999999284744263
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.6500000953674316
+- ParentName: clk500
+  Name: clk500_top
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.4159998893737793
+      - 0
+      - 4.3769998550415039
+      - 2.8589999675750732
+      - 1.9210000038146973
+      - 1.3680000305175781
+      - 1
+      - 0.81999999284744263
+      - 0.7279999852180481
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.72500002384185791
+      - 0.67500001192092896
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.2000000476837158
+- ParentName: default
+  Name: charger69
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.5699999332427979
+      - 0
+      - 2.6500000953674316
+      - 1.9299999475479126
+      - 1.3899999856948853
+      - 1
+      - 0.80000001192092896
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.85000002384185791
+      - 0.85000002384185791
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.69999998807907104
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.5399999618530273
+- ParentName: charger69
+  Name: charger69_top
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.5999999046325684
+      - 0
+      - 3
+      - 1.8999999761581421
+      - 1.3700000047683716
+      - 1
+      - 0.80000001192092896
+      - 0.67000001668930054
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.75
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.69999998807907104
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.5
+- ParentName: default
+  Name: rx7
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.2880001068115234
+      - 0
+      - 3.4830000400543213
+      - 2.0150001049041748
+      - 1.3910000324249268
+      - 1
+      - 0.8059999942779541
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.10000000149011612
+    FINAL_GEAR: 4.0999999046325684
+- ParentName: rx7
+  Name: rx7_top
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.2880001068115234
+      - 0
+      - 3.4830000400543213
+      - 2.0150001049041748
+      - 1.3910000324249268
+      - 1.1000000238418579
+      - 0.85000002384185791
+      - 0.69999998807907104
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.10000000149011612
+    FINAL_GEAR: 3.5499999523162842
+- ParentName: default
+  Name: lancer
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.3629999160766602
+      - 0
+      - 3.5829999446868896
+      - 1.9470000267028809
+      - 1.3789999485015869
+      - 1.0299999713897705
+      - 0.76700001955032349
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.60000002384185791
+      - 0.60000002384185791
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 1
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.10000000149011612
+    FINAL_GEAR: 3.7219998836517334
+- ParentName: lancer
+  Name: 0xB21C59BF
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.3629999160766602
+      - 0
+      - 3.5829999446868896
+      - 1.9470000267028809
+      - 1.3789999485015869
+      - 1
+      - 0.80000001192092896
+      - 0.64999997615814209
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 1
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.10000000149011612
+    FINAL_GEAR: 3.5
+- ParentName: default
+  Name: speedster
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.3080000877380371
+      - 0
+      - 3.5769999027252197
+      - 2.0220000743865967
+      - 1.3480000495910645
+      - 0.97699999809265137
+      - 0.79000002145767212
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.85000002384185791
+      - 0.85000002384185791
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.69999998807907104
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.630000114440918
+- ParentName: speedster
+  Name: 0x9CC210A7
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.3080000877380371
+      - 0
+      - 3.5769999027252197
+      - 2.0220000743865967
+      - 1.3480000495910645
+      - 0.97699999809265137
+      - 0.82999998331069946
+      - 0.69999998807907104
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.85000002384185791
+      - 0.85000002384185791
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.69999998807907104
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3
+- ParentName: default
+  Name: 911gt2
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.8599998950958252
+      - 0
+      - 3.8199999332427979
+      - 2.0499999523162842
+      - 1.4099999666213989
+      - 1.1200000047683716
+      - 0.92000001668930054
+      - 0.75
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.30000001192092896
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.69999998807907104
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.440000057220459
+- ParentName: default
+  Name: a4
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.4000000953674316
+      - 0
+      - 3.6670000553131104
+      - 2.0529999732971191
+      - 1.4229999780654907
+      - 1.065000057220459
+      - 0.8529999852180481
+      - 0.73000001907348633
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0.5
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.60000002384185791
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.8889999389648438
+- ParentName: a4
+  Name: a4_top
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.4000000953674316
+      - 0
+      - 3.6670000553131104
+      - 2.0529999732971191
+      - 1.4229999780654907
+      - 1.065000057220459
+      - 0.8529999852180481
+      - 0.72000002861022949
+      - 0.60000002384185791
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.75
+      - 0.75
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.7000000476837158
+- ParentName: default
+  Name: mustanggt
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.380000114440918
+      - 0
+      - 3.3710000514984131
+      - 1.9930000305175781
+      - 1.3250000476837158
+      - 1
+      - 0.67199999094009399
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.5499999523162842
+- ParentName: mustanggt
+  Name: mustanggt_top
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.3900001049041748
+      - 0
+      - 3.3399999141693115
+      - 2
+      - 1.3200000524520874
+      - 1
+      - 0.80000001192092896
+      - 0.64999997615814209
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.60000002384185791
+      - 0.60000002384185791
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.69999998807907104
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.5499999523162842
+- ParentName: default
+  Name: f1
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.5
+      - 0
+      - 3.2300000190734863
+      - 2.190000057220459
+      - 1.7100000381469727
+      - 1.3899999856948853
+      - 1.1599999666213989
+      - 0.93000000715255737
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.75
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.81999999284744263
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.0099999904632568
+- ParentName: f1
+  Name: 0x812E3764
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.5
+      - 0
+      - 3.2300000190734863
+      - 2.190000057220459
+      - 1.7100000381469727
+      - 1.3899999856948853
+      - 1.1599999666213989
+      - 0.93000000715255737
+      - 0.80000001192092896
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.25
+- ParentName: default
+  Name: eclipsegt
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.0450000762939453
+      - 0
+      - 3.2139999866485596
+      - 2.2379999160766602
+      - 1.5349999666213989
+      - 1.1710000038146973
+      - 0.95599997043609619
+      - 0.69599997997283936
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 1
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.7769999504089355
+- ParentName: eclipsegt
+  Name: eclipsegt_top
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.0450000762939453
+      - 0
+      - 3.2139999866485596
+      - 2.2379999160766602
+      - 1.5349999666213989
+      - 1.1710000038146973
+      - 0.95599997043609619
+      - 0.80000001192092896
+      - 0.69599997997283936
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 1
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.375
+- ParentName: default
+  Name: challenger71
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.5699999332427979
+      - 0
+      - 2.440000057220459
+      - 1.9299999475479126
+      - 1.3899999856948853
+      - 1
+      - 0.80000001192092896
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.44999998807907104
+      - 0.44999998807907104
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.69999998807907104
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.5399999618530273
+- ParentName: challenger71
+  Name: challenger71_top
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.5999999046325684
+      - 0
+      - 3.25
+      - 1.9900000095367432
+      - 1.3899999856948853
+      - 1
+      - 0.80000001192092896
+      - 0.64999997615814209
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.44999998807907104
+      - 0.60000002384185791
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+      - 1
+    TORQUE_CONVERTER: 0.20000000298023224
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.5999999046325684
+- ParentName: default
+  Name: db9
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.3900001049041748
+      - 0
+      - 3.1500000953674316
+      - 1.940000057220459
+      - 1.434999942779541
+      - 1.1480000019073486
+      - 0.93500000238418579
+      - 0.75999999046325684
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.75
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.5399999618530273
+- ParentName: db9
+  Name: db9_top
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.3900001049041748
+      - 0
+      - 3.1500000953674316
+      - 1.940000057220459
+      - 1.434999942779541
+      - 1.1480000019073486
+      - 0.93500000238418579
+      - 0.77999997138977051
+      - 0.68000000715255737
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.7999999523162842
+- ParentName: default
+  Name: punto
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.8180000782012939
+      - 0
+      - 3.9089999198913574
+      - 2.1579999923706055
+      - 1.4800000190734863
+      - 1.1210000514984131
+      - 0.92100000381469727
+      - 0.76599997282028198
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.64999997615814209
+      - 0.64999997615814209
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 1
+    CLUTCH_SLIP: 0.75
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 4.070000171661377
+- ParentName: punto
+  Name: punto_top
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.3090000152587891
+      - 0
+      - 3.5450000762939453
+      - 2.1579999923706055
+      - 1.4800000190734863
+      - 1.1210000514984131
+      - 0.92100000381469727
+      - 0.81000000238418579
+      - 0.75
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 1
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 2.75
+- ParentName: default
+  Name: sl500
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.4159998893737793
+      - 0
+      - 4.3769998550415039
+      - 2.8589999675750732
+      - 1.9210000038146973
+      - 1.3680000305175781
+      - 1
+      - 0.81999999284744263
+      - 0.7279999852180481
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.72500002384185791
+      - 0.72500002384185791
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.8199999332427979
+- ParentName: sl500
+  Name: sl500_top
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.4159998893737793
+      - 0
+      - 4.3769998550415039
+      - 2.8589999675750732
+      - 1.9210000038146973
+      - 1.3680000305175781
+      - 1
+      - 0.81999999284744263
+      - 0.69999998807907104
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.72500002384185791
+      - 0.67500001192092896
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.369999885559082
+- ParentName: default
+  Name: 240sx
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.3819999694824219
+      - 0
+      - 3.3210000991821289
+      - 1.9019999504089355
+      - 1.3079999685287476
+      - 1
+      - 0.75900000333786011
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.60000002384185791
+      - 0.60000002384185791
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.5
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.10000000149011612
+    FINAL_GEAR: 4.0830001831054688
+- ParentName: 240sx
+  Name: 240sx_top
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.3819999694824219
+      - 0
+      - 3.3210000991821289
+      - 1.9019999504089355
+      - 1.3079999685287476
+      - 1
+      - 0.80000001192092896
+      - 0.67000001668930054
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.5
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.10000000149011612
+    FINAL_GEAR: 3.5
+- ParentName: default
+  Name: cops
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.25
+      - 0
+      - 3.5999999046325684
+      - 2.5
+      - 1.5
+      - 1.0700000524520874
+      - 0.89999997615814209
+      - 0.75
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.70999997854232788
+      - 0.70999997854232788
+      - 0.5
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 2
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.25
+- ParentName: default
+  Name: 0xAA382491
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3
+      - 0
+      - 2.875
+      - 1.7730000019073486
+      - 1.2669999599456787
+      - 1
+      - 0.83300000429153442
+      - 0.71100002527236938
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.75
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.64999997615814209
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.81999999284744263
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.3640000820159912
+- ParentName: 0xAA382491
+  Name: 0x1AD93507
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3
+      - 0
+      - 2.875
+      - 1.7730000019073486
+      - 1.2669999599456787
+      - 1
+      - 0.83300000429153442
+      - 0.71100002527236938
+      - 0.60000002384185791
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.5
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.875
+- ParentName: default
+  Name: veyron
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.190000057220459
+      - 0
+      - 2.25
+      - 1.6100000143051147
+      - 1.190000057220459
+      - 0.92000001668930054
+      - 0.75
+      - 0.62000000476837158
+      - 0.55000001192092896
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.75
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.81999999284744263
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.6429998874664307
+- ParentName: veyron
+  Name: 0x9D1A3D3C
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.190000057220459
+      - 0
+      - 2.75
+      - 1.6100000143051147
+      - 1.190000057220459
+      - 0.92000001668930054
+      - 0.75
+      - 0.62000000476837158
+      - 0.55000001192092896
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 4
+- ParentName: default
+  Name: zonda
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3
+      - 0
+      - 2.875
+      - 1.7730000019073486
+      - 1.2669999599456787
+      - 1
+      - 0.83300000429153442
+      - 0.71100002527236938
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.75
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.3640000820159912
+- ParentName: zonda
+  Name: zonda_top
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3
+      - 0
+      - 2.875
+      - 1.7730000019073486
+      - 1.2669999599456787
+      - 1
+      - 0.83300000429153442
+      - 0.71100002527236938
+      - 0.625
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.3640000820159912
+- ParentName: default
+  Name: imperzawrx
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3
+      - 0
+      - 3.6359999179840088
+      - 2.375
+      - 1.7610000371932983
+      - 1.3459999561309814
+      - 0.97100001573562622
+      - 0.75599998235702515
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.64999997615814209
+      - 0.64999997615814209
+      - 0.64999997615814209
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.85000002384185791
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.5999999046325684
+- ParentName: imperzawrx
+  Name: imprezawrx_top
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.4000000953674316
+      - 0
+      - 3.2000000476837158
+      - 2.1099998950958252
+      - 1.559999942779541
+      - 1.1699999570846558
+      - 0.92000001668930054
+      - 0.76999998092651367
+      - 0.6600000262260437
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.75
+      - 0.75
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.5
+- ParentName: default
+  Name: 0xB2B10502
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.9000000953674316
+      - 0
+      - 2.9700000286102295
+      - 2.0999999046325684
+      - 1.4600000381469727
+      - 1
+      - 0.8399999737739563
+      - 0.69999998807907104
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.85000002384185791
+      - 0.85000002384185791
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.30000001192092896
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.69999998807907104
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.9100000858306885
+- ParentName: 0xB2B10502
+  Name: 0xC2BB123D
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.9000000953674316
+      - 0
+      - 2.9700000286102295
+      - 2.0999999046325684
+      - 1.4600000381469727
+      - 1
+      - 0.8399999737739563
+      - 0.69999998807907104
+      - 0.60000002384185791
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.75
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.30000001192092896
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.69999998807907104
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3
+- ParentName: default
+  Name: golfr32
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.6600000858306885
+      - 0
+      - 3.3599998950958252
+      - 2.0899999141693115
+      - 1.4700000286102295
+      - 1.1000000238418579
+      - 0.86000001430511475
+      - 0.72000002861022949
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0.80000001192092896
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 4.2399997711181641
+- ParentName: golfr32
+  Name: golfr32_top
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.7000000476837158
+      - 0
+      - 3.3599998950958252
+      - 2.0899999141693115
+      - 1.4700000286102295
+      - 1.1000000238418579
+      - 0.95999997854232788
+      - 0.76999998092651367
+      - 0.67000001668930054
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0.69999998807907104
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.5199999809265137
+- ParentName: default
+  Name: eclipse
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.1659998893737793
+      - 0
+      - 3.0829999446868896
+      - 1.6840000152587891
+      - 1.1150000095367432
+      - 0.83300000429153442
+      - 0.66600000858306885
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 4.929999828338623
+- ParentName: eclipse
+  Name: eclipse_top
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.7999999523162842
+      - 0
+      - 3.2139999866485596
+      - 2.2379999160766602
+      - 1.5349999666213989
+      - 1.1710000038146973
+      - 1
+      - 0.76999998092651367
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.5
+- ParentName: default
+  Name: phaeton
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.4500000476837158
+      - 0
+      - 2.5499999523162842
+      - 1.6499999761581421
+      - 1.25
+      - 1
+      - 0.85000002384185791
+      - 0.64999997615814209
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0.5
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.60000002384185791
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.05000000074505806
+    FINAL_GEAR: 3.75
+- ParentName: phaeton
+  Name: 0xEFA84154
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.4500000476837158
+      - 0
+      - 2.4500000476837158
+      - 1.6499999761581421
+      - 1.25
+      - 1
+      - 0.85000002384185791
+      - 0.64999997615814209
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0.5
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.60000002384185791
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.05000000074505806
+    FINAL_GEAR: 3.25
+- ParentName: default
+  Name: 0xB511B0AB
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.2560000419616699
+      - 0
+      - 3.5380001068115234
+      - 2.2379999160766602
+      - 1.5349999666213989
+      - 1.1710000038146973
+      - 0.92199999094009399
+      - 0.72500002384185791
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 1
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.9409999847412109
+- ParentName: 0xB511B0AB
+  Name: 0x5210CA4E
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.2560000419616699
+      - 0
+      - 3.5380001068115234
+      - 2.2379999160766602
+      - 1.5349999666213989
+      - 1.1710000038146973
+      - 0.92199999094009399
+      - 0.81000000238418579
+      - 0.72500002384185791
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 1
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.0999999046325684
+- ParentName: default
+  Name: s7
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.8599998950958252
+      - 0
+      - 2.8599998950958252
+      - 1.6100000143051147
+      - 1.1399999856948853
+      - 0.95800000429153442
+      - 0.80699998140335083
+      - 0.64200001955032349
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.75
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.81999999284744263
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.7000000476837158
+- ParentName: s7
+  Name: 0x1440A63C
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.8599998950958252
+      - 0
+      - 2.8599998950958252
+      - 1.6100000143051147
+      - 1.1399999856948853
+      - 0.95800000429153442
+      - 0.80699998140335083
+      - 0.69999998807907104
+      - 0.60000002384185791
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.4749999046325684
+- ParentName: default
+  Name: rs40
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.8599998950958252
+      - 0
+      - 3.8199999332427979
+      - 2.2599999904632568
+      - 1.6399999856948853
+      - 1.2899999618530273
+      - 1.059999942779541
+      - 0.87999999523162842
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0.80000001192092896
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.8900001049041748
+- ParentName: rs40
+  Name: 0xB1386AE5
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3
+      - 0
+      - 3.8199999332427979
+      - 2.2599999904632568
+      - 1.6399999856948853
+      - 1.2899999618530273
+      - 1.059999942779541
+      - 0.92000001668930054
+      - 0.75
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0.80000001192092896
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0.5
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.85000002384185791
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3
+- ParentName: default
+  Name: camaron
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.2799999713897705
+      - 0
+      - 3.0099999904632568
+      - 2.0699999332427979
+      - 1.4299999475479126
+      - 1
+      - 0.8399999737739563
+      - 0.67000001668930054
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.5
+      - 0.5
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.4500000476837158
+- ParentName: camaron
+  Name: camaron_top
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.2799999713897705
+      - 0
+      - 3.0099999904632568
+      - 2.0699999332427979
+      - 1.4299999475479126
+      - 1
+      - 0.8399999737739563
+      - 0.70999997854232788
+      - 0.60000002384185791
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.5
+      - 0.5
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 4.190000057220459
+- ParentName: default
+  Name: murcielago
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.5290000438690186
+      - 0
+      - 2.9409999847412109
+      - 2.0559999942779541
+      - 1.5199999809265137
+      - 1.1790000200271606
+      - 1.0299999713897705
+      - 0.91399997472763062
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0.69999998807907104
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.89999997615814209
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.1410000324249268
+- ParentName: murcielago
+  Name: murcielago_top
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.7999999523162842
+      - 0
+      - 2.940000057220459
+      - 2.0559999942779541
+      - 1.5199999809265137
+      - 1.1790000200271606
+      - 1
+      - 0.85000002384185791
+      - 0.75
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.60000002384185791
+      - 0.60000002384185791
+      - 0.5
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.89999997615814209
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.0499999523162842
+- ParentName: default
+  Name: m5e39
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.75
+      - 0
+      - 4.2300000190734863
+      - 2.5099999904632568
+      - 1.6699999570846558
+      - 1.2300000190734863
+      - 1
+      - 0.82999998331069946
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.72500002384185791
+      - 0.72500002384185791
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.1500000953674316
+- ParentName: m5e39
+  Name: 0x6C5DDEEA
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.75
+      - 0
+      - 4.2300000190734863
+      - 2.5099999904632568
+      - 1.6699999570846558
+      - 1.2300000190734863
+      - 1.0499999523162842
+      - 0.87999999523162842
+      - 0.69999998807907104
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.72500002384185791
+      - 0.67500001192092896
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.3199999332427979
+- ParentName: default
+  Name: sentra
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3
+      - 0
+      - 3.1500000953674316
+      - 1.940000057220459
+      - 1.3899999856948853
+      - 1.059999942779541
+      - 0.81000000238418579
+      - 0.67000001668930054
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.64999997615814209
+      - 0.64999997615814209
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 1
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 4.130000114440918
+- ParentName: sentra
+  Name: 0x629A1807
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3
+      - 0
+      - 3.380000114440918
+      - 1.940000057220459
+      - 1.25
+      - 1
+      - 0.8399999737739563
+      - 0.75999999046325684
+      - 0.68000000715255737
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 1
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.5799999237060547
+- ParentName: default
+  Name: 0xC7BD8D1D
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.812999963760376
+      - 0
+      - 3.312999963760376
+      - 2.0529999732971191
+      - 1.4579999446868896
+      - 1.1380000114440918
+      - 0.93900001049041748
+      - 0.7839999794960022
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0.69999998807907104
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.89999997615814209
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.5999999046325684
+- ParentName: 0xC7BD8D1D
+  Name: 0xBDE18FE7
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.7999999523162842
+      - 0
+      - 2.940000057220459
+      - 2.0559999942779541
+      - 1.5199999809265137
+      - 1.1790000200271606
+      - 0.97000002861022949
+      - 0.81999999284744263
+      - 0.75
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.60000002384185791
+      - 0.60000002384185791
+      - 0.5
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.89999997615814209
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.4500000476837158
+- ParentName: default
+  Name: miatamx5
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.7579998970031738
+      - 0
+      - 3.1359999179840088
+      - 1.8880000114440918
+      - 1.3300000429153442
+      - 1
+      - 0.81400001049041748
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.60000002384185791
+      - 0.60000002384185791
+      - 0.60000002384185791
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.15000000596046448
+    FINAL_GEAR: 4.3000001907348633
+- ParentName: miatamx5
+  Name: 0x63689496
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.7579998970031738
+      - 0
+      - 3.1359999179840088
+      - 1.8880000114440918
+      - 1.309999942779541
+      - 1
+      - 0.85000002384185791
+      - 0.69999998807907104
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.89999997615814209
+      - 0.89999997615814209
+      - 0.69999998807907104
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.25
+- ParentName: default
+  Name: lancerevo8
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.4159998893737793
+      - 0
+      - 2.7850000858306885
+      - 1.9500000476837158
+      - 1.4440000057220459
+      - 1.0959999561309814
+      - 0.82499998807907104
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0.69999998807907104
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.10000000149011612
+    FINAL_GEAR: 3.5290000438690186
+- ParentName: lancerevo8
+  Name: lancerevo8_top
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.4159998893737793
+      - 0
+      - 2.9300000667572021
+      - 1.9500000476837158
+      - 1.4440000057220459
+      - 1.0959999561309814
+      - 0.82499998807907104
+      - 0.69999998807907104
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.75
+      - 0.69999998807907104
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+      - 1
+    TORQUE_CONVERTER: 0.60000002384185791
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.10000000149011612
+    FINAL_GEAR: 3
+- ParentName: default
+  Name: senna
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.7999999523162842
+      - 0
+      - 3.9800000190734863
+      - 2.6099998950958252
+      - 1.8999999761581421
+      - 1.4800000190734863
+      - 1.1599999666213989
+      - 0.9100000262260437
+      - 0.68999999761581421
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0
+      - 0.85000002384185791
+      - 0.85000002384185791
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.10000000149011612
+    FINAL_GEAR: 3.309999942779541
+- ParentName: senna
+  Name: 0xFF015798
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.7999999523162842
+      - 0
+      - 3.9800000190734863
+      - 2.6099998950958252
+      - 1.8999999761581421
+      - 1.4800000190734863
+      - 1.1599999666213989
+      - 0.9100000262260437
+      - 0.68999999761581421
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0
+      - 0.85000002384185791
+      - 0.85000002384185791
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.10000000149011612
+    FINAL_GEAR: 3.309999942779541
+- ParentName: default
+  Name: bmwm3gtr
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.7899999618530273
+      - 0
+      - 3.4000000953674316
+      - 2.0850000381469727
+      - 1.5
+      - 1.25
+      - 1.0900000333786011
+      - 0.9100000262260437
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.20000000298023224
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.8499999046325684
+- ParentName: default
+  Name: vxr
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.5450000762939453
+      - 0
+      - 3.8180000782012939
+      - 2.1579999923706055
+      - 1.4750000238418579
+      - 1.0670000314712524
+      - 0.875
+      - 0.74400001764297485
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 1
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.8299999237060547
+- ParentName: vxr
+  Name: 0x2981705F
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.5450000762939453
+      - 0
+      - 3.8180000782012939
+      - 2.1579999923706055
+      - 1.4700000286102295
+      - 1.1000000238418579
+      - 0.97000002861022949
+      - 0.81000000238418579
+      - 0.69999998807907104
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 1
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.25
+- ParentName: default
+  Name: 911turbo
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.8599998950958252
+      - 0
+      - 3.8199999332427979
+      - 2.0499999523162842
+      - 1.4099999666213989
+      - 1.1200000047683716
+      - 0.92000001668930054
+      - 0.75
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0.80000001192092896
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.80000001192092896
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.440000057220459
+- ParentName: 911turbo
+  Name: 911turbo_top
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.8599998950958252
+      - 0
+      - 3.8199999332427979
+      - 2.0499999523162842
+      - 1.4099999666213989
+      - 1.1200000047683716
+      - 0.92000001668930054
+      - 0.74000000953674316
+      - 0.64999997615814209
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0.80000001192092896
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+    TORQUE_CONVERTER: 0.5
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.85000002384185791
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 4
+- ParentName: default
+  Name: supra70
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3
+      - 0
+      - 3.25
+      - 1.9550000429153442
+      - 1.309999942779541
+      - 1
+      - 0.75300002098083496
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.85000002384185791
+      - 0.85000002384185791
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.7300000190734863
+- ParentName: supra70
+  Name: 0x4EDBE6BF
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.5
+      - 0
+      - 3.25
+      - 1.9550000429153442
+      - 1.309999942779541
+      - 1
+      - 0.85000002384185791
+      - 0.72000002861022949
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.85000002384185791
+      - 0.85000002384185791
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.25
+- ParentName: default
+  Name: semi
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 4.5
+      - 0
+      - 4.5
+      - 2.5
+      - 1.625
+      - 1.25
+      - 1.1000000238418579
+      - 1
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.5
+    FINAL_GEAR: 4.5
+- ParentName: default
+  Name: a3
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.0439999103546143
+      - 0
+      - 3.3570001125335693
+      - 2.0869998931884766
+      - 1.468999981880188
+      - 1.0880000591278076
+      - 0.85600000619888306
+      - 0.70499998331069946
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.75
+      - 0.75
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.69999998807907104
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 4.2350001335144043
+- ParentName: a3
+  Name: a3_top
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.0840001106262207
+      - 0
+      - 3.3570001125335693
+      - 2.0869998931884766
+      - 1.468999981880188
+      - 1.0880000591278076
+      - 0.85600000619888306
+      - 0.70499998331069946
+      - 0.61000001430511475
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0.69999998807907104
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.9000000953674316
+- ParentName: default
+  Name: bmwm3csl
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.75
+      - 0
+      - 4.2300000190734863
+      - 2.5299999713897705
+      - 1.6699999570846558
+      - 1.2300000190734863
+      - 1
+      - 0.82999998331069946
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.40000000596046448
+      - 0.5
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.48800000548362732
+    OPTIMAL_SHIFT: 800
+    SHIFT_SPEED: 0.20000000298023224
+    FINAL_GEAR: 3.619999885559082
+- ParentName: bmwm3csl
+  Name: 0x551B0D26
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.75
+      - 0
+      - 4.2300000190734863
+      - 2.5299999713897705
+      - 1.6699999570846558
+      - 1.2300000190734863
+      - 1
+      - 0.9100000262260437
+      - 0.82999998331069946
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.60000002384185791
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.3059999942779541
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.10000000149011612
+    FINAL_GEAR: 3.119999885559082
+- ParentName: default
+  Name: rx8
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.5639998912811279
+      - 0
+      - 3.7599999904632568
+      - 2.2690000534057617
+      - 1.5390000343322754
+      - 1.187000036239624
+      - 1
+      - 0.84299999475479126
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.10000000149011612
+    FINAL_GEAR: 4.4439997673034668
+- ParentName: rx8
+  Name: rx8_top
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.5639998912811279
+      - 0
+      - 3.7599999904632568
+      - 2.2690000534057617
+      - 1.5390000343322754
+      - 1.187000036239624
+      - 1
+      - 0.84299999475479126
+      - 0.75
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.75
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.75
+- ParentName: default
+  Name: jesko
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.9000000953674316
+      - 0
+      - 3.0999999046325684
+      - 2.119999885559082
+      - 1.5
+      - 1.2000000476837158
+      - 0.94999998807907104
+      - 0.80000001192092896
+      - 0.64999997615814209
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.75
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 0.94999998807907104
+      - 1
+      - 0.94999998807907104
+      - 0.94999998807907104
+      - 0.94999998807907104
+      - 0.94999998807907104
+      - 0.94999998807907104
+      - 0.94999998807907104
+      - 0.94999998807907104
+    TORQUE_CONVERTER: 0.64999997615814209
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.81999999284744263
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.10000000149011612
+    FINAL_GEAR: 3.7300000190734863
+- ParentName: jesko
+  Name: 0x12C15C61
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.9000000953674316
+      - 0
+      - 3.2000000476837158
+      - 2.119999885559082
+      - 1.5
+      - 1.1000000238418579
+      - 0.89999997615814209
+      - 0.75
+      - 0.64999997615814209
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.85000002384185791
+      - 0.85000002384185791
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.85000002384185791
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.89999997615814209
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.0099999997764825821
+    FINAL_GEAR: 3.0999999046325684
+- ParentName: default
+  Name: 0xD7B140CC
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.875
+      - 0
+      - 3.1329998970031738
+      - 2.0999999046325684
+      - 1.5199999809265137
+      - 1.1720000505447388
+      - 0.94099998474121094
+      - 0.7839999794960022
+      - 0.67500001192092896
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.75
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.81999999284744263
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.1670000553131104
+- ParentName: 0xD7B140CC
+  Name: 0xB58932BA
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.875
+      - 0
+      - 3.1329998970031738
+      - 2.0999999046325684
+      - 1.5199999809265137
+      - 1.1720000505447388
+      - 0.94099998474121094
+      - 0.7839999794960022
+      - 0.67500001192092896
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.1670000553131104
+- ParentName: default
+  Name: s28103
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.2209999561309814
+      - 0
+      - 3.3710000514984131
+      - 1.9930000305175781
+      - 1.3250000476837158
+      - 1
+      - 0.67199999094009399
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.2699999809265137
+- ParentName: s28103
+  Name: 0xD651B679
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.2209999561309814
+      - 0
+      - 3.3710000514984131
+      - 1.9930000305175781
+      - 1.3250000476837158
+      - 1
+      - 0.80000001192092896
+      - 0.64999997615814209
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.64999997615814209
+      - 0.64999997615814209
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.3399999141693115
+- ParentName: default
+  Name: cts
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.6700000762939453
+      - 0
+      - 4.1500000953674316
+      - 2.3299999237060547
+      - 1.5299999713897705
+      - 1.1499999761581421
+      - 1
+      - 0.79000002145767212
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.75
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.4200000762939453
+- ParentName: cts
+  Name: cts_top
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.6700000762939453
+      - 0
+      - 4.1500000953674316
+      - 2.3299999237060547
+      - 1.5299999713897705
+      - 1.1499999761581421
+      - 1
+      - 0.81999999284744263
+      - 0.68000000715255737
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.5
+- ParentName: default
+  Name: traffic
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.2000000476837158
+      - 0
+      - 3.8199999332427979
+      - 2.0499999523162842
+      - 1.4099999666213989
+      - 1.1200000047683716
+      - 0.92000001668930054
+      - 0.75
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 1.5
+    TORQUE_SPLIT: 1
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.440000057220459
+- ParentName: default
+  Name: tiburon
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.002000093460083
+      - 0
+      - 3.1530001163482666
+      - 1.9440000057220459
+      - 1.3329999446868896
+      - 1.0549999475479126
+      - 0.85699999332427979
+      - 0.70399999618530273
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.64999997615814209
+      - 0.64999997615814209
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 1
+    CLUTCH_SLIP: 0.30000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.20000000298023224
+    FINAL_GEAR: 4.4279999732971191
+- ParentName: tiburon
+  Name: 0xD7327B02
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.002000093460083
+      - 0
+      - 3.1530001163482666
+      - 1.9440000057220459
+      - 1.3329999446868896
+      - 1.0549999475479126
+      - 0.85699999332427979
+      - 0.70399999618530273
+      - 0.60000002384185791
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.85000002384185791
+      - 0.85000002384185791
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 1
+    CLUTCH_SLIP: 0.30000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.30000001192092896
+    FINAL_GEAR: 4.4000000953674316
+- ParentName: default
+  Name: slr
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.1670000553131104
+      - 0
+      - 3.559999942779541
+      - 2.1860001087188721
+      - 1.4049999713897705
+      - 1
+      - 0.83099997043609619
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.059999942779541
+- ParentName: slr
+  Name: slr_top
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.1670000553131104
+      - 0
+      - 3.559999942779541
+      - 2.1860001087188721
+      - 1.5
+      - 1.1000000238418579
+      - 0.83099997043609619
+      - 0.68000000715255737
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.20000000298023224
+    FINAL_GEAR: 3.25
+- ParentName: default
+  Name: 3000gt
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.1530001163482666
+      - 0
+      - 3.2660000324249268
+      - 1.9040000438690186
+      - 1.2410000562667847
+      - 0.9179999828338623
+      - 0.73299998044967651
+      - 0.58899998664855957
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.89999997615814209
+      - 0.89999997615814209
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.89999997615814209
+    OPTIMAL_SHIFT: 550
+    SHIFT_SPEED: 0.34999999403953552
+    FINAL_GEAR: 4.1550002098083496
+- ParentName: 3000gt
+  Name: 0xCDF97732
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.1530001163482666
+      - 0
+      - 3.2660000324249268
+      - 1.9040000438690186
+      - 1.2410000562667847
+      - 0.9179999828338623
+      - 0.73299998044967651
+      - 0.58899998664855957
+      - 0.5
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 1
+      - 1
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.1499999761581421
+      - 1.2000000476837158
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 1
+    OPTIMAL_SHIFT: 560
+    SHIFT_SPEED: 0.34999999403953552
+    FINAL_GEAR: 3.5999999046325684
+- ParentName: default
+  Name: 0xE679F9CD
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.6400001049041748
+      - 0
+      - 3.6400001049041748
+      - 2.380000114440918
+      - 1.7599999904632568
+      - 1.3500000238418579
+      - 0.97000002861022949
+      - 0.75999999046325684
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0.80000001192092896
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 1.5
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.9000000953674316
+- ParentName: default
+  Name: 0xE8155144
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.2000000476837158
+      - 0
+      - 3.2999999523162842
+      - 2.5999999046325684
+      - 1.7000000476837158
+      - 1.1200000047683716
+      - 0.75999999046325684
+      - 0.73000001907348633
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.77999997138977051
+      - 0.77999997138977051
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.80000001192092896
+    TORQUE_SPLIT: 1
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.9440000057220459
+- ParentName: 0xE8155144
+  Name: 0x09D10C7C
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.2000000476837158
+      - 0
+      - 3.2999999523162842
+      - 2.5999999046325684
+      - 1.7000000476837158
+      - 1.1200000047683716
+      - 0.81000000238418579
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.40000000596046448
+    TORQUE_SPLIT: 1
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.1700000762939453
+- ParentName: default
+  Name: clio
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 1.7400000095367432
+      - 0
+      - 3.0799999237060547
+      - 1.9099999666213989
+      - 1.3899999856948853
+      - 1.1000000238418579
+      - 0.89999997615814209
+      - 0.75999999046325684
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 4.190000057220459
+- ParentName: clio
+  Name: clio_top
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.119999885559082
+      - 0
+      - 3.9100000858306885
+      - 2.1099998950958252
+      - 1.4800000190734863
+      - 1.1000000238418579
+      - 0.89999997615814209
+      - 0.75999999046325684
+      - 0.64999997615814209
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.75
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.7000000476837158
+- ParentName: default
+  Name: crx91
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3
+      - 0
+      - 3.1659998893737793
+      - 2.0520000457763672
+      - 1.4160000085830688
+      - 1.1030000448226929
+      - 0.87000000476837158
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.75
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 1
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 4.2659997940063477
+- ParentName: crx91
+  Name: 0x898C9100
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3
+      - 0
+      - 3.1659998893737793
+      - 2.0520000457763672
+      - 1.4160000085830688
+      - 1.1030000448226929
+      - 0.87000000476837158
+      - 0.72500002384185791
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 1
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.5
+- ParentName: default
+  Name: is350
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.2239999771118164
+      - 0
+      - 3.5199999809265137
+      - 2.0420000553131104
+      - 1.3999999761581421
+      - 1
+      - 0.7160000205039978
+      - 0.58600002527236938
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.85000002384185791
+      - 0.85000002384185791
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 4.0830001831054688
+- ParentName: is350
+  Name: 0x94740429
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.2239999771118164
+      - 0
+      - 3.5
+      - 2.0420000553131104
+      - 1.3999999761581421
+      - 1.1000000238418579
+      - 0.87000000476837158
+      - 0.72000002861022949
+      - 0.60000002384185791
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.85000002384185791
+      - 0.85000002384185791
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0.40000000596046448
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.75
+- ParentName: default
+  Name: skylinelm
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.625
+      - 0
+      - 3.75
+      - 2.3599998950958252
+      - 1.684999942779541
+      - 1.312000036239624
+      - 1.0700000524520874
+      - 0.85000002384185791
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.85000002384185791
+      - 0.85000002384185791
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.44999998807907104
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.85000002384185791
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.8499999046325684
+- ParentName: skylinelm
+  Name: 0x52FC2B94
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.7999999523162842
+      - 0
+      - 3.75
+      - 2.3599998950958252
+      - 1.684999942779541
+      - 1.312000036239624
+      - 1.0700000524520874
+      - 0.85000002384185791
+      - 0
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.85000002384185791
+      - 0.85000002384185791
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.40000000596046448
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.85000002384185791
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3
+- ParentName: default
+  Name: gt3rs
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.8599998950958252
+      - 0
+      - 3.8199999332427979
+      - 2.2599999904632568
+      - 1.6399999856948853
+      - 1.2899999618530273
+      - 1.059999942779541
+      - 0.92000001668930054
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0.80000001192092896
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.440000057220459
+- ParentName: gt3rs
+  Name: 0xEC43A26C
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.8599998950958252
+      - 0
+      - 3.8199999332427979
+      - 2.0499999523162842
+      - 1.6399999856948853
+      - 1.2899999618530273
+      - 1.059999942779541
+      - 0.92000001668930054
+      - 0.74000000953674316
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0.80000001192092896
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.85000002384185791
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.25
+- ParentName: default
+  Name: 0xF4979035
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3
+      - 0
+      - 3.2300000190734863
+      - 2.1050000190734863
+      - 1.4579999446868896
+      - 1.1069999933242798
+      - 0.84799998998641968
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.60000002384185791
+    TORQUE_SPLIT: 1
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 4.7899999618530273
+- ParentName: 0xF4979035
+  Name: 0x5BC65689
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3
+      - 0
+      - 3.2300000190734863
+      - 2.1050000190734863
+      - 1.4579999446868896
+      - 1.1069999933242798
+      - 0.84799998998641968
+      - 0.70999997854232788
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.40000000596046448
+    TORQUE_SPLIT: 1
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 4.0999999046325684
+- ParentName: default
+  Name: civichb
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.1530001163482666
+      - 0
+      - 3.25
+      - 1.781999945640564
+      - 1.1720000505447388
+      - 0.9089999794960022
+      - 0.70200002193450928
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.64999997615814209
+      - 0.64999997615814209
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 1
+    CLUTCH_SLIP: 0.69999998807907104
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 4.7220001220703125
+- ParentName: civichb
+  Name: 0xD1D2908A
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.1530001163482666
+      - 0
+      - 3.25
+      - 1.781999945640564
+      - 1.1720000505447388
+      - 0.94999998807907104
+      - 0.80000001192092896
+      - 0.69999998807907104
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.60000002384185791
+      - 0.60000002384185791
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 1
+    CLUTCH_SLIP: 0.69999998807907104
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.1500000953674316
+- ParentName: default
+  Name: delta
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.5450000762939453
+      - 0
+      - 3.5
+      - 2.1760001182556152
+      - 1.5240000486373901
+      - 1.156000018119812
+      - 0.91699999570846558
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.75
+      - 0.75
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.1110000610351562
+- ParentName: delta
+  Name: 0x239513FF
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.5450000762939453
+      - 0
+      - 3.5
+      - 2.1760001182556152
+      - 1.5230000019073486
+      - 1.156000018119812
+      - 1
+      - 0.87000000476837158
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0.69999998807907104
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 2.6749999523162842
+- ParentName: default
+  Name: s2000
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.7999999523162842
+      - 0
+      - 3.1329998970031738
+      - 2.0450000762939453
+      - 1.4809999465942383
+      - 1.1610000133514404
+      - 0.97100001573562622
+      - 0.81099998950958252
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0
+      - 0.85000002384185791
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 4.7560000419616699
+- ParentName: s2000
+  Name: 0xD664C8F5
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.7999999523162842
+      - 0
+      - 3.1329998970031738
+      - 2.0450000762939453
+      - 1.4809999465942383
+      - 1.1610000133514404
+      - 0.97100001573562622
+      - 0.81000000238418579
+      - 0.69999998807907104
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0
+      - 0.69999998807907104
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0.69999998807907104
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.10000000149011612
+    FINAL_GEAR: 3.75
+- ParentName: default
+  Name: 0xFA58F4D9
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.9289999008178711
+      - 0
+      - 3.9089999198913574
+      - 2.437999963760376
+      - 1.809999942779541
+      - 1.4579999446868896
+      - 1.184999942779541
+      - 0.96700000762939453
+      - 0.84399998188018799
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0.69999998807907104
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.40000000596046448
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.89999997615814209
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.5399999618530273
+- ParentName: 0xFA58F4D9
+  Name: 0x0491E10A
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.9289999008178711
+      - 0
+      - 3.9089999198913574
+      - 2.437999963760376
+      - 1.809999942779541
+      - 1.4579999446868896
+      - 1.184999942779541
+      - 0.96700000762939453
+      - 0.84399998188018799
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.60000002384185791
+      - 0.60000002384185791
+      - 0.5
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0.30000001192092896
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.89999997615814209
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.0499999523162842
+- ParentName: default
+  Name: f40
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.4609999656677246
+      - 0
+      - 2.7690000534057617
+      - 1.7220000028610229
+      - 1.2269999980926514
+      - 0.96299999952316284
+      - 0.76700001955032349
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.72500002384185791
+      - 0.72500002384185791
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.89999997615814209
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.630000114440918
+- ParentName: f40
+  Name: 0x243B31B9
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.4609999656677246
+      - 0
+      - 2.7690000534057617
+      - 1.7220000028610229
+      - 1.2269999980926514
+      - 0.96299999952316284
+      - 0.76700001955032349
+      - 0.6600000262260437
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.72500002384185791
+      - 0.75
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0
+    CLUTCH_SLIP: 0.89999997615814209
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.5999999046325684
+- ParentName: default
+  Name: 0xFCDE8A4D
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.3299999237060547
+      - 0
+      - 3.4600000381469727
+      - 1.8700000047683716
+      - 1.3600000143051147
+      - 1.0499999523162842
+      - 0.86000001430511475
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.64999997615814209
+      - 0.64999997615814209
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 1
+    CLUTCH_SLIP: 0.75
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 3.7899999618530273
+- ParentName: 0xFCDE8A4D
+  Name: 0xA69BE971
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 3.3090000152587891
+      - 0
+      - 3.5450000762939453
+      - 2.1579999923706055
+      - 1.4800000190734863
+      - 1.1210000514984131
+      - 0.92100000381469727
+      - 0.75499999523162842
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 1
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 2.75
+- ParentName: default
+  Name: r8lms
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.812999963760376
+      - 0
+      - 3.312999963760376
+      - 2.0529999732971191
+      - 1.4579999446868896
+      - 1.1579999923706055
+      - 0.93900001049041748
+      - 0.7839999794960022
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.75
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.81999999284744263
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 4.059999942779541
+- ParentName: r8lms
+  Name: 0x0C3A2590
+  Data:
+    GEAR_RATIO:
+      Capacity: 9
+      Data:
+      - 2.190000057220459
+      - 0
+      - 3.312999963760376
+      - 2.0529999732971191
+      - 1.4579999446868896
+      - 1.1579999923706055
+      - 0.93900001049041748
+      - 0.7839999794960022
+      - 0.64999997615814209
+    DIFFERENTIAL:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.69999998807907104
+      - 0
+    GEAR_EFFICIENCY:
+      Capacity: 9
+      Data:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1.1000000238418579
+      - 1.2000000476837158
+      - 1.3999999761581421
+    TORQUE_CONVERTER: 0
+    TORQUE_SPLIT: 0.5
+    CLUTCH_SLIP: 0.80000001192092896
+    OPTIMAL_SHIFT: 500
+    SHIFT_SPEED: 0.25
+    FINAL_GEAR: 4.125

@@ -1,0 +1,11 @@
+- ParentName: 
+  Name: default
+  Data:
+    BaseMaterial:
+      ClassKey: simsurface
+      CollectionKey: explosion
+    triggerThreshold: 0
+    explosionForceLimit: 0
+    fallOffUnit: 0
+    forceMultiplier: 0
+    damageMultiplier: 0

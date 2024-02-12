@@ -1,0 +1,28 @@
+- ParentName: 
+  Name: 0x3E3A4F0B
+  Data:
+    EndV: 0.95999997854232788
+    StartU: 0.92500001192092896
+    EndU: 0.95999997854232788
+    StartV: 0.92500001192092896
+- ParentName: 
+  Name: 0x9CCC9411
+  Data:
+    EndV: 0.875
+    StartU: 0.5
+    EndU: 0.625
+    StartV: 0.75
+- ParentName: 
+  Name: 0xB6E6B412
+  Data:
+    EndV: 1
+    StartU: 0
+    EndU: 1
+    StartV: 0
+- ParentName: 
+  Name: 0xCCF51B5C
+  Data:
+    EndV: 0.25
+    StartU: 0
+    EndU: 0.25
+    StartV: 0

@@ -1,0 +1,335 @@
+- ParentName: 
+  Name: default
+  Data:
+    stream: Invalid_Type_SoundFX_Type
+    param: Invalid_Type_SoundFX_Param
+    VolSlot: eVOL_MOMENT_COL_SWT
+    strmpriority: 1
+    CanInterupt: true
+    IsPositioned: true
+- ParentName: default
+  Name: thunder_distant
+  Data:
+    stream: Type_SoundFX_Type_Thunder
+    param: Type_SoundFX_Param_distant
+    VolSlot: eVOL_MOMENT_THUNDER
+    strmpriority: 0
+    CanInterupt: false
+    IsPositioned: false
+- ParentName: default
+  Name: car2car
+  Data:
+    stream: Type_SoundFX_Type_Crash
+    param: Type_SoundFX_Param_sweetener
+    VolSlot: eVOL_MOMENT_COL_SWT
+    strmpriority: 3
+- ParentName: default
+  Name: purs_break_start_fx
+  Data:
+    stream: Type_SoundFX_Type_Pursbreaker
+    param: Type_SoundFX_Param_start_effects
+    VolSlot: eVOL_MOMENT_PURSUIT_BREAKER
+    strmpriority: 4
+    IsPositioned: false
+- ParentName: default
+  Name: upperspd
+  Data:
+    stream: Type_SoundFX_Type_Pursbreaker
+    param: Type_SoundFX_Param_end_music
+    VolSlot: eVOL_MOMENT_PURSUIT_BREAKER
+    strmpriority: 4
+    IsPositioned: false
+- ParentName: default
+  Name: crash_cam
+  Data:
+    stream: Type_SoundFX_Type_Crash
+    param: Type_SoundFX_Param_blow
+    VolSlot: eVOL_MOMENT_TOTALLED_ENGINE
+    strmpriority: 4
+    IsPositioned: false
+- ParentName: default
+  Name: rev_and_sc
+  Data:
+    stream: Type_SoundFX_Type_Pursbreaker
+    param: Type_SoundFX_Param_start_music
+    VolSlot: eVOL_MOMENT_PURSUIT_BREAKER
+    strmpriority: 4
+    IsPositioned: false
+- ParentName: default
+  Name: car_carrier
+  Data:
+    stream: Type_SoundFX_Type_GamePlayMoment
+    param: Type_SoundFX_Param_truck_jackknife
+    VolSlot: eVOL_MOMENT_JACKNIFE
+    strmpriority: 3
+    IsPositioned: false
+- ParentName: default
+  Name: jacknife
+  Data:
+    stream: Type_SoundFX_Type_GamePlayMoment
+    param: Type_SoundFX_Param_truck_jackknife
+    VolSlot: eVOL_MOMENT_JACKNIFE
+    strmpriority: 4
+- ParentName: default
+  Name: pursuit_breaker_moments
+  Data:
+    stream: Type_SoundFX_Type_GamePlayMoment
+    param: Type_SoundFX_Param_scaffolding_big
+    VolSlot: eVOL_MOMENT_GAMEPLAY
+    strmpriority: 4
+    CanInterupt: true
+- ParentName: pursuit_breaker_moments
+  Name: boat_fall
+  Data:
+    stream: Type_SoundFX_Type_GamePlayMoment
+    param: Type_SoundFX_Param_boatfall
+    VolSlot: eVOL_MOMENT_GAMEPLAY
+    strmpriority: 4
+- ParentName: pursuit_breaker_moments
+  Name: trailer_park
+  Data:
+    stream: Type_SoundFX_Type_GamePlayMoment
+    param: Type_SoundFX_Param_trailer_park
+    VolSlot: eVOL_MOMENT_GAMEPLAY
+    strmpriority: 4
+- ParentName: pursuit_breaker_moments
+  Name: torus
+  Data:
+    stream: Type_SoundFX_Type_GamePlayMoment
+    param: Type_SoundFX_Param_torus_shop
+    VolSlot: eVOL_MOMENT_GAMEPLAY
+    strmpriority: 4
+- ParentName: pursuit_breaker_moments
+  Name: porch
+  Data:
+    stream: Type_SoundFX_Type_GamePlayMoment
+    param: Type_SoundFX_Param_porch_collapse
+    VolSlot: eVOL_MOMENT_GAMEPLAY
+    strmpriority: 4
+- ParentName: pursuit_breaker_moments
+  Name: scaffold_crash_big
+  Data:
+    stream: Type_SoundFX_Type_GamePlayMoment
+    param: Type_SoundFX_Param_scaffolding_big
+    VolSlot: eVOL_MOMENT_GAMEPLAY
+    strmpriority: 3
+- ParentName: pursuit_breaker_moments
+  Name: drive_in
+  Data:
+    stream: Type_SoundFX_Type_GamePlayMoment
+    param: Type_SoundFX_Param_drive_in
+    VolSlot: eVOL_MOMENT_GAMEPLAY
+    strmpriority: 4
+- ParentName: pursuit_breaker_moments
+  Name: stripmall
+  Data:
+    stream: Type_SoundFX_Type_GamePlayMoment
+    param: Type_SoundFX_Param_stripmall
+    VolSlot: eVOL_MOMENT_GAMEPLAY
+    strmpriority: 4
+- ParentName: pursuit_breaker_moments
+  Name: donut_shop_crash
+  Data:
+    stream: Type_SoundFX_Type_GamePlayMoment
+    param: Invalid_Type_SoundFX_Param
+    VolSlot: eVOL_MOMENT_GAMEPLAY
+    strmpriority: 4
+    CanInterupt: true
+- ParentName: pursuit_breaker_moments
+  Name: gazebo_crash
+  Data:
+    stream: Type_SoundFX_Type_GamePlayMoment
+    param: Type_SoundFX_Param_gazebo
+    VolSlot: eVOL_MOMENT_GAMEPLAY
+    strmpriority: 4
+- ParentName: pursuit_breaker_moments
+  Name: expl_gas_station
+  Data:
+    stream: Type_SoundFX_Type_GamePlayMoment
+    param: Type_SoundFX_Param_expl_gas_station
+    VolSlot: eVOL_MOMENT_GASPUMP
+    strmpriority: 4
+    CanInterupt: true
+- ParentName: pursuit_breaker_moments
+  Name: gate
+  Data:
+    stream: Type_SoundFX_Type_GamePlayMoment
+    param: Type_SoundFX_Param_gate_signage
+    VolSlot: eVOL_MOMENT_GAMEPLAY
+    strmpriority: 4
+- ParentName: pursuit_breaker_moments
+  Name: comm_tower_crash
+  Data:
+    stream: Type_SoundFX_Type_GamePlayMoment
+    param: Type_SoundFX_Param_comm_tower
+    VolSlot: eVOL_MOMENT_GAMEPLAY
+    strmpriority: 4
+- ParentName: pursuit_breaker_moments
+  Name: patio_crash
+  Data:
+    stream: Type_SoundFX_Type_GamePlayMoment
+    param: Type_SoundFX_Param_patio_collapse
+    VolSlot: eVOL_MOMENT_GAMEPLAY
+    strmpriority: 4
+- ParentName: pursuit_breaker_moments
+  Name: fish_sign_crash
+  Data:
+    stream: Type_SoundFX_Type_GamePlayMoment
+    param: Type_SoundFX_Param_fish_market_sign
+    VolSlot: eVOL_MOMENT_GAMEPLAY
+    strmpriority: 4
+- ParentName: pursuit_breaker_moments
+  Name: hospital_drvthru
+  Data:
+    stream: Type_SoundFX_Type_GamePlayMoment
+    param: Invalid_Type_SoundFX_Param
+    VolSlot: eVOL_MOMENT_GAMEPLAY
+    strmpriority: 4
+- ParentName: pursuit_breaker_moments
+  Name: wtr_tower_crash
+  Data:
+    stream: Type_SoundFX_Type_GamePlayMoment
+    param: Type_SoundFX_Param_water_tower
+    VolSlot: eVOL_MOMENT_GAMEPLAY
+    strmpriority: 4
+- ParentName: pursuit_breaker_moments
+  Name: amphitheatre
+  Data:
+    stream: Type_SoundFX_Type_GamePlayMoment
+    param: Type_SoundFX_Param_amphitheatre
+    VolSlot: eVOL_MOMENT_GAMEPLAY
+    strmpriority: 4
+- ParentName: default
+  Name: tollbooth
+  Data:
+    stream: Type_SoundFX_Type_Thunder
+    param: Type_SoundFX_Param_break
+    VolSlot: eVOL_MOMENT_COL_SWT
+    strmpriority: 4
+- ParentName: default
+  Name: fly_in_camera
+  Data:
+    stream: Type_SoundFX_Type_game
+    param: Type_SoundFX_Param_zoom
+    VolSlot: eVOL_MOMENT_FLY_IN_CAM
+    strmpriority: 5
+    IsPositioned: true
+- ParentName: default
+  Name: spot_cop_camera
+  Data:
+    stream: Type_SoundFX_Type_game
+    param: Type_SoundFX_Param_uves
+    VolSlot: eVOL_MOMENT_SPOT_COP
+    strmpriority: 4
+    IsPositioned: false
+- ParentName: default
+  Name: pursuitbreaker
+  Data:
+    stream: Type_SoundFX_Type_Pursbreaker
+    param: Invalid_Type_SoundFX_Param
+    VolSlot: eVOL_MOMENT_PURSUIT_BREAKER
+    strmpriority: 4
+    IsPositioned: false
+- ParentName: default
+  Name: game_camera
+  Data:
+    stream: Type_SoundFX_Type_game
+    param: Type_SoundFX_Param_camera
+    VolSlot: eVOL_MOMENT_PHOTOFINISH
+    strmpriority: 5
+    IsPositioned: false
+- ParentName: default
+  Name: jump_cam
+  Data:
+    stream: Type_SoundFX_Type_jump
+    param: Type_SoundFX_Param_cam
+    VolSlot: eVOL_MOMENT_JUMPCAM
+    strmpriority: 2
+- ParentName: default
+  Name: collision
+  Data:
+    stream: Type_SoundFX_Type_Crash
+    param: Type_SoundFX_Param_sweetener
+    VolSlot: eVOL_MOMENT_COL_SWT
+    strmpriority: 3
+- ParentName: default
+  Name: window
+  Data:
+    stream: Type_SoundFX_Type_Thunder
+    param: Type_SoundFX_Param_blow
+    VolSlot: eVOL_MOMENT_COL_SWT
+    strmpriority: 4
+- ParentName: default
+  Name: logs_drop
+  Data:
+    stream: Type_SoundFX_Type_GamePlayMoment
+    param: Type_SoundFX_Param_trck_log_dump
+    VolSlot: eVOL_MOMENT_GAMEPLAY
+    strmpriority: 4
+- ParentName: default
+  Name: engine_breakdown
+  Data:
+    stream: Type_SoundFX_Type_engine
+    param: Type_SoundFX_Param_break
+    VolSlot: eVOL_MOMENT_BLOWNENGINE
+    strmpriority: 5
+    IsPositioned: false
+- ParentName: default
+  Name: blownengine
+  Data:
+    stream: Type_SoundFX_Type_engine
+    param: Type_SoundFX_Param_blow
+    VolSlot: eVOL_MOMENT_BLOWNENGINE
+    strmpriority: 5
+- ParentName: default
+  Name: totalled
+  Data:
+    stream: Type_SoundFX_Type_Car
+    param: Type_SoundFX_Param_total
+    VolSlot: eVOL_MOMENT_TOTALLED_ENGINE
+    strmpriority: 5
+- ParentName: default
+  Name: thunder_close
+  Data:
+    stream: Type_SoundFX_Type_Thunder
+    param: Type_SoundFX_Param_distant
+    VolSlot: eVOL_MOMENT_THUNDER
+    strmpriority: 0
+    CanInterupt: false
+    IsPositioned: false
+- ParentName: default
+  Name: ai_totalled
+  Data:
+    stream: Type_SoundFX_Type_Car
+    param: Type_SoundFX_Param_total
+    VolSlot: eVOL_MOMENT_TOTALLED_ENGINE
+    strmpriority: 1
+- ParentName: default
+  Name: jumpcam
+  Data:
+    stream: Type_SoundFX_Type_GamePlayMoment
+    param: Invalid_Type_SoundFX_Param
+    VolSlot: eVOL_MOMENT_BLOWNENGINE
+    strmpriority: 2
+- ParentName: default
+  Name: car_to_wall_crash
+  Data:
+    stream: Type_SoundFX_Type_Crash
+    param: Type_SoundFX_Param_blow
+    VolSlot: eVOL_MOMENT_COL_SWT
+    strmpriority: 3
+- ParentName: default
+  Name: prison_jump
+  Data:
+    stream: Type_SoundFX_Type_GamePlayMoment
+    param: Invalid_Type_SoundFX_Param
+    VolSlot: eVOL_MOMENT_GAMEPLAY
+    strmpriority: 4
+- ParentName: default
+  Name: purs_break_end_fx
+  Data:
+    stream: Type_SoundFX_Type_Pursbreaker
+    param: Type_SoundFX_Param_end_effects
+    VolSlot: eVOL_MOMENT_PURSUIT_BREAKER
+    strmpriority: 4
+    IsPositioned: false

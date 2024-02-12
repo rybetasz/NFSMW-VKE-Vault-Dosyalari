@@ -1,0 +1,305 @@
+- ParentName: finishline
+  Name: race_bin_01/1_3_1_lapknockout/finishline_reverse
+  Data:
+    CollectionName: race_bin_01/1_3_1_lapknockout/finishline_reverse
+    message_id: 0
+    ParticleEffect: ''
+    Template: false
+    Rotation: -93.81817626953125
+    FlareSpacing: 7
+    Dimensions:
+      X: 2
+      Y: 50
+      Z: 10
+    Position:
+      X: 3281.39208984375
+      Y: -192.33639526367188
+      Z: 16.511720657348633
+    Name: race_bin_01/1_3_1_lapknockout/finishline_reverse
+- ParentName: finishline
+  Name: race_bin_01/1_3_1_lapknockout/1_3_1_finishline
+  Data:
+    CollectionName: race_bin_01/1_3_1_lapknockout/1_3_1_finishline
+    message_id: 0
+    Rotation: 88.749946594238281
+    Position:
+      X: 3280.47607421875
+      Y: -211.22779846191406
+      Z: 15.397459983825684
+    FlareSpacing: 7
+    Name: race_bin_01/1_3_1_lapknockout/1_3_1_finishline
+    Template: false
+    Dimensions:
+      X: 3
+      Y: 80
+      Z: 10
+- ParentName: checkpoint
+  Name: race_bin_01/1_3_1_lapknockout/1_3_1_ai_cp5
+  Data:
+    CollectionName: race_bin_01/1_3_1_lapknockout/1_3_1_ai_cp5
+    message_id: 0
+    Rotation: -80.180282592773438
+    Position:
+      X: 4812.6337890625
+      Y: 894.75372314453125
+      Z: 10.420889854431152
+    Name: race_bin_01/1_3_1_lapknockout/1_3_1_ai_cp5
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 40
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_3_1_lapknockout/1_3_1_ai_cp7
+  Data:
+    CollectionName: race_bin_01/1_3_1_lapknockout/1_3_1_ai_cp7
+    message_id: 0
+    Rotation: -195.93559265136719
+    Position:
+      X: 3495.214111328125
+      Y: -352.02081298828125
+      Z: 21.566410064697266
+    Name: race_bin_01/1_3_1_lapknockout/1_3_1_ai_cp7
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 45
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_3_1_lapknockout/1_3_1_ai_cp6
+  Data:
+    CollectionName: race_bin_01/1_3_1_lapknockout/1_3_1_ai_cp6
+    message_id: 0
+    Rotation: -105.98500061035156
+    Position:
+      X: 4342.0751953125
+      Y: 178.72830200195312
+      Z: 18.274419784545898
+    Name: race_bin_01/1_3_1_lapknockout/1_3_1_ai_cp6
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 40
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_3_1_lapknockout/1_3_1_ai_cp1
+  Data:
+    CollectionName: race_bin_01/1_3_1_lapknockout/1_3_1_ai_cp1
+    message_id: 0
+    Rotation: 133.27969360351562
+    Position:
+      X: 2970.596923828125
+      Y: 17.058710098266602
+      Z: 21.2275390625
+    Name: race_bin_01/1_3_1_lapknockout/1_3_1_ai_cp1
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 60
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_3_1_lapknockout/1_3_1_ai_cp2
+  Data:
+    CollectionName: race_bin_01/1_3_1_lapknockout/1_3_1_ai_cp2
+    message_id: 0
+    Rotation: -30
+    Position:
+      X: 3053.260009765625
+      Y: 803.14459228515625
+      Z: 55.213871002197266
+    Name: race_bin_01/1_3_1_lapknockout/1_3_1_ai_cp2
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 40
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_3_1_lapknockout/1_3_1_ai_cp3
+  Data:
+    CollectionName: race_bin_01/1_3_1_lapknockout/1_3_1_ai_cp3
+    message_id: 0
+    Rotation: -6.1818180084228516
+    Position:
+      X: 3008.3291015625
+      Y: 789.68450927734375
+      Z: 60.191410064697266
+    Name: race_bin_01/1_3_1_lapknockout/1_3_1_ai_cp3
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 70
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_3_1_lapknockout/1_3_1_ai_cp4
+  Data:
+    CollectionName: race_bin_01/1_3_1_lapknockout/1_3_1_ai_cp4
+    message_id: 0
+    Rotation: 15.573439598083496
+    Position:
+      X: 3801.199951171875
+      Y: 742.21990966796875
+      Z: 0
+    Name: race_bin_01/1_3_1_lapknockout/1_3_1_ai_cp4
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 40
+      Z: 40
+- ParentName: shortcut
+  Name: race_bin_01/1_3_1_lapknockout/shortcut5
+  Data:
+    CollectionName: race_bin_01/1_3_1_lapknockout/shortcut5
+    message_id: 0
+    Rotation: 228.36360168457031
+    Position:
+      X: 4314.22509765625
+      Y: -15.428979873657227
+      Z: 11.374019622802734
+    ShortcutMaxChance: 0.5
+    Name: race_bin_01/1_3_1_lapknockout/shortcut5
+    ShortcutMinChance: 0.5
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_3_1_lapknockout/shortcut7
+  Data:
+    CollectionName: race_bin_01/1_3_1_lapknockout/shortcut7
+    message_id: 0
+    Rotation: 191.63639831542969
+    Position:
+      X: 3603.18603515625
+      Y: -405.40008544921875
+      Z: 25.839839935302734
+    ShortcutMaxChance: 0
+    Name: race_bin_01/1_3_1_lapknockout/shortcut7
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_3_1_lapknockout/shortcut8
+  Data:
+    CollectionName: race_bin_01/1_3_1_lapknockout/shortcut8
+    message_id: 0
+    Position:
+      X: 2908.445068359375
+      Y: 582.723388671875
+      Z: 38.831050872802734
+    ShortcutMaxChance: 0.30000001192092896
+    Name: race_bin_01/1_3_1_lapknockout/shortcut8
+    ShortcutMinChance: 0.20000000298023224
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_3_1_lapknockout/shortcut9
+  Data:
+    CollectionName: race_bin_01/1_3_1_lapknockout/shortcut9
+    message_id: 0
+    Position:
+      X: 4058.81494140625
+      Y: -188.78880310058594
+      Z: 14.883790016174316
+    ShortcutMaxChance: 0.20000000298023224
+    Name: race_bin_01/1_3_1_lapknockout/shortcut9
+    ShortcutMinChance: 0.10000000149011612
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_3_1_lapknockout/shortcut2
+  Data:
+    CollectionName: race_bin_01/1_3_1_lapknockout/shortcut2
+    message_id: 0
+    Position:
+      X: 3027.27587890625
+      Y: 578.24822998046875
+      Z: 23.078609466552734
+    ShortcutMaxChance: 0
+    Name: race_bin_01/1_3_1_lapknockout/shortcut2
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_3_1_lapknockout/shortcut4
+  Data:
+    CollectionName: race_bin_01/1_3_1_lapknockout/shortcut4
+    message_id: 0
+    Rotation: 213.45460510253906
+    Position:
+      X: 4525.40478515625
+      Y: 521.10650634765625
+      Z: 30.087890625
+    ShortcutMaxChance: 0.89999997615814209
+    Name: race_bin_01/1_3_1_lapknockout/shortcut4
+    ShortcutMinChance: 0.80000001192092896
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_3_1_lapknockout/shortcut10
+  Data:
+    CollectionName: race_bin_01/1_3_1_lapknockout/shortcut10
+    message_id: 0
+    Position:
+      X: 4053.125
+      Y: -170.21159362792969
+      Z: 16.057619094848633
+    ShortcutMaxChance: 0.5
+    Name: race_bin_01/1_3_1_lapknockout/shortcut10
+    ShortcutMinChance: 0.5
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_3_1_lapknockout/shortcut6
+  Data:
+    CollectionName: race_bin_01/1_3_1_lapknockout/shortcut6
+    message_id: 0
+    Rotation: 194.54539489746094
+    Position:
+      X: 3582.991943359375
+      Y: -336.25119018554688
+      Z: 20.939449310302734
+    ShortcutMaxChance: 0
+    Name: race_bin_01/1_3_1_lapknockout/shortcut6
+    ShortcutMinChance: 0
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_3_1_lapknockout/shortcut3
+  Data:
+    CollectionName: race_bin_01/1_3_1_lapknockout/shortcut3
+    message_id: 0
+    Rotation: -81.81817626953125
+    Position:
+      X: 4826.39697265625
+      Y: 836.99261474609375
+      Z: 12.289059638977051
+    ShortcutMaxChance: 1
+    Name: race_bin_01/1_3_1_lapknockout/shortcut3
+    ShortcutMinChance: 1
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/1_3_1_lapknockout/shortcut1
+  Data:
+    CollectionName: race_bin_01/1_3_1_lapknockout/shortcut1
+    message_id: 0
+    Rotation: 135.272705078125
+    Position:
+      X: 3225.531982421875
+      Y: -64.0267333984375
+      Z: 16.706050872802734
+    ShortcutMaxChance: 0.89999997615814209
+    Name: race_bin_01/1_3_1_lapknockout/shortcut1
+    ShortcutMinChance: 0.80000001192092896
+    Template: false
+- ParentName: startgrid
+  Name: race_bin_01/1_3_1_lapknockout/startgrid_reverse
+  Data:
+    CollectionName: race_bin_01/1_3_1_lapknockout/startgrid_reverse
+    message_id: 0
+    Rotation: -94.545433044433594
+    Position:
+      X: 3281.281005859375
+      Y: -201.7593994140625
+      Z: 16.142580032348633
+    Name: race_bin_01/1_3_1_lapknockout/startgrid_reverse
+    Template: false
+- ParentName: startgrid
+  Name: race_bin_01/1_3_1_lapknockout/1_3_1_startgrid
+  Data:
+    CollectionName: race_bin_01/1_3_1_lapknockout/1_3_1_startgrid
+    message_id: 0
+    Rotation: 84.024139404296875
+    Position:
+      X: 3283.3798828125
+      Y: -175.32479858398438
+      Z: 18.295900344848633
+    Name: race_bin_01/1_3_1_lapknockout/1_3_1_startgrid
+    Template: false

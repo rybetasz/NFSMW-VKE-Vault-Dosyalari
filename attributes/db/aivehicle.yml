@@ -1,0 +1,531 @@
+- ParentName: 
+  Name: default
+  Data:
+    TETHER_WEIGHT: 0
+    DetachmentID: 2
+    MAXIMUM_AI_SPEED: 200
+    RepPointsForDestroying:
+      Capacity: 10
+      Data:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+    TopSpeedMultiplier: 1
+    AccelerationMultiplier: 1
+- ParentName: default
+  Name: racers
+  Data:
+    TETHER_WEIGHT: 0
+    DetachmentID: 2
+    MAXIMUM_AI_SPEED: 400
+    PlayerCollisionsDefault:
+      ClassKey: collisionreactions
+      CollectionKey: racers
+    PlayerCollisions:
+      Capacity: 1
+      Data:
+      - Goal: 147904679
+        Reaction:
+          ClassKey: collisionreactions
+          CollectionKey: racing
+- ParentName: default
+  Name: cops
+  Data:
+    TETHER_WEIGHT: 0
+    DetachmentID: 2
+    MAXIMUM_AI_SPEED: 200
+    PlayerCollisionsDefault:
+      ClassKey: collisionreactions
+      CollectionKey: cops
+    TopSpeedMultiplier: 1
+    PlayerCollisions:
+      Capacity: 1
+      Data:
+      - Goal: 2656416483
+        Reaction:
+          ClassKey: collisionreactions
+          CollectionKey: roadblock
+    AccelerationMultiplier: 1
+- ParentName: cops
+  Name: copsuvpatrol
+  Data:
+    TETHER_WEIGHT: 0
+    DetachmentID: 32
+    MAXIMUM_AI_SPEED: 250
+    PlayerCollisionsDefault:
+      ClassKey: collisionreactions
+      CollectionKey: copsuvpatrol
+    TopSpeedMultiplier: 0.89999997615814209
+    PlayerCollisions:
+      Capacity: 2
+      Data:
+      - Goal: 2656416483
+        Reaction:
+          ClassKey: collisionreactions
+          CollectionKey: roadblocksuvheavy
+      - Goal: 3965820082
+        Reaction:
+          ClassKey: collisionreactions
+          CollectionKey: coppit
+    AccelerationMultiplier: 1.0499999523162842
+    RepPointsForDestroying:
+      Capacity: 10
+      Data:
+      - 25000
+      - 25000
+      - 25000
+      - 25000
+      - 25000
+      - 25000
+      - 25000
+      - 25000
+      - 25000
+      - 25000
+- ParentName: cops
+  Name: copsuv
+  Data:
+    TETHER_WEIGHT: 0
+    DetachmentID: 32
+    MAXIMUM_AI_SPEED: 50
+    PlayerCollisionsDefault:
+      ClassKey: collisionreactions
+      CollectionKey: suvs
+    RepPointsForDestroying:
+      Capacity: 10
+      Data:
+      - 15000
+      - 15000
+      - 15000
+      - 15000
+      - 15000
+      - 15000
+      - 15000
+      - 15000
+      - 15000
+      - 15000
+    TopSpeedMultiplier: 0.5
+    PlayerCollisions:
+      Capacity: 1
+      Data:
+      - Goal: 2656416483
+        Reaction:
+          ClassKey: collisionreactions
+          CollectionKey: roadblocksuvheavy
+- ParentName: cops
+  Name: copsuvl
+  Data:
+    TETHER_WEIGHT: 0
+    DetachmentID: 32
+    MAXIMUM_AI_SPEED: 50
+    PlayerCollisionsDefault:
+      ClassKey: collisionreactions
+      CollectionKey: suvlight
+    RepPointsForDestroying:
+      Capacity: 10
+      Data:
+      - 10000
+      - 10000
+      - 10000
+      - 10000
+      - 10000
+      - 10000
+      - 10000
+      - 10000
+      - 10000
+      - 10000
+    TopSpeedMultiplier: 0.5
+    PlayerCollisions:
+      Capacity: 1
+      Data:
+      - Goal: 1020858126
+        Reaction:
+          ClassKey: collisionreactions
+          CollectionKey: roadblocksuvlight
+- ParentName: cops
+  Name: copsport
+  Data:
+    TETHER_WEIGHT: 0
+    DetachmentID: 16
+    MAXIMUM_AI_SPEED: 400
+    PlayerCollisionsDefault:
+      ClassKey: collisionreactions
+      CollectionKey: copsporthench
+    TopSpeedMultiplier: 2
+    PlayerCollisions:
+      Capacity: 2
+      Data:
+      - Goal: 2656416483
+        Reaction:
+          ClassKey: collisionreactions
+          CollectionKey: roadblockcopsporthench
+      - Goal: 3965820082
+        Reaction:
+          ClassKey: collisionreactions
+          CollectionKey: coppit
+    AccelerationMultiplier: 1.5
+    RepPointsForDestroying:
+      Capacity: 10
+      Data:
+      - 20000
+      - 20000
+      - 20000
+      - 20000
+      - 20000
+      - 20000
+      - 20000
+      - 20000
+      - 20000
+      - 100000
+- ParentName: cops
+  Name: copghost
+  Data:
+    TETHER_WEIGHT: 0
+    DetachmentID: 2
+    MAXIMUM_AI_SPEED: 310
+    PlayerCollisionsDefault:
+      ClassKey: collisionreactions
+      CollectionKey: copghost
+    TopSpeedMultiplier: 1.1499999761581421
+    PlayerCollisions:
+      Capacity: 2
+      Data:
+      - Goal: 2656416483
+        Reaction:
+          ClassKey: collisionreactions
+          CollectionKey: roadblockcopghost
+      - Goal: 3965820082
+        Reaction:
+          ClassKey: collisionreactions
+          CollectionKey: coppit
+    AccelerationMultiplier: 1.0900000333786011
+    RepPointsForDestroying:
+      Capacity: 10
+      Data:
+      - 500
+      - 500
+      - 500
+      - 500
+      - 500
+      - 500
+      - 500
+      - 500
+      - 500
+      - 500
+- ParentName: cops
+  Name: copsportghost
+  Data:
+    TETHER_WEIGHT: 0
+    DetachmentID: 16
+    MAXIMUM_AI_SPEED: 400
+    PlayerCollisionsDefault:
+      ClassKey: collisionreactions
+      CollectionKey: copsportghost
+    TopSpeedMultiplier: 1.5
+    PlayerCollisions:
+      Capacity: 2
+      Data:
+      - Goal: 2656416483
+        Reaction:
+          ClassKey: collisionreactions
+          CollectionKey: roadblockcopsportghost
+      - Goal: 3965820082
+        Reaction:
+          ClassKey: collisionreactions
+          CollectionKey: coppit
+    AccelerationMultiplier: 1.25
+    RepPointsForDestroying:
+      Capacity: 10
+      Data:
+      - 25000
+      - 25000
+      - 25000
+      - 25000
+      - 25000
+      - 25000
+      - 25000
+      - 25000
+      - 25000
+      - 25000
+- ParentName: cops
+  Name: copsporthench
+  Data:
+    TETHER_WEIGHT: 0
+    DetachmentID: 16
+    MAXIMUM_AI_SPEED: 400
+    PlayerCollisionsDefault:
+      ClassKey: collisionreactions
+      CollectionKey: copsporthench
+    TopSpeedMultiplier: 1.2999999523162842
+    PlayerCollisions:
+      Capacity: 2
+      Data:
+      - Goal: 2656416483
+        Reaction:
+          ClassKey: collisionreactions
+          CollectionKey: roadblockcopsporthench
+      - Goal: 3965820082
+        Reaction:
+          ClassKey: collisionreactions
+          CollectionKey: coppit
+    AccelerationMultiplier: 1.2000000476837158
+    RepPointsForDestroying:
+      Capacity: 10
+      Data:
+      - 20000
+      - 20000
+      - 20000
+      - 20000
+      - 20000
+      - 20000
+      - 20000
+      - 20000
+      - 20000
+      - 20000
+- ParentName: cops
+  Name: copmidsize
+  Data:
+    TETHER_WEIGHT: 0
+    DetachmentID: 2
+    MAXIMUM_AI_SPEED: 280
+    RepPointsForDestroying:
+      Capacity: 10
+      Data:
+      - 250
+      - 250
+      - 250
+      - 250
+      - 250
+      - 250
+      - 250
+      - 250
+      - 250
+      - 250
+    TopSpeedMultiplier: 1.6000000238418579
+    PlayerCollisions:
+      Capacity: 2
+      Data:
+      - Goal: 2656416483
+        Reaction:
+          ClassKey: collisionreactions
+          CollectionKey: roadblock
+      - Goal: 3965820082
+        Reaction:
+          ClassKey: collisionreactions
+          CollectionKey: coppit
+    AccelerationMultiplier: 1.0499999523162842
+- ParentName: cops
+  Name: copcompact
+  Data:
+    TETHER_WEIGHT: 100
+    DetachmentID: 4
+    MAXIMUM_AI_SPEED: 200
+- ParentName: cops
+  Name: copgto
+  Data:
+    TETHER_WEIGHT: 0
+    DetachmentID: 2
+    MAXIMUM_AI_SPEED: 325
+    PlayerCollisionsDefault:
+      ClassKey: collisionreactions
+      CollectionKey: copgto
+    TopSpeedMultiplier: 1.2000000476837158
+    PlayerCollisions:
+      Capacity: 2
+      Data:
+      - Goal: 2656416483
+        Reaction:
+          ClassKey: collisionreactions
+          CollectionKey: roadblockgto
+      - Goal: 3965820082
+        Reaction:
+          ClassKey: collisionreactions
+          CollectionKey: coppit
+    AccelerationMultiplier: 1.1000000238418579
+    RepPointsForDestroying:
+      Capacity: 10
+      Data:
+      - 2500
+      - 2500
+      - 2500
+      - 2500
+      - 2500
+      - 2500
+      - 2500
+      - 2500
+      - 2500
+      - 2500
+- ParentName: cops
+  Name: copcross
+  Data:
+    TETHER_WEIGHT: 0
+    DetachmentID: 16
+    MAXIMUM_AI_SPEED: 400
+    PlayerCollisionsDefault:
+      ClassKey: collisionreactions
+      CollectionKey: copcross
+    TopSpeedMultiplier: 2
+    PlayerCollisions:
+      Capacity: 2
+      Data:
+      - Goal: 2656416483
+        Reaction:
+          ClassKey: collisionreactions
+          CollectionKey: roadblock
+      - Goal: 3965820082
+        Reaction:
+          ClassKey: collisionreactions
+          CollectionKey: coppit
+    AccelerationMultiplier: 1.5
+    RepPointsForDestroying:
+      Capacity: 10
+      Data:
+      - 100000
+      - 100000
+      - 100000
+      - 100000
+      - 100000
+      - 100000
+      - 100000
+      - 100000
+      - 100000
+      - 100000
+- ParentName: cops
+  Name: copgtoghost
+  Data:
+    TETHER_WEIGHT: 0
+    DetachmentID: 2
+    MAXIMUM_AI_SPEED: 350
+    PlayerCollisionsDefault:
+      ClassKey: collisionreactions
+      CollectionKey: copgtoghost
+    TopSpeedMultiplier: 1.25
+    PlayerCollisions:
+      Capacity: 2
+      Data:
+      - Goal: 2656416483
+        Reaction:
+          ClassKey: collisionreactions
+          CollectionKey: roadblockgtoghost
+      - Goal: 3965820082
+        Reaction:
+          ClassKey: collisionreactions
+          CollectionKey: coppit
+    AccelerationMultiplier: 1.1499999761581421
+    RepPointsForDestroying:
+      Capacity: 10
+      Data:
+      - 5000
+      - 5000
+      - 5000
+      - 5000
+      - 5000
+      - 5000
+      - 5000
+      - 5000
+      - 5000
+      - 5000
+- ParentName: default
+  Name: challengeseries
+  Data:
+    TETHER_WEIGHT: 0
+    DetachmentID: 2
+    MAXIMUM_AI_SPEED: 400
+    PlayerCollisionsDefault:
+      ClassKey: collisionreactions
+      CollectionKey: racers
+- ParentName: challengeseries
+  Name: cssuv
+  Data:
+    TETHER_WEIGHT: 0
+    DetachmentID: 32
+    MAXIMUM_AI_SPEED: 400
+    PlayerCollisionsDefault:
+      ClassKey: collisionreactions
+      CollectionKey: cscopsuv
+    RepPointsForDestroying:
+      Capacity: 10
+      Data:
+      - 200
+      - 400
+      - 1700
+      - 6500
+      - 17500
+      - 17500
+      - 17500
+      - 17500
+      - 17500
+      - 17500
+- ParentName: challengeseries
+  Name: cscopmidsize
+  Data:
+    TETHER_WEIGHT: 0
+    DetachmentID: 2
+    MAXIMUM_AI_SPEED: 400
+    PlayerCollisionsDefault:
+      ClassKey: collisionreactions
+      CollectionKey: cscopmidsize
+    RepPointsForDestroying:
+      Capacity: 10
+      Data:
+      - 100
+      - 200
+      - 1000
+      - 5000
+      - 15000
+      - 15000
+      - 15000
+      - 15000
+      - 15000
+      - 15000
+- ParentName: challengeseries
+  Name: semi
+  Data:
+    TETHER_WEIGHT: 0
+    DetachmentID: 2
+    MAXIMUM_AI_SPEED: 400
+    PlayerCollisionsDefault:
+      ClassKey: collisionreactions
+      CollectionKey: semi
+- ParentName: default
+  Name: traffic
+  Data:
+    TETHER_WEIGHT: 0
+    DetachmentID: 2
+    MAXIMUM_AI_SPEED: 200
+    PlayerCollisionsDefault:
+      ClassKey: collisionreactions
+      CollectionKey: traffic
+- ParentName: traffic
+  Name: truck
+  Data:
+    TETHER_WEIGHT: 0
+    DetachmentID: 2
+    MAXIMUM_AI_SPEED: 200
+    PlayerCollisionsDefault:
+      ClassKey: collisionreactions
+      CollectionKey: truck
+- ParentName: traffic
+  Name: street
+  Data:
+    TETHER_WEIGHT: 0
+    DetachmentID: 2
+    MAXIMUM_AI_SPEED: 200
+    PlayerCollisionsDefault:
+      ClassKey: collisionreactions
+      CollectionKey: street
+- ParentName: traffic
+  Name: van
+  Data:
+    TETHER_WEIGHT: 0
+    DetachmentID: 2
+    MAXIMUM_AI_SPEED: 200
+    PlayerCollisionsDefault:
+      ClassKey: collisionreactions
+      CollectionKey: van

@@ -1,0 +1,297 @@
+- ParentName: finishline
+  Name: race_bin_02/2_4_2_tollbooth/finishline_reverse
+  Data:
+    CollectionName: race_bin_02/2_4_2_tollbooth/finishline_reverse
+    message_id: 0
+    ParticleEffect: ''
+    Position:
+      X: 1549
+      Y: 1698
+      Z: 166
+    Name: race_bin_02/2_4_2_tollbooth/finishline_reverse
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 50
+      Z: 40
+    Rotation: 180
+- ParentName: finishline
+  Name: race_bin_02/2_4_2_tollbooth/finishline
+  Data:
+    CollectionName: race_bin_02/2_4_2_tollbooth/finishline
+    message_id: 0
+    ParticleEffect: ''
+    Position:
+      X: 1714.5
+      Y: -138
+      Z: 100
+    Name: race_bin_02/2_4_2_tollbooth/finishline
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 35
+      Z: 40
+    Rotation: 298
+- ParentName: time_bonus_checkpoint
+  Name: race_bin_02/2_4_2_tollbooth/time_bonus_checkpoint1
+  Data:
+    CollectionName: race_bin_02/2_4_2_tollbooth/time_bonus_checkpoint1
+    message_id: 0
+    Rotation: 40
+    Position:
+      X: 2535
+      Y: 3500
+      Z: 195
+    Name: race_bin_02/2_4_2_tollbooth/time_bonus_checkpoint1
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 50
+      Z: 40
+    TimeBonus: 35
+- ParentName: time_bonus_checkpoint
+  Name: race_bin_02/2_4_2_tollbooth/time_bonus_checkpoint3
+  Data:
+    CollectionName: race_bin_02/2_4_2_tollbooth/time_bonus_checkpoint3
+    message_id: 0
+    Rotation: 318
+    Position:
+      X: -479
+      Y: 2456
+      Z: 245
+    Name: race_bin_02/2_4_2_tollbooth/time_bonus_checkpoint3
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 40
+      Z: 40
+    TimeBonus: 60
+- ParentName: time_bonus_checkpoint
+  Name: race_bin_02/2_4_2_tollbooth/time_bonus_checkpoint2
+  Data:
+    CollectionName: race_bin_02/2_4_2_tollbooth/time_bonus_checkpoint2
+    message_id: 0
+    Rotation: 160
+    Position:
+      X: 1106
+      Y: 4431.5
+      Z: 212
+    Name: race_bin_02/2_4_2_tollbooth/time_bonus_checkpoint2
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 40
+      Z: 40
+    TimeBonus: 105
+- ParentName: checkpoint
+  Name: race_bin_02/2_4_2_tollbooth/checkpoint8
+  Data:
+    CollectionName: race_bin_02/2_4_2_tollbooth/checkpoint8
+    message_id: 0
+    Rotation: -31.943210601806641
+    Position:
+      X: 903.13262939453125
+      Y: 2621.672119140625
+      Z: 151.47659301757812
+    Name: race_bin_02/2_4_2_tollbooth/checkpoint8
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 30
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_02/2_4_2_tollbooth/checkpoint3
+  Data:
+    CollectionName: race_bin_02/2_4_2_tollbooth/checkpoint3
+    message_id: 0
+    Rotation: 24.276840209960938
+    Position:
+      X: 1517.1490478515625
+      Y: 3766.77587890625
+      Z: 188.36129760742188
+    Name: race_bin_02/2_4_2_tollbooth/checkpoint3
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 30
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_02/2_4_2_tollbooth/checkpoint10
+  Data:
+    CollectionName: race_bin_02/2_4_2_tollbooth/checkpoint10
+    message_id: 0
+    Rotation: -129.68949890136719
+    Position:
+      X: -448.297607421875
+      Y: 2876.7470703125
+      Z: 200.48240661621094
+    Name: race_bin_02/2_4_2_tollbooth/checkpoint10
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 50
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_02/2_4_2_tollbooth/checkpoint1
+  Data:
+    CollectionName: race_bin_02/2_4_2_tollbooth/checkpoint1
+    message_id: 0
+    Rotation: 134.1614990234375
+    Position:
+      X: 1614.239013671875
+      Y: 2191.179931640625
+      Z: 142.60940551757812
+    Name: race_bin_02/2_4_2_tollbooth/checkpoint1
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 50
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_02/2_4_2_tollbooth/checkpoint2
+  Data:
+    CollectionName: race_bin_02/2_4_2_tollbooth/checkpoint2
+    message_id: 0
+    Rotation: 121.70359802246094
+    Position:
+      X: 1184.510009765625
+      Y: 3006.013916015625
+      Z: 196.33889770507812
+    Name: race_bin_02/2_4_2_tollbooth/checkpoint2
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 30
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_02/2_4_2_tollbooth/checkpoint11
+  Data:
+    CollectionName: race_bin_02/2_4_2_tollbooth/checkpoint11
+    message_id: 0
+    Rotation: -42.484470367431641
+    Position:
+      X: 1571.5799560546875
+      Y: 1118.5379638671875
+      Z: 119.11419677734375
+    Name: race_bin_02/2_4_2_tollbooth/checkpoint11
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 55
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_02/2_4_2_tollbooth/checkpoint4
+  Data:
+    CollectionName: race_bin_02/2_4_2_tollbooth/checkpoint4
+    message_id: 0
+    Rotation: -53.345169067382812
+    Position:
+      X: 2076.468017578125
+      Y: 2751.193115234375
+      Z: 127.41010284423828
+    Name: race_bin_02/2_4_2_tollbooth/checkpoint4
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 55
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_02/2_4_2_tollbooth/checkpoint9
+  Data:
+    CollectionName: race_bin_02/2_4_2_tollbooth/checkpoint9
+    message_id: 0
+    Rotation: 145.98049926757812
+    Position:
+      X: 810.2667236328125
+      Y: 2301.882080078125
+      Z: 155.56640625
+    Name: race_bin_02/2_4_2_tollbooth/checkpoint9
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 70
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_02/2_4_2_tollbooth/checkpoint7
+  Data:
+    CollectionName: race_bin_02/2_4_2_tollbooth/checkpoint7
+    message_id: 0
+    Rotation: -175.68769836425781
+    Position:
+      X: 460.9735107421875
+      Y: 3349.256103515625
+      Z: 194.25489807128906
+    Name: race_bin_02/2_4_2_tollbooth/checkpoint7
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 30
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_02/2_4_2_tollbooth/checkpoint6
+  Data:
+    CollectionName: race_bin_02/2_4_2_tollbooth/checkpoint6
+    message_id: 0
+    Rotation: -68.677902221679688
+    Position:
+      X: 688.3350830078125
+      Y: 3998.868896484375
+      Z: 212.18159484863281
+    Name: race_bin_02/2_4_2_tollbooth/checkpoint6
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 40
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_02/2_4_2_tollbooth/checkpoint5
+  Data:
+    CollectionName: race_bin_02/2_4_2_tollbooth/checkpoint5
+    message_id: 0
+    Rotation: 178.24310302734375
+    Position:
+      X: 1814.822998046875
+      Y: 4302.97021484375
+      Z: 232.48629760742188
+    Name: race_bin_02/2_4_2_tollbooth/checkpoint5
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 60
+      Z: 40
+- ParentName: resetplayertrigger
+  Name: race_bin_02/2_4_2_tollbooth/wrongway
+  Data:
+    CollectionName: race_bin_02/2_4_2_tollbooth/wrongway
+    message_id: 0
+    Rotation: 179.92579650878906
+    Position:
+      X: 1493.2139892578125
+      Y: 1695.39501953125
+      Z: 167.59280395507812
+    Name: race_bin_02/2_4_2_tollbooth/wrongway
+    Template: false
+- ParentName: startgrid
+  Name: race_bin_02/2_4_2_tollbooth/startgrid_reverse
+  Data:
+    CollectionName: race_bin_02/2_4_2_tollbooth/startgrid_reverse
+    message_id: 0
+    Rotation: 115.27269744873047
+    Position:
+      X: 1724.93994140625
+      Y: -140.64210510253906
+      Z: 97.4453125
+    Name: race_bin_02/2_4_2_tollbooth/startgrid_reverse
+    Template: false
+- ParentName: startgrid
+  Name: race_bin_02/2_4_2_tollbooth/startgrid
+  Data:
+    CollectionName: race_bin_02/2_4_2_tollbooth/startgrid
+    message_id: 0
+    Rotation: -0.074210047721862793
+    Position:
+      X: 1543.2139892578125
+      Y: 1695.3299560546875
+      Z: 167.59280395507812
+    Name: race_bin_02/2_4_2_tollbooth/startgrid
+    Template: false

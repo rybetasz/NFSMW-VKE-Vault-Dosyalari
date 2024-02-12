@@ -1,0 +1,2484 @@
+- ParentName: 
+  Name: default
+  Data:
+    BankName: GEAR_SML_Base.abk
+    Down_Shift_Sound_Delay: 0.05000000074505806
+    Up_Engaging_Attack_Vol: 0.40000000596046448
+    LFO_RPM_Amp: 25
+    LFO_Vol_Amp: 6000
+    Down_Engaging_Rise_T: 600
+    Up_Engaging_Attack_T: 500
+    LFO_RPM_Decay_Time: 700
+    Down_Reattach_Scale: 0.85000002384185791
+    Down_Engaging_Fall_T: 370
+    Up_Shift_Sound_Delay: 0.05000000074505806
+    Up_Vol_Shift: 28000
+    Down_Disengage_Fall_T: 250
+    LFO_Vol_Freq: 250
+    Down_Disengage_Fall_RPM: 800
+    Down_Vol_Shift: 22000
+    Down_Engaging_Rise_RPM: 600
+    LFO_RPM_Freq: 250
+    LFO_Vol_Decay_Time: 700
+    Up_Engage_Curve:
+      Data:
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0.38265308737754822
+      - 1.8448280096054077
+      - 0
+      - 0
+      - 0.65128207206726074
+      - 0.25862070918083191
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+    Up_Engage: 9831400
+    Up_DisengageFall:
+      Capacity: 1
+      Data:
+      - Value: 13110700
+    Down_Engaging_Fall_RPM: 500
+    Up_DisengageFall_Curve:
+      Capacity: 1
+      Data:
+      - Data:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0.23469389975070953
+        - -0.48275861144065857
+        - 0
+        - 0
+        - 0.59183681011199951
+        - -0.84482747316360474
+        - 0
+        - 0
+        - 1
+        - -1
+        - 0
+        - 0
+- ParentName: default
+  Name: semi_truck
+  Data:
+    BankName: GEAR_BIG_Base.abk
+    Down_Shift_Sound_Delay: 0
+    Up_Engaging_Attack_Vol: 0
+    LFO_RPM_Amp: 0
+    LFO_Vol_Amp: 1000
+    Down_Engaging_Rise_T: 500
+    Up_Engaging_Attack_T: 500
+    LFO_RPM_Decay_Time: 1000
+    Down_Reattach_Scale: 0.5
+    Down_Engaging_Fall_T: 250
+    Up_Shift_Sound_Delay: 0
+    Up_Vol_Shift: 0
+    Down_Disengage_Fall_T: 400
+    LFO_Vol_Freq: 100
+    Down_Disengage_Fall_RPM: 400
+    Down_Vol_Shift: 0
+    Down_Engaging_Rise_RPM: 500
+    LFO_RPM_Freq: 300
+    LFO_Vol_Decay_Time: 1000
+    Down_Engaging_Fall_RPM: 500
+    Up_Engage_Curve:
+      Data:
+      - 0.041666671633720398
+      - 0.12068969756364822
+      - 0
+      - 0
+      - 0.658333420753479
+      - 0.43103450536727905
+      - 0
+      - 0
+      - 1.0083329677581787
+      - 0.4655173122882843
+      - 0
+      - 0
+      - 1
+      - -1
+      - 0
+      - 0
+    Up_Engage: 65536500
+    Up_DisengageFall_Curve:
+      Capacity: 1
+      Data:
+      - Data:
+        - -0.016666669398546219
+        - 0.98275858163833618
+        - 0
+        - 0
+        - 0.24509799480438232
+        - -0.25999999046325684
+        - 0
+        - 0
+        - 0.60784322023391724
+        - -0.47999998927116394
+        - 0
+        - 0
+        - 1.0098040103912354
+        - -0.77999997138977051
+        - 0
+        - 0
+    Up_DisengageFall:
+      Capacity: 1
+      Data:
+      - Value: 52430800
+- ParentName: default
+  Name: 0x22479BD5
+  Data:
+    BankName: GEAR_SML_Lev1.abk
+    Down_Shift_Sound_Delay: 0.029999999329447746
+    Up_Engaging_Attack_Vol: 0.090000003576278687
+    LFO_RPM_Amp: 600
+    LFO_Vol_Amp: 800
+    Down_Engaging_Rise_T: 400
+    Up_Engaging_Attack_T: 500
+    LFO_RPM_Decay_Time: 500
+    Down_Reattach_Scale: 0.85000002384185791
+    Down_Engaging_Fall_T: 350
+    Up_Shift_Sound_Delay: 0.05000000074505806
+    Up_Vol_Shift: 18500
+    Down_Disengage_Fall_T: 250
+    LFO_Vol_Freq: 150
+    Down_Disengage_Fall_RPM: 700
+    Down_Vol_Shift: 15000
+    Down_Engaging_Rise_RPM: 500
+    LFO_RPM_Freq: 180
+    LFO_Vol_Decay_Time: 500
+    Up_Engage_Curve:
+      Data:
+      - 0.004950494971126318
+      - 0
+      - 0
+      - 0
+      - 0.069306932389736176
+      - 0.93103450536727905
+      - 0
+      - 0
+      - 0.25247529149055481
+      - -0.017241360619664192
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+    Up_Engage: 19661800
+    Up_DisengageFall:
+      Capacity: 2
+      Data:
+      - Value: 16385000
+      - Value: 16385000
+    Down_Engaging_Fall_RPM: 400
+    Up_DisengageFall_Curve:
+      Capacity: 2
+      Data:
+      - Data:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0.56551718711853027
+        - -0.017241360619664192
+        - 0
+        - 0
+        - 0.62758618593215942
+        - -0.63793098926544189
+        - 0
+        - 0
+        - 1
+        - -1
+        - 0
+        - 0
+      - Data:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0.51034480333328247
+        - -0.12068960070610046
+        - 0
+        - 0
+        - 0.58620691299438477
+        - -0.77586209774017334
+        - 0
+        - 0
+        - 1
+        - -1
+        - 0
+        - 0
+- ParentName: 0x22479BD5
+  Name: 0x59B2135C
+  Data:
+    BankName: GEAR_LRG_Base.abk
+    Down_Shift_Sound_Delay: 0.25
+    Up_Engaging_Attack_Vol: 0.15000000596046448
+    LFO_RPM_Amp: 600
+    LFO_Vol_Amp: 1000
+    Down_Engaging_Rise_T: 500
+    Up_Engaging_Attack_T: 500
+    LFO_RPM_Decay_Time: 400
+    Down_Reattach_Scale: 0.5
+    Down_Engaging_Fall_T: 250
+    Up_Shift_Sound_Delay: 0.20000000298023224
+    Up_Vol_Shift: 24000
+    Down_Disengage_Fall_T: 400
+    LFO_Vol_Freq: 200
+    Down_Disengage_Fall_RPM: 400
+    Down_Vol_Shift: 15000
+    Down_Engaging_Rise_RPM: 500
+    LFO_RPM_Freq: 180
+    LFO_Vol_Decay_Time: 400
+    Up_Engage_Curve:
+      Data:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0.025906739756464958
+      - 1.7758619785308838
+      - 0
+      - 0
+      - 0.2487047016620636
+      - 0.017241360619664192
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+    Up_DisengageFall:
+      Capacity: 2
+      Data:
+      - Value: 18351830
+      - Value: 18351830
+    Up_Engage: 29492000
+- ParentName: 0x22479BD5
+  Name: 0xE2C6C443
+  Data:
+    BankName: GEAR_SML_Lev1.abk
+    Down_Shift_Sound_Delay: 0.029999999329447746
+    Up_Engaging_Attack_Vol: 0.090000003576278687
+    LFO_RPM_Amp: 600
+    LFO_Vol_Amp: 800
+    Down_Engaging_Rise_T: 400
+    Up_Engaging_Attack_T: 500
+    LFO_RPM_Decay_Time: 500
+    Down_Reattach_Scale: 0.85000002384185791
+    Down_Engaging_Fall_T: 350
+    Up_Shift_Sound_Delay: 0.05000000074505806
+    Up_Vol_Shift: 18500
+    Down_Disengage_Fall_T: 250
+    LFO_Vol_Freq: 150
+    Down_Disengage_Fall_RPM: 700
+    Down_Vol_Shift: 15000
+    Down_Engaging_Rise_RPM: 500
+    LFO_RPM_Freq: 180
+    LFO_Vol_Decay_Time: 500
+- ParentName: 0x22479BD5
+  Name: 0xFDEF9E45
+  Data:
+    BankName: GEAR_MED_Lev1.abk
+    Down_Shift_Sound_Delay: 0.029999999329447746
+    Up_Engaging_Attack_Vol: 0.20000000298023224
+    LFO_RPM_Amp: 300
+    LFO_Vol_Amp: 5000
+    Down_Engaging_Rise_T: 450
+    Up_Engaging_Attack_T: 500
+    LFO_RPM_Decay_Time: 500
+    Down_Reattach_Scale: 0.85000002384185791
+    Down_Engaging_Fall_T: 350
+    Up_Shift_Sound_Delay: 0.05000000074505806
+    Up_Vol_Shift: 20000
+    Down_Disengage_Fall_T: 250
+    LFO_Vol_Freq: 300
+    Down_Disengage_Fall_RPM: 700
+    Down_Vol_Shift: 18000
+    Down_Engaging_Rise_RPM: 500
+    LFO_RPM_Freq: 300
+    LFO_Vol_Decay_Time: 750
+- ParentName: default
+  Name: ccx
+  Data:
+    BankName: GEAR_MED_Base.abk
+    Down_Shift_Sound_Delay: 0.05000000074505806
+    Up_Engaging_Attack_Vol: 0.30000001192092896
+    LFO_RPM_Amp: 700
+    LFO_Vol_Amp: 2000
+    Down_Engaging_Rise_T: 250
+    Up_Engaging_Attack_T: 500
+    LFO_RPM_Decay_Time: 800
+    Down_Reattach_Scale: 0.5
+    Down_Engaging_Fall_T: 100
+    Up_Shift_Sound_Delay: 0.05000000074505806
+    Up_Vol_Shift: 25000
+    Down_Disengage_Fall_T: 200
+    LFO_Vol_Freq: 250
+    Down_Disengage_Fall_RPM: 1500
+    Down_Vol_Shift: 25000
+    Down_Engaging_Rise_RPM: 1000
+    LFO_RPM_Freq: 100
+    LFO_Vol_Decay_Time: 1500
+    Down_Engaging_Fall_RPM: 500
+    Up_Engage_Curve:
+      Data:
+      - 0.10833329707384109
+      - 1.4137929677963257
+      - 0
+      - 0
+      - 0.20833329856395721
+      - 0.67241382598876953
+      - 0
+      - 0
+      - 0.38333329558372498
+      - -0.034482721239328384
+      - 0
+      - 0
+      - 0.82499998807907104
+      - -0.017241360619664192
+      - 0
+      - 0
+    Up_Engage: 19661800
+    Up_DisengageFall_Curve:
+      Capacity: 1
+      Data:
+      - Data:
+        - 0
+        - 0.94827592372894287
+        - 0
+        - 0
+        - 0.55000001192092896
+        - 1.5
+        - 0
+        - 0
+        - 0.6416667103767395
+        - 0.18965519964694977
+        - 0
+        - 0
+        - 1
+        - -1
+        - 0
+        - 0
+    Up_DisengageFall:
+      Capacity: 1
+      Data:
+      - Value: 9832400
+- ParentName: ccx
+  Name: ccx_1
+  Data:
+    BankName: GEAR_MED_Lev2.abk
+    Down_Shift_Sound_Delay: 0.05000000074505806
+    Up_Engaging_Attack_Vol: 0.30000001192092896
+    LFO_RPM_Amp: 700
+    LFO_Vol_Amp: 2000
+    Down_Engaging_Rise_T: 250
+    Up_Engaging_Attack_T: 500
+    LFO_RPM_Decay_Time: 800
+    Down_Reattach_Scale: 0.5
+    Down_Engaging_Fall_T: 100
+    Up_Shift_Sound_Delay: 0.05000000074505806
+    Up_Vol_Shift: 25000
+    Down_Disengage_Fall_T: 200
+    LFO_Vol_Freq: 250
+    Down_Disengage_Fall_RPM: 1500
+    Down_Vol_Shift: 25000
+    Down_Engaging_Rise_RPM: 1000
+    LFO_RPM_Freq: 100
+    LFO_Vol_Decay_Time: 1500
+    Down_Engaging_Fall_RPM: 500
+    Up_Engage_Curve:
+      Data:
+      - 0.10833329707384109
+      - 1.4137929677963257
+      - 0
+      - 0
+      - 0.20833329856395721
+      - 0.67241382598876953
+      - 0
+      - 0
+      - 0.38333329558372498
+      - -0.034482721239328384
+      - 0
+      - 0
+      - 0.82499998807907104
+      - -0.017241360619664192
+      - 0
+      - 0
+    Up_Engage: 19661800
+    Up_DisengageFall_Curve:
+      Capacity: 1
+      Data:
+      - Data:
+        - 0
+        - 0.94827592372894287
+        - 0
+        - 0
+        - 0.55000001192092896
+        - 1.5
+        - 0
+        - 0
+        - 0.6416667103767395
+        - 0.18965519964694977
+        - 0
+        - 0
+        - 1
+        - -1
+        - 0
+        - 0
+    Up_DisengageFall:
+      Capacity: 1
+      Data:
+      - Value: 6555600
+- ParentName: default
+  Name: exotic
+  Data:
+    BankName: GEAR_MED_Base.abk
+    Down_Shift_Sound_Delay: 0.05000000074505806
+    Up_Engaging_Attack_Vol: 0.30000001192092896
+    LFO_RPM_Amp: 700
+    LFO_Vol_Amp: 3000
+    Down_Engaging_Rise_T: 250
+    Up_Engaging_Attack_T: 500
+    LFO_RPM_Decay_Time: 700
+    Down_Reattach_Scale: 0.5
+    Down_Engaging_Fall_T: 100
+    Up_Shift_Sound_Delay: 0.05000000074505806
+    Up_Vol_Shift: 25000
+    Down_Disengage_Fall_T: 200
+    LFO_Vol_Freq: 250
+    Down_Disengage_Fall_RPM: 2000
+    Down_Vol_Shift: 25000
+    Down_Engaging_Rise_RPM: 1000
+    LFO_RPM_Freq: 100
+    LFO_Vol_Decay_Time: 3000
+    Down_Engaging_Fall_RPM: 500
+    Up_Engage_Curve:
+      Data:
+      - 0
+      - 0.98275858163833618
+      - 0
+      - 0
+      - 0.19166670739650726
+      - 0.20689660310745239
+      - 0
+      - 0
+      - 0.55833327770233154
+      - 0.3965516984462738
+      - 0
+      - 0
+      - 1
+      - -0.068965516984462738
+      - 0
+      - 0
+    Up_Engage: 9831400
+    Up_DisengageFall_Curve:
+      Capacity: 1
+      Data:
+      - Data:
+        - 0
+        - 1
+        - 0
+        - 0
+        - 0.15000000596046448
+        - 0.74137932062149048
+        - 0
+        - 0
+        - 0.38333329558372498
+        - 0.41379308700561523
+        - 0
+        - 0
+        - 0.966666579246521
+        - 0
+        - 0
+        - 0
+    Up_DisengageFall:
+      Capacity: 1
+      Data:
+      - Value: 9832400
+- ParentName: exotic
+  Name: exotic_1
+  Data:
+    BankName: GEAR_MED_Lev1.abk
+    Down_Shift_Sound_Delay: 0.05000000074505806
+    Up_Engaging_Attack_Vol: 0.30000001192092896
+    LFO_RPM_Amp: 700
+    LFO_Vol_Amp: 2000
+    Down_Engaging_Rise_T: 250
+    Up_Engaging_Attack_T: 500
+    LFO_RPM_Decay_Time: 700
+    Down_Reattach_Scale: 0.20000000298023224
+    Down_Engaging_Fall_T: 100
+    Up_Shift_Sound_Delay: 0.05000000074505806
+    Up_Vol_Shift: 25000
+    Down_Disengage_Fall_T: 200
+    LFO_Vol_Freq: 250
+    Down_Disengage_Fall_RPM: 1500
+    Down_Vol_Shift: 25000
+    Down_Engaging_Rise_RPM: 1000
+    LFO_RPM_Freq: 100
+    LFO_Vol_Decay_Time: 2000
+    Down_Engaging_Fall_RPM: 500
+    Up_Engage: 9831400
+- ParentName: exotic_1
+  Name: exotic_2
+  Data:
+    BankName: GEAR_MED_Lev2.abk
+    Down_Shift_Sound_Delay: 0.05000000074505806
+    Up_Engaging_Attack_Vol: 0.30000001192092896
+    LFO_RPM_Amp: 700
+    LFO_Vol_Amp: 2000
+    Down_Engaging_Rise_T: 250
+    Up_Engaging_Attack_T: 500
+    LFO_RPM_Decay_Time: 800
+    Down_Reattach_Scale: 0.5
+    Down_Engaging_Fall_T: 100
+    Up_Shift_Sound_Delay: 0.05000000074505806
+    Up_Vol_Shift: 25000
+    Down_Disengage_Fall_T: 200
+    LFO_Vol_Freq: 250
+    Down_Disengage_Fall_RPM: 1500
+    Down_Vol_Shift: 25000
+    Down_Engaging_Rise_RPM: 1000
+    LFO_RPM_Freq: 100
+    LFO_Vol_Decay_Time: 1500
+    Down_Engaging_Fall_RPM: 500
+    Up_Engage_Curve:
+      Data:
+      - 0.10833329707384109
+      - 1.4137929677963257
+      - 0
+      - 0
+      - 0.20833329856395721
+      - 0.67241382598876953
+      - 0
+      - 0
+      - 0.38333329558372498
+      - -0.034482721239328384
+      - 0
+      - 0
+      - 0.82499998807907104
+      - -0.017241360619664192
+      - 0
+      - 0
+    Up_Engage: 19661800
+    Up_DisengageFall_Curve:
+      Capacity: 1
+      Data:
+      - Data:
+        - 0
+        - 0.94827592372894287
+        - 0
+        - 0
+        - 0.55000001192092896
+        - 1.5
+        - 0
+        - 0
+        - 0.6416667103767395
+        - 0.18965519964694977
+        - 0
+        - 0
+        - 1
+        - -1
+        - 0
+        - 0
+    Up_DisengageFall:
+      Capacity: 1
+      Data:
+      - Value: 6555600
+- ParentName: exotic_2
+  Name: 0x9B6B5F51
+  Data:
+    BankName: GEAR_MED_Lev3.abk
+    Down_Shift_Sound_Delay: 0.05000000074505806
+    Up_Engaging_Attack_Vol: 0.30000001192092896
+    LFO_RPM_Amp: 700
+    LFO_Vol_Amp: 2000
+    Down_Engaging_Rise_T: 250
+    Up_Engaging_Attack_T: 500
+    LFO_RPM_Decay_Time: 800
+    Down_Reattach_Scale: 0.5
+    Down_Engaging_Fall_T: 100
+    Up_Shift_Sound_Delay: 0.05000000074505806
+    Up_Vol_Shift: 25000
+    Down_Disengage_Fall_T: 200
+    LFO_Vol_Freq: 250
+    Down_Disengage_Fall_RPM: 1500
+    Down_Vol_Shift: 25000
+    Down_Engaging_Rise_RPM: 1000
+    LFO_RPM_Freq: 100
+    LFO_Vol_Decay_Time: 1500
+    Down_Engaging_Fall_RPM: 500
+    Up_Engage_Curve:
+      Data:
+      - 0.10833329707384109
+      - 1.4137929677963257
+      - 0
+      - 0
+      - 0.20833329856395721
+      - 0.67241382598876953
+      - 0
+      - 0
+      - 0.38333329558372498
+      - -0.034482721239328384
+      - 0
+      - 0
+      - 0.82499998807907104
+      - -0.017241360619664192
+      - 0
+      - 0
+    Up_Engage: 19661800
+    Up_DisengageFall_Curve:
+      Capacity: 1
+      Data:
+      - Data:
+        - 0
+        - 0.94827592372894287
+        - 0
+        - 0
+        - 0.55000001192092896
+        - 1.5
+        - 0
+        - 0
+        - 0.6416667103767395
+        - 0.18965519964694977
+        - 0
+        - 0
+        - 1
+        - -1
+        - 0
+        - 0
+    Up_DisengageFall:
+      Capacity: 1
+      Data:
+      - Value: 6555600
+- ParentName: default
+  Name: tuner
+  Data:
+    BankName: GEAR_SML_Base.abk
+    Down_Shift_Sound_Delay: 0.039999999105930328
+    Up_Engaging_Attack_Vol: 0.20000000298023224
+    LFO_RPM_Amp: 500
+    LFO_Vol_Amp: 400
+    Down_Engaging_Rise_T: 500
+    Up_Engaging_Attack_T: 500
+    LFO_RPM_Decay_Time: 700
+    Down_Reattach_Scale: 0.85000002384185791
+    Down_Engaging_Fall_T: 370
+    Up_Shift_Sound_Delay: 0.10000000149011612
+    Up_Vol_Shift: 20000
+    Down_Disengage_Fall_T: 250
+    LFO_Vol_Freq: 250
+    Down_Disengage_Fall_RPM: 800
+    Down_Vol_Shift: 20000
+    Down_Engaging_Rise_RPM: 1000
+    LFO_RPM_Freq: 250
+    LFO_Vol_Decay_Time: 700
+    Down_Engaging_Fall_RPM: 500
+    Up_Engage_Curve:
+      Data:
+      - 0.0083333337679505348
+      - 0.051724139600992203
+      - 0
+      - 0
+      - 0.31666669249534607
+      - 1.8793100118637085
+      - 0
+      - 0
+      - 0.65128207206726074
+      - 0.25862070918083191
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+    Up_Engage: 32833336
+    Up_DisengageFall_Curve:
+      Capacity: 1
+      Data:
+      - Data:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0.23469389975070953
+        - -0.48275861144065857
+        - 0
+        - 0
+        - 0.59183681011199951
+        - -0.84482747316360474
+        - 0
+        - 0
+        - 1
+        - -1
+        - 0
+        - 0
+    Up_DisengageFall:
+      Capacity: 1
+      Data:
+      - Value: 36048300
+- ParentName: tuner
+  Name: tuner_1
+  Data:
+    BankName: GEAR_SML_Lev1.abk
+    Down_Shift_Sound_Delay: 0.039999999105930328
+    Up_Engaging_Attack_Vol: 0.20000000298023224
+    LFO_RPM_Amp: 500
+    LFO_Vol_Amp: 400
+    Down_Engaging_Rise_T: 500
+    Up_Engaging_Attack_T: 500
+    LFO_RPM_Decay_Time: 700
+    Down_Reattach_Scale: 0.85000002384185791
+    Down_Engaging_Fall_T: 370
+    Up_Shift_Sound_Delay: 0.05000000074505806
+    Up_Vol_Shift: 20000
+    Down_Disengage_Fall_T: 250
+    LFO_Vol_Freq: 250
+    Down_Disengage_Fall_RPM: 800
+    Down_Vol_Shift: 20000
+    Down_Engaging_Rise_RPM: 600
+    LFO_RPM_Freq: 250
+    LFO_Vol_Decay_Time: 700
+    Up_DisengageFall:
+      Capacity: 1
+      Data:
+      - Value: 32771000
+- ParentName: tuner_1
+  Name: tuner_2
+  Data:
+    BankName: GEAR_SML_Lev2.abk
+    Down_Shift_Sound_Delay: 0.039999999105930328
+    Up_Engaging_Attack_Vol: 0.20000000298023224
+    LFO_RPM_Amp: 600
+    LFO_Vol_Amp: 400
+    Down_Engaging_Rise_T: 500
+    Up_Engaging_Attack_T: 500
+    LFO_RPM_Decay_Time: 700
+    Down_Reattach_Scale: 0.85000002384185791
+    Down_Engaging_Fall_T: 370
+    Up_Shift_Sound_Delay: 0.05000000074505806
+    Up_Vol_Shift: 20000
+    Down_Disengage_Fall_T: 250
+    LFO_Vol_Freq: 250
+    Down_Disengage_Fall_RPM: 800
+    Down_Vol_Shift: 20000
+    Down_Engaging_Rise_RPM: 600
+    LFO_RPM_Freq: 250
+    LFO_Vol_Decay_Time: 700
+    Up_DisengageFall:
+      Capacity: 1
+      Data:
+      - Value: 19663800
+    Down_Engaging_Fall_RPM: 500
+    Up_Engage_Curve:
+      Data:
+      - 0.0083333337679505348
+      - 0.051724139600992203
+      - 0
+      - 0
+      - 0.34999999403953552
+      - -0.81034481525421143
+      - 0
+      - 0
+      - 0.875
+      - -0.36206901073455811
+      - 0
+      - 0
+      - 0.94999998807907104
+      - -0.72413790225982666
+      - 0
+      - 0
+    Up_Engage: 19726136
+    Up_DisengageFall_Curve:
+      Capacity: 1
+      Data:
+      - Data:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0.42500001192092896
+        - 2.1379311084747314
+        - 0
+        - 0
+        - 0.68333327770233154
+        - 0.051724139600992203
+        - 0
+        - 0
+        - 1
+        - -0.84482759237289429
+        - 0
+        - 0
+- ParentName: tuner_2
+  Name: tuner_3
+  Data:
+    BankName: GEAR_SML_Lev3.abk
+    Down_Shift_Sound_Delay: 0.039999999105930328
+    Up_Engaging_Attack_Vol: 0.20000000298023224
+    LFO_RPM_Amp: 700
+    LFO_Vol_Amp: 400
+    Down_Engaging_Rise_T: 500
+    Up_Engaging_Attack_T: 500
+    LFO_RPM_Decay_Time: 700
+    Down_Reattach_Scale: 0.5
+    Down_Engaging_Fall_T: 370
+    Up_Shift_Sound_Delay: 0.05000000074505806
+    Up_Vol_Shift: 20000
+    Down_Disengage_Fall_T: 250
+    LFO_Vol_Freq: 250
+    Down_Disengage_Fall_RPM: 800
+    Down_Vol_Shift: 20000
+    Down_Engaging_Rise_RPM: 600
+    LFO_RPM_Freq: 250
+    LFO_Vol_Decay_Time: 700
+    Up_DisengageFall:
+      Capacity: 1
+      Data:
+      - Value: 19663800
+    Down_Engaging_Fall_RPM: 500
+    Up_Engage: 13172536
+- ParentName: default
+  Name: muscle_new
+  Data:
+    BankName: GEAR_LRG_Base.abk
+    Down_Shift_Sound_Delay: 0.25
+    Up_Engaging_Attack_Vol: 0.20000000298023224
+    LFO_RPM_Amp: 200
+    LFO_Vol_Amp: 5000
+    Down_Engaging_Rise_T: 300
+    Up_Engaging_Attack_T: 500
+    LFO_RPM_Decay_Time: 1000
+    Down_Reattach_Scale: 0.40000000596046448
+    Down_Engaging_Fall_T: 250
+    Up_Shift_Sound_Delay: 0.20000000298023224
+    Up_Vol_Shift: 15000
+    Down_Disengage_Fall_T: 400
+    LFO_Vol_Freq: 200
+    Down_Disengage_Fall_RPM: 600
+    Down_Vol_Shift: 15000
+    Down_Engaging_Rise_RPM: 1500
+    LFO_RPM_Freq: 250
+    LFO_Vol_Decay_Time: 400
+    Down_Engaging_Fall_RPM: 500
+    Up_Engage_Curve:
+      Data:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0.18333329260349274
+      - -1.1206899881362915
+      - 0
+      - 0
+      - 0.60000002384185791
+      - -1.0344829559326172
+      - 0
+      - 0
+      - 0.9833332896232605
+      - -0.017241360619664192
+      - 0
+      - 0
+    Up_Engage: 19725736
+    Up_DisengageFall_Curve:
+      Capacity: 1
+      Data:
+      - Data:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0.23469389975070953
+        - -0.48275861144065857
+        - 0
+        - 0
+        - 0.59183681011199951
+        - -0.84482747316360474
+        - 0
+        - 0
+        - 1
+        - -1
+        - 0
+        - 0
+    Up_DisengageFall:
+      Capacity: 1
+      Data:
+      - Value: 32771000
+- ParentName: muscle_new
+  Name: muscle_new_1
+  Data:
+    BankName: GEAR_LRG_Lev1.abk
+    Down_Shift_Sound_Delay: 0.25
+    Up_Engaging_Attack_Vol: 0.20000000298023224
+    LFO_RPM_Amp: 200
+    LFO_Vol_Amp: 5000
+    Down_Engaging_Rise_T: 300
+    Up_Engaging_Attack_T: 500
+    LFO_RPM_Decay_Time: 1000
+    Down_Reattach_Scale: 0.40000000596046448
+    Down_Engaging_Fall_T: 250
+    Up_Shift_Sound_Delay: 0.20000000298023224
+    Up_Vol_Shift: 15000
+    Down_Disengage_Fall_T: 400
+    LFO_Vol_Freq: 200
+    Down_Disengage_Fall_RPM: 600
+    Down_Vol_Shift: 15000
+    Down_Engaging_Rise_RPM: 1500
+    LFO_RPM_Freq: 250
+    LFO_Vol_Decay_Time: 400
+    Down_Engaging_Fall_RPM: 500
+    Up_Engage: 19725736
+- ParentName: muscle_new_1
+  Name: muscle_new_2
+  Data:
+    BankName: GEAR_LRG_Lev2.abk
+    Down_Shift_Sound_Delay: 0.25
+    Up_Engaging_Attack_Vol: 0.20000000298023224
+    LFO_RPM_Amp: 200
+    LFO_Vol_Amp: 5000
+    Down_Engaging_Rise_T: 300
+    Up_Engaging_Attack_T: 500
+    LFO_RPM_Decay_Time: 1000
+    Down_Reattach_Scale: 0.40000000596046448
+    Down_Engaging_Fall_T: 250
+    Up_Shift_Sound_Delay: 0.20000000298023224
+    Up_Vol_Shift: 15000
+    Down_Disengage_Fall_T: 400
+    LFO_Vol_Freq: 200
+    Down_Disengage_Fall_RPM: 600
+    Down_Vol_Shift: 15000
+    Down_Engaging_Rise_RPM: 1500
+    LFO_RPM_Freq: 250
+    LFO_Vol_Decay_Time: 400
+    Down_Engaging_Fall_RPM: 500
+    Up_Engage: 13172536
+    Up_DisengageFall:
+      Capacity: 1
+      Data:
+      - Value: 27462800
+- ParentName: muscle_new_2
+  Name: 0xA0D9F8BC
+  Data:
+    BankName: GEAR_LRG_Lev3.abk
+    Down_Shift_Sound_Delay: 0.25
+    Up_Engaging_Attack_Vol: 0.20000000298023224
+    LFO_RPM_Amp: 200
+    LFO_Vol_Amp: 5000
+    Down_Engaging_Rise_T: 300
+    Up_Engaging_Attack_T: 500
+    LFO_RPM_Decay_Time: 1000
+    Down_Reattach_Scale: 0.40000000596046448
+    Down_Engaging_Fall_T: 250
+    Up_Shift_Sound_Delay: 0.20000000298023224
+    Up_Vol_Shift: 15000
+    Down_Disengage_Fall_T: 400
+    LFO_Vol_Freq: 200
+    Down_Disengage_Fall_RPM: 600
+    Down_Vol_Shift: 15000
+    Down_Engaging_Rise_RPM: 1500
+    LFO_RPM_Freq: 250
+    LFO_Vol_Decay_Time: 400
+    Down_Engaging_Fall_RPM: 500
+    Up_Engage: 13172536
+- ParentName: default
+  Name: 0x85FEDEE9
+  Data:
+    BankName: GEAR_SML_Lev2.abk
+    Down_Shift_Sound_Delay: 0.05000000074505806
+    Up_Engaging_Attack_Vol: 0.40000000596046448
+    LFO_RPM_Amp: 250
+    LFO_Vol_Amp: 14500
+    Down_Engaging_Rise_T: 600
+    Up_Engaging_Attack_T: 500
+    LFO_RPM_Decay_Time: 700
+    Down_Reattach_Scale: 0.85000002384185791
+    Down_Engaging_Fall_T: 370
+    Up_Shift_Sound_Delay: 0.05000000074505806
+    Up_Vol_Shift: 24500
+    Down_Disengage_Fall_T: 250
+    LFO_Vol_Freq: 350
+    Down_Disengage_Fall_RPM: 800
+    Down_Vol_Shift: 20000
+    Down_Engaging_Rise_RPM: 600
+    LFO_RPM_Freq: 250
+    LFO_Vol_Decay_Time: 850
+    Up_Engage_Curve:
+      Data:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0.048275858163833618
+      - 0.98275858163833618
+      - 0
+      - 0
+      - 0.36551719903945923
+      - -0.13793100416660309
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+    Up_Engage: 20973020
+    Up_DisengageFall:
+      Capacity: 2
+      Data:
+      - Value: 14746600
+      - Value: 14746600
+    Down_Engaging_Fall_RPM: 500
+    Up_DisengageFall_Curve:
+      Capacity: 2
+      Data:
+      - Data:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0.24137930572032928
+        - -0.44827580451965332
+        - 0
+        - 0
+        - 0.77241379022598267
+        - -0.32758620381355286
+        - 0
+        - 0
+        - 1
+        - -1
+        - 0
+        - 0
+      - Data:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0.20512819290161133
+        - -0.4310343861579895
+        - 0
+        - 0
+        - 0.44102561473846436
+        - -0.89655172824859619
+        - 0
+        - 0
+        - 1
+        - -1
+        - 0
+        - 0
+- ParentName: 0x85FEDEE9
+  Name: 0x3480925F
+  Data:
+    BankName: GEAR_LRG_Lev1.abk
+    Down_Shift_Sound_Delay: 0.20000000298023224
+    Up_Engaging_Attack_Vol: 0.30000001192092896
+    LFO_RPM_Amp: 400
+    LFO_Vol_Amp: 1200
+    Down_Engaging_Rise_T: 375
+    Up_Engaging_Attack_T: 500
+    LFO_RPM_Decay_Time: 700
+    Down_Reattach_Scale: 0.5
+    Down_Engaging_Fall_T: 200
+    Up_Shift_Sound_Delay: 0.17499999701976776
+    Up_Vol_Shift: 24000
+    Down_Disengage_Fall_T: 350
+    LFO_Vol_Freq: 300
+    Down_Disengage_Fall_RPM: 900
+    Down_Vol_Shift: 20000
+    Down_Engaging_Rise_RPM: 750
+    LFO_RPM_Freq: 250
+    LFO_Vol_Decay_Time: 1200
+    Up_Engage_Curve:
+      Data:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0.035502959042787552
+      - 2
+      - 0
+      - 0
+      - 0.36551719903945923
+      - -0.13793100416660309
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+    Up_DisengageFall:
+      Capacity: 2
+      Data:
+      - Value: 16385800
+      - Value: 16385800
+    Up_Engage: 20972720
+- ParentName: 0x85FEDEE9
+  Name: 0x9CFEE859
+  Data:
+    BankName: GEAR_MED_Lev2.abk
+    Down_Shift_Sound_Delay: 0.05000000074505806
+    Up_Engaging_Attack_Vol: 0.090000003576278687
+    LFO_RPM_Amp: 450
+    LFO_Vol_Amp: 0
+    Down_Engaging_Rise_T: 200
+    Up_Engaging_Attack_T: 150
+    LFO_RPM_Decay_Time: 400
+    Down_Reattach_Scale: 0.5
+    Down_Engaging_Fall_T: 124
+    Up_Shift_Sound_Delay: 0.05000000074505806
+    Up_Vol_Shift: 24500
+    Down_Disengage_Fall_T: 200
+    LFO_Vol_Freq: 350
+    Down_Disengage_Fall_RPM: 400
+    Down_Vol_Shift: 20000
+    Down_Engaging_Rise_RPM: 300
+    LFO_RPM_Freq: 225
+    LFO_Vol_Decay_Time: 750
+    Up_Engage_Curve:
+      Data:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0.053254440426826477
+      - 2
+      - 0
+      - 0
+      - 0.13218389451503754
+      - 0.1034483015537262
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+    Up_DisengageFall:
+      Capacity: 2
+      Data:
+      - Value: 15075030
+      - Value: 15075030
+    Up_Engage: 20972270
+    Up_DisengageFall_Curve:
+      Capacity: 2
+      Data:
+      - Data:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0.34166669845581055
+        - 0.75
+        - 0
+        - 0
+        - 0.43678158521652222
+        - -0.87931042909622192
+        - 0
+        - 0
+        - 1
+        - -1
+        - 0
+        - 0
+      - Data:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0.31578949093818665
+        - 0.63157892227172852
+        - 0
+        - 0
+        - 0.45402300357818604
+        - -0.86206901073455811
+        - 0
+        - 0
+        - 1
+        - -1
+        - 0
+        - 0
+- ParentName: 0x85FEDEE9
+  Name: 0xC11D0852
+  Data:
+    BankName: GEAR_SML_Lev2.abk
+    Down_Shift_Sound_Delay: 0.05000000074505806
+    Up_Engaging_Attack_Vol: 0.40000000596046448
+    LFO_RPM_Amp: 250
+    LFO_Vol_Amp: 4000
+    Down_Engaging_Rise_T: 600
+    Up_Engaging_Attack_T: 500
+    LFO_RPM_Decay_Time: 700
+    Down_Reattach_Scale: 0.85000002384185791
+    Down_Engaging_Fall_T: 370
+    Up_Shift_Sound_Delay: 0.05000000074505806
+    Up_Vol_Shift: 24500
+    Down_Disengage_Fall_T: 250
+    LFO_Vol_Freq: 350
+    Down_Disengage_Fall_RPM: 800
+    Down_Vol_Shift: 20000
+    Down_Engaging_Rise_RPM: 600
+    LFO_RPM_Freq: 250
+    LFO_Vol_Decay_Time: 850
+- ParentName: default
+  Name: 0x8BD50A06
+  Data:
+    BankName: GEAR_MED_Lev3.abk
+    Down_Shift_Sound_Delay: 0.10000000149011612
+    Up_Engaging_Attack_Vol: 0.019999999552965164
+    LFO_RPM_Amp: 1400
+    LFO_Vol_Amp: 0
+    Down_Engaging_Rise_T: 25
+    Up_Engaging_Attack_T: 300
+    LFO_RPM_Decay_Time: 500
+    Down_Reattach_Scale: 0.0099999997764825821
+    Down_Engaging_Fall_T: 25
+    Up_Shift_Sound_Delay: 0.019999999552965164
+    Up_Vol_Shift: 22500
+    Down_Disengage_Fall_T: 50
+    LFO_Vol_Freq: 0
+    Down_Disengage_Fall_RPM: 100
+    Down_Vol_Shift: 18000
+    Down_Engaging_Rise_RPM: 500
+    LFO_RPM_Freq: 125
+    LFO_Vol_Decay_Time: 800
+    Up_Engage_Curve:
+      Data:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0.17391300201416016
+      - 1.8620690107345581
+      - 0
+      - 0
+      - 0.22826090455055237
+      - -0.034482721239328384
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+    Up_Engage: 9831000
+    Up_DisengageFall:
+      Capacity: 2
+      Data:
+      - Value: 13108900
+      - Value: 13108900
+    Down_Engaging_Fall_RPM: 300
+    Up_DisengageFall_Curve:
+      Capacity: 2
+      Data:
+      - Data:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0.062068969011306763
+        - 1.1379309892654419
+        - 0
+        - 0
+        - 0.14482760429382324
+        - -0.58620691299438477
+        - 0
+        - 0
+        - 1
+        - -1
+        - 0
+        - 0
+      - Data:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0.062068969011306763
+        - 1.1551719903945923
+        - 0
+        - 0
+        - 0.17241379618644714
+        - -0.72413790225982666
+        - 0
+        - 0
+        - 1
+        - -1
+        - 0
+        - 0
+- ParentName: 0x8BD50A06
+  Name: 0x009EB4D3
+  Data:
+    BankName: GEAR_MED_Lev3.abk
+    Down_Shift_Sound_Delay: 0.10000000149011612
+    Up_Engaging_Attack_Vol: 0.019999999552965164
+    LFO_RPM_Amp: 500
+    LFO_Vol_Amp: 2000
+    Down_Engaging_Rise_T: 50
+    Up_Engaging_Attack_T: 300
+    LFO_RPM_Decay_Time: 400
+    Down_Reattach_Scale: 0.0099999997764825821
+    Down_Engaging_Fall_T: 60
+    Up_Shift_Sound_Delay: 0.019999999552965164
+    Up_Vol_Shift: 22500
+    Down_Disengage_Fall_T: 50
+    LFO_Vol_Freq: 150
+    Down_Disengage_Fall_RPM: 100
+    Down_Vol_Shift: 22500
+    Down_Engaging_Rise_RPM: 500
+    LFO_RPM_Freq: 150
+    LFO_Vol_Decay_Time: 400
+- ParentName: 0x8BD50A06
+  Name: 0x085B1B33
+  Data:
+    BankName: GEAR_MED_Lev3.abk
+    Down_Shift_Sound_Delay: 0.10000000149011612
+    Up_Engaging_Attack_Vol: 0.075000002980232239
+    LFO_RPM_Amp: 50
+    LFO_Vol_Amp: 5000
+    Down_Engaging_Rise_T: 50
+    Up_Engaging_Attack_T: 100
+    LFO_RPM_Decay_Time: 100
+    Down_Reattach_Scale: 0.0099999997764825821
+    Down_Engaging_Fall_T: 60
+    Up_Shift_Sound_Delay: 0.019999999552965164
+    Up_Vol_Shift: 22500
+    Down_Disengage_Fall_T: 50
+    LFO_Vol_Freq: 150
+    Down_Disengage_Fall_RPM: 100
+    Down_Vol_Shift: 22500
+    Down_Engaging_Rise_RPM: 500
+    LFO_RPM_Freq: 100
+    LFO_Vol_Decay_Time: 150
+    Up_Engage_Curve:
+      Data:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0.055172409862279892
+      - 0.60344827175140381
+      - 0
+      - 0
+      - 0.22758619487285614
+      - 0.03448278084397316
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+    Up_DisengageFall_Curve:
+      Capacity: 1
+      Data:
+      - Data:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0.33000001311302185
+        - -0.33000001311302185
+        - 0
+        - 0
+        - 0.75
+        - -0.75
+        - 0
+        - 0
+        - 1
+        - -1
+        - 0
+        - 0
+    Up_DisengageFall:
+      Capacity: 1
+      Data:
+      - Value: 22939300
+    Up_Engage: 13107400
+- ParentName: 0x8BD50A06
+  Name: 0x2E59BBFA
+  Data:
+    BankName: GEAR_LRG_Lev3.abk
+    Down_Shift_Sound_Delay: 0.019999999552965164
+    Up_Engaging_Attack_Vol: 0.10000000149011612
+    LFO_RPM_Amp: 600
+    LFO_Vol_Amp: 200
+    Down_Engaging_Rise_T: 200
+    Up_Engaging_Attack_T: 200
+    LFO_RPM_Decay_Time: 600
+    Down_Reattach_Scale: 0.5
+    Down_Engaging_Fall_T: 124
+    Up_Shift_Sound_Delay: 0.019999999552965164
+    Up_Vol_Shift: 22500
+    Down_Disengage_Fall_T: 200
+    LFO_Vol_Freq: 200
+    Down_Disengage_Fall_RPM: 400
+    Down_Vol_Shift: 24000
+    Down_Engaging_Rise_RPM: 300
+    LFO_RPM_Freq: 20
+    LFO_Vol_Decay_Time: 250
+    Up_DisengageFall:
+      Capacity: 2
+      Data:
+      - Value: 11798230
+      - Value: 11798230
+- ParentName: 0x8BD50A06
+  Name: 0x4013B45D
+  Data:
+    BankName: GEAR_MED_Lev3.abk
+    Down_Shift_Sound_Delay: 0.10000000149011612
+    Up_Engaging_Attack_Vol: 0.05000000074505806
+    LFO_RPM_Amp: 1600
+    LFO_Vol_Amp: 1
+    Down_Engaging_Rise_T: 50
+    Up_Engaging_Attack_T: 600
+    LFO_RPM_Decay_Time: 460
+    Down_Reattach_Scale: 0.0099999997764825821
+    Down_Engaging_Fall_T: 50
+    Up_Shift_Sound_Delay: 0.019999999552965164
+    Up_Vol_Shift: 22500
+    Down_Disengage_Fall_T: 100
+    LFO_Vol_Freq: 1
+    Down_Disengage_Fall_RPM: 100
+    Down_Vol_Shift: 18000
+    Down_Engaging_Rise_RPM: 400
+    LFO_RPM_Freq: 95
+    LFO_Vol_Decay_Time: 800
+    Up_Engage_Curve:
+      Data:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0.029197080060839653
+      - 2.0172410011291504
+      - 0
+      - 0
+      - 0.48905110359191895
+      - 0.36206901073455811
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+    Up_DisengageFall:
+      Capacity: 1
+      Data:
+      - Value: 14418420
+    Up_DisengageFall_Curve:
+      Capacity: 1
+      Data:
+      - Data:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0.4850299060344696
+        - -0.31034478545188904
+        - 0
+        - 0
+        - 0.35329338908195496
+        - -0.91379308700561523
+        - 0
+        - 0
+        - 1
+        - -1
+        - 0
+        - 0
+    Down_Engaging_Fall_RPM: 300
+    Up_Engage: 39321800
+- ParentName: 0x8BD50A06
+  Name: 0x9FF448ED
+  Data:
+    BankName: GEAR_SML_Lev3.abk
+    Down_Shift_Sound_Delay: 0.10000000149011612
+    Up_Engaging_Attack_Vol: 0.25
+    LFO_RPM_Amp: 600
+    LFO_Vol_Amp: 1000
+    Down_Engaging_Rise_T: 50
+    Up_Engaging_Attack_T: 300
+    LFO_RPM_Decay_Time: 650
+    Down_Reattach_Scale: 0.0099999997764825821
+    Down_Engaging_Fall_T: 25
+    Up_Shift_Sound_Delay: 0.019999999552965164
+    Up_Vol_Shift: 24500
+    Down_Disengage_Fall_T: 50
+    LFO_Vol_Freq: 375
+    Down_Disengage_Fall_RPM: 100
+    Down_Vol_Shift: 18000
+    Down_Engaging_Rise_RPM: 500
+    LFO_RPM_Freq: 150
+    LFO_Vol_Decay_Time: 650
+    Up_Engage_Curve:
+      Data:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0.068965516984462738
+      - 1.6379309892654419
+      - 0
+      - 0
+      - 0.065420560538768768
+      - 0.13793100416660309
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+    Up_DisengageFall:
+      Capacity: 2
+      Data:
+      - Value: 13108700
+      - Value: 13108700
+    Up_DisengageFall_Curve:
+      Capacity: 2
+      Data:
+      - Data:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0.48130840063095093
+        - -0.086206912994384766
+        - 0
+        - 0
+        - 0.88785052299499512
+        - -0.5689656138420105
+        - 0
+        - 0
+        - 1
+        - -1
+        - 0
+        - 0
+      - Data:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0.49532708525657654
+        - -0.13793100416660309
+        - 0
+        - 0
+        - 0.75233638286590576
+        - -0.58620691299438477
+        - 0
+        - 0
+        - 1
+        - -1
+        - 0
+        - 0
+    Down_Engaging_Fall_RPM: 300
+    Up_Engage: 11469300
+- ParentName: 0x8BD50A06
+  Name: 0xDE0C4780
+  Data:
+    BankName: GEAR_MED_Lev3.abk
+    Down_Shift_Sound_Delay: 0.10000000149011612
+    Up_Engaging_Attack_Vol: 0.019999999552965164
+    LFO_RPM_Amp: 1400
+    LFO_Vol_Amp: 0
+    Down_Engaging_Rise_T: 25
+    Up_Engaging_Attack_T: 300
+    LFO_RPM_Decay_Time: 500
+    Down_Reattach_Scale: 0.0099999997764825821
+    Down_Engaging_Fall_T: 25
+    Up_Shift_Sound_Delay: 0.019999999552965164
+    Up_Vol_Shift: 22500
+    Down_Disengage_Fall_T: 50
+    LFO_Vol_Freq: 0
+    Down_Disengage_Fall_RPM: 100
+    Down_Vol_Shift: 18000
+    Down_Engaging_Rise_RPM: 500
+    LFO_RPM_Freq: 125
+    LFO_Vol_Decay_Time: 800
+- ParentName: default
+  Name: 0xA47281EE
+  Data:
+    BankName: GEAR_SML_Lev3.abk
+    Down_Shift_Sound_Delay: 0.05000000074505806
+    Up_Engaging_Attack_Vol: 0.15000000596046448
+    LFO_RPM_Amp: 550
+    LFO_Vol_Amp: 0
+    Down_Engaging_Rise_T: 300
+    Up_Engaging_Attack_T: 500
+    LFO_RPM_Decay_Time: 600
+    Down_Reattach_Scale: 0.85000002384185791
+    Down_Engaging_Fall_T: 370
+    Up_Shift_Sound_Delay: 0.019999999552965164
+    Up_Vol_Shift: 32767
+    Down_Disengage_Fall_T: 250
+    LFO_Vol_Freq: 0
+    Down_Disengage_Fall_RPM: 800
+    Down_Vol_Shift: 22000
+    Down_Engaging_Rise_RPM: 600
+    LFO_RPM_Freq: 175
+    LFO_Vol_Decay_Time: 850
+    Up_Engage_Curve:
+      Data:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0.045977011322975159
+      - 1.9655170440673828
+      - 0
+      - 0
+      - 0.14482760429382324
+      - -0.13793100416660309
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+    Up_Engage: 19661600
+    Up_DisengageFall:
+      Capacity: 2
+      Data:
+      - Value: 13764060
+      - Value: 13763760
+    Down_Engaging_Fall_RPM: 500
+    Up_DisengageFall_Curve:
+      Capacity: 2
+      Data:
+      - Data:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0.080459773540496826
+        - 0.91379308700561523
+        - 0
+        - 0
+        - 0.60000002384185791
+        - -0.85000002384185791
+        - 0
+        - 0
+        - 1
+        - -1
+        - 0
+        - 0
+      - Data:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0.10919539630413055
+        - 0.81034481525421143
+        - 0
+        - 0
+        - 0.44102561473846436
+        - -0.89655172824859619
+        - 0
+        - 0
+        - 1
+        - -1
+        - 0
+        - 0
+- ParentName: 0xA47281EE
+  Name: 0x1E6E67D8
+  Data:
+    BankName: GEAR_LRG_Lev2.abk
+    Down_Shift_Sound_Delay: 0.05000000074505806
+    Up_Engaging_Attack_Vol: 0.20000000298023224
+    LFO_RPM_Amp: 600
+    LFO_Vol_Amp: 800
+    Down_Engaging_Rise_T: 300
+    Up_Engaging_Attack_T: 250
+    LFO_RPM_Decay_Time: 750
+    Down_Reattach_Scale: 0.5
+    Down_Engaging_Fall_T: 124
+    Up_Shift_Sound_Delay: 0.019999999552965164
+    Up_Vol_Shift: 26500
+    Down_Disengage_Fall_T: 200
+    LFO_Vol_Freq: 180
+    Down_Disengage_Fall_RPM: 800
+    Down_Vol_Shift: 22000
+    Down_Engaging_Rise_RPM: 650
+    LFO_RPM_Freq: 140
+    LFO_Vol_Decay_Time: 400
+    Up_DisengageFall:
+      Capacity: 2
+      Data:
+      - Value: 14747400
+      - Value: 14747400
+- ParentName: 0xA47281EE
+  Name: 0x6EB87040
+  Data:
+    BankName: GEAR_MED_Lev3.abk
+    Down_Shift_Sound_Delay: 0.05000000074505806
+    Up_Engaging_Attack_Vol: 0.15000000596046448
+    LFO_RPM_Amp: 550
+    LFO_Vol_Amp: 0
+    Down_Engaging_Rise_T: 300
+    Up_Engaging_Attack_T: 500
+    LFO_RPM_Decay_Time: 600
+    Down_Reattach_Scale: 0.85000002384185791
+    Down_Engaging_Fall_T: 370
+    Up_Shift_Sound_Delay: 0.019999999552965164
+    Up_Vol_Shift: 32767
+    Down_Disengage_Fall_T: 250
+    LFO_Vol_Freq: 0
+    Down_Disengage_Fall_RPM: 800
+    Down_Vol_Shift: 22000
+    Down_Engaging_Rise_RPM: 600
+    LFO_RPM_Freq: 175
+    LFO_Vol_Decay_Time: 850
+- ParentName: 0xA47281EE
+  Name: 0xF0CD0398
+  Data:
+    BankName: GEAR_MED_Lev3.abk
+    Down_Shift_Sound_Delay: 0.05000000074505806
+    Up_Engaging_Attack_Vol: 0.15000000596046448
+    LFO_RPM_Amp: 550
+    LFO_Vol_Amp: 0
+    Down_Engaging_Rise_T: 300
+    Up_Engaging_Attack_T: 500
+    LFO_RPM_Decay_Time: 600
+    Down_Reattach_Scale: 0.85000002384185791
+    Down_Engaging_Fall_T: 370
+    Up_Shift_Sound_Delay: 0.019999999552965164
+    Up_Vol_Shift: 32767
+    Down_Disengage_Fall_T: 250
+    LFO_Vol_Freq: 0
+    Down_Disengage_Fall_RPM: 800
+    Down_Vol_Shift: 22000
+    Down_Engaging_Rise_RPM: 600
+    LFO_RPM_Freq: 175
+    LFO_Vol_Decay_Time: 850
+- ParentName: 0xA47281EE
+  Name: 0xF228C23D
+  Data:
+    BankName: GEAR_SML_Lev3.abk
+    Down_Shift_Sound_Delay: 0.05000000074505806
+    Up_Engaging_Attack_Vol: 0.15000000596046448
+    LFO_RPM_Amp: 250
+    LFO_Vol_Amp: 3000
+    Down_Engaging_Rise_T: 600
+    Up_Engaging_Attack_T: 500
+    LFO_RPM_Decay_Time: 700
+    Down_Reattach_Scale: 0.85000002384185791
+    Down_Engaging_Fall_T: 370
+    Up_Shift_Sound_Delay: 0.05000000074505806
+    Up_Vol_Shift: 24500
+    Down_Disengage_Fall_T: 250
+    LFO_Vol_Freq: 350
+    Down_Disengage_Fall_RPM: 800
+    Down_Vol_Shift: 20000
+    Down_Engaging_Rise_RPM: 600
+    LFO_RPM_Freq: 250
+    LFO_Vol_Decay_Time: 850
+- ParentName: default
+  Name: muscle_classic
+  Data:
+    BankName: GEAR_LRG_Base.abk
+    Down_Shift_Sound_Delay: 0.10000000149011612
+    Up_Engaging_Attack_Vol: 0.20000000298023224
+    LFO_RPM_Amp: 600
+    LFO_Vol_Amp: 5000
+    Down_Engaging_Rise_T: 500
+    Up_Engaging_Attack_T: 500
+    LFO_RPM_Decay_Time: 600
+    Down_Reattach_Scale: 0.5
+    Down_Engaging_Fall_T: 250
+    Up_Shift_Sound_Delay: 0.10000000149011612
+    Up_Vol_Shift: 15000
+    Down_Disengage_Fall_T: 200
+    LFO_Vol_Freq: 200
+    Down_Disengage_Fall_RPM: 1000
+    Down_Vol_Shift: 15000
+    Down_Engaging_Rise_RPM: 2000
+    LFO_RPM_Freq: 255
+    LFO_Vol_Decay_Time: 400
+    Down_Engaging_Fall_RPM: 1000
+    Up_Engage_Curve:
+      Data:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0.30000001192092896
+      - -1.1206899881362915
+      - 0
+      - 0
+      - 0.52499997615814209
+      - -0.62068957090377808
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+    Up_Engage: 32832936
+    Up_DisengageFall_Curve:
+      Capacity: 1
+      Data:
+      - Data:
+        - 0
+        - 0.96551722288131714
+        - 0
+        - 0
+        - 0.31666669249534607
+        - -0.51724141836166382
+        - 0
+        - 0
+        - 0.716666579246521
+        - -0.5689656138420105
+        - 0
+        - 0
+        - 1.2000000476837158
+        - -0.9310343861579895
+        - 0
+        - 0
+    Up_DisengageFall:
+      Capacity: 1
+      Data:
+      - Value: 39323600
+- ParentName: muscle_classic
+  Name: muscle_classic_1
+  Data:
+    BankName: GEAR_LRG_Lev1.abk
+    Down_Shift_Sound_Delay: 0.10000000149011612
+    Up_Engaging_Attack_Vol: 0.20000000298023224
+    LFO_RPM_Amp: 600
+    LFO_Vol_Amp: 5000
+    Down_Engaging_Rise_T: 500
+    Up_Engaging_Attack_T: 500
+    LFO_RPM_Decay_Time: 600
+    Down_Reattach_Scale: 0.5
+    Down_Engaging_Fall_T: 250
+    Up_Shift_Sound_Delay: 0.10000000149011612
+    Up_Vol_Shift: 15000
+    Down_Disengage_Fall_T: 200
+    LFO_Vol_Freq: 200
+    Down_Disengage_Fall_RPM: 1000
+    Down_Vol_Shift: 15000
+    Down_Engaging_Rise_RPM: 2000
+    LFO_RPM_Freq: 255
+    LFO_Vol_Decay_Time: 400
+    Down_Engaging_Fall_RPM: 1000
+    Up_Engage: 32831936
+- ParentName: muscle_classic_1
+  Name: muscle_classic_2
+  Data:
+    BankName: GEAR_LRG_Lev2.abk
+    Down_Shift_Sound_Delay: 0.10000000149011612
+    Up_Engaging_Attack_Vol: 0.20000000298023224
+    LFO_RPM_Amp: 600
+    LFO_Vol_Amp: 5000
+    Down_Engaging_Rise_T: 500
+    Up_Engaging_Attack_T: 500
+    LFO_RPM_Decay_Time: 600
+    Down_Reattach_Scale: 0.5
+    Down_Engaging_Fall_T: 250
+    Up_Shift_Sound_Delay: 0.10000000149011612
+    Up_Vol_Shift: 15000
+    Down_Disengage_Fall_T: 200
+    LFO_Vol_Freq: 200
+    Down_Disengage_Fall_RPM: 1000
+    Down_Vol_Shift: 15000
+    Down_Engaging_Rise_RPM: 2000
+    LFO_RPM_Freq: 255
+    LFO_Vol_Decay_Time: 400
+    Down_Engaging_Fall_RPM: 1000
+    Up_Engage: 19725736
+    Up_DisengageFall:
+      Capacity: 1
+      Data:
+      - Value: 32771000
+- ParentName: muscle_classic_2
+  Name: 0xE06AF4AC
+  Data:
+    BankName: GEAR_LRG_Lev3.abk
+    Down_Shift_Sound_Delay: 0.10000000149011612
+    Up_Engaging_Attack_Vol: 0.20000000298023224
+    LFO_RPM_Amp: 600
+    LFO_Vol_Amp: 5000
+    Down_Engaging_Rise_T: 500
+    Up_Engaging_Attack_T: 500
+    LFO_RPM_Decay_Time: 600
+    Down_Reattach_Scale: 0.5
+    Down_Engaging_Fall_T: 250
+    Up_Shift_Sound_Delay: 0.10000000149011612
+    Up_Vol_Shift: 15000
+    Down_Disengage_Fall_T: 200
+    LFO_Vol_Freq: 200
+    Down_Disengage_Fall_RPM: 1000
+    Down_Vol_Shift: 15000
+    Down_Engaging_Rise_RPM: 2000
+    LFO_RPM_Freq: 255
+    LFO_Vol_Decay_Time: 400
+    Down_Engaging_Fall_RPM: 1000
+    Up_Engage: 19723736
+- ParentName: default
+  Name: bmwm3gtr
+  Data:
+    BankName: GEAR_MED_Base.abk
+    Down_Shift_Sound_Delay: 0.10000000149011612
+    Up_Engaging_Attack_Vol: 0.05000000074505806
+    LFO_RPM_Amp: 1600
+    LFO_Vol_Amp: 1
+    Down_Engaging_Rise_T: 50
+    Up_Engaging_Attack_T: 600
+    LFO_RPM_Decay_Time: 700
+    Down_Reattach_Scale: 0.85000002384185791
+    Down_Engaging_Fall_T: 50
+    Up_Shift_Sound_Delay: 0.019999999552965164
+    Up_Vol_Shift: 22500
+    Down_Disengage_Fall_T: 100
+    LFO_Vol_Freq: 1
+    Down_Disengage_Fall_RPM: 100
+    Down_Vol_Shift: 18000
+    Down_Engaging_Rise_RPM: 400
+    LFO_RPM_Freq: 95
+    LFO_Vol_Decay_Time: 800
+    Down_Engaging_Fall_RPM: 300
+    Up_Engage: 39321800
+    Up_Engage_Curve:
+      Data:
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0.029197080060839653
+      - 2.0172410011291504
+      - 0
+      - 0
+      - 0.48905110359191895
+      - 0.36206901073455811
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+    Up_DisengageFall_Curve:
+      Capacity: 1
+      Data:
+      - Data:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0.4850299060344696
+        - -0.31034478545188904
+        - 0
+        - 0
+        - 0.35329338908195496
+        - -0.91379308700561523
+        - 0
+        - 0
+        - 1
+        - -1
+        - 0
+        - 0
+    Up_DisengageFall:
+      Capacity: 1
+      Data:
+      - Value: 18418420
+- ParentName: bmwm3gtr
+  Name: 0xC8EF44E2
+  Data:
+    BankName: GEAR_MED_Lev3.abk
+    Down_Shift_Sound_Delay: 0.10000000149011612
+    Up_Engaging_Attack_Vol: 0.05000000074505806
+    LFO_RPM_Amp: 1600
+    LFO_Vol_Amp: 1
+    Down_Engaging_Rise_T: 50
+    Up_Engaging_Attack_T: 60
+    LFO_RPM_Decay_Time: 700
+    Down_Reattach_Scale: 0.85000002384185791
+    Down_Engaging_Fall_T: 50
+    Up_Shift_Sound_Delay: 0.05000000074505806
+    Up_Vol_Shift: 22500
+    Down_Disengage_Fall_T: 100
+    LFO_Vol_Freq: 1
+    Down_Disengage_Fall_RPM: 100
+    Down_Vol_Shift: 18000
+    Down_Engaging_Rise_RPM: 400
+    LFO_RPM_Freq: 95
+    LFO_Vol_Decay_Time: 800
+    Down_Engaging_Fall_RPM: 300
+    Up_Engage_Curve:
+      Data:
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0.029197080060839653
+      - 2.0172410011291504
+      - 0
+      - 0
+      - 0.48905110359191895
+      - 0.36206901073455811
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+    Up_Engage: 39321800
+    Up_DisengageFall_Curve:
+      Capacity: 1
+      Data:
+      - Data:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0.4850299060344696
+        - -0.31034478545188904
+        - 0
+        - 0
+        - 0.35329338908195496
+        - -0.91379308700561523
+        - 0
+        - 0
+        - 1
+        - -1
+        - 0
+        - 0
+    Up_DisengageFall:
+      Capacity: 1
+      Data:
+      - Value: 14418420
+- ParentName: default
+  Name: 0xD6FD2442
+  Data:
+    BankName: GEAR_SML_Base.abk
+    Down_Shift_Sound_Delay: 0.029999999329447746
+    Up_Engaging_Attack_Vol: 0.05000000074505806
+    LFO_RPM_Amp: 500
+    LFO_Vol_Amp: 1
+    Down_Engaging_Rise_T: 600
+    Up_Engaging_Attack_T: 500
+    LFO_RPM_Decay_Time: 700
+    Down_Reattach_Scale: 0.85000002384185791
+    Down_Engaging_Fall_T: 370
+    Up_Shift_Sound_Delay: 0.05000000074505806
+    Up_Vol_Shift: 22000
+    Down_Disengage_Fall_T: 300
+    LFO_Vol_Freq: 1
+    Down_Disengage_Fall_RPM: 800
+    Down_Vol_Shift: 18000
+    Down_Engaging_Rise_RPM: 600
+    LFO_RPM_Freq: 200
+    LFO_Vol_Decay_Time: 1
+    Up_Engage_Curve:
+      Data:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0.09848485141992569
+      - 2.0263159275054932
+      - 0
+      - 0
+      - 0.34920638799667358
+      - 0.15517239272594452
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+    Up_Engage: 22938700
+    Up_DisengageFall:
+      Capacity: 1
+      Data:
+      - Value: 39323100
+    Down_Engaging_Fall_RPM: 500
+    Up_DisengageFall_Curve:
+      Capacity: 1
+      Data:
+      - Data:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0.30000001192092896
+        - -0.25862070918083191
+        - 0
+        - 0
+        - 0.68823528289794922
+        - -0.63793098926544189
+        - 0
+        - 0
+        - 1
+        - -1
+        - 0
+        - 0
+- ParentName: 0xD6FD2442
+  Name: 0x27760074
+  Data:
+    BankName: GEAR_SML_Base.abk
+    Down_Shift_Sound_Delay: 0.029999999329447746
+    Up_Engaging_Attack_Vol: 0.05000000074505806
+    LFO_RPM_Amp: 500
+    LFO_Vol_Amp: 1
+    Down_Engaging_Rise_T: 600
+    Up_Engaging_Attack_T: 500
+    LFO_RPM_Decay_Time: 700
+    Down_Reattach_Scale: 0.85000002384185791
+    Down_Engaging_Fall_T: 370
+    Up_Shift_Sound_Delay: 0.05000000074505806
+    Up_Vol_Shift: 22000
+    Down_Disengage_Fall_T: 300
+    LFO_Vol_Freq: 1
+    Down_Disengage_Fall_RPM: 800
+    Down_Vol_Shift: 18000
+    Down_Engaging_Rise_RPM: 600
+    LFO_RPM_Freq: 200
+    LFO_Vol_Decay_Time: 1
+- ParentName: 0xD6FD2442
+  Name: 0xCA5361DF
+  Data:
+    BankName: GEAR_MED_Base.abk
+    Down_Shift_Sound_Delay: 0.039999999105930328
+    Up_Engaging_Attack_Vol: 0.05000000074505806
+    LFO_RPM_Amp: 500
+    LFO_Vol_Amp: 1
+    Down_Engaging_Rise_T: 500
+    Up_Engaging_Attack_T: 500
+    LFO_RPM_Decay_Time: 700
+    Down_Reattach_Scale: 0.85000002384185791
+    Down_Engaging_Fall_T: 370
+    Up_Shift_Sound_Delay: 0.05000000074505806
+    Up_Vol_Shift: 24000
+    Down_Disengage_Fall_T: 300
+    LFO_Vol_Freq: 1
+    Down_Disengage_Fall_RPM: 800
+    Down_Vol_Shift: 22000
+    Down_Engaging_Rise_RPM: 600
+    LFO_RPM_Freq: 250
+    LFO_Vol_Decay_Time: 1
+    Up_Engage: 22938300
+- ParentName: 0xD6FD2442
+  Name: 0xFAE0B183
+  Data:
+    BankName: GEAR_BIG_Base.abk
+    Down_Shift_Sound_Delay: 0.25
+    Up_Engaging_Attack_Vol: 0
+    LFO_RPM_Amp: 400
+    LFO_Vol_Amp: 1000
+    Down_Engaging_Rise_T: 500
+    Up_Engaging_Attack_T: 500
+    LFO_RPM_Decay_Time: 1000
+    Down_Reattach_Scale: 0.5
+    Down_Engaging_Fall_T: 250
+    Up_Shift_Sound_Delay: 0.20000000298023224
+    Up_Vol_Shift: 0
+    Down_Disengage_Fall_T: 400
+    LFO_Vol_Freq: 100
+    Down_Disengage_Fall_RPM: 400
+    Down_Vol_Shift: 0
+    Down_Engaging_Rise_RPM: 500
+    LFO_RPM_Freq: 300
+    LFO_Vol_Decay_Time: 1000
+    Up_Engage_Curve:
+      Data:
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0.35555559396743774
+      - 0.44827589392662048
+      - 0
+      - 0
+      - 0.65128207206726074
+      - 0.25862070918083191
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+    Up_Engage: 19661050
+    Up_DisengageFall:
+      Capacity: 1
+      Data:
+      - Value: 49153000
+    Up_DisengageFall_Curve:
+      Capacity: 1
+      Data:
+      - Data:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0.28571429848670959
+        - -0.25862070918083191
+        - 0
+        - 0
+        - 0.64285707473754883
+        - -0.62068957090377808
+        - 0
+        - 0
+        - 1
+        - -1
+        - 0
+        - 0
+- ParentName: default
+  Name: exotic_auto
+  Data:
+    BankName: GEAR_MED_Base.abk
+    Down_Shift_Sound_Delay: 0.05000000074505806
+    Up_Engaging_Attack_Vol: 0.5
+    LFO_RPM_Amp: 300
+    LFO_Vol_Amp: 6000
+    Down_Engaging_Rise_T: 200
+    Up_Engaging_Attack_T: 500
+    LFO_RPM_Decay_Time: 400
+    Down_Reattach_Scale: 0.20000000298023224
+    Down_Engaging_Fall_T: 370
+    Up_Shift_Sound_Delay: 0.05000000074505806
+    Up_Vol_Shift: 25000
+    Down_Disengage_Fall_T: 250
+    LFO_Vol_Freq: 250
+    Down_Disengage_Fall_RPM: 800
+    Down_Vol_Shift: 25000
+    Down_Engaging_Rise_RPM: 300
+    LFO_RPM_Freq: 250
+    LFO_Vol_Decay_Time: 700
+    Down_Engaging_Fall_RPM: 500
+    Up_Engage_Curve:
+      Data:
+      - -0.016666669398546219
+      - 0.03448278084397316
+      - 0
+      - 0
+      - 0.40833330154418945
+      - 0.72413790225982666
+      - 0
+      - 0
+      - 0.40833330154418945
+      - -0.1034483015537262
+      - 0
+      - 0
+      - 1
+      - -0.017241379246115685
+      - 0
+      - 0
+    Up_Engage: 32769000
+    Up_DisengageFall_Curve:
+      Capacity: 1
+      Data:
+      - Data:
+        - 0
+        - 0.344827800989151
+        - 0
+        - 0
+        - 0.31666669249534607
+        - -0.1034483015537262
+        - 0
+        - 0
+        - 0.6416667103767395
+        - -0.58620691299438477
+        - 0
+        - 0
+        - 1
+        - -1
+        - 0
+        - 0
+    Up_DisengageFall:
+      Capacity: 1
+      Data:
+      - Value: 26217400
+- ParentName: exotic_auto
+  Name: exotic_auto_1
+  Data:
+    BankName: GEAR_MED_Lev1.abk
+    Down_Shift_Sound_Delay: 0.05000000074505806
+    Up_Engaging_Attack_Vol: 0.5
+    LFO_RPM_Amp: 500
+    LFO_Vol_Amp: 6000
+    Down_Engaging_Rise_T: 200
+    Up_Engaging_Attack_T: 500
+    LFO_RPM_Decay_Time: 700
+    Down_Reattach_Scale: 0.20000000298023224
+    Down_Engaging_Fall_T: 370
+    Up_Shift_Sound_Delay: 0.05000000074505806
+    Up_Vol_Shift: 25000
+    Down_Disengage_Fall_T: 250
+    LFO_Vol_Freq: 250
+    Down_Disengage_Fall_RPM: 800
+    Down_Vol_Shift: 25000
+    Down_Engaging_Rise_RPM: 300
+    LFO_RPM_Freq: 250
+    LFO_Vol_Decay_Time: 700
+    Down_Engaging_Fall_RPM: 500
+    Up_Engage_Curve:
+      Data:
+      - -0.016666669398546219
+      - 0.03448278084397316
+      - 0
+      - 0
+      - 0.3916667103767395
+      - 0.20689649879932404
+      - 0
+      - 0
+      - 0.29166668653488159
+      - 0.06896548718214035
+      - 0
+      - 0
+      - 0.95833331346511841
+      - 0.017241360619664192
+      - 0
+      - 0
+    Up_Engage: 32768800
+    Up_DisengageFall_Curve:
+      Capacity: 1
+      Data:
+      - Data:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0.25833329558372498
+        - -0.22413790225982666
+        - 0
+        - 0
+        - 0.31666669249534607
+        - -0.68965518474578857
+        - 0
+        - 0
+        - 1
+        - -1
+        - 0
+        - 0
+    Up_DisengageFall:
+      Capacity: 1
+      Data:
+      - Value: 19663800
+- ParentName: exotic_auto_1
+  Name: exotic_auto_2
+  Data:
+    BankName: GEAR_MED_Lev2.abk
+    Down_Shift_Sound_Delay: 0.05000000074505806
+    Up_Engaging_Attack_Vol: 0.5
+    LFO_RPM_Amp: 800
+    LFO_Vol_Amp: 1000
+    Down_Engaging_Rise_T: 200
+    Up_Engaging_Attack_T: 500
+    LFO_RPM_Decay_Time: 700
+    Down_Reattach_Scale: 0.20000000298023224
+    Down_Engaging_Fall_T: 370
+    Up_Shift_Sound_Delay: 0.05000000074505806
+    Up_Vol_Shift: 25000
+    Down_Disengage_Fall_T: 250
+    LFO_Vol_Freq: 350
+    Down_Disengage_Fall_RPM: 800
+    Down_Vol_Shift: 25000
+    Down_Engaging_Rise_RPM: 300
+    LFO_RPM_Freq: 250
+    LFO_Vol_Decay_Time: 700
+    Down_Engaging_Fall_RPM: 500
+    Up_Engage_Curve:
+      Data:
+      - 0.02500000037252903
+      - 0
+      - 0
+      - 0
+      - 0.53125
+      - 0
+      - 0
+      - 0
+      - 0.875
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+    Up_Engage: 524292000
+    Up_DisengageFall_Curve:
+      Capacity: 1
+      Data:
+      - Data:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0.25833329558372498
+        - -0.32758620381355286
+        - 0
+        - 0
+        - 0.6416667103767395
+        - -0.68965518474578857
+        - 0
+        - 0
+        - 1
+        - -1
+        - 0
+        - 0
+    Up_DisengageFall:
+      Capacity: 1
+      Data:
+      - Value: 19662800
+- ParentName: exotic_auto_2
+  Name: 0x328923EB
+  Data:
+    BankName: GEAR_MED_Lev3.abk
+    Down_Shift_Sound_Delay: 0.05000000074505806
+    Up_Engaging_Attack_Vol: 0.5
+    LFO_RPM_Amp: 900
+    LFO_Vol_Amp: 500
+    Down_Engaging_Rise_T: 200
+    Up_Engaging_Attack_T: 500
+    LFO_RPM_Decay_Time: 500
+    Down_Reattach_Scale: 0.20000000298023224
+    Down_Engaging_Fall_T: 370
+    Up_Shift_Sound_Delay: 0.05000000074505806
+    Up_Vol_Shift: 25000
+    Down_Disengage_Fall_T: 250
+    LFO_Vol_Freq: 350
+    Down_Disengage_Fall_RPM: 800
+    Down_Vol_Shift: 25000
+    Down_Engaging_Rise_RPM: 300
+    LFO_RPM_Freq: 250
+    LFO_Vol_Decay_Time: 700
+    Down_Engaging_Fall_RPM: 500
+    Up_Engage_Curve:
+      Data:
+      - 0.02500000037252903
+      - 0
+      - 0
+      - 0
+      - 0.53125
+      - 0
+      - 0
+      - 0
+      - 0.875
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+    Up_Engage: 524292000
+    Up_DisengageFall_Curve:
+      Capacity: 1
+      Data:
+      - Data:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0.25833329558372498
+        - -0.32758620381355286
+        - 0
+        - 0
+        - 0.6416667103767395
+        - -0.68965518474578857
+        - 0
+        - 0
+        - 1
+        - -1
+        - 0
+        - 0
+    Up_DisengageFall:
+      Capacity: 1
+      Data:
+      - Value: 16385500

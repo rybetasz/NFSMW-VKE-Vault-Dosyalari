@@ -1,0 +1,84 @@
+- ParentName: 
+  Name: default
+  Data:
+    induction_package:
+      Capacity: 2
+      Data:
+      - ClassKey: 3374973250
+        DefinitionKey: 1902702424
+        ScaleF: 1.1499999761581421
+      - ClassKey: 3374973250
+        DefinitionKey: 2050064832
+        ScaleF: 1.1499999761581421
+    brakes_package:
+      Capacity: 2
+      Data:
+      - ClassKey: 909445223
+        DefinitionKey: 976712449
+        ScaleF: 1.2000000476837158
+      - ClassKey: 909445223
+        DefinitionKey: 3700840972
+        ScaleF: 1.1000000238418579
+    transmission_package:
+      Capacity: 1
+      Data:
+      - ClassKey: 128426981
+        DefinitionKey: 1381034898
+        ScaleF: 1.1000000238418579
+    engine_package:
+      Capacity: 2
+      Data:
+      - ClassKey: 4059429831
+        DefinitionKey: 2949474236
+        ScaleF: 1.1000000238418579
+      - ClassKey: 4059429831
+        DefinitionKey: 2193971520
+        ScaleF: 1.1000000238418579
+    nos_package:
+      Capacity: 2
+      Data:
+      - ClassKey: 2976292708
+        DefinitionKey: 2852331926
+        ScaleF: 1.1000000238418579
+      - ClassKey: 2976292708
+        DefinitionKey: 2380430396
+        ScaleF: 1.0199999809265137
+    tires_package:
+      Capacity: 5
+      Data:
+      - ClassKey: 3174617546
+        DefinitionKey: 3960037734
+        ScaleF: 1.1000000238418579
+      - ClassKey: 3174617546
+        DefinitionKey: 2868642227
+        ScaleF: 1.1000000238418579
+      - ClassKey: 3174617546
+        DefinitionKey: 4051156507
+        ScaleF: 1.0199999809265137
+      - ClassKey: 3174617546
+        DefinitionKey: 1690582091
+        ScaleF: 1.1000000238418579
+      - ClassKey: 3174617546
+        DefinitionKey: 4277521461
+        ScaleF: 1.0499999523162842
+    chassis_package:
+      Capacity: 6
+      Data:
+      - ClassKey: 2946633968
+        DefinitionKey: 1015416645
+        ScaleF: 0.89999997615814209
+      - ClassKey: 2946633968
+        DefinitionKey: 1728237561
+        ScaleF: 1.0499999523162842
+      - ClassKey: 2946633968
+        DefinitionKey: 2150499807
+        ScaleF: 1.0499999523162842
+      - ClassKey: 2946633968
+        DefinitionKey: 3849186852
+        ScaleF: 1.0099999904632568
+      - ClassKey: 2946633968
+        DefinitionKey: 3264941847
+        ScaleF: 1.0499999523162842
+      - ClassKey: 2946633968
+        DefinitionKey: 2696191938
+        ScaleF: 1.0499999523162842

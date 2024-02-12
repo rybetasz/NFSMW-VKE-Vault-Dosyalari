@@ -1,0 +1,121 @@
+- ParentName: finishline
+  Name: race_bin_02/2_2_20_sprintyarisi/finishline
+  Data:
+    CollectionName: race_bin_02/2_2_20_sprintyarisi/finishline
+    message_id: 0
+    Name: race_bin_02/2_2_20_sprintyarisi/finishline
+    Dimensions:
+      X: 1
+      Y: 80
+      Z: 40
+    FlareSpacing: 10
+    Position:
+      X: 4326.580078125
+      Y: 18.579999923706055
+      Z: 9.5799999237060547
+    Rotation: 264.0780029296875
+    Template: false
+- ParentName: checkpoint
+  Name: race_bin_02/2_2_20_sprintyarisi/checkpoint03
+  Data:
+    CollectionName: race_bin_02/2_2_20_sprintyarisi/checkpoint03
+    message_id: 0
+    Name: race_bin_02/2_2_20_sprintyarisi/checkpoint03
+    Dimensions:
+      X: 1
+      Y: 80
+      Z: 40
+    Position:
+      X: 3530.780029296875
+      Y: 1120.5799560546875
+      Z: 69.129997253417969
+    Rotation: 349.35400390625
+    Template: false
+- ParentName: checkpoint
+  Name: race_bin_02/2_2_20_sprintyarisi/checkpoint05
+  Data:
+    CollectionName: race_bin_02/2_2_20_sprintyarisi/checkpoint05
+    message_id: 0
+    Name: race_bin_02/2_2_20_sprintyarisi/checkpoint05
+    Dimensions:
+      X: 1
+      Y: 80
+      Z: 40
+    Position:
+      X: 4789.2001953125
+      Y: 776.65997314453125
+      Z: 12.100000381469727
+    Rotation: 224.63699340820312
+    Template: false
+- ParentName: checkpoint
+  Name: race_bin_02/2_2_20_sprintyarisi/checkpoint04
+  Data:
+    CollectionName: race_bin_02/2_2_20_sprintyarisi/checkpoint04
+    message_id: 0
+    Name: race_bin_02/2_2_20_sprintyarisi/checkpoint04
+    Dimensions:
+      X: 1
+      Y: 80
+      Z: 40
+    Position:
+      X: 4329.97021484375
+      Y: 1080.3900146484375
+      Z: 60.569999694824219
+    Rotation: 346.06399536132812
+    Template: false
+- ParentName: checkpoint
+  Name: race_bin_02/2_2_20_sprintyarisi/checkpoint01
+  Data:
+    CollectionName: race_bin_02/2_2_20_sprintyarisi/checkpoint01
+    message_id: 0
+    Name: race_bin_02/2_2_20_sprintyarisi/checkpoint01
+    Dimensions:
+      X: 1
+      Y: 80
+      Z: 40
+    Position:
+      X: 2325.219970703125
+      Y: 3196.669921875
+      Z: 191.75
+    Rotation: 273.74099731445312
+    Template: false
+- ParentName: checkpoint
+  Name: race_bin_02/2_2_20_sprintyarisi/checkpoint02
+  Data:
+    CollectionName: race_bin_02/2_2_20_sprintyarisi/checkpoint02
+    message_id: 0
+    Name: race_bin_02/2_2_20_sprintyarisi/checkpoint02
+    Dimensions:
+      X: 1
+      Y: 80
+      Z: 40
+    Position:
+      X: 3000.010009765625
+      Y: 1925.1099853515625
+      Z: 106.26999664306641
+    Rotation: 330.91400146484375
+    Template: false
+- ParentName: carmarker
+  Name: race_bin_02/2_2_20_sprintyarisi/opponent_spawn
+  Data:
+    CollectionName: race_bin_02/2_2_20_sprintyarisi/opponent_spawn
+    message_id: 0
+    Name: race_bin_02/2_2_20_sprintyarisi/opponent_spawn
+    Position:
+      X: 2131.199951171875
+      Y: 4294.7099609375
+      Z: 219.30999755859375
+    Rotation: 310.04501342773438
+    Template: false
+- ParentName: startgrid
+  Name: race_bin_02/2_2_20_sprintyarisi/startgrid
+  Data:
+    CollectionName: race_bin_02/2_2_20_sprintyarisi/startgrid
+    message_id: 0
+    Name: race_bin_02/2_2_20_sprintyarisi/startgrid
+    Position:
+      X: 2131.199951171875
+      Y: 4294.7099609375
+      Z: 219.30999755859375
+    Rotation: 310.04501342773438
+    Template: false

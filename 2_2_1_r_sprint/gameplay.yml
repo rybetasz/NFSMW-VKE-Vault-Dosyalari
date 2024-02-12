@@ -1,0 +1,366 @@
+- ParentName: finishline
+  Name: race_bin_01/2_2_1_r_sprint/2_2_1_finishline
+  Data:
+    CollectionName: race_bin_01/2_2_1_r_sprint/2_2_1_finishline
+    message_id: 0
+    Rotation: 285
+    Position:
+      X: 2421.406005859375
+      Y: 443.1077880859375
+      Z: 93
+    Name: race_bin_01/2_2_1_r_sprint/2_2_1_finishline
+    Template: false
+    Dimensions:
+      X: 3
+      Y: 46
+      Z: 3
+- ParentName: checkpoint
+  Name: race_bin_01/2_2_1_r_sprint/checkpoint3
+  Data:
+    CollectionName: race_bin_01/2_2_1_r_sprint/checkpoint3
+    message_id: 0
+    Rotation: 129.375
+    Position:
+      X: 2553.405029296875
+      Y: 3815.5009765625
+      Z: 226.15629577636719
+    Name: race_bin_01/2_2_1_r_sprint/checkpoint3
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 60
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/2_2_1_r_sprint/checkpoint6
+  Data:
+    CollectionName: race_bin_01/2_2_1_r_sprint/checkpoint6
+    message_id: 0
+    Rotation: 297.42190551757812
+    Position:
+      X: 154.69389343261719
+      Y: 3839.06396484375
+      Z: 188.08689880371094
+    Name: race_bin_01/2_2_1_r_sprint/checkpoint6
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 40
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/2_2_1_r_sprint/checkpoint4
+  Data:
+    CollectionName: race_bin_01/2_2_1_r_sprint/checkpoint4
+    message_id: 0
+    Rotation: 142.94389343261719
+    Position:
+      X: 2552.618896484375
+      Y: 4515.84912109375
+      Z: 264.2412109375
+    Name: race_bin_01/2_2_1_r_sprint/checkpoint4
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 50
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/2_2_1_r_sprint/checkpoint10
+  Data:
+    CollectionName: race_bin_01/2_2_1_r_sprint/checkpoint10
+    message_id: 0
+    Rotation: 277.03131103515625
+    Position:
+      X: 1637.6710205078125
+      Y: 1000.3359985351562
+      Z: 121.57129669189453
+    Name: race_bin_01/2_2_1_r_sprint/checkpoint10
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 40
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/2_2_1_r_sprint/checkpoint8
+  Data:
+    CollectionName: race_bin_01/2_2_1_r_sprint/checkpoint8
+    message_id: 0
+    Rotation: 328.71090698242188
+    Position:
+      X: 527.11737060546875
+      Y: 2340.25
+      Z: 161.12300109863281
+    Name: race_bin_01/2_2_1_r_sprint/checkpoint8
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 40
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/2_2_1_r_sprint/checkpoint7
+  Data:
+    CollectionName: race_bin_01/2_2_1_r_sprint/checkpoint7
+    message_id: 0
+    Rotation: 180
+    Position:
+      X: 220.05799865722656
+      Y: 2839.60107421875
+      Z: 179.72749328613281
+    Name: race_bin_01/2_2_1_r_sprint/checkpoint7
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 40
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/2_2_1_r_sprint/checkpoint11
+  Data:
+    CollectionName: race_bin_01/2_2_1_r_sprint/checkpoint11
+    message_id: 0
+    Rotation: 348.39840698242188
+    Position:
+      X: 2314.85693359375
+      Y: 932.59002685546875
+      Z: 132.26860046386719
+    Name: race_bin_01/2_2_1_r_sprint/checkpoint11
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 40
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/2_2_1_r_sprint/checkpoint1
+  Data:
+    CollectionName: race_bin_01/2_2_1_r_sprint/checkpoint1
+    message_id: 0
+    Rotation: 121.99220275878906
+    Position:
+      X: 2914.989990234375
+      Y: 2003.7550048828125
+      Z: 113.15720367431641
+    Name: race_bin_01/2_2_1_r_sprint/checkpoint1
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 60
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/2_2_1_r_sprint/checkpoint2
+  Data:
+    CollectionName: race_bin_01/2_2_1_r_sprint/checkpoint2
+    message_id: 0
+    Rotation: 157.21240234375
+    Position:
+      X: 2444.7099609375
+      Y: 2522.113037109375
+      Z: 122.82219696044922
+    Name: race_bin_01/2_2_1_r_sprint/checkpoint2
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 40
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/2_2_1_r_sprint/checkpoint9
+  Data:
+    CollectionName: race_bin_01/2_2_1_r_sprint/checkpoint9
+    message_id: 0
+    Rotation: 317.10940551757812
+    Position:
+      X: 1771.0450439453125
+      Y: 2027.656982421875
+      Z: 148.30169677734375
+    Name: race_bin_01/2_2_1_r_sprint/checkpoint9
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 45
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/2_2_1_r_sprint/checkpoint5
+  Data:
+    CollectionName: race_bin_01/2_2_1_r_sprint/checkpoint5
+    message_id: 0
+    Rotation: 161.71879577636719
+    Position:
+      X: 1106.9510498046875
+      Y: 4431.65087890625
+      Z: 212.36140441894531
+    Name: race_bin_01/2_2_1_r_sprint/checkpoint5
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 40
+      Z: 40
+- ParentName: resetplayertrigger
+  Name: race_bin_01/2_2_1_r_sprint/wrongway
+  Data:
+    CollectionName: race_bin_01/2_2_1_r_sprint/wrongway
+    message_id: 0
+    Rotation: 294
+    Position:
+      X: 3183.823974609375
+      Y: 824.96441650390625
+      Z: 40.966800689697266
+    Name: race_bin_01/2_2_1_r_sprint/wrongway
+    Template: false
+- ParentName: resetplayertrigger
+  Name: race_bin_01/2_2_1_r_sprint/resetplayertrigger1
+  Data:
+    CollectionName: race_bin_01/2_2_1_r_sprint/resetplayertrigger1
+    message_id: 0
+    Rotation: -176.4779052734375
+    Position:
+      X: 1594.946044921875
+      Y: 907.41741943359375
+      Z: 120.23439788818359
+    Name: race_bin_01/2_2_1_r_sprint/resetplayertrigger1
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/2_2_1_r_sprint/shortcut9
+  Data:
+    CollectionName: race_bin_01/2_2_1_r_sprint/shortcut9
+    message_id: 0
+    Rotation: -51.272731781005859
+    Position:
+      X: 1713.8900146484375
+      Y: 2060.705078125
+      Z: 147.28030395507812
+    ShortcutMaxChance: 0
+    Name: race_bin_01/2_2_1_r_sprint/shortcut9
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/2_2_1_r_sprint/shortcut4
+  Data:
+    CollectionName: race_bin_01/2_2_1_r_sprint/shortcut4
+    message_id: 0
+    Rotation: -17.454549789428711
+    Position:
+      X: 788.51568603515625
+      Y: 2278.76611328125
+      Z: 155.20109558105469
+    ShortcutMaxChance: 0.89999997615814209
+    Name: race_bin_01/2_2_1_r_sprint/shortcut4
+    ShortcutMinChance: 0.80000001192092896
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/2_2_1_r_sprint/shortcut2
+  Data:
+    CollectionName: race_bin_01/2_2_1_r_sprint/shortcut2
+    message_id: 0
+    Rotation: 165.81820678710938
+    Position:
+      X: 1226.720947265625
+      Y: 4413.9921875
+      Z: 214.50979614257812
+    ShortcutMaxChance: 0.60000002384185791
+    Name: race_bin_01/2_2_1_r_sprint/shortcut2
+    ShortcutMinChance: 0.40000000596046448
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/2_2_1_r_sprint/shortcut10
+  Data:
+    CollectionName: race_bin_01/2_2_1_r_sprint/shortcut10
+    message_id: 0
+    Rotation: -49.454540252685547
+    Position:
+      X: 1729.75
+      Y: 2096.4970703125
+      Z: 147.36520385742188
+    ShortcutMaxChance: 0
+    Name: race_bin_01/2_2_1_r_sprint/shortcut10
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/2_2_1_r_sprint/shortcut3
+  Data:
+    CollectionName: race_bin_01/2_2_1_r_sprint/shortcut3
+    message_id: 0
+    Rotation: 179.272705078125
+    Position:
+      X: 967.45947265625
+      Y: 4466.24609375
+      Z: 204.64840698242188
+    ShortcutMaxChance: 0.89999997615814209
+    Name: race_bin_01/2_2_1_r_sprint/shortcut3
+    ShortcutMinChance: 0.80000001192092896
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/2_2_1_r_sprint/shortcut7
+  Data:
+    CollectionName: race_bin_01/2_2_1_r_sprint/shortcut7
+    message_id: 0
+    Rotation: -134.54550170898438
+    Position:
+      X: 1309.5
+      Y: 1659.011962890625
+      Z: 146.13960266113281
+    ShortcutMaxChance: 0.89999997615814209
+    Name: race_bin_01/2_2_1_r_sprint/shortcut7
+    ShortcutMinChance: 0.80000001192092896
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/2_2_1_r_sprint/shortcut6
+  Data:
+    CollectionName: race_bin_01/2_2_1_r_sprint/shortcut6
+    message_id: 0
+    Rotation: -14.181819915771484
+    Position:
+      X: 1414.9539794921875
+      Y: 2135.492919921875
+      Z: 145.26370239257812
+    ShortcutMaxChance: 0.89999997615814209
+    Name: race_bin_01/2_2_1_r_sprint/shortcut6
+    ShortcutMinChance: 0.80000001192092896
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/2_2_1_r_sprint/shortcut5
+  Data:
+    CollectionName: race_bin_01/2_2_1_r_sprint/shortcut5
+    message_id: 0
+    Rotation: -12
+    Position:
+      X: 765.227783203125
+      Y: 2217.373046875
+      Z: 155.90040588378906
+    ShortcutMaxChance: 0.89999997615814209
+    Name: race_bin_01/2_2_1_r_sprint/shortcut5
+    ShortcutMinChance: 0.80000001192092896
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/2_2_1_r_sprint/shortcut8
+  Data:
+    CollectionName: race_bin_01/2_2_1_r_sprint/shortcut8
+    message_id: 0
+    Rotation: 7.2727270126342773
+    Position:
+      X: 1820.3499755859375
+      Y: 961.286376953125
+      Z: 119.21389770507812
+    ShortcutMaxChance: 0.20000000298023224
+    Name: race_bin_01/2_2_1_r_sprint/shortcut8
+    ShortcutMinChance: 0.10000000149011612
+    Template: false
+- ParentName: shortcut
+  Name: race_bin_01/2_2_1_r_sprint/shortcut1
+  Data:
+    CollectionName: race_bin_01/2_2_1_r_sprint/shortcut1
+    message_id: 0
+    Rotation: 98.545448303222656
+    Position:
+      X: 3115.8349609375
+      Y: 1754.9320068359375
+      Z: 105.19039916992188
+    ShortcutMaxChance: 0.89999997615814209
+    Name: race_bin_01/2_2_1_r_sprint/shortcut1
+    ShortcutMinChance: 0.80000001192092896
+    Template: false
+- ParentName: startgrid
+  Name: race_bin_01/2_2_1_r_sprint/2_2_1_startgrid
+  Data:
+    CollectionName: race_bin_01/2_2_1_r_sprint/2_2_1_startgrid
+    message_id: 0
+    Rotation: 114
+    Position:
+      X: 3125.625
+      Y: 960.54400634765625
+      Z: 67.921882629394531
+    Name: race_bin_01/2_2_1_r_sprint/2_2_1_startgrid
+    Template: false

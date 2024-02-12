@@ -1,0 +1,2460 @@
+- ParentName: 
+  Name: default
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 1
+    BRAKES:
+      Front: 553
+      Rear: 553
+    EBRAKE: 590
+- ParentName: default
+  Name: trailera
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 1
+    BRAKES:
+      Front: 1553
+      Rear: 1553
+    EBRAKE: 2000
+- ParentName: default
+  Name: cerberalm
+  Data:
+    BRAKE_LOCK:
+      Front: 3.25
+      Rear: 3.4000000953674316
+    BRAKES:
+      Front: 650
+      Rear: 850
+    EBRAKE: 1050
+- ParentName: default
+  Name: 0x02AE8B00
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 320
+      Rear: 460
+    EBRAKE: 520
+- ParentName: 0x02AE8B00
+  Name: 0x79DD4443
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2999999523162842
+    BRAKES:
+      Front: 450
+      Rear: 575
+    EBRAKE: 800
+- ParentName: default
+  Name: 0x062FB333
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5999999046325684
+    BRAKES:
+      Front: 400
+      Rear: 650
+    EBRAKE: 800
+- ParentName: 0x062FB333
+  Name: 0xAC5CE480
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5999999046325684
+    BRAKES:
+      Front: 450
+      Rear: 675
+    EBRAKE: 875
+- ParentName: default
+  Name: 0x097C7B7D
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.25
+    BRAKES:
+      Front: 320
+      Rear: 475
+    EBRAKE: 295.04000854492188
+- ParentName: default
+  Name: impreza
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 320
+      Rear: 500
+    EBRAKE: 450
+- ParentName: impreza
+  Name: 0x91FFC4C1
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2999999523162842
+    BRAKES:
+      Front: 425
+      Rear: 625
+    EBRAKE: 675
+- ParentName: default
+  Name: golf
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 300
+      Rear: 400
+    EBRAKE: 375
+- ParentName: golf
+  Name: 0x9B399813
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 390
+      Rear: 475
+    EBRAKE: 750
+- ParentName: default
+  Name: focus
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2200000286102295
+    BRAKES:
+      Front: 350
+      Rear: 450
+    EBRAKE: 510
+- ParentName: focus
+  Name: 0xE30CBCD6
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.369999885559082
+    BRAKES:
+      Front: 500
+      Rear: 600
+    EBRAKE: 710
+- ParentName: default
+  Name: enzo
+  Data:
+    BRAKE_LOCK:
+      Front: 0.80000001192092896
+      Rear: 1
+    BRAKES:
+      Front: 430
+      Rear: 430
+    EBRAKE: 675
+- ParentName: enzo
+  Name: 0x17727DE3
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 1
+    BRAKES:
+      Front: 580
+      Rear: 580
+    EBRAKE: 750
+- ParentName: default
+  Name: 0x132BAEC9
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3
+    BRAKES:
+      Front: 320
+      Rear: 400
+    EBRAKE: 425
+- ParentName: 0x132BAEC9
+  Name: 0x16B8F959
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 500
+      Rear: 600
+    EBRAKE: 900
+- ParentName: default
+  Name: tt
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2999999523162842
+    BRAKES:
+      Front: 360
+      Rear: 520
+    EBRAKE: 550
+- ParentName: tt
+  Name: tt_top
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.25
+    BRAKES:
+      Front: 400
+      Rear: 575
+    EBRAKE: 700
+- ParentName: default
+  Name: regera
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 2
+    BRAKES:
+      Front: 500
+      Rear: 650
+    EBRAKE: 700
+- ParentName: regera
+  Name: 0xC2D75A21
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 2
+    BRAKES:
+      Front: 700
+      Rear: 750
+    EBRAKE: 750
+- ParentName: default
+  Name: jaguarxk
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 470
+      Rear: 550
+    EBRAKE: 700
+- ParentName: jaguarxk
+  Name: jaguarxk_top
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3
+    BRAKES:
+      Front: 525
+      Rear: 600
+    EBRAKE: 900
+- ParentName: default
+  Name: audisport4
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 310
+      Rear: 525
+    EBRAKE: 500
+- ParentName: audisport4
+  Name: 0x56F68DD2
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 450
+      Rear: 570
+    EBRAKE: 900
+- ParentName: default
+  Name: vipergts
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 368.79998779296875
+      Rear: 600
+    EBRAKE: 700
+- ParentName: vipergts
+  Name: 0x4C0E2739
+  Data:
+    BRAKE_LOCK:
+      Front: 3.25
+      Rear: 3.4000000953674316
+    BRAKES:
+      Front: 425
+      Rear: 650
+    EBRAKE: 700
+- ParentName: default
+  Name: continental
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2000000476837158
+    BRAKES:
+      Front: 400
+      Rear: 650
+    EBRAKE: 950
+- ParentName: continental
+  Name: 0x16DD0F00
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3
+    BRAKES:
+      Front: 690
+      Rear: 740
+    EBRAKE: 1000
+- ParentName: default
+  Name: 0x28B9279B
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2999999523162842
+    BRAKES:
+      Front: 410
+      Rear: 550
+    EBRAKE: 600
+- ParentName: 0x28B9279B
+  Name: 0xD390D06B
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2999999523162842
+    BRAKES:
+      Front: 475
+      Rear: 650
+    EBRAKE: 800
+- ParentName: default
+  Name: 0x2AFF6E40
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.0999999046325684
+    BRAKES:
+      Front: 650
+      Rear: 700
+    EBRAKE: 800
+- ParentName: 0x2AFF6E40
+  Name: 0x3BEC9626
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2999999523162842
+    BRAKES:
+      Front: 800
+      Rear: 900
+    EBRAKE: 1050
+- ParentName: default
+  Name: dbr9
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5999999046325684
+    BRAKES:
+      Front: 400
+      Rear: 650
+    EBRAKE: 800
+- ParentName: dbr9
+  Name: 0xE9BD8DD3
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5999999046325684
+    BRAKES:
+      Front: 450
+      Rear: 675
+    EBRAKE: 875
+- ParentName: default
+  Name: corsa
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2000000476837158
+    BRAKES:
+      Front: 335
+      Rear: 445
+    EBRAKE: 365
+- ParentName: corsa
+  Name: 0x9CF00E3F
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.25
+    BRAKES:
+      Front: 465
+      Rear: 565
+    EBRAKE: 710
+- ParentName: default
+  Name: 0x30C72248
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2999999523162842
+    BRAKES:
+      Front: 400
+      Rear: 650
+    EBRAKE: 900
+- ParentName: 0x30C72248
+  Name: 0x009D9B1C
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 615
+      Rear: 740
+    EBRAKE: 700
+- ParentName: default
+  Name: elise
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 2.75
+    BRAKES:
+      Front: 280
+      Rear: 350
+    EBRAKE: 400
+- ParentName: elise
+  Name: elise_top
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 350
+      Rear: 500
+    EBRAKE: 550
+- ParentName: default
+  Name: ccx
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 2.2999999523162842
+    BRAKES:
+      Front: 175
+      Rear: 200
+    EBRAKE: 230
+- ParentName: ccx
+  Name: ccx_top
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 2.5
+    BRAKES:
+      Front: 350
+      Rear: 400
+    EBRAKE: 390
+- ParentName: default
+  Name: 0x3348AB19
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2999999523162842
+    BRAKES:
+      Front: 400
+      Rear: 550
+    EBRAKE: 600
+- ParentName: 0x3348AB19
+  Name: 0xC832E373
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2999999523162842
+    BRAKES:
+      Front: 475
+      Rear: 650
+    EBRAKE: 800
+- ParentName: default
+  Name: corolla
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3
+    BRAKES:
+      Front: 325
+      Rear: 450
+    EBRAKE: 350
+- ParentName: corolla
+  Name: corolla_top
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.25
+    BRAKES:
+      Front: 450
+      Rear: 550
+    EBRAKE: 700
+- ParentName: default
+  Name: 350z
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 340
+      Rear: 560
+    EBRAKE: 700
+- ParentName: 350z
+  Name: 350z_top
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 475
+      Rear: 650
+    EBRAKE: 900
+- ParentName: default
+  Name: xsaraf2
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 5
+    BRAKES:
+      Front: 300
+      Rear: 600
+    EBRAKE: 900
+- ParentName: xsaraf2
+  Name: 0xCFB388CD
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3
+    BRAKES:
+      Front: 675
+      Rear: 750
+    EBRAKE: 950
+- ParentName: default
+  Name: 997s
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.25
+    BRAKES:
+      Front: 350
+      Rear: 553
+    EBRAKE: 600
+- ParentName: 997s
+  Name: 997s_top
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2999999523162842
+    BRAKES:
+      Front: 450
+      Rear: 650
+    EBRAKE: 725
+- ParentName: default
+  Name: f50
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2999999523162842
+    BRAKES:
+      Front: 370
+      Rear: 500
+    EBRAKE: 770
+- ParentName: f50
+  Name: 0xA457978F
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.4000000953674316
+    BRAKES:
+      Front: 500
+      Rear: 650
+    EBRAKE: 850
+- ParentName: default
+  Name: mc12
+  Data:
+    BRAKE_LOCK:
+      Front: 0.69999998807907104
+      Rear: 1.1000000238418579
+    BRAKES:
+      Front: 375
+      Rear: 400
+    EBRAKE: 360
+- ParentName: mc12
+  Name: 0x6F26FD4C
+  Data:
+    BRAKE_LOCK:
+      Front: 1.0499999523162842
+      Rear: 0.89999997615814209
+    BRAKES:
+      Front: 625
+      Rear: 625
+    EBRAKE: 590
+- ParentName: default
+  Name: caymans
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2999999523162842
+    BRAKES:
+      Front: 351
+      Rear: 550
+    EBRAKE: 600
+- ParentName: caymans
+  Name: caymans_top
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2999999523162842
+    BRAKES:
+      Front: 475
+      Rear: 650
+    EBRAKE: 800
+- ParentName: default
+  Name: 0x42B8384F
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 360
+      Rear: 500
+    EBRAKE: 550
+- ParentName: 0x42B8384F
+  Name: 0xFAEB3728
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2999999523162842
+    BRAKES:
+      Front: 475
+      Rear: 600
+    EBRAKE: 850
+- ParentName: default
+  Name: fordgt
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.4000000953674316
+    BRAKES:
+      Front: 350
+      Rear: 500
+    EBRAKE: 750
+- ParentName: fordgt
+  Name: fordgt_top
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.4000000953674316
+    BRAKES:
+      Front: 450
+      Rear: 650
+    EBRAKE: 900
+- ParentName: default
+  Name: 0x44511411
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2999999523162842
+    BRAKES:
+      Front: 500
+      Rear: 750
+    EBRAKE: 950
+- ParentName: 0x44511411
+  Name: 0x88FD40FE
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 675
+      Rear: 765
+    EBRAKE: 975
+- ParentName: default
+  Name: huayra
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2999999523162842
+    BRAKES:
+      Front: 600
+      Rear: 750
+    EBRAKE: 810
+- ParentName: huayra
+  Name: 0x46F6195A
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 635
+      Rear: 765
+    EBRAKE: 710
+- ParentName: default
+  Name: corvette
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3
+    BRAKES:
+      Front: 340
+      Rear: 480
+    EBRAKE: 425
+- ParentName: corvette
+  Name: corvette_top
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3
+    BRAKES:
+      Front: 475
+      Rear: 600
+    EBRAKE: 750
+- ParentName: default
+  Name: cien
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.4000000953674316
+    BRAKES:
+      Front: 350
+      Rear: 500
+    EBRAKE: 750
+- ParentName: cien
+  Name: 0x66D99741
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.4000000953674316
+    BRAKES:
+      Front: 450
+      Rear: 650
+    EBRAKE: 900
+- ParentName: default
+  Name: speedtest
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3
+    BRAKES:
+      Front: 400
+      Rear: 600
+    EBRAKE: 550
+- ParentName: default
+  Name: bmwm3gtre46
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3
+    BRAKES:
+      Front: 475
+      Rear: 600
+    EBRAKE: 925
+- ParentName: bmwm3gtre46
+  Name: m3gtre46careerstart
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3
+    BRAKES:
+      Front: 400
+      Rear: 450
+    EBRAKE: 650
+- ParentName: default
+  Name: bora
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 395
+      Rear: 495
+    EBRAKE: 465
+- ParentName: bora
+  Name: 0xCB3F0806
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 450
+      Rear: 575
+    EBRAKE: 650
+- ParentName: default
+  Name: 0x507EF366
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3
+    BRAKES:
+      Front: 400
+      Rear: 475
+    EBRAKE: 500
+- ParentName: 0x507EF366
+  Name: 0x52FF35B6
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 550
+      Rear: 700
+    EBRAKE: 700
+- ParentName: default
+  Name: cs_trafcement
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 300
+      Rear: 550
+    EBRAKE: 1500
+- ParentName: default
+  Name: neon
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 280
+      Rear: 400
+    EBRAKE: 450
+- ParentName: neon
+  Name: 0x585688A9
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 325
+      Rear: 475
+    EBRAKE: 700
+- ParentName: default
+  Name: 911gt1
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2999999523162842
+    BRAKES:
+      Front: 460
+      Rear: 570
+    EBRAKE: 900
+- ParentName: 911gt1
+  Name: 0x43290D1F
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.4000000953674316
+    BRAKES:
+      Front: 600
+      Rear: 750
+    EBRAKE: 1150
+- ParentName: default
+  Name: lancerevo3
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 2.0999999046325684
+    BRAKES:
+      Front: 475
+      Rear: 550
+    EBRAKE: 650
+- ParentName: lancerevo3
+  Name: 0x39EBB438
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 2.0999999046325684
+    BRAKES:
+      Front: 800
+      Rear: 850
+    EBRAKE: 950
+- ParentName: default
+  Name: cobaltss
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 280
+      Rear: 400
+    EBRAKE: 450
+- ParentName: cobaltss
+  Name: cobaltss_top
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 325
+      Rear: 475
+    EBRAKE: 700
+- ParentName: default
+  Name: navigator
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 360
+      Rear: 500
+    EBRAKE: 550
+- ParentName: navigator
+  Name: 0xCA169295
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2999999523162842
+    BRAKES:
+      Front: 475
+      Rear: 600
+    EBRAKE: 850
+- ParentName: default
+  Name: is300
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3
+    BRAKES:
+      Front: 300
+      Rear: 425
+    EBRAKE: 475
+- ParentName: is300
+  Name: is300_top
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2000000476837158
+    BRAKES:
+      Front: 475
+      Rear: 575
+    EBRAKE: 950
+- ParentName: default
+  Name: 0x5E6BFCE4
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.4000000953674316
+    BRAKES:
+      Front: 350
+      Rear: 500
+    EBRAKE: 750
+- ParentName: 0x5E6BFCE4
+  Name: 0xFFD527C3
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.4000000953674316
+    BRAKES:
+      Front: 450
+      Rear: 650
+    EBRAKE: 900
+- ParentName: default
+  Name: imprezawrx
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 360
+      Rear: 500
+    EBRAKE: 500
+- ParentName: imprezawrx
+  Name: imprezawrx_top
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2999999523162842
+    BRAKES:
+      Front: 450
+      Rear: 650
+    EBRAKE: 850
+- ParentName: default
+  Name: 0x60C81988
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3
+    BRAKES:
+      Front: 380
+      Rear: 500
+    EBRAKE: 500
+- ParentName: 0x60C81988
+  Name: 0x2663EC09
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.7000000476837158
+    BRAKES:
+      Front: 525
+      Rear: 650
+    EBRAKE: 700
+- ParentName: default
+  Name: avantime
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 1
+    BRAKES:
+      Front: 425
+      Rear: 525
+    EBRAKE: 625
+- ParentName: avantime
+  Name: 0x96E46FF4
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 1
+    BRAKES:
+      Front: 575
+      Rear: 675
+    EBRAKE: 725
+- ParentName: default
+  Name: supra
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.0999999046325684
+    BRAKES:
+      Front: 350
+      Rear: 480
+    EBRAKE: 600
+- ParentName: supra
+  Name: supra_top
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.4000000953674316
+    BRAKES:
+      Front: 550
+      Rear: 650
+    EBRAKE: 900
+- ParentName: default
+  Name: carreragt
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2999999523162842
+    BRAKES:
+      Front: 390
+      Rear: 500
+    EBRAKE: 800
+- ParentName: carreragt
+  Name: cops
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 1
+    BRAKES:
+      Front: 1000
+      Rear: 1000
+    EBRAKE: 1000
+- ParentName: carreragt
+  Name: carreragt_top
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 500
+      Rear: 650
+    EBRAKE: 850
+- ParentName: default
+  Name: 0x6B4CE945
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 1
+    BRAKES:
+      Front: 553
+      Rear: 553
+    EBRAKE: 590
+- ParentName: default
+  Name: venomf5
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.0999999046325684
+    BRAKES:
+      Front: 650
+      Rear: 700
+    EBRAKE: 800
+- ParentName: venomf5
+  Name: 0x0C01E1F8
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2999999523162842
+    BRAKES:
+      Front: 800
+      Rear: 900
+    EBRAKE: 1050
+- ParentName: default
+  Name: viper
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 368.79998779296875
+      Rear: 600
+    EBRAKE: 700
+- ParentName: viper
+  Name: viper_top
+  Data:
+    BRAKE_LOCK:
+      Front: 3.25
+      Rear: 3.4000000953674316
+    BRAKES:
+      Front: 425
+      Rear: 650
+    EBRAKE: 700
+- ParentName: default
+  Name: reno5
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3
+    BRAKES:
+      Front: 330.20001220703125
+      Rear: 430
+    EBRAKE: 450
+- ParentName: reno5
+  Name: 0x5849EE22
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 450
+      Rear: 600
+    EBRAKE: 800
+- ParentName: default
+  Name: sl65
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2999999523162842
+    BRAKES:
+      Front: 500
+      Rear: 675
+    EBRAKE: 850
+- ParentName: default
+  Name: 0x71CCBA4D
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3
+    BRAKES:
+      Front: 450
+      Rear: 500
+    EBRAKE: 600
+- ParentName: 0x71CCBA4D
+  Name: 0xB4101D4B
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 600
+      Rear: 700
+    EBRAKE: 800
+- ParentName: default
+  Name: gti
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 300
+      Rear: 400
+    EBRAKE: 375
+- ParentName: gti
+  Name: gti_top
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 390
+      Rear: 475
+    EBRAKE: 750
+- ParentName: default
+  Name: 0x79B526BB
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 310
+      Rear: 525
+    EBRAKE: 500
+- ParentName: 0x79B526BB
+  Name: 0x2BB06DB9
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 450
+      Rear: 570
+    EBRAKE: 900
+- ParentName: default
+  Name: gallardo
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5999999046325684
+    BRAKES:
+      Front: 400
+      Rear: 650
+    EBRAKE: 800
+- ParentName: gallardo
+  Name: gallardo_top
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5999999046325684
+    BRAKES:
+      Front: 450
+      Rear: 675
+    EBRAKE: 875
+- ParentName: default
+  Name: lancerevo9
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 475
+      Rear: 550
+    EBRAKE: 800
+- ParentName: lancerevo9
+  Name: lancerevo9_top
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.4000000953674316
+    BRAKES:
+      Front: 525
+      Rear: 675
+    EBRAKE: 950
+- ParentName: default
+  Name: ccxr
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 475
+      Rear: 600
+    EBRAKE: 800
+- ParentName: ccxr
+  Name: 0x392C5F05
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 4
+    BRAKES:
+      Front: 770
+      Rear: 900
+    EBRAKE: 1200
+- ParentName: default
+  Name: 0x80F5D559
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.4000000953674316
+    BRAKES:
+      Front: 450
+      Rear: 650
+    EBRAKE: 800
+- ParentName: 0x80F5D559
+  Name: 0x8787C71B
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.4000000953674316
+    BRAKES:
+      Front: 550
+      Rear: 650
+    EBRAKE: 950
+- ParentName: default
+  Name: clk500
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 345
+      Rear: 500
+    EBRAKE: 550
+- ParentName: clk500
+  Name: clk500_top
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 475
+      Rear: 600
+    EBRAKE: 800
+- ParentName: default
+  Name: charger69
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.7000000476837158
+    BRAKES:
+      Front: 300
+      Rear: 550
+    EBRAKE: 550
+- ParentName: charger69
+  Name: charger69_top
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 545
+      Rear: 600
+    EBRAKE: 700
+- ParentName: default
+  Name: rx7
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3
+    BRAKES:
+      Front: 330.20001220703125
+      Rear: 430
+    EBRAKE: 450
+- ParentName: rx7
+  Name: rx7_top
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 450
+      Rear: 600
+    EBRAKE: 800
+- ParentName: default
+  Name: lancer
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3
+    BRAKES:
+      Front: 335
+      Rear: 455
+    EBRAKE: 495
+- ParentName: lancer
+  Name: 0xB21C59BF
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2000000476837158
+    BRAKES:
+      Front: 525
+      Rear: 595
+    EBRAKE: 975
+- ParentName: default
+  Name: speedster
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 2.75
+    BRAKES:
+      Front: 250
+      Rear: 350
+    EBRAKE: 400
+- ParentName: speedster
+  Name: 0x9CC210A7
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 400
+      Rear: 500
+    EBRAKE: 500
+- ParentName: default
+  Name: 911gt2
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5999999046325684
+    BRAKES:
+      Front: 300
+      Rear: 500
+    EBRAKE: 800
+- ParentName: default
+  Name: a4
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 310
+      Rear: 525
+    EBRAKE: 500
+- ParentName: a4
+  Name: a4_top
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 450
+      Rear: 570
+    EBRAKE: 900
+- ParentName: default
+  Name: mustanggt
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 360
+      Rear: 500
+    EBRAKE: 550
+- ParentName: mustanggt
+  Name: mustanggt_top
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2999999523162842
+    BRAKES:
+      Front: 475
+      Rear: 600
+    EBRAKE: 850
+- ParentName: default
+  Name: f1
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2999999523162842
+    BRAKES:
+      Front: 500
+      Rear: 600
+    EBRAKE: 800
+- ParentName: f1
+  Name: 0x812E3764
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 700
+      Rear: 850
+    EBRAKE: 1000
+- ParentName: default
+  Name: eclipsegt
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3
+    BRAKES:
+      Front: 300
+      Rear: 550
+    EBRAKE: 400
+- ParentName: eclipsegt
+  Name: eclipsegt_top
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3
+    BRAKES:
+      Front: 400
+      Rear: 550
+    EBRAKE: 700
+- ParentName: default
+  Name: challenger71
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 450
+      Rear: 550
+    EBRAKE: 600
+- ParentName: challenger71
+  Name: challenger71_top
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5999999046325684
+    BRAKES:
+      Front: 545
+      Rear: 600
+    EBRAKE: 700
+- ParentName: default
+  Name: db9
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 410
+      Rear: 550
+    EBRAKE: 700
+- ParentName: db9
+  Name: db9_top
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.25
+    BRAKES:
+      Front: 525
+      Rear: 650
+    EBRAKE: 875
+- ParentName: default
+  Name: punto
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2000000476837158
+    BRAKES:
+      Front: 325
+      Rear: 450
+    EBRAKE: 350
+- ParentName: punto
+  Name: punto_top
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.25
+    BRAKES:
+      Front: 450
+      Rear: 550
+    EBRAKE: 700
+- ParentName: default
+  Name: cs_trafgarb
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5999999046325684
+    BRAKES:
+      Front: 450
+      Rear: 675
+    EBRAKE: 1500
+- ParentName: default
+  Name: sl500
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 345
+      Rear: 420
+    EBRAKE: 525
+- ParentName: sl500
+  Name: sl500_top
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 470
+      Rear: 650
+    EBRAKE: 800
+- ParentName: default
+  Name: 240sx
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3
+    BRAKES:
+      Front: 325
+      Rear: 450
+    EBRAKE: 500
+- ParentName: 240sx
+  Name: 240sx_top
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2000000476837158
+    BRAKES:
+      Front: 575
+      Rear: 675
+    EBRAKE: 985
+- ParentName: default
+  Name: veyron
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2999999523162842
+    BRAKES:
+      Front: 550
+      Rear: 650
+    EBRAKE: 900
+- ParentName: veyron
+  Name: 0x9D1A3D3C
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 700
+      Rear: 800
+    EBRAKE: 1100
+- ParentName: default
+  Name: zonda
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2999999523162842
+    BRAKES:
+      Front: 500
+      Rear: 600
+    EBRAKE: 800
+- ParentName: zonda
+  Name: zonda_top
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 700
+      Rear: 800
+    EBRAKE: 950
+- ParentName: default
+  Name: 0xB2B10502
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 368.79998779296875
+      Rear: 600
+    EBRAKE: 700
+- ParentName: 0xB2B10502
+  Name: 0xC2BB123D
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.4000000953674316
+    BRAKES:
+      Front: 425
+      Rear: 650
+    EBRAKE: 700
+- ParentName: default
+  Name: golfr32
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 350
+      Rear: 425
+    EBRAKE: 500
+- ParentName: golfr32
+  Name: golfr32_top
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 390
+      Rear: 475
+    EBRAKE: 800
+- ParentName: default
+  Name: eclipse
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3
+    BRAKES:
+      Front: 300
+      Rear: 550
+    EBRAKE: 400
+- ParentName: eclipse
+  Name: eclipse_top
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3
+    BRAKES:
+      Front: 400
+      Rear: 550
+    EBRAKE: 700
+- ParentName: default
+  Name: phaeton
+  Data:
+    BRAKE_LOCK:
+      Front: 0.5
+      Rear: 0.5
+    BRAKES:
+      Front: 395
+      Rear: 595
+    EBRAKE: 695
+- ParentName: phaeton
+  Name: 0xEFA84154
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 1
+    BRAKES:
+      Front: 575
+      Rear: 675
+    EBRAKE: 775
+- ParentName: default
+  Name: 0xB511B0AB
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 300
+      Rear: 400
+    EBRAKE: 375
+- ParentName: 0xB511B0AB
+  Name: 0x5210CA4E
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 390
+      Rear: 475
+    EBRAKE: 750
+- ParentName: default
+  Name: s7
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2999999523162842
+    BRAKES:
+      Front: 390
+      Rear: 500
+    EBRAKE: 800
+- ParentName: s7
+  Name: 0x1440A63C
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 500
+      Rear: 650
+    EBRAKE: 850
+- ParentName: default
+  Name: rs40
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 500
+      Rear: 575
+    EBRAKE: 670
+- ParentName: rs40
+  Name: 0xB1386AE5
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5999999046325684
+    BRAKES:
+      Front: 700
+      Rear: 800
+    EBRAKE: 950
+- ParentName: default
+  Name: camaron
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 500
+      Rear: 625
+    EBRAKE: 950
+- ParentName: camaron
+  Name: camaron_top
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 500
+      Rear: 625
+    EBRAKE: 1050
+- ParentName: default
+  Name: murcielago
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2999999523162842
+    BRAKES:
+      Front: 400
+      Rear: 650
+    EBRAKE: 900
+- ParentName: murcielago
+  Name: murcielago_top
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 615
+      Rear: 740
+    EBRAKE: 700
+- ParentName: default
+  Name: m5e39
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 345
+      Rear: 420
+    EBRAKE: 525
+- ParentName: m5e39
+  Name: 0x6C5DDEEA
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 470
+      Rear: 650
+    EBRAKE: 800
+- ParentName: default
+  Name: sentra
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 320
+      Rear: 460
+    EBRAKE: 550
+- ParentName: sentra
+  Name: 0x629A1807
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 375
+      Rear: 530
+    EBRAKE: 750
+- ParentName: default
+  Name: 0xC7BD8D1D
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2999999523162842
+    BRAKES:
+      Front: 400
+      Rear: 650
+    EBRAKE: 900
+- ParentName: 0xC7BD8D1D
+  Name: 0xBDE18FE7
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 615
+      Rear: 740
+    EBRAKE: 700
+- ParentName: default
+  Name: miatamx5
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 2
+    BRAKES:
+      Front: 340
+      Rear: 570
+    EBRAKE: 450
+- ParentName: miatamx5
+  Name: 0x63689496
+  Data:
+    BRAKE_LOCK:
+      Front: 2
+      Rear: 4.25
+    BRAKES:
+      Front: 500
+      Rear: 675
+    EBRAKE: 800
+- ParentName: default
+  Name: lancerevo8
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3
+    BRAKES:
+      Front: 400
+      Rear: 475
+    EBRAKE: 500
+- ParentName: lancerevo8
+  Name: lancerevo8_top
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 550
+      Rear: 700
+    EBRAKE: 700
+- ParentName: default
+  Name: senna
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 2
+    BRAKES:
+      Front: 500
+      Rear: 500
+    EBRAKE: 750
+- ParentName: senna
+  Name: 0xFF015798
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3
+    BRAKES:
+      Front: 625
+      Rear: 700
+    EBRAKE: 950
+- ParentName: default
+  Name: bmwm3gtr
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 375
+      Rear: 500
+    EBRAKE: 850
+- ParentName: default
+  Name: vxr
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 300
+      Rear: 400
+    EBRAKE: 375
+- ParentName: vxr
+  Name: 0x2981705F
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 390
+      Rear: 475
+    EBRAKE: 750
+- ParentName: default
+  Name: 911turbo
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 300
+      Rear: 550
+    EBRAKE: 650
+- ParentName: 911turbo
+  Name: 911turbo_top
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5999999046325684
+    BRAKES:
+      Front: 450
+      Rear: 675
+    EBRAKE: 900
+- ParentName: default
+  Name: supra70
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.0999999046325684
+    BRAKES:
+      Front: 350
+      Rear: 480
+    EBRAKE: 600
+- ParentName: supra70
+  Name: 0x4EDBE6BF
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.4000000953674316
+    BRAKES:
+      Front: 550
+      Rear: 650
+    EBRAKE: 900
+- ParentName: default
+  Name: semi
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 1
+    BRAKES:
+      Front: 1553
+      Rear: 1553
+    EBRAKE: 2000
+- ParentName: default
+  Name: a3
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 370
+      Rear: 475
+    EBRAKE: 450
+- ParentName: a3
+  Name: a3_top
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 425
+      Rear: 550
+    EBRAKE: 600
+- ParentName: default
+  Name: bmwm3csl
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 414
+      Rear: 418
+    EBRAKE: 766
+- ParentName: bmwm3csl
+  Name: 0x551B0D26
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 532
+      Rear: 436
+    EBRAKE: 1022
+- ParentName: default
+  Name: rx8
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3
+    BRAKES:
+      Front: 380
+      Rear: 500
+    EBRAKE: 500
+- ParentName: rx8
+  Name: rx8_top
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.7000000476837158
+    BRAKES:
+      Front: 525
+      Rear: 650
+    EBRAKE: 700
+- ParentName: default
+  Name: jesko
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2000000476837158
+    BRAKES:
+      Front: 700
+      Rear: 800
+    EBRAKE: 1000
+- ParentName: jesko
+  Name: 0x12C15C61
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 900
+      Rear: 1000
+    EBRAKE: 1300
+- ParentName: default
+  Name: s28103
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.4000000953674316
+    BRAKES:
+      Front: 460
+      Rear: 600
+    EBRAKE: 700
+- ParentName: s28103
+  Name: 0xD651B679
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2999999523162842
+    BRAKES:
+      Front: 575
+      Rear: 700
+    EBRAKE: 950
+- ParentName: default
+  Name: cts
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2999999523162842
+    BRAKES:
+      Front: 500
+      Rear: 653
+    EBRAKE: 600
+- ParentName: cts
+  Name: cs_cts_traffictruck
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2999999523162842
+    BRAKES:
+      Front: 500
+      Rear: 650
+    EBRAKE: 850
+- ParentName: cts
+  Name: cts_top
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2999999523162842
+    BRAKES:
+      Front: 700
+      Rear: 750
+    EBRAKE: 1100
+- ParentName: default
+  Name: tiburon
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.0499999523162842
+    BRAKES:
+      Front: 400
+      Rear: 550
+    EBRAKE: 350
+- ParentName: tiburon
+  Name: 0xD7327B02
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.25
+    BRAKES:
+      Front: 500
+      Rear: 550
+    EBRAKE: 850
+- ParentName: default
+  Name: slr
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3
+    BRAKES:
+      Front: 475
+      Rear: 575
+    EBRAKE: 850
+- ParentName: slr
+  Name: slr_top
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.4000000953674316
+    BRAKES:
+      Front: 550
+      Rear: 700
+    EBRAKE: 900
+- ParentName: default
+  Name: 3000gt
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3
+    BRAKES:
+      Front: 400
+      Rear: 650
+    EBRAKE: 500
+- ParentName: 3000gt
+  Name: 0xCDF97732
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3
+    BRAKES:
+      Front: 500
+      Rear: 750
+    EBRAKE: 900
+- ParentName: default
+  Name: 0xE8155144
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2000000476837158
+    BRAKES:
+      Front: 300
+      Rear: 655
+    EBRAKE: 700
+- ParentName: 0xE8155144
+  Name: 0x09D10C7C
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.4000000953674316
+    BRAKES:
+      Front: 340
+      Rear: 700
+    EBRAKE: 800
+- ParentName: default
+  Name: 0xEAA765AA
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 275
+      Rear: 350
+    EBRAKE: 420
+- ParentName: 0xEAA765AA
+  Name: 0xAB3A57A5
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 380
+      Rear: 500
+    EBRAKE: 650
+- ParentName: default
+  Name: clio
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2000000476837158
+    BRAKES:
+      Front: 325
+      Rear: 450
+    EBRAKE: 500
+- ParentName: clio
+  Name: clio_top
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.3499999046325684
+    BRAKES:
+      Front: 475
+      Rear: 600
+    EBRAKE: 700
+- ParentName: default
+  Name: crx91
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 310
+      Rear: 525
+    EBRAKE: 500
+- ParentName: crx91
+  Name: 0x898C9100
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 450
+      Rear: 570
+    EBRAKE: 900
+- ParentName: default
+  Name: is350
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.0999999046325684
+    BRAKES:
+      Front: 350
+      Rear: 480
+    EBRAKE: 600
+- ParentName: is350
+  Name: 0x94740429
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.4000000953674316
+    BRAKES:
+      Front: 550
+      Rear: 650
+    EBRAKE: 900
+- ParentName: default
+  Name: skylinelm
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2999999523162842
+    BRAKES:
+      Front: 475
+      Rear: 575
+    EBRAKE: 850
+- ParentName: skylinelm
+  Name: 0x52FC2B94
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2999999523162842
+    BRAKES:
+      Front: 585
+      Rear: 675
+    EBRAKE: 975
+- ParentName: default
+  Name: gt3rs
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 300
+      Rear: 550
+    EBRAKE: 650
+- ParentName: gt3rs
+  Name: 0xEC43A26C
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5999999046325684
+    BRAKES:
+      Front: 450
+      Rear: 675
+    EBRAKE: 900
+- ParentName: default
+  Name: 0xF4979035
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 325
+      Rear: 425
+    EBRAKE: 375
+- ParentName: 0xF4979035
+  Name: 0x5BC65689
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 398
+      Rear: 485
+    EBRAKE: 750
+- ParentName: default
+  Name: civichb
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.1500000953674316
+    BRAKES:
+      Front: 325
+      Rear: 450
+    EBRAKE: 370
+- ParentName: civichb
+  Name: 0xD1D2908A
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2000000476837158
+    BRAKES:
+      Front: 500
+      Rear: 550
+    EBRAKE: 850
+- ParentName: default
+  Name: delta
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 370
+      Rear: 475
+    EBRAKE: 450
+- ParentName: delta
+  Name: 0x239513FF
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 425
+      Rear: 550
+    EBRAKE: 600
+- ParentName: default
+  Name: s2000
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 340
+      Rear: 560
+    EBRAKE: 600
+- ParentName: s2000
+  Name: 0xD664C8F5
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 675
+      Rear: 750
+    EBRAKE: 850
+- ParentName: default
+  Name: f40
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.4000000953674316
+    BRAKES:
+      Front: 400
+      Rear: 550
+    EBRAKE: 700
+- ParentName: f40
+  Name: 0x243B31B9
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.4000000953674316
+    BRAKES:
+      Front: 500
+      Rear: 700
+    EBRAKE: 950
+- ParentName: default
+  Name: 0xFCDE8A4D
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2000000476837158
+    BRAKES:
+      Front: 325
+      Rear: 450
+    EBRAKE: 350
+- ParentName: 0xFCDE8A4D
+  Name: 0xA69BE971
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.25
+    BRAKES:
+      Front: 450
+      Rear: 550
+    EBRAKE: 700
+- ParentName: default
+  Name: r8lms
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.2999999523162842
+    BRAKES:
+      Front: 500
+      Rear: 600
+    EBRAKE: 800
+- ParentName: r8lms
+  Name: 0x0C3A2590
+  Data:
+    BRAKE_LOCK:
+      Front: 1
+      Rear: 3.5
+    BRAKES:
+      Front: 600
+      Rear: 700
+    EBRAKE: 850

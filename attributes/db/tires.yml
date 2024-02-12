@@ -1,0 +1,7491 @@
+- ParentName: 
+  Name: default
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 2
+    ASPECT_RATIO:
+      Front: 40
+      Rear: 35
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.2000000476837158
+    SECTION_WIDTH:
+      Front: 245
+      Rear: 275
+    STEERING: 1.1000000238418579
+    YAW_SPEED: 1
+- ParentName: default
+  Name: trailera
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0
+    GRIP_SCALE:
+      Front: 1.5
+      Rear: 1.5
+    DYNAMIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 2
+    ASPECT_RATIO:
+      Front: 40
+      Rear: 40
+    RIM_SIZE:
+      Front: 24
+      Rear: 24
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.2000000476837158
+    SECTION_WIDTH:
+      Front: 380
+      Rear: 380
+    STEERING: 1.1000000238418579
+    YAW_SPEED: 1
+- ParentName: default
+  Name: cerberalm
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 2
+      - 2
+      - 2
+      - 2
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.8500000238418579
+      Rear: 1.8500000238418579
+    ASPECT_RATIO:
+      Front: 50
+      Rear: 50
+    RIM_SIZE:
+      Front: 16
+      Rear: 16
+    STATIC_GRIP:
+      Front: 2.25
+      Rear: 2.25
+    SECTION_WIDTH:
+      Front: 255
+      Rear: 315
+    STEERING: 1
+    YAW_SPEED: 0.15000000596046448
+- ParentName: default
+  Name: 0x02AE8B00
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.05000000074505806
+      - 0.070000000298023224
+      - 0.15000000596046448
+      - 0.20000000298023224
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.6000000238418579
+      Rear: 1.6499999761581421
+    ASPECT_RATIO:
+      Front: 55
+      Rear: 55
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 1.8500000238418579
+      Rear: 1.8500000238418579
+    SECTION_WIDTH:
+      Front: 235
+      Rear: 235
+    STEERING: 1.0249999761581421
+    YAW_SPEED: 0.64999997615814209
+- ParentName: 0x02AE8B00
+  Name: 0x79DD4443
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.20000000298023224
+      - 0.30000001192092896
+      - 1
+    GRIP_SCALE:
+      Front: 1.2000000476837158
+      Rear: 1.2000000476837158
+    DYNAMIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 55
+      Rear: 55
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.0999999046325684
+    SECTION_WIDTH:
+      Front: 235
+      Rear: 235
+    STEERING: 1.0750000476837158
+    YAW_SPEED: 0.64999997615814209
+- ParentName: default
+  Name: 0x062FB333
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.44999998807907104
+      - 0.75
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 2
+    ASPECT_RATIO:
+      Front: 35
+      Rear: 35
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.1749999523162842
+    SECTION_WIDTH:
+      Front: 235
+      Rear: 235
+    STEERING: 1.0499999523162842
+    YAW_SPEED: 0.42500001192092896
+- ParentName: 0x062FB333
+  Name: 0xAC5CE480
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.5
+      - 1
+      - 1.2999999523162842
+    GRIP_SCALE:
+      Front: 1.1499999761581421
+      Rear: 1.1499999761581421
+    DYNAMIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 35
+      Rear: 35
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 2.2000000476837158
+      Rear: 2.2000000476837158
+    SECTION_WIDTH:
+      Front: 235
+      Rear: 235
+    STEERING: 1
+    YAW_SPEED: 0.42500001192092896
+- ParentName: default
+  Name: 0x097C7B7D
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0
+    GRIP_SCALE:
+      Front: 2
+      Rear: 2
+    DYNAMIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 2
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 2
+      Rear: 2.2999999523162842
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 225
+    STEERING: 1
+    YAW_SPEED: 0.5
+- ParentName: default
+  Name: impreza
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.02500000037252903
+      - 0.25
+      - 0.40000000596046448
+      - 0.5
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.2999999523162842
+      Rear: 1.3999999761581421
+    ASPECT_RATIO:
+      Front: 40
+      Rear: 40
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 1.5
+      Rear: 1.6000000238418579
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 225
+    STEERING: 1
+    YAW_SPEED: 0.34999999403953552
+- ParentName: impreza
+  Name: 0x91FFC4C1
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.60000002384185791
+      - 1
+      - 1.2000000476837158
+    GRIP_SCALE:
+      Front: 1.059999942779541
+      Rear: 1.1000000238418579
+    DYNAMIC_GRIP:
+      Front: 1.7000000476837158
+      Rear: 1.7000000476837158
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 1.9500000476837158
+      Rear: 2
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 225
+    STEERING: 0.97000002861022949
+    YAW_SPEED: 0.34999999403953552
+- ParentName: default
+  Name: golf
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.5
+      - 0.69999998807907104
+      - 0.10000000149011612
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.6000000238418579
+      Rear: 1.6000000238418579
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 1.7999999523162842
+    SECTION_WIDTH:
+      Front: 235
+      Rear: 235
+    STEERING: 1
+    YAW_SPEED: 0.34999999403953552
+- ParentName: golf
+  Name: 0x9B399813
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.60000002384185791
+      - 0.80000001192092896
+      - 1.25
+    GRIP_SCALE:
+      Front: 1.0499999523162842
+      Rear: 1.1000000238418579
+    DYNAMIC_GRIP:
+      Front: 1.9500000476837158
+      Rear: 2
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 2.2000000476837158
+      Rear: 2.2000000476837158
+    SECTION_WIDTH:
+      Front: 235
+      Rear: 235
+    STEERING: 0.99699997901916504
+    YAW_SPEED: 0.34999999403953552
+- ParentName: default
+  Name: focus
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.20000000298023224
+      - 0.5
+      - 0.60000002384185791
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.5
+      Rear: 1.6000000238418579
+    ASPECT_RATIO:
+      Front: 40
+      Rear: 40
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 1.6000000238418579
+      Rear: 1.7000000476837158
+    SECTION_WIDTH:
+      Front: 245
+      Rear: 245
+    STEERING: 1
+    YAW_SPEED: 0.30000001192092896
+- ParentName: focus
+  Name: 0xE30CBCD6
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.60000002384185791
+      - 1
+      - 1.25
+    GRIP_SCALE:
+      Front: 1.0800000429153442
+      Rear: 1.0900000333786011
+    DYNAMIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 2
+    ASPECT_RATIO:
+      Front: 40
+      Rear: 40
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.2000000476837158
+    SECTION_WIDTH:
+      Front: 245
+      Rear: 245
+    STEERING: 1.0499999523162842
+    YAW_SPEED: 0.40000000596046448
+- ParentName: default
+  Name: enzo
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10999999940395355
+      - 0.20999999344348907
+      - 0.36000001430511475
+      - 0.62999999523162842
+    GRIP_SCALE:
+      Front: 0.80000001192092896
+      Rear: 0.76999998092651367
+    DYNAMIC_GRIP:
+      Front: 1.3500000238418579
+      Rear: 1.3200000524520874
+    ASPECT_RATIO:
+      Front: 35
+      Rear: 35
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 1.7000000476837158
+      Rear: 1.6699999570846558
+    SECTION_WIDTH:
+      Front: 245
+      Rear: 345
+    STEERING: 1.0199999809265137
+    YAW_SPEED: 0.44999998807907104
+- ParentName: enzo
+  Name: 0x17727DE3
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.12999999523162842
+      - 0.27000001072883606
+      - 0.5
+      - 0.77999997138977051
+    GRIP_SCALE:
+      Front: 1.1000000238418579
+      Rear: 1.2000000476837158
+    DYNAMIC_GRIP:
+      Front: 1.5800000429153442
+      Rear: 1.5499999523162842
+    ASPECT_RATIO:
+      Front: 35
+      Rear: 35
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 2.5
+      Rear: 2.5999999046325684
+    SECTION_WIDTH:
+      Front: 245
+      Rear: 345
+    STEERING: 0.94999998807907104
+    YAW_SPEED: 0.4699999988079071
+- ParentName: default
+  Name: 0x132BAEC9
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.20000000298023224
+      - 0.64999997615814209
+      - 1
+    GRIP_SCALE:
+      Front: 1.1000000238418579
+      Rear: 1.1000000238418579
+    DYNAMIC_GRIP:
+      Front: 1.6000000238418579
+      Rear: 1.7000000476837158
+    ASPECT_RATIO:
+      Front: 40
+      Rear: 35
+    RIM_SIZE:
+      Front: 17
+      Rear: 18
+    STATIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 1.8999999761581421
+    SECTION_WIDTH:
+      Front: 265
+      Rear: 295
+    STEERING: 1.1000000238418579
+    YAW_SPEED: 0.30000001192092896
+- ParentName: 0x132BAEC9
+  Name: 0x16B8F959
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.05000000074505806
+      - 0.5
+      - 0.69999998807907104
+      - 1
+    GRIP_SCALE:
+      Front: 1.1499999761581421
+      Rear: 1.1499999761581421
+    DYNAMIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 2
+    ASPECT_RATIO:
+      Front: 35
+      Rear: 40
+    RIM_SIZE:
+      Front: 18
+      Rear: 19
+    STATIC_GRIP:
+      Front: 2.1500000953674316
+      Rear: 2.1500000953674316
+    SECTION_WIDTH:
+      Front: 285
+      Rear: 315
+    STEERING: 1.0499999523162842
+    YAW_SPEED: 0.40000000596046448
+- ParentName: default
+  Name: tt
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.045000001788139343
+      - 0.20000000298023224
+      - 0.30000001192092896
+      - 0.40000000596046448
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.5
+      Rear: 1.6200000047683716
+    ASPECT_RATIO:
+      Front: 40
+      Rear: 40
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 1.7000000476837158
+      Rear: 1.8500000238418579
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 225
+    STEERING: 1
+    YAW_SPEED: 0.40000000596046448
+- ParentName: tt
+  Name: tt_top
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.20000000298023224
+      - 0.55000001192092896
+      - 0.69999998807907104
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1.0099999904632568
+    DYNAMIC_GRIP:
+      Front: 1.75
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 40
+      Rear: 40
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 1.9500000476837158
+      Rear: 2.0999999046325684
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 225
+    STEERING: 1
+    YAW_SPEED: 0.42500001192092896
+- ParentName: default
+  Name: regera
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.30000001192092896
+      - 0.69999998807907104
+      - 1
+      - 1.2000000476837158
+    GRIP_SCALE:
+      Front: 1.0099999904632568
+      Rear: 1.059999942779541
+    DYNAMIC_GRIP:
+      Front: 2.0499999523162842
+      Rear: 2.1500000953674316
+    ASPECT_RATIO:
+      Front: 35
+      Rear: 30
+    RIM_SIZE:
+      Front: 19
+      Rear: 20
+    STATIC_GRIP:
+      Front: 2.25
+      Rear: 2.2999999523162842
+    SECTION_WIDTH:
+      Front: 275
+      Rear: 345
+    STEERING: 1
+    YAW_SPEED: 0.34000000357627869
+- ParentName: regera
+  Name: 0xC2D75A21
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.30000001192092896
+      - 0.5
+      - 1
+      - 1.2000000476837158
+    GRIP_SCALE:
+      Front: 1.2999999523162842
+      Rear: 1.3999999761581421
+    DYNAMIC_GRIP:
+      Front: 2.2000000476837158
+      Rear: 2.25
+    ASPECT_RATIO:
+      Front: 35
+      Rear: 30
+    RIM_SIZE:
+      Front: 19
+      Rear: 20
+    STATIC_GRIP:
+      Front: 2.2999999523162842
+      Rear: 2.4000000953674316
+    SECTION_WIDTH:
+      Front: 275
+      Rear: 345
+    STEERING: 1.0499999523162842
+    YAW_SPEED: 0.33000001311302185
+- ParentName: default
+  Name: jaguarxk
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.019999999552965164
+      - 0.40000000596046448
+      - 0.5
+      - 1
+    GRIP_SCALE:
+      Front: 1.0199999809265137
+      Rear: 1.0399999618530273
+    DYNAMIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 20
+      Rear: 20
+    STATIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 1.9249999523162842
+    SECTION_WIDTH:
+      Front: 285
+      Rear: 285
+    STEERING: 1.0499999523162842
+    YAW_SPEED: 0.34999999403953552
+- ParentName: jaguarxk
+  Name: jaguarxk_top
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.55000001192092896
+      - 0.75
+      - 1
+    GRIP_SCALE:
+      Front: 1.2000000476837158
+      Rear: 1.2000000476837158
+    DYNAMIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.0999999046325684
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 20
+      Rear: 20
+    STATIC_GRIP:
+      Front: 2.2000000476837158
+      Rear: 2.2999999523162842
+    SECTION_WIDTH:
+      Front: 285
+      Rear: 285
+    STEERING: 1
+    YAW_SPEED: 0.41999998688697815
+- ParentName: default
+  Name: audisport4
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.15000000596046448
+      - 0.44999998807907104
+      - 0.55000001192092896
+      - 0.69999998807907104
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.5
+      Rear: 1.6499999761581421
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 1.8500000238418579
+    SECTION_WIDTH:
+      Front: 245
+      Rear: 245
+    STEERING: 1.0750000476837158
+    YAW_SPEED: 0.69999998807907104
+- ParentName: audisport4
+  Name: 0x56F68DD2
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.60000002384185791
+      - 1
+      - 1.2000000476837158
+    GRIP_SCALE:
+      Front: 1.0499999523162842
+      Rear: 1.0499999523162842
+    DYNAMIC_GRIP:
+      Front: 2
+      Rear: 2
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 2.2000000476837158
+      Rear: 2.2000000476837158
+    SECTION_WIDTH:
+      Front: 245
+      Rear: 245
+    STEERING: 1
+    YAW_SPEED: 0.5
+- ParentName: default
+  Name: vipergts
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.30000001192092896
+      - 0.5
+      - 0.60000002384185791
+    GRIP_SCALE:
+      Front: 1.1499999761581421
+      Rear: 1.1499999761581421
+    DYNAMIC_GRIP:
+      Front: 1.75
+      Rear: 1.75
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 1.8999999761581421
+    SECTION_WIDTH:
+      Front: 345
+      Rear: 345
+    STEERING: 1.0499999523162842
+    YAW_SPEED: 0.40000000596046448
+- ParentName: vipergts
+  Name: 0x4C0E2739
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0
+      - 0.10000000149011612
+      - 0.20000000298023224
+      - 0.30000001192092896
+    GRIP_SCALE:
+      Front: 1.1000000238418579
+      Rear: 1.1000000238418579
+    DYNAMIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 1.9500000476837158
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.1500000953674316
+    SECTION_WIDTH:
+      Front: 345
+      Rear: 345
+    STEERING: 1.1150000095367432
+    YAW_SPEED: 0.5
+- ParentName: default
+  Name: continental
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.25
+      - 0.60000002384185791
+      - 0.80000001192092896
+      - 1
+    GRIP_SCALE:
+      Front: 1.0449999570846558
+      Rear: 1.1000000238418579
+    DYNAMIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 2
+    ASPECT_RATIO:
+      Front: 40
+      Rear: 40
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.2000000476837158
+    SECTION_WIDTH:
+      Front: 275
+      Rear: 275
+    STEERING: 1
+    YAW_SPEED: 0.44999998807907104
+- ParentName: continental
+  Name: 0x16DD0F00
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.5
+      - 0.64999997615814209
+      - 0.75
+    GRIP_SCALE:
+      Front: 1.0499999523162842
+      Rear: 1.1000000238418579
+    DYNAMIC_GRIP:
+      Front: 2
+      Rear: 2
+    ASPECT_RATIO:
+      Front: 40
+      Rear: 40
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 2.3499999046325684
+      Rear: 2.3499999046325684
+    SECTION_WIDTH:
+      Front: 275
+      Rear: 275
+    STEERING: 1.0499999523162842
+    YAW_SPEED: 0.57999998331069946
+- ParentName: default
+  Name: 0x28B9279B
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.40000000596046448
+      - 0.69999998807907104
+      - 0.85000002384185791
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.6000000238418579
+      Rear: 1.6000000238418579
+    ASPECT_RATIO:
+      Front: 35
+      Rear: 35
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 1.75
+      Rear: 1.75
+    SECTION_WIDTH:
+      Front: 265
+      Rear: 265
+    STEERING: 1
+    YAW_SPEED: 0.42500001192092896
+- ParentName: 0x28B9279B
+  Name: 0xD390D06B
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.69999998807907104
+      - 1
+      - 1.1000000238418579
+    GRIP_SCALE:
+      Front: 1.0499999523162842
+      Rear: 1.1000000238418579
+    DYNAMIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 35
+      Rear: 35
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 2
+      Rear: 2.0999999046325684
+    SECTION_WIDTH:
+      Front: 265
+      Rear: 265
+    STEERING: 1
+    YAW_SPEED: 0.40000000596046448
+- ParentName: default
+  Name: 0x2AFF6E40
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0
+      - 0.10000000149011612
+      - 0.20000000298023224
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 20
+      Rear: 20
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.0999999046325684
+    SECTION_WIDTH:
+      Front: 335
+      Rear: 335
+    STEERING: 1.1200000047683716
+    YAW_SPEED: 0.40000000596046448
+- ParentName: 0x2AFF6E40
+  Name: 0x3BEC9626
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0
+      - 0.60000002384185791
+      - 0.89999997615814209
+      - 1
+    GRIP_SCALE:
+      Front: 1.1749999523162842
+      Rear: 1.2000000476837158
+    DYNAMIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.0999999046325684
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 20
+      Rear: 20
+    STATIC_GRIP:
+      Front: 2.2699999809265137
+      Rear: 2.25
+    SECTION_WIDTH:
+      Front: 335
+      Rear: 335
+    STEERING: 0.97500002384185791
+    YAW_SPEED: 0.30000001192092896
+- ParentName: default
+  Name: dbr9
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.12999999523162842
+      - 0.49000000953674316
+      - 0.77999997138977051
+      - 1
+    GRIP_SCALE:
+      Front: 1.0099999904632568
+      Rear: 1.0199999809265137
+    DYNAMIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 2
+    ASPECT_RATIO:
+      Front: 35
+      Rear: 35
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 2.1400001049041748
+      Rear: 2.2999999523162842
+    SECTION_WIDTH:
+      Front: 235
+      Rear: 235
+    STEERING: 1.0299999713897705
+    YAW_SPEED: 0.40999999642372131
+- ParentName: dbr9
+  Name: 0xE9BD8DD3
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.12999999523162842
+      - 0.54000002145767212
+      - 1.0800000429153442
+      - 1.3400000333786011
+    GRIP_SCALE:
+      Front: 1.1699999570846558
+      Rear: 1.1699999570846558
+    DYNAMIC_GRIP:
+      Front: 2
+      Rear: 2.0999999046325684
+    ASPECT_RATIO:
+      Front: 35
+      Rear: 35
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 2.2999999523162842
+      Rear: 2.4000000953674316
+    SECTION_WIDTH:
+      Front: 235
+      Rear: 235
+    STEERING: 1
+    YAW_SPEED: 0.40000000596046448
+- ParentName: default
+  Name: corsa
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.02500000037252903
+      - 0.14000000059604645
+      - 0.23999999463558197
+      - 0.34000000357627869
+    GRIP_SCALE:
+      Front: 1.0099999904632568
+      Rear: 1.0099999904632568
+    DYNAMIC_GRIP:
+      Front: 1.5
+      Rear: 1.3999999761581421
+    ASPECT_RATIO:
+      Front: 55
+      Rear: 55
+    RIM_SIZE:
+      Front: 15
+      Rear: 15
+    STATIC_GRIP:
+      Front: 1.6000000238418579
+      Rear: 1.7000000476837158
+    SECTION_WIDTH:
+      Front: 185
+      Rear: 185
+    STEERING: 1
+    YAW_SPEED: 0.30000001192092896
+- ParentName: corsa
+  Name: 0x9CF00E3F
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.18999999761581421
+      - 0.68999999761581421
+      - 0.88999998569488525
+      - 1
+    GRIP_SCALE:
+      Front: 1.0499999523162842
+      Rear: 1.0499999523162842
+    DYNAMIC_GRIP:
+      Front: 2
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 55
+      Rear: 55
+    RIM_SIZE:
+      Front: 15
+      Rear: 15
+    STATIC_GRIP:
+      Front: 2.1500000953674316
+      Rear: 2.2000000476837158
+    SECTION_WIDTH:
+      Front: 185
+      Rear: 185
+    STEERING: 0.99099999666213989
+    YAW_SPEED: 0.30000001192092896
+- ParentName: default
+  Name: 0x30C72248
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.5
+      - 0.80000001192092896
+      - 1.2000000476837158
+    GRIP_SCALE:
+      Front: 1.1000000238418579
+      Rear: 1.1000000238418579
+    DYNAMIC_GRIP:
+      Front: 1.8500000238418579
+      Rear: 1.8500000238418579
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.0999999046325684
+    SECTION_WIDTH:
+      Front: 335
+      Rear: 335
+    STEERING: 1.0499999523162842
+    YAW_SPEED: 0.34999999403953552
+- ParentName: 0x30C72248
+  Name: 0x009D9B1C
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.5
+      - 1
+      - 1.2000000476837158
+    GRIP_SCALE:
+      Front: 1.1000000238418579
+      Rear: 1.1200000047683716
+    DYNAMIC_GRIP:
+      Front: 2
+      Rear: 2
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 2.25
+      Rear: 2.25
+    SECTION_WIDTH:
+      Front: 335
+      Rear: 335
+    STEERING: 1
+    YAW_SPEED: 0.375
+- ParentName: default
+  Name: elise
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0
+      - 0.10000000149011612
+      - 0.30000001192092896
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.3999999761581421
+      Rear: 1.5
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 1.6000000238418579
+      Rear: 1.7000000476837158
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 225
+    STEERING: 1
+    YAW_SPEED: 0.40000000596046448
+- ParentName: elise
+  Name: elise_top
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.5
+      - 0.85000002384185791
+      - 1.1000000238418579
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.75
+      Rear: 1.7999999523162842
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 1.9500000476837158
+      Rear: 2
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 225
+    STEERING: 0.89999997615814209
+    YAW_SPEED: 0.40999999642372131
+- ParentName: default
+  Name: ccx
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.17000000178813934
+      - 0.37999999523162842
+      - 0.63999998569488525
+      - 0.85000002384185791
+    GRIP_SCALE:
+      Front: 0.80000001192092896
+      Rear: 0.75
+    DYNAMIC_GRIP:
+      Front: 1.3500000238418579
+      Rear: 1.2999999523162842
+    ASPECT_RATIO:
+      Front: 35
+      Rear: 30
+    RIM_SIZE:
+      Front: 19
+      Rear: 20
+    STATIC_GRIP:
+      Front: 1.7000000476837158
+      Rear: 1.6499999761581421
+    SECTION_WIDTH:
+      Front: 255
+      Rear: 335
+    STEERING: 0.97500002384185791
+    YAW_SPEED: 0.40000000596046448
+- ParentName: ccx
+  Name: ccx_top
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.23000000417232513
+      - 0.44999998807907104
+      - 0.75
+      - 1.0499999523162842
+    GRIP_SCALE:
+      Front: 1.0499999523162842
+      Rear: 0.97000002861022949
+    DYNAMIC_GRIP:
+      Front: 1.6000000238418579
+      Rear: 1.5199999809265137
+    ASPECT_RATIO:
+      Front: 35
+      Rear: 30
+    RIM_SIZE:
+      Front: 19
+      Rear: 20
+    STATIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 1.8200000524520874
+    SECTION_WIDTH:
+      Front: 255
+      Rear: 355
+    STEERING: 0.93000000715255737
+    YAW_SPEED: 0.40000000596046448
+- ParentName: default
+  Name: 0x3348AB19
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.40000000596046448
+      - 0.69999998807907104
+      - 0.85000002384185791
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.6000000238418579
+      Rear: 1.6000000238418579
+    ASPECT_RATIO:
+      Front: 35
+      Rear: 35
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 1.75
+      Rear: 1.75
+    SECTION_WIDTH:
+      Front: 265
+      Rear: 265
+    STEERING: 1
+    YAW_SPEED: 0.42500001192092896
+- ParentName: 0x3348AB19
+  Name: 0xC832E373
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.69999998807907104
+      - 1
+      - 1.1000000238418579
+    GRIP_SCALE:
+      Front: 1.0499999523162842
+      Rear: 1.1000000238418579
+    DYNAMIC_GRIP:
+      Front: 1.8799999952316284
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 35
+      Rear: 35
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 2
+      Rear: 2.0999999046325684
+    SECTION_WIDTH:
+      Front: 265
+      Rear: 265
+    STEERING: 1
+    YAW_SPEED: 0.40000000596046448
+- ParentName: default
+  Name: corolla
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.02500000037252903
+      - 0.10000000149011612
+      - 0.20000000298023224
+      - 0.30000001192092896
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.2999999523162842
+      Rear: 1.2999999523162842
+    ASPECT_RATIO:
+      Front: 60
+      Rear: 60
+    RIM_SIZE:
+      Front: 14
+      Rear: 14
+    STATIC_GRIP:
+      Front: 1.5
+      Rear: 1.6000000238418579
+    SECTION_WIDTH:
+      Front: 195
+      Rear: 195
+    STEERING: 1
+    YAW_SPEED: 0.30000001192092896
+- ParentName: corolla
+  Name: corolla_top
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.60000002384185791
+      - 0.80000001192092896
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 1.8500000238418579
+    ASPECT_RATIO:
+      Front: 60
+      Rear: 60
+    RIM_SIZE:
+      Front: 14
+      Rear: 14
+    STATIC_GRIP:
+      Front: 2
+      Rear: 2.0499999523162842
+    SECTION_WIDTH:
+      Front: 195
+      Rear: 195
+    STEERING: 1
+    YAW_SPEED: 0.30000001192092896
+- ParentName: default
+  Name: 350z
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.25
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.5499999523162842
+      Rear: 1.5499999523162842
+    ASPECT_RATIO:
+      Front: 35
+      Rear: 35
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 1.75
+      Rear: 1.8999999761581421
+    SECTION_WIDTH:
+      Front: 265
+      Rear: 265
+    STEERING: 0.94999998807907104
+    YAW_SPEED: 0.34999999403953552
+- ParentName: 350z
+  Name: 350z_top
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.25
+    GRIP_SCALE:
+      Front: 1.1000000238418579
+      Rear: 1.2000000476837158
+    DYNAMIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 2
+    ASPECT_RATIO:
+      Front: 35
+      Rear: 35
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 2
+      Rear: 2.2000000476837158
+    SECTION_WIDTH:
+      Front: 265
+      Rear: 265
+    STEERING: 1.1000000238418579
+    YAW_SPEED: 0.30000001192092896
+- ParentName: default
+  Name: copsuv
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0
+      - 0
+      - 0
+      - 0
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.6000000238418579
+      Rear: 1.7000000476837158
+    ASPECT_RATIO:
+      Front: 70
+      Rear: 70
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 1.8999999761581421
+    SECTION_WIDTH:
+      Front: 265
+      Rear: 265
+    STEERING: 1.0800000429153442
+    YAW_SPEED: 1
+- ParentName: default
+  Name: xsaraf2
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.5
+      - 0.69999998807907104
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.2000000476837158
+      Rear: 1.2000000476837158
+    ASPECT_RATIO:
+      Front: 55
+      Rear: 55
+    RIM_SIZE:
+      Front: 15
+      Rear: 15
+    STATIC_GRIP:
+      Front: 1.6000000238418579
+      Rear: 1.6000000238418579
+    SECTION_WIDTH:
+      Front: 255
+      Rear: 255
+    STEERING: 1.25
+    YAW_SPEED: 0.42500001192092896
+- ParentName: xsaraf2
+  Name: 0xCFB388CD
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.5
+      - 0.69999998807907104
+      - 1
+    GRIP_SCALE:
+      Front: 1.0499999523162842
+      Rear: 1.1499999761581421
+    DYNAMIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 1.7999999523162842
+    ASPECT_RATIO:
+      Front: 55
+      Rear: 55
+    RIM_SIZE:
+      Front: 15
+      Rear: 15
+    STATIC_GRIP:
+      Front: 2
+      Rear: 2
+    SECTION_WIDTH:
+      Front: 255
+      Rear: 255
+    STEERING: 1.25
+    YAW_SPEED: 0.50499999523162842
+- ParentName: default
+  Name: 997s
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.20000000298023224
+      - 0.44999998807907104
+      - 0.60000002384185791
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.3999999761581421
+      Rear: 1.3999999761581421
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 1.6000000238418579
+      Rear: 1.6299999952316284
+    SECTION_WIDTH:
+      Front: 295
+      Rear: 295
+    STEERING: 1.0750000476837158
+    YAW_SPEED: 0.64999997615814209
+- ParentName: 997s
+  Name: 997s_top
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.60000002384185791
+      - 0.85000002384185791
+      - 1.1499999761581421
+    GRIP_SCALE:
+      Front: 1.1000000238418579
+      Rear: 1.1000000238418579
+    DYNAMIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 2.1500000953674316
+      Rear: 2.1500000953674316
+    SECTION_WIDTH:
+      Front: 295
+      Rear: 295
+    STEERING: 1.0499999523162842
+    YAW_SPEED: 0.64999997615814209
+- ParentName: default
+  Name: f50
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0
+      - 0.10000000149011612
+      - 0.20000000298023224
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.8500000238418579
+      Rear: 1.8500000238418579
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 20
+      Rear: 20
+    STATIC_GRIP:
+      Front: 2
+      Rear: 2
+    SECTION_WIDTH:
+      Front: 335
+      Rear: 335
+    STEERING: 1.0700000524520874
+    YAW_SPEED: 0.37999999523162842
+- ParentName: f50
+  Name: 0xA457978F
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0
+      - 0.60000002384185791
+      - 0.89999997615814209
+      - 1
+    GRIP_SCALE:
+      Front: 1.1670000553131104
+      Rear: 1.190000057220459
+    DYNAMIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 20
+      Rear: 20
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.2000000476837158
+    SECTION_WIDTH:
+      Front: 335
+      Rear: 335
+    STEERING: 1
+    YAW_SPEED: 0.31999999284744263
+- ParentName: default
+  Name: mc12
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.30000001192092896
+      - 0.60000002384185791
+      - 0.89999997615814209
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.8200000524520874
+      Rear: 1.8500000238418579
+    ASPECT_RATIO:
+      Front: 35
+      Rear: 35
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 2.0199999809265137
+      Rear: 2.0199999809265137
+    SECTION_WIDTH:
+      Front: 245
+      Rear: 345
+    STEERING: 1
+    YAW_SPEED: 0.31999999284744263
+- ParentName: mc12
+  Name: 0x6F26FD4C
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.15000000596046448
+      - 0.40000000596046448
+      - 0.69999998807907104
+      - 1.0499999523162842
+    GRIP_SCALE:
+      Front: 1.059999942779541
+      Rear: 1.0800000429153442
+    DYNAMIC_GRIP:
+      Front: 2.0899999141693115
+      Rear: 2.119999885559082
+    ASPECT_RATIO:
+      Front: 35
+      Rear: 35
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 2.2100000381469727
+      Rear: 2.2400000095367432
+    SECTION_WIDTH:
+      Front: 245
+      Rear: 345
+    STEERING: 0.94999998807907104
+    YAW_SPEED: 0.37000000476837158
+- ParentName: default
+  Name: caymans
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.40000000596046448
+      - 0.69999998807907104
+      - 0.85000002384185791
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.5
+      Rear: 1.5
+    ASPECT_RATIO:
+      Front: 35
+      Rear: 35
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 1.75
+      Rear: 1.75
+    SECTION_WIDTH:
+      Front: 265
+      Rear: 265
+    STEERING: 1
+    YAW_SPEED: 0.42500001192092896
+- ParentName: caymans
+  Name: caymans_top
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.69999998807907104
+      - 1
+      - 1.1000000238418579
+    GRIP_SCALE:
+      Front: 1.0499999523162842
+      Rear: 1.1000000238418579
+    DYNAMIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 35
+      Rear: 35
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 2
+      Rear: 2.0999999046325684
+    SECTION_WIDTH:
+      Front: 265
+      Rear: 265
+    STEERING: 1
+    YAW_SPEED: 0.40000000596046448
+- ParentName: default
+  Name: 0x42B8384F
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.15000000596046448
+      - 0.44999998807907104
+      - 0.55000001192092896
+      - 0.69999998807907104
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.5
+      Rear: 1.6499999761581421
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 1.8500000238418579
+    SECTION_WIDTH:
+      Front: 245
+      Rear: 245
+    STEERING: 1.0757999420166016
+    YAW_SPEED: 0.69999998807907104
+- ParentName: 0x42B8384F
+  Name: 0xFAEB3728
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.60000002384185791
+      - 1
+      - 1.2000000476837158
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1.0499999523162842
+    DYNAMIC_GRIP:
+      Front: 1.9249999523162842
+      Rear: 2
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.2000000476837158
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 245
+    STEERING: 1
+    YAW_SPEED: 0.5
+- ParentName: default
+  Name: fordgt
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.05000000074505806
+      - 0.5
+      - 0.69999998807907104
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.815000057220459
+      Rear: 1.8250000476837158
+    ASPECT_RATIO:
+      Front: 40
+      Rear: 40
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 2.125
+      Rear: 2.1500000953674316
+    SECTION_WIDTH:
+      Front: 315
+      Rear: 315
+    STEERING: 1.1000000238418579
+    YAW_SPEED: 0.40000000596046448
+- ParentName: fordgt
+  Name: fordgt_top
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.60000002384185791
+      - 1
+      - 1.3999999761581421
+    GRIP_SCALE:
+      Front: 1.25
+      Rear: 1.25
+    DYNAMIC_GRIP:
+      Front: 2
+      Rear: 2
+    ASPECT_RATIO:
+      Front: 40
+      Rear: 40
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 2.25
+      Rear: 2.25
+    SECTION_WIDTH:
+      Front: 315
+      Rear: 315
+    STEERING: 1
+    YAW_SPEED: 0.40000000596046448
+- ParentName: default
+  Name: 0x44511411
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.5
+      - 0.80000001192092896
+      - 1.2000000476837158
+    GRIP_SCALE:
+      Front: 1.1000000238418579
+      Rear: 1.1000000238418579
+    DYNAMIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.0999999046325684
+    SECTION_WIDTH:
+      Front: 335
+      Rear: 335
+    STEERING: 1.0499999523162842
+    YAW_SPEED: 0.34999999403953552
+- ParentName: 0x44511411
+  Name: 0x88FD40FE
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.5
+      - 1
+      - 1.2000000476837158
+    GRIP_SCALE:
+      Front: 1.1000000238418579
+      Rear: 1.1200000047683716
+    DYNAMIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.0999999046325684
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 2.2999999523162842
+      Rear: 2.2999999523162842
+    SECTION_WIDTH:
+      Front: 335
+      Rear: 335
+    STEERING: 0.98500001430511475
+    YAW_SPEED: 0.375
+- ParentName: default
+  Name: huayra
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.5
+      - 0.80000001192092896
+      - 1.2000000476837158
+    GRIP_SCALE:
+      Front: 1.1000000238418579
+      Rear: 1.1000000238418579
+    DYNAMIC_GRIP:
+      Front: 1.8500000238418579
+      Rear: 1.8500000238418579
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.0999999046325684
+    SECTION_WIDTH:
+      Front: 335
+      Rear: 335
+    STEERING: 1.0499999523162842
+    YAW_SPEED: 0.34999999403953552
+- ParentName: huayra
+  Name: 0x46F6195A
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.5
+      - 1
+      - 1.2000000476837158
+    GRIP_SCALE:
+      Front: 1.1000000238418579
+      Rear: 1.1200000047683716
+    DYNAMIC_GRIP:
+      Front: 2
+      Rear: 2
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 2.25
+      Rear: 2.25
+    SECTION_WIDTH:
+      Front: 335
+      Rear: 335
+    STEERING: 1
+    YAW_SPEED: 0.375
+- ParentName: default
+  Name: corvette
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.20000000298023224
+      - 0.64999997615814209
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.5
+      Rear: 1.5
+    ASPECT_RATIO:
+      Front: 35
+      Rear: 35
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 1.7000000476837158
+      Rear: 1.7200000286102295
+    SECTION_WIDTH:
+      Front: 285
+      Rear: 285
+    STEERING: 1.1000000238418579
+    YAW_SPEED: 0.30000001192092896
+- ParentName: corvette
+  Name: corvette_top
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.40000000596046448
+      - 0.80000001192092896
+      - 1.2000000476837158
+    GRIP_SCALE:
+      Front: 1.1499999761581421
+      Rear: 1.1499999761581421
+    DYNAMIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 2
+      Rear: 2.0999999046325684
+    SECTION_WIDTH:
+      Front: 335
+      Rear: 335
+    STEERING: 1.0499999523162842
+    YAW_SPEED: 0.30000001192092896
+- ParentName: default
+  Name: cien
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.05000000074505806
+      - 0.5
+      - 0.69999998807907104
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.815000057220459
+      Rear: 1.8250000476837158
+    ASPECT_RATIO:
+      Front: 40
+      Rear: 40
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 2.125
+      Rear: 2.1500000953674316
+    SECTION_WIDTH:
+      Front: 315
+      Rear: 315
+    STEERING: 1.1000000238418579
+    YAW_SPEED: 0.40000000596046448
+- ParentName: cien
+  Name: 0x66D99741
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.60000002384185791
+      - 1
+      - 1.3999999761581421
+    GRIP_SCALE:
+      Front: 1.25
+      Rear: 1.25
+    DYNAMIC_GRIP:
+      Front: 2
+      Rear: 2
+    ASPECT_RATIO:
+      Front: 40
+      Rear: 40
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 2.25
+      Rear: 2.25
+    SECTION_WIDTH:
+      Front: 315
+      Rear: 315
+    STEERING: 1
+    YAW_SPEED: 0.40000000596046448
+- ParentName: default
+  Name: speedtest
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+    GRIP_SCALE:
+      Front: 1.2999999523162842
+      Rear: 1.2999999523162842
+    DYNAMIC_GRIP:
+      Front: 2.2000000476837158
+      Rear: 2.2000000476837158
+    ASPECT_RATIO:
+      Front: 40
+      Rear: 30
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 2.4000000953674316
+      Rear: 2.5
+    SECTION_WIDTH:
+      Front: 265
+      Rear: 295
+    STEERING: 0.60000002384185791
+    YAW_SPEED: 0.54000002145767212
+- ParentName: default
+  Name: bmwm3gtre46
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.30000001192092896
+      - 0.64999997615814209
+      - 1
+      - 1.2000000476837158
+    GRIP_SCALE:
+      Front: 1.1749999523162842
+      Rear: 1.2250000238418579
+    DYNAMIC_GRIP:
+      Front: 2
+      Rear: 2
+    ASPECT_RATIO:
+      Front: 40
+      Rear: 40
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 2.2000000476837158
+      Rear: 2.2999999523162842
+    SECTION_WIDTH:
+      Front: 255
+      Rear: 255
+    STEERING: 0.89999997615814209
+    YAW_SPEED: 0.25
+- ParentName: bmwm3gtre46
+  Name: m3gtre46careerstart
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.34999999403953552
+      - 0.40000000596046448
+      - 0.60000002384185791
+    GRIP_SCALE:
+      Front: 1.1499999761581421
+      Rear: 1.2000000476837158
+    DYNAMIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 1.7999999523162842
+    ASPECT_RATIO:
+      Front: 40
+      Rear: 40
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 2
+      Rear: 2
+    SECTION_WIDTH:
+      Front: 255
+      Rear: 255
+    STEERING: 1.1100000143051147
+    YAW_SPEED: 0.25999999046325684
+- ParentName: default
+  Name: bora
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10999999940395355
+      - 0.31000000238418579
+      - 0.46000000834465027
+      - 0.61000001430511475
+    GRIP_SCALE:
+      Front: 1.0099999904632568
+      Rear: 1.0099999904632568
+    DYNAMIC_GRIP:
+      Front: 1.5
+      Rear: 1.6000000238418579
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 1.6499999761581421
+      Rear: 1.75
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 225
+    STEERING: 1.0410000085830688
+    YAW_SPEED: 0.5899999737739563
+- ParentName: bora
+  Name: 0xCB3F0806
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.14000000059604645
+      - 0.68999999761581421
+      - 0.88999998569488525
+      - 1.2899999618530273
+    GRIP_SCALE:
+      Front: 1.0900000333786011
+      Rear: 1.0900000333786011
+    DYNAMIC_GRIP:
+      Front: 1.8500000238418579
+      Rear: 1.9500000476837158
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.2000000476837158
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 225
+    STEERING: 0.99099999666213989
+    YAW_SPEED: 0.56000000238418579
+- ParentName: default
+  Name: 0x507EF366
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.075000002980232239
+      - 0.10000000149011612
+      - 0.20000000298023224
+      - 0.15000000596046448
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.3500000238418579
+      Rear: 1.3999999761581421
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 1.6000000238418579
+      Rear: 1.6499999761581421
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 225
+    STEERING: 1
+    YAW_SPEED: 0.69999998807907104
+- ParentName: 0x507EF366
+  Name: 0x52FF35B6
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.44999998807907104
+      - 0.64999997615814209
+      - 1
+    GRIP_SCALE:
+      Front: 1.1000000238418579
+      Rear: 1.1000000238418579
+    DYNAMIC_GRIP:
+      Front: 1.9500000476837158
+      Rear: 2.0499999523162842
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.2000000476837158
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 225
+    STEERING: 1
+    YAW_SPEED: 0.69999998807907104
+- ParentName: default
+  Name: cs_trafcement
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.25
+      - 0.34999999403953552
+      - 0.60000002384185791
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1.2000000476837158
+    DYNAMIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.0999999046325684
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 2.2999999523162842
+      Rear: 2.2999999523162842
+    SECTION_WIDTH:
+      Front: 295
+      Rear: 295
+    STEERING: 1
+    YAW_SPEED: 0.5
+- ParentName: default
+  Name: neon
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.25
+      - 0.40000000596046448
+      - 0.5
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.3999999761581421
+      Rear: 1.3999999761581421
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 16
+      Rear: 16
+    STATIC_GRIP:
+      Front: 1.6000000238418579
+      Rear: 1.6200000047683716
+    SECTION_WIDTH:
+      Front: 215
+      Rear: 215
+    STEERING: 1.0499999523162842
+    YAW_SPEED: 0.40000000596046448
+- ParentName: neon
+  Name: 0x585688A9
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.5
+      - 0.80000001192092896
+      - 1
+    GRIP_SCALE:
+      Front: 1.0499999523162842
+      Rear: 1.0499999523162842
+    DYNAMIC_GRIP:
+      Front: 1.7000000476837158
+      Rear: 1.7000000476837158
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 16
+      Rear: 16
+    STATIC_GRIP:
+      Front: 1.9500000476837158
+      Rear: 1.8999999761581421
+    SECTION_WIDTH:
+      Front: 215
+      Rear: 215
+    STEERING: 1
+    YAW_SPEED: 0.40000000596046448
+- ParentName: default
+  Name: 911gt1
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.44999998807907104
+      - 0.75
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 2
+    ASPECT_RATIO:
+      Front: 35
+      Rear: 35
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.1749999523162842
+    SECTION_WIDTH:
+      Front: 235
+      Rear: 235
+    STEERING: 1.0499999523162842
+    YAW_SPEED: 0.42500001192092896
+- ParentName: 911gt1
+  Name: 0x43290D1F
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.5
+      - 1
+      - 1.2999999523162842
+    GRIP_SCALE:
+      Front: 1.1499999761581421
+      Rear: 1.1499999761581421
+    DYNAMIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 35
+      Rear: 35
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 2.2000000476837158
+      Rear: 2.2000000476837158
+    SECTION_WIDTH:
+      Front: 235
+      Rear: 235
+    STEERING: 1
+    YAW_SPEED: 0.42500001192092896
+- ParentName: default
+  Name: lancerevo3
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.34999999403953552
+      - 0.44999998807907104
+      - 0.75
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 2
+      Rear: 2
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 2.1500000953674316
+      Rear: 2.1500000953674316
+    SECTION_WIDTH:
+      Front: 235
+      Rear: 235
+    STEERING: 1
+    YAW_SPEED: 0.44999998807907104
+- ParentName: lancerevo3
+  Name: 0x39EBB438
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.34999999403953552
+      - 0.44999998807907104
+      - 0.75499999523162842
+      - 1.0499999523162842
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 2.2000000476837158
+      Rear: 2.2000000476837158
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 2.3499999046325684
+      Rear: 2.3499999046325684
+    SECTION_WIDTH:
+      Front: 235
+      Rear: 235
+    STEERING: 1.0499999523162842
+    YAW_SPEED: 0.44999998807907104
+- ParentName: default
+  Name: cobaltss
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.25
+      - 0.40000000596046448
+      - 0.5
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.3999999761581421
+      Rear: 1.3999999761581421
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 1.6000000238418579
+      Rear: 1.6200000047683716
+    SECTION_WIDTH:
+      Front: 215
+      Rear: 215
+    STEERING: 1.0499999523162842
+    YAW_SPEED: 0.40000000596046448
+- ParentName: cobaltss
+  Name: cobaltss_top
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.5
+      - 0.80000001192092896
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1.0499999523162842
+    DYNAMIC_GRIP:
+      Front: 1.6000000238418579
+      Rear: 1.6000000238418579
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 1.8500000238418579
+    SECTION_WIDTH:
+      Front: 215
+      Rear: 215
+    STEERING: 1
+    YAW_SPEED: 0.40000000596046448
+- ParentName: default
+  Name: navigator
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.05000000074505806
+      - 0.070000000298023224
+      - 0.15000000596046448
+      - 0.20000000298023224
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.6000000238418579
+      Rear: 1.6499999761581421
+    ASPECT_RATIO:
+      Front: 55
+      Rear: 55
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 1.9500000476837158
+      Rear: 1.9500000476837158
+    SECTION_WIDTH:
+      Front: 235
+      Rear: 235
+    STEERING: 1.0249999761581421
+    YAW_SPEED: 0.64999997615814209
+- ParentName: navigator
+  Name: 0xCA169295
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.20000000298023224
+      - 0.30000001192092896
+      - 1
+    GRIP_SCALE:
+      Front: 1.2000000476837158
+      Rear: 1.2000000476837158
+    DYNAMIC_GRIP:
+      Front: 1.9900000095367432
+      Rear: 1.9800000190734863
+    ASPECT_RATIO:
+      Front: 55
+      Rear: 55
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 2.190000057220459
+      Rear: 2.1800000667572021
+    SECTION_WIDTH:
+      Front: 235
+      Rear: 235
+    STEERING: 1.0750000476837158
+    YAW_SPEED: 0.64999997615814209
+- ParentName: default
+  Name: is300
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.20000000298023224
+      - 0.40000000596046448
+      - 0.5
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.3999999761581421
+      Rear: 1.4199999570846558
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 1.6000000238418579
+      Rear: 1.6499999761581421
+    SECTION_WIDTH:
+      Front: 215
+      Rear: 215
+    STEERING: 1.0249999761581421
+    YAW_SPEED: 0.44999998807907104
+- ParentName: is300
+  Name: is300_top
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.64999997615814209
+      - 0.85000002384185791
+      - 1.2000000476837158
+    GRIP_SCALE:
+      Front: 1.125
+      Rear: 1.125
+    DYNAMIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 1.7999999523162842
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.0999999046325684
+    SECTION_WIDTH:
+      Front: 215
+      Rear: 215
+    STEERING: 1.0700000524520874
+    YAW_SPEED: 0.44999998807907104
+- ParentName: default
+  Name: 0x5E6BFCE4
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.05000000074505806
+      - 0.5
+      - 0.69999998807907104
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.815000057220459
+      Rear: 1.8250000476837158
+    ASPECT_RATIO:
+      Front: 40
+      Rear: 40
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 2.125
+      Rear: 2.1500000953674316
+    SECTION_WIDTH:
+      Front: 315
+      Rear: 315
+    STEERING: 1.1000000238418579
+    YAW_SPEED: 0.40000000596046448
+- ParentName: 0x5E6BFCE4
+  Name: 0xFFD527C3
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.60000002384185791
+      - 1
+      - 1.3999999761581421
+    GRIP_SCALE:
+      Front: 1.25
+      Rear: 1.25
+    DYNAMIC_GRIP:
+      Front: 2
+      Rear: 2
+    ASPECT_RATIO:
+      Front: 40
+      Rear: 40
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 2.25
+      Rear: 2.25
+    SECTION_WIDTH:
+      Front: 315
+      Rear: 315
+    STEERING: 1
+    YAW_SPEED: 0.40000000596046448
+- ParentName: default
+  Name: imprezawrx
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.02500000037252903
+      - 0.25
+      - 0.40000000596046448
+      - 0.5
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.3999999761581421
+      Rear: 1.5
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 1.6000000238418579
+      Rear: 1.7000000476837158
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 225
+    STEERING: 1.0700000524520874
+    YAW_SPEED: 0.40000000596046448
+- ParentName: imprezawrx
+  Name: imprezawrx_top
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.60000002384185791
+      - 1
+      - 1.2000000476837158
+    GRIP_SCALE:
+      Front: 1.059999942779541
+      Rear: 1.1000000238418579
+    DYNAMIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 2.1500000953674316
+      Rear: 2.2000000476837158
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 225
+    STEERING: 1
+    YAW_SPEED: 0.40000000596046448
+- ParentName: default
+  Name: 0x60C81988
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.55000001192092896
+      - 0.69999998807907104
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.6000000238418579
+      Rear: 1.6000000238418579
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 1.7999999523162842
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 225
+    STEERING: 1.0750000476837158
+    YAW_SPEED: 0.72500002384185791
+- ParentName: 0x60C81988
+  Name: 0x2663EC09
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.40000000596046448
+      - 1
+      - 1.2000000476837158
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 1.7999999523162842
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.1500000953674316
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 225
+    STEERING: 1.0499999523162842
+    YAW_SPEED: 0.72500002384185791
+- ParentName: default
+  Name: avantime
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.20000000298023224
+      - 0.5
+      - 0.60000002384185791
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.6000000238418579
+      Rear: 1.5
+    ASPECT_RATIO:
+      Front: 55
+      Rear: 55
+    RIM_SIZE:
+      Front: 16
+      Rear: 16
+    STATIC_GRIP:
+      Front: 2
+      Rear: 2
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 225
+    STEERING: 1
+    YAW_SPEED: 0.44999998807907104
+- ParentName: avantime
+  Name: 0x96E46FF4
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.20000000298023224
+      - 0.5
+      - 0.60000002384185791
+      - 1
+    GRIP_SCALE:
+      Front: 1.1499999761581421
+      Rear: 1.25
+    DYNAMIC_GRIP:
+      Front: 2.2000000476837158
+      Rear: 2.2000000476837158
+    ASPECT_RATIO:
+      Front: 55
+      Rear: 55
+    RIM_SIZE:
+      Front: 16
+      Rear: 16
+    STATIC_GRIP:
+      Front: 2.4000000953674316
+      Rear: 2.4000000953674316
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 305
+    STEERING: 1.1499999761581421
+    YAW_SPEED: 0.44999998807907104
+- ParentName: default
+  Name: supra
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.05000000074505806
+      - 0.34999999403953552
+      - 0.5
+      - 0.69999998807907104
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.5
+      Rear: 1.5
+    ASPECT_RATIO:
+      Front: 40
+      Rear: 40
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 1.7000000476837158
+      Rear: 1.7000000476837158
+    SECTION_WIDTH:
+      Front: 255
+      Rear: 255
+    STEERING: 1.0499999523162842
+    YAW_SPEED: 0.47999998927116394
+- ParentName: supra
+  Name: supra_top
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0
+      - 0.44999998807907104
+      - 0.85000002384185791
+      - 1
+    GRIP_SCALE:
+      Front: 1.1000000238418579
+      Rear: 1.1000000238418579
+    DYNAMIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 40
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.0999999046325684
+    SECTION_WIDTH:
+      Front: 255
+      Rear: 255
+    STEERING: 1
+    YAW_SPEED: 0.47999998927116394
+- ParentName: default
+  Name: carreragt
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0
+      - 0.10000000149011612
+      - 0.20000000298023224
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 20
+      Rear: 20
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.0999999046325684
+    SECTION_WIDTH:
+      Front: 335
+      Rear: 335
+    STEERING: 1.1200000047683716
+    YAW_SPEED: 0.40000000596046448
+- ParentName: carreragt
+  Name: carreragt_top
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0
+      - 0.60000002384185791
+      - 0.89999997615814209
+      - 1
+    GRIP_SCALE:
+      Front: 1.1749999523162842
+      Rear: 1.2000000476837158
+    DYNAMIC_GRIP:
+      Front: 2
+      Rear: 2
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 20
+      Rear: 20
+    STATIC_GRIP:
+      Front: 2.2000000476837158
+      Rear: 2.25
+    SECTION_WIDTH:
+      Front: 335
+      Rear: 335
+    STEERING: 0.97500002384185791
+    YAW_SPEED: 0.30000001192092896
+- ParentName: default
+  Name: 0x6B4CE945
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0
+      - 0.10000000149011612
+      - 0.20000000298023224
+      - 0.30000001192092896
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.5
+      Rear: 1.6000000238418579
+    ASPECT_RATIO:
+      Front: 40
+      Rear: 35
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 1.6000000238418579
+      Rear: 1.7000000476837158
+    SECTION_WIDTH:
+      Front: 245
+      Rear: 275
+    STEERING: 1.1000000238418579
+    YAW_SPEED: 1
+- ParentName: default
+  Name: venomf5
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.64999997615814209
+      - 1
+      - 1.4500000476837158
+    GRIP_SCALE:
+      Front: 1.2000000476837158
+      Rear: 1.25
+    DYNAMIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 2
+    ASPECT_RATIO:
+      Front: 35
+      Rear: 30
+    RIM_SIZE:
+      Front: 20
+      Rear: 21
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.1749999523162842
+    SECTION_WIDTH:
+      Front: 265
+      Rear: 325
+    STEERING: 1.1000000238418579
+    YAW_SPEED: 0.31999999284744263
+- ParentName: venomf5
+  Name: 0x0C01E1F8
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.12999999523162842
+      - 0.68999999761581421
+      - 1.2000000476837158
+      - 1.6000000238418579
+    GRIP_SCALE:
+      Front: 1.25
+      Rear: 1.2999999523162842
+    DYNAMIC_GRIP:
+      Front: 2.4000000953674316
+      Rear: 2.5
+    ASPECT_RATIO:
+      Front: 35
+      Rear: 30
+    RIM_SIZE:
+      Front: 20
+      Rear: 21
+    STATIC_GRIP:
+      Front: 2.5999999046325684
+      Rear: 2.7000000476837158
+    SECTION_WIDTH:
+      Front: 265
+      Rear: 325
+    STEERING: 1.1000000238418579
+    YAW_SPEED: 0.36000001430511475
+- ParentName: default
+  Name: viper
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.30000001192092896
+      - 0.5
+      - 0.60000002384185791
+    GRIP_SCALE:
+      Front: 1.1499999761581421
+      Rear: 1.1499999761581421
+    DYNAMIC_GRIP:
+      Front: 1.75
+      Rear: 1.75
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 1.8999999761581421
+    SECTION_WIDTH:
+      Front: 345
+      Rear: 345
+    STEERING: 1.0499999523162842
+    YAW_SPEED: 0.40000000596046448
+- ParentName: viper
+  Name: viper_top
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0
+      - 0.10000000149011612
+      - 0.20000000298023224
+      - 0.30000001192092896
+    GRIP_SCALE:
+      Front: 1.1000000238418579
+      Rear: 1.1000000238418579
+    DYNAMIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 1.9500000476837158
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.1500000953674316
+    SECTION_WIDTH:
+      Front: 345
+      Rear: 345
+    STEERING: 1.1150000095367432
+    YAW_SPEED: 0.5
+- ParentName: default
+  Name: reno5
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.05000000074505806
+      - 0.059999998658895493
+      - 0.072999998927116394
+      - 0.079999998211860657
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.3999999761581421
+      Rear: 1.4500000476837158
+    ASPECT_RATIO:
+      Front: 50
+      Rear: 50
+    RIM_SIZE:
+      Front: 16
+      Rear: 16
+    STATIC_GRIP:
+      Front: 1.6000000238418579
+      Rear: 1.6000000238418579
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 225
+    STEERING: 1.0800000429153442
+    YAW_SPEED: 0.69999998807907104
+- ParentName: reno5
+  Name: 0x5849EE22
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.40000000596046448
+      - 0.80000001192092896
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.6000000238418579
+      Rear: 1.6000000238418579
+    ASPECT_RATIO:
+      Front: 50
+      Rear: 50
+    RIM_SIZE:
+      Front: 16
+      Rear: 16
+    STATIC_GRIP:
+      Front: 2
+      Rear: 2
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 225
+    STEERING: 1
+    YAW_SPEED: 0.69999998807907104
+- ParentName: default
+  Name: sl65
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.5
+      - 1
+      - 1.2000000476837158
+    GRIP_SCALE:
+      Front: 1.0499999523162842
+      Rear: 1.0850000381469727
+    DYNAMIC_GRIP:
+      Front: 1.8500000238418579
+      Rear: 1.8500000238418579
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 2.1500000953674316
+      Rear: 2.0999999046325684
+    SECTION_WIDTH:
+      Front: 285
+      Rear: 285
+    STEERING: 1
+    YAW_SPEED: 0.40000000596046448
+- ParentName: default
+  Name: 0x71CCBA4D
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.075000002980232239
+      - 0.10000000149011612
+      - 0.20000000298023224
+      - 0.15000000596046448
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.3999999761581421
+      Rear: 1.3999999761581421
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 1.6000000238418579
+      Rear: 1.6200000047683716
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 235
+    STEERING: 1
+    YAW_SPEED: 0.69999998807907104
+- ParentName: 0x71CCBA4D
+  Name: 0xB4101D4B
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.44999998807907104
+      - 0.64999997615814209
+      - 1
+    GRIP_SCALE:
+      Front: 1.0499999523162842
+      Rear: 1.0750000476837158
+    DYNAMIC_GRIP:
+      Front: 1.9500000476837158
+      Rear: 1.9500000476837158
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.2000000476837158
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 235
+    STEERING: 0.99800002574920654
+    YAW_SPEED: 0.69999998807907104
+- ParentName: default
+  Name: gti
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.5
+      - 0.69999998807907104
+      - 0.10000000149011612
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.5
+      Rear: 1.5
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 1.7000000476837158
+      Rear: 1.7000000476837158
+    SECTION_WIDTH:
+      Front: 235
+      Rear: 235
+    STEERING: 1
+    YAW_SPEED: 0.34999999403953552
+- ParentName: gti
+  Name: gti_top
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.60000002384185791
+      - 0.80000001192092896
+      - 1.25
+    GRIP_SCALE:
+      Front: 1.0499999523162842
+      Rear: 1.1000000238418579
+    DYNAMIC_GRIP:
+      Front: 1.8500000238418579
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.0999999046325684
+    SECTION_WIDTH:
+      Front: 235
+      Rear: 235
+    STEERING: 1
+    YAW_SPEED: 0.34999999403953552
+- ParentName: default
+  Name: 0x79B526BB
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.15000000596046448
+      - 0.44999998807907104
+      - 0.55000001192092896
+      - 0.69999998807907104
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.5
+      Rear: 1.6499999761581421
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 1.8500000238418579
+    SECTION_WIDTH:
+      Front: 245
+      Rear: 245
+    STEERING: 1.0757999420166016
+    YAW_SPEED: 0.69999998807907104
+- ParentName: 0x79B526BB
+  Name: 0x2BB06DB9
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.60000002384185791
+      - 1
+      - 1.2000000476837158
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1.0499999523162842
+    DYNAMIC_GRIP:
+      Front: 1.9249999523162842
+      Rear: 2
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.2000000476837158
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 245
+    STEERING: 1
+    YAW_SPEED: 0.5
+- ParentName: default
+  Name: copsport
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0
+      - 0
+      - 0
+      - 0
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.6000000238418579
+      Rear: 1.7000000476837158
+    ASPECT_RATIO:
+      Front: 35
+      Rear: 30
+    RIM_SIZE:
+      Front: 19
+      Rear: 20
+    STATIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 1.8999999761581421
+    SECTION_WIDTH:
+      Front: 265
+      Rear: 335
+    STEERING: 1.0800000429153442
+    YAW_SPEED: 1
+- ParentName: default
+  Name: gallardo
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.44999998807907104
+      - 0.75
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 2
+    ASPECT_RATIO:
+      Front: 35
+      Rear: 35
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.1749999523162842
+    SECTION_WIDTH:
+      Front: 235
+      Rear: 235
+    STEERING: 1.0499999523162842
+    YAW_SPEED: 0.42500001192092896
+- ParentName: gallardo
+  Name: gallardo_top
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.5
+      - 1
+      - 1.2999999523162842
+    GRIP_SCALE:
+      Front: 1.1499999761581421
+      Rear: 1.1499999761581421
+    DYNAMIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 35
+      Rear: 35
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 2.2000000476837158
+      Rear: 2.2000000476837158
+    SECTION_WIDTH:
+      Front: 235
+      Rear: 235
+    STEERING: 1
+    YAW_SPEED: 0.42500001192092896
+- ParentName: default
+  Name: lancerevo9
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.075000002980232239
+      - 0.10000000149011612
+      - 0.20000000298023224
+      - 0.15000000596046448
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.5
+      Rear: 1.6000000238418579
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 1.7000000476837158
+      Rear: 1.7999999523162842
+    SECTION_WIDTH:
+      Front: 235
+      Rear: 235
+    STEERING: 1
+    YAW_SPEED: 0.69999998807907104
+- ParentName: lancerevo9
+  Name: lancerevo9_top
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.44999998807907104
+      - 0.64999997615814209
+      - 1
+    GRIP_SCALE:
+      Front: 1.1000000238418579
+      Rear: 1.1000000238418579
+    DYNAMIC_GRIP:
+      Front: 2
+      Rear: 2.0499999523162842
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 2.2000000476837158
+      Rear: 2.2999999523162842
+    SECTION_WIDTH:
+      Front: 235
+      Rear: 235
+    STEERING: 1
+    YAW_SPEED: 0.69999998807907104
+- ParentName: default
+  Name: 0x80F5D559
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.05000000074505806
+      - 0.5
+      - 0.69999998807907104
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.815000057220459
+      Rear: 1.8250000476837158
+    ASPECT_RATIO:
+      Front: 40
+      Rear: 40
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 2.125
+      Rear: 2.1500000953674316
+    SECTION_WIDTH:
+      Front: 315
+      Rear: 315
+    STEERING: 1.1000000238418579
+    YAW_SPEED: 0.40000000596046448
+- ParentName: 0x80F5D559
+  Name: 0x8787C71B
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.60000002384185791
+      - 1
+      - 1.3999999761581421
+    GRIP_SCALE:
+      Front: 1.25
+      Rear: 1.25
+    DYNAMIC_GRIP:
+      Front: 2
+      Rear: 2
+    ASPECT_RATIO:
+      Front: 40
+      Rear: 40
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 2.25
+      Rear: 2.25
+    SECTION_WIDTH:
+      Front: 315
+      Rear: 315
+    STEERING: 1
+    YAW_SPEED: 0.40000000596046448
+- ParentName: default
+  Name: clk500
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.30000001192092896
+      - 0.60000002384185791
+      - 0.80000001192092896
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.5499999523162842
+      Rear: 1.6499999761581421
+    ASPECT_RATIO:
+      Front: 40
+      Rear: 40
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 1.75
+      Rear: 1.8500000238418579
+    SECTION_WIDTH:
+      Front: 245
+      Rear: 245
+    STEERING: 1.0499999523162842
+    YAW_SPEED: 0.5
+- ParentName: clk500
+  Name: clk500_top
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0
+      - 0.5
+      - 0.75
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 2
+    ASPECT_RATIO:
+      Front: 40
+      Rear: 40
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.2000000476837158
+    SECTION_WIDTH:
+      Front: 245
+      Rear: 245
+    STEERING: 1
+    YAW_SPEED: 0.5
+- ParentName: default
+  Name: charger69
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.059999998658895493
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.2749999761581421
+      Rear: 1.2749999761581421
+    ASPECT_RATIO:
+      Front: 60
+      Rear: 60
+    RIM_SIZE:
+      Front: 15
+      Rear: 15
+    STATIC_GRIP:
+      Front: 1.5
+      Rear: 1.5
+    SECTION_WIDTH:
+      Front: 245
+      Rear: 245
+    STEERING: 1.0249999761581421
+    YAW_SPEED: 0.30000001192092896
+- ParentName: charger69
+  Name: charger69_top
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.02500000037252903
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.7000000476837158
+      Rear: 1.7000000476837158
+    ASPECT_RATIO:
+      Front: 60
+      Rear: 60
+    RIM_SIZE:
+      Front: 15
+      Rear: 15
+    STATIC_GRIP:
+      Front: 1.8500000238418579
+      Rear: 1.8500000238418579
+    SECTION_WIDTH:
+      Front: 245
+      Rear: 245
+    STEERING: 0.94999998807907104
+    YAW_SPEED: 0.32499998807907104
+- ParentName: default
+  Name: rx7
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.05000000074505806
+      - 0.059999998658895493
+      - 0.072999998927116394
+      - 0.079999998211860657
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.3999999761581421
+      Rear: 1.4500000476837158
+    ASPECT_RATIO:
+      Front: 50
+      Rear: 50
+    RIM_SIZE:
+      Front: 16
+      Rear: 16
+    STATIC_GRIP:
+      Front: 1.6000000238418579
+      Rear: 1.6000000238418579
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 225
+    STEERING: 1.0800000429153442
+    YAW_SPEED: 0.69999998807907104
+- ParentName: rx7
+  Name: rx7_top
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.40000000596046448
+      - 0.80000001192092896
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.6000000238418579
+      Rear: 1.6000000238418579
+    ASPECT_RATIO:
+      Front: 50
+      Rear: 50
+    RIM_SIZE:
+      Front: 16
+      Rear: 16
+    STATIC_GRIP:
+      Front: 2
+      Rear: 2
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 225
+    STEERING: 1
+    YAW_SPEED: 0.69999998807907104
+- ParentName: default
+  Name: copmidsize_nis
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0
+      - 0
+      - 0
+      - 0
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.6000000238418579
+      Rear: 1.7000000476837158
+    ASPECT_RATIO:
+      Front: 35
+      Rear: 30
+    RIM_SIZE:
+      Front: 19
+      Rear: 20
+    STATIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 1.8999999761581421
+    SECTION_WIDTH:
+      Front: 265
+      Rear: 335
+    STEERING: 1.0800000429153442
+    YAW_SPEED: 1
+- ParentName: default
+  Name: lancer
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.20000000298023224
+      - 0.40000000596046448
+      - 0.5
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.3999999761581421
+      Rear: 1.4199999570846558
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 1.6000000238418579
+      Rear: 1.6499999761581421
+    SECTION_WIDTH:
+      Front: 215
+      Rear: 215
+    STEERING: 1.0249999761581421
+    YAW_SPEED: 0.44999998807907104
+- ParentName: lancer
+  Name: 0xB21C59BF
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.64999997615814209
+      - 0.85000002384185791
+      - 1.2000000476837158
+    GRIP_SCALE:
+      Front: 1.125
+      Rear: 1.125
+    DYNAMIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 1.7999999523162842
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.0999999046325684
+    SECTION_WIDTH:
+      Front: 215
+      Rear: 215
+    STEERING: 1.0700000524520874
+    YAW_SPEED: 0.44999998807907104
+- ParentName: default
+  Name: speedster
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0
+      - 0.10000000149011612
+      - 0.30000001192092896
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.3999999761581421
+      Rear: 1.4500000476837158
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 1.5
+      Rear: 1.6000000238418579
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 225
+    STEERING: 1
+    YAW_SPEED: 0.41999998688697815
+- ParentName: speedster
+  Name: 0x9CC210A7
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.5
+      - 0.85000002384185791
+      - 1.1000000238418579
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.75
+      Rear: 1.8500000238418579
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 1.9500000476837158
+      Rear: 2.0499999523162842
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 225
+    STEERING: 0.89999997615814209
+    YAW_SPEED: 0.40000000596046448
+- ParentName: default
+  Name: 911gt2
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.5
+      - 0.80000001192092896
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.8500000238418579
+      Rear: 1.8500000238418579
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 2.0750000476837158
+      Rear: 2.0999999046325684
+    SECTION_WIDTH:
+      Front: 315
+      Rear: 315
+    STEERING: 1
+    YAW_SPEED: 0.40000000596046448
+- ParentName: default
+  Name: a4
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.15000000596046448
+      - 0.44999998807907104
+      - 0.55000001192092896
+      - 0.69999998807907104
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.5
+      Rear: 1.6499999761581421
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 1.8500000238418579
+    SECTION_WIDTH:
+      Front: 245
+      Rear: 245
+    STEERING: 1.0757999420166016
+    YAW_SPEED: 0.69999998807907104
+- ParentName: a4
+  Name: a4_top
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.60000002384185791
+      - 1
+      - 1.2000000476837158
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1.0499999523162842
+    DYNAMIC_GRIP:
+      Front: 1.9249999523162842
+      Rear: 2
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.2000000476837158
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 245
+    STEERING: 1
+    YAW_SPEED: 0.5
+- ParentName: default
+  Name: mustanggt
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.05000000074505806
+      - 0.070000000298023224
+      - 0.15000000596046448
+      - 0.20000000298023224
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.6000000238418579
+      Rear: 1.6499999761581421
+    ASPECT_RATIO:
+      Front: 55
+      Rear: 55
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 1.8500000238418579
+      Rear: 1.8500000238418579
+    SECTION_WIDTH:
+      Front: 235
+      Rear: 235
+    STEERING: 1.0249999761581421
+    YAW_SPEED: 0.64999997615814209
+- ParentName: mustanggt
+  Name: mustanggt_top
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.20000000298023224
+      - 0.30000001192092896
+      - 1
+    GRIP_SCALE:
+      Front: 1.2000000476837158
+      Rear: 1.2000000476837158
+    DYNAMIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 55
+      Rear: 55
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.0999999046325684
+    SECTION_WIDTH:
+      Front: 235
+      Rear: 235
+    STEERING: 1.0750000476837158
+    YAW_SPEED: 0.64999997615814209
+- ParentName: default
+  Name: f1
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0
+      - 0.10000000149011612
+      - 0.20000000298023224
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 20
+      Rear: 20
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.0999999046325684
+    SECTION_WIDTH:
+      Front: 335
+      Rear: 335
+    STEERING: 1.1200000047683716
+    YAW_SPEED: 0.40000000596046448
+- ParentName: f1
+  Name: 0x812E3764
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0
+      - 0.60000002384185791
+      - 0.89999997615814209
+      - 1
+    GRIP_SCALE:
+      Front: 1.1749999523162842
+      Rear: 1.2000000476837158
+    DYNAMIC_GRIP:
+      Front: 2
+      Rear: 2
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 20
+      Rear: 20
+    STATIC_GRIP:
+      Front: 2.2000000476837158
+      Rear: 2.25
+    SECTION_WIDTH:
+      Front: 335
+      Rear: 335
+    STEERING: 0.97500002384185791
+    YAW_SPEED: 0.30000001192092896
+- ParentName: default
+  Name: eclipsegt
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.25
+      - 0.40000000596046448
+      - 0.5
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.4099999666213989
+      Rear: 1.4099999666213989
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 1.6299999952316284
+      Rear: 1.7000000476837158
+    SECTION_WIDTH:
+      Front: 235
+      Rear: 235
+    STEERING: 1
+    YAW_SPEED: 0.40000000596046448
+- ParentName: eclipsegt
+  Name: eclipsegt_top
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.34999999403953552
+      - 0.69999998807907104
+      - 1
+    GRIP_SCALE:
+      Front: 1.0700000524520874
+      Rear: 1.0700000524520874
+    DYNAMIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 1.7999999523162842
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 2
+      Rear: 2
+    SECTION_WIDTH:
+      Front: 235
+      Rear: 235
+    STEERING: 1.125
+    YAW_SPEED: 0.40000000596046448
+- ParentName: default
+  Name: challenger71
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.059999998658895493
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.2300000190734863
+      Rear: 1.25
+    ASPECT_RATIO:
+      Front: 60
+      Rear: 60
+    RIM_SIZE:
+      Front: 15
+      Rear: 15
+    STATIC_GRIP:
+      Front: 1.4750000238418579
+      Rear: 1.5
+    SECTION_WIDTH:
+      Front: 245
+      Rear: 245
+    STEERING: 1
+    YAW_SPEED: 0.30000001192092896
+- ParentName: challenger71
+  Name: challenger71_top
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.02500000037252903
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.5499999523162842
+      Rear: 1.5499999523162842
+    ASPECT_RATIO:
+      Front: 60
+      Rear: 60
+    RIM_SIZE:
+      Front: 15
+      Rear: 15
+    STATIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 1.7999999523162842
+    SECTION_WIDTH:
+      Front: 245
+      Rear: 245
+    STEERING: 1
+    YAW_SPEED: 0.30000001192092896
+- ParentName: default
+  Name: db9
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.019999999552965164
+      - 0.40000000596046448
+      - 0.5
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.6000000238418579
+      Rear: 1.7000000476837158
+    ASPECT_RATIO:
+      Front: 35
+      Rear: 35
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 1.9249999523162842
+    SECTION_WIDTH:
+      Front: 275
+      Rear: 275
+    STEERING: 1.0499999523162842
+    YAW_SPEED: 0.44999998807907104
+- ParentName: db9
+  Name: db9_top
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.60000002384185791
+      - 0.75
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1.0199999809265137
+    DYNAMIC_GRIP:
+      Front: 1.9500000476837158
+      Rear: 2.0499999523162842
+    ASPECT_RATIO:
+      Front: 35
+      Rear: 35
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 2.1500000953674316
+      Rear: 2.25
+    SECTION_WIDTH:
+      Front: 275
+      Rear: 275
+    STEERING: 1
+    YAW_SPEED: 0.4699999988079071
+- ParentName: default
+  Name: punto
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.02500000037252903
+      - 0.10000000149011612
+      - 0.20000000298023224
+      - 0.30000001192092896
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.2999999523162842
+      Rear: 1.2999999523162842
+    ASPECT_RATIO:
+      Front: 55
+      Rear: 55
+    RIM_SIZE:
+      Front: 15
+      Rear: 15
+    STATIC_GRIP:
+      Front: 1.5
+      Rear: 1.6000000238418579
+    SECTION_WIDTH:
+      Front: 185
+      Rear: 185
+    STEERING: 1
+    YAW_SPEED: 0.30000001192092896
+- ParentName: punto
+  Name: punto_top
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.60000002384185791
+      - 0.80000001192092896
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 55
+      Rear: 55
+    RIM_SIZE:
+      Front: 15
+      Rear: 15
+    STATIC_GRIP:
+      Front: 2
+      Rear: 2.0999999046325684
+    SECTION_WIDTH:
+      Front: 185
+      Rear: 185
+    STEERING: 1
+    YAW_SPEED: 0.30000001192092896
+- ParentName: default
+  Name: cs_trafgarb
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.25
+      - 0.5
+      - 1
+      - 1.2000000476837158
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 2
+      Rear: 2.2000000476837158
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 2.2000000476837158
+      Rear: 2.4000000953674316
+    SECTION_WIDTH:
+      Front: 295
+      Rear: 295
+    STEERING: 1.1000000238418579
+    YAW_SPEED: 0.60000002384185791
+- ParentName: default
+  Name: sl500
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.55000001192092896
+      - 0.64999997615814209
+      - 0.85000002384185791
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.4500000476837158
+      Rear: 1.5
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 1.75
+      Rear: 1.75
+    SECTION_WIDTH:
+      Front: 255
+      Rear: 255
+    STEERING: 1.0499999523162842
+    YAW_SPEED: 0.40000000596046448
+- ParentName: sl500
+  Name: sl500_top
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.44999998807907104
+      - 0.80000001192092896
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 1.7999999523162842
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 2
+      Rear: 2
+    SECTION_WIDTH:
+      Front: 255
+      Rear: 255
+    STEERING: 1.0750000476837158
+    YAW_SPEED: 0.40000000596046448
+- ParentName: default
+  Name: 240sx
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.20000000298023224
+      - 0.40000000596046448
+      - 0.5
+    GRIP_SCALE:
+      Front: 1.0099999904632568
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.3999999761581421
+      Rear: 1.4199999570846558
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 1.6000000238418579
+      Rear: 1.6499999761581421
+    SECTION_WIDTH:
+      Front: 215
+      Rear: 215
+    STEERING: 1.0249999761581421
+    YAW_SPEED: 0.44999998807907104
+- ParentName: 240sx
+  Name: 240sx_top
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.64999997615814209
+      - 0.85000002384185791
+      - 1.2000000476837158
+    GRIP_SCALE:
+      Front: 1.128000020980835
+      Rear: 1.128000020980835
+    DYNAMIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 2.1500000953674316
+      Rear: 2.1500000953674316
+    SECTION_WIDTH:
+      Front: 215
+      Rear: 215
+    STEERING: 1.0099999904632568
+    YAW_SPEED: 0.44999998807907104
+- ParentName: default
+  Name: cops
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.34999999403953552
+      - 0.40000000596046448
+      - 0.60000002384185791
+    GRIP_SCALE:
+      Front: 2
+      Rear: 2
+    DYNAMIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 1.7999999523162842
+    ASPECT_RATIO:
+      Front: 35
+      Rear: 35
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 2.2000000476837158
+      Rear: 2.2000000476837158
+    SECTION_WIDTH:
+      Front: 265
+      Rear: 265
+    STEERING: 1
+    YAW_SPEED: 0.64999997615814209
+- ParentName: default
+  Name: 0xAA382491
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0
+      - 0.10000000149011612
+      - 0.20000000298023224
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 20
+      Rear: 20
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.0999999046325684
+    SECTION_WIDTH:
+      Front: 335
+      Rear: 335
+    STEERING: 1.1200000047683716
+    YAW_SPEED: 0.40000000596046448
+- ParentName: 0xAA382491
+  Name: 0x1AD93507
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0
+      - 0.60000002384185791
+      - 0.89999997615814209
+      - 1
+    GRIP_SCALE:
+      Front: 1.1749999523162842
+      Rear: 1.2000000476837158
+    DYNAMIC_GRIP:
+      Front: 2
+      Rear: 2
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 20
+      Rear: 20
+    STATIC_GRIP:
+      Front: 2.2000000476837158
+      Rear: 2.25
+    SECTION_WIDTH:
+      Front: 335
+      Rear: 335
+    STEERING: 0.97500002384185791
+    YAW_SPEED: 0.30000001192092896
+- ParentName: default
+  Name: veyron
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0
+      - 0.10000000149011612
+      - 0.20000000298023224
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 20
+      Rear: 20
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.0999999046325684
+    SECTION_WIDTH:
+      Front: 335
+      Rear: 335
+    STEERING: 1.1200000047683716
+    YAW_SPEED: 0.40000000596046448
+- ParentName: veyron
+  Name: 0x9D1A3D3C
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0
+      - 0.60000002384185791
+      - 0.89999997615814209
+      - 1
+    GRIP_SCALE:
+      Front: 1.1799999475479126
+      Rear: 1.2000000476837158
+    DYNAMIC_GRIP:
+      Front: 2.0499999523162842
+      Rear: 2.0499999523162842
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 20
+      Rear: 20
+    STATIC_GRIP:
+      Front: 2.2000000476837158
+      Rear: 2.25
+    SECTION_WIDTH:
+      Front: 335
+      Rear: 335
+    STEERING: 0.97000002861022949
+    YAW_SPEED: 0.30000001192092896
+- ParentName: default
+  Name: zonda
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0
+      - 0.10000000149011612
+      - 0.20000000298023224
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 20
+      Rear: 20
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.0999999046325684
+    SECTION_WIDTH:
+      Front: 335
+      Rear: 335
+    STEERING: 1.1200000047683716
+    YAW_SPEED: 0.40000000596046448
+- ParentName: zonda
+  Name: zonda_top
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0
+      - 0.60000002384185791
+      - 0.89999997615814209
+      - 1
+    GRIP_SCALE:
+      Front: 1.1749999523162842
+      Rear: 1.2000000476837158
+    DYNAMIC_GRIP:
+      Front: 2
+      Rear: 2
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 20
+      Rear: 20
+    STATIC_GRIP:
+      Front: 2.2000000476837158
+      Rear: 2.25
+    SECTION_WIDTH:
+      Front: 335
+      Rear: 335
+    STEERING: 0.97500002384185791
+    YAW_SPEED: 0.30000001192092896
+- ParentName: default
+  Name: 0xB2B10502
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.30000001192092896
+      - 0.5
+      - 0.60000002384185791
+    GRIP_SCALE:
+      Front: 1.1499999761581421
+      Rear: 1.1499999761581421
+    DYNAMIC_GRIP:
+      Front: 1.75
+      Rear: 1.75
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 1.8999999761581421
+    SECTION_WIDTH:
+      Front: 345
+      Rear: 345
+    STEERING: 1.0499999523162842
+    YAW_SPEED: 0.40000000596046448
+- ParentName: 0xB2B10502
+  Name: 0xC2BB123D
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0
+      - 0.10000000149011612
+      - 0.20000000298023224
+      - 0.30000001192092896
+    GRIP_SCALE:
+      Front: 1.1000000238418579
+      Rear: 1.1000000238418579
+    DYNAMIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 1.9500000476837158
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.1500000953674316
+    SECTION_WIDTH:
+      Front: 345
+      Rear: 345
+    STEERING: 1.1150000095367432
+    YAW_SPEED: 0.5
+- ParentName: default
+  Name: golfr32
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.5
+      - 0.60000002384185791
+      - 0.69999998807907104
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1.0499999523162842
+    DYNAMIC_GRIP:
+      Front: 1.5
+      Rear: 1.6000000238418579
+    ASPECT_RATIO:
+      Front: 40
+      Rear: 40
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 1.7000000476837158
+      Rear: 1.8500000238418579
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 225
+    STEERING: 1
+    YAW_SPEED: 0.38499999046325684
+- ParentName: golfr32
+  Name: golfr32_top
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.60000002384185791
+      - 0.80000001192092896
+      - 1.25
+    GRIP_SCALE:
+      Front: 1.0499999523162842
+      Rear: 1.1000000238418579
+    DYNAMIC_GRIP:
+      Front: 1.8500000238418579
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 40
+      Rear: 40
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.0999999046325684
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 225
+    STEERING: 0.97000002861022949
+    YAW_SPEED: 0.40000000596046448
+- ParentName: default
+  Name: eclipse
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.25
+      - 0.40000000596046448
+      - 0.5
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.4099999666213989
+      Rear: 1.4099999666213989
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 1.6299999952316284
+      Rear: 1.7000000476837158
+    SECTION_WIDTH:
+      Front: 235
+      Rear: 235
+    STEERING: 1
+    YAW_SPEED: 0.40000000596046448
+- ParentName: eclipse
+  Name: eclipse_top
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.34999999403953552
+      - 0.69999998807907104
+      - 1
+    GRIP_SCALE:
+      Front: 1.0700000524520874
+      Rear: 1.0700000524520874
+    DYNAMIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 1.7999999523162842
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 2
+      Rear: 2
+    SECTION_WIDTH:
+      Front: 235
+      Rear: 235
+    STEERING: 1.125
+    YAW_SPEED: 0.40000000596046448
+- ParentName: default
+  Name: phaeton
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 1
+      - 1.5
+      - 2
+      - 2.5
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 2.2000000476837158
+      Rear: 2.2000000476837158
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 2.4000000953674316
+      Rear: 2.4000000953674316
+    SECTION_WIDTH:
+      Front: 245
+      Rear: 245
+    STEERING: 1
+    YAW_SPEED: 0.5
+- ParentName: phaeton
+  Name: 0xEFA84154
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 1
+      - 1.5
+      - 2
+      - 2.5
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 2.4000000953674316
+      Rear: 2.4000000953674316
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 2.7999999523162842
+      Rear: 2.7999999523162842
+    SECTION_WIDTH:
+      Front: 245
+      Rear: 245
+    STEERING: 1
+    YAW_SPEED: 0.5
+- ParentName: default
+  Name: 0xB511B0AB
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.5
+      - 0.69999998807907104
+      - 0.10000000149011612
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.5
+      Rear: 1.5
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 1.7000000476837158
+      Rear: 1.7000000476837158
+    SECTION_WIDTH:
+      Front: 235
+      Rear: 235
+    STEERING: 1
+    YAW_SPEED: 0.34999999403953552
+- ParentName: 0xB511B0AB
+  Name: 0x5210CA4E
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.60000002384185791
+      - 0.80000001192092896
+      - 1.25
+    GRIP_SCALE:
+      Front: 1.0499999523162842
+      Rear: 1.1000000238418579
+    DYNAMIC_GRIP:
+      Front: 1.8500000238418579
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.0999999046325684
+    SECTION_WIDTH:
+      Front: 235
+      Rear: 235
+    STEERING: 1
+    YAW_SPEED: 0.34999999403953552
+- ParentName: default
+  Name: s7
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0
+      - 0.10000000149011612
+      - 0.20000000298023224
+      - 1
+    GRIP_SCALE:
+      Front: 1.0199999809265137
+      Rear: 1.0199999809265137
+    DYNAMIC_GRIP:
+      Front: 1.9500000476837158
+      Rear: 1.9500000476837158
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 20
+      Rear: 20
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.0999999046325684
+    SECTION_WIDTH:
+      Front: 335
+      Rear: 335
+    STEERING: 1.1000000238418579
+    YAW_SPEED: 0.40000000596046448
+- ParentName: s7
+  Name: 0x1440A63C
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0
+      - 0.60000002384185791
+      - 0.89999997615814209
+      - 1
+    GRIP_SCALE:
+      Front: 1.2000000476837158
+      Rear: 1.2000000476837158
+    DYNAMIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.0999999046325684
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 20
+      Rear: 20
+    STATIC_GRIP:
+      Front: 2.2000000476837158
+      Rear: 2.25
+    SECTION_WIDTH:
+      Front: 335
+      Rear: 335
+    STEERING: 0.97000002861022949
+    YAW_SPEED: 0.30000001192092896
+- ParentName: default
+  Name: rs40
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.25
+      - 0.34999999403953552
+      - 0.60000002384185791
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 1.9500000476837158
+      Rear: 2.0999999046325684
+    SECTION_WIDTH:
+      Front: 295
+      Rear: 295
+    STEERING: 1
+    YAW_SPEED: 0.69999998807907104
+- ParentName: rs40
+  Name: 0xB1386AE5
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.23999999463558197
+      - 0.68999999761581421
+      - 0.86000001430511475
+      - 1.2599999904632568
+    GRIP_SCALE:
+      Front: 1.2000000476837158
+      Rear: 1.2000000476837158
+    DYNAMIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.2000000476837158
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 2.2000000476837158
+      Rear: 2.2999999523162842
+    SECTION_WIDTH:
+      Front: 295
+      Rear: 295
+    STEERING: 0.9869999885559082
+    YAW_SPEED: 0.69999998807907104
+- ParentName: default
+  Name: camaron
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0
+      - 0
+      - 0
+      - 0
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.6499999761581421
+      Rear: 1.6699999570846558
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 22
+      Rear: 22
+    STATIC_GRIP:
+      Front: 1.8500000238418579
+      Rear: 1.8999999761581421
+    SECTION_WIDTH:
+      Front: 305
+      Rear: 305
+    STEERING: 0.89999997615814209
+    YAW_SPEED: 0.32499998807907104
+- ParentName: camaron
+  Name: camaron_top
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0
+      - 0
+      - 0
+      - 0
+    GRIP_SCALE:
+      Front: 1.1000000238418579
+      Rear: 1.1000000238418579
+    DYNAMIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 1.8200000524520874
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 22
+      Rear: 22
+    STATIC_GRIP:
+      Front: 2
+      Rear: 2.0499999523162842
+    SECTION_WIDTH:
+      Front: 305
+      Rear: 305
+    STEERING: 0.89999997615814209
+    YAW_SPEED: 0.32499998807907104
+- ParentName: default
+  Name: murcielago
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.5
+      - 0.80000001192092896
+      - 1.2000000476837158
+    GRIP_SCALE:
+      Front: 1.1000000238418579
+      Rear: 1.1000000238418579
+    DYNAMIC_GRIP:
+      Front: 1.8500000238418579
+      Rear: 1.8500000238418579
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.0999999046325684
+    SECTION_WIDTH:
+      Front: 335
+      Rear: 335
+    STEERING: 1.0499999523162842
+    YAW_SPEED: 0.34999999403953552
+- ParentName: murcielago
+  Name: murcielago_top
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.5
+      - 1
+      - 1.2000000476837158
+    GRIP_SCALE:
+      Front: 1.1000000238418579
+      Rear: 1.1200000047683716
+    DYNAMIC_GRIP:
+      Front: 2
+      Rear: 2
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 2.25
+      Rear: 2.25
+    SECTION_WIDTH:
+      Front: 335
+      Rear: 335
+    STEERING: 1
+    YAW_SPEED: 0.375
+- ParentName: default
+  Name: m5e39
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.55000001192092896
+      - 0.64999997615814209
+      - 0.85000002384185791
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.4500000476837158
+      Rear: 1.5
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 1.75
+      Rear: 1.75
+    SECTION_WIDTH:
+      Front: 255
+      Rear: 255
+    STEERING: 1.0499999523162842
+    YAW_SPEED: 0.40000000596046448
+- ParentName: m5e39
+  Name: 0x6C5DDEEA
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.44999998807907104
+      - 0.80000001192092896
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 1.7999999523162842
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 2
+      Rear: 2
+    SECTION_WIDTH:
+      Front: 255
+      Rear: 255
+    STEERING: 1.0750000476837158
+    YAW_SPEED: 0.40000000596046448
+- ParentName: default
+  Name: sentra
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.25
+      - 0.40000000596046448
+      - 0.5
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.5
+      Rear: 1.5
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 1.7000000476837158
+      Rear: 1.7000000476837158
+    SECTION_WIDTH:
+      Front: 215
+      Rear: 215
+    STEERING: 1.0499999523162842
+    YAW_SPEED: 0.40000000596046448
+- ParentName: sentra
+  Name: 0x629A1807
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.5
+      - 0.80000001192092896
+      - 1
+    GRIP_SCALE:
+      Front: 1.1000000238418579
+      Rear: 1.1000000238418579
+    DYNAMIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 1.7999999523162842
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 2
+      Rear: 2
+    SECTION_WIDTH:
+      Front: 235
+      Rear: 235
+    STEERING: 1
+    YAW_SPEED: 0.40000000596046448
+- ParentName: default
+  Name: 0xC7BD8D1D
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.5
+      - 0.80000001192092896
+      - 1.2000000476837158
+    GRIP_SCALE:
+      Front: 1.1000000238418579
+      Rear: 1.1000000238418579
+    DYNAMIC_GRIP:
+      Front: 1.8500000238418579
+      Rear: 1.8500000238418579
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.0999999046325684
+    SECTION_WIDTH:
+      Front: 335
+      Rear: 335
+    STEERING: 1.0499999523162842
+    YAW_SPEED: 0.34999999403953552
+- ParentName: 0xC7BD8D1D
+  Name: 0xBDE18FE7
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.5
+      - 1
+      - 1.2000000476837158
+    GRIP_SCALE:
+      Front: 1.1000000238418579
+      Rear: 1.1200000047683716
+    DYNAMIC_GRIP:
+      Front: 2
+      Rear: 2
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 2.25
+      Rear: 2.25
+    SECTION_WIDTH:
+      Front: 335
+      Rear: 335
+    STEERING: 1
+    YAW_SPEED: 0.375
+- ParentName: default
+  Name: miatamx5
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.20000000298023224
+      - 0.30000001192092896
+      - 0.40000000596046448
+    GRIP_SCALE:
+      Front: 1.0499999523162842
+      Rear: 1.0499999523162842
+    DYNAMIC_GRIP:
+      Front: 1.3999999761581421
+      Rear: 1.3999999761581421
+    ASPECT_RATIO:
+      Front: 60
+      Rear: 60
+    RIM_SIZE:
+      Front: 14
+      Rear: 14
+    STATIC_GRIP:
+      Front: 1.6000000238418579
+      Rear: 1.6000000238418579
+    SECTION_WIDTH:
+      Front: 185
+      Rear: 185
+    STEERING: 1.0499999523162842
+    YAW_SPEED: 1
+- ParentName: miatamx5
+  Name: 0x63689496
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.40000000596046448
+      - 0.55000001192092896
+      - 0.89999997615814209
+    GRIP_SCALE:
+      Front: 1.1000000238418579
+      Rear: 1.1000000238418579
+    DYNAMIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 1.7999999523162842
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 2
+      Rear: 2
+    SECTION_WIDTH:
+      Front: 235
+      Rear: 235
+    STEERING: 1
+    YAW_SPEED: 1
+- ParentName: default
+  Name: lancerevo8
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.075000002980232239
+      - 0.10000000149011612
+      - 0.20000000298023224
+      - 0.15000000596046448
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.3500000238418579
+      Rear: 1.3700000047683716
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 1.6000000238418579
+      Rear: 1.6200000047683716
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 235
+    STEERING: 1
+    YAW_SPEED: 0.69999998807907104
+- ParentName: lancerevo8
+  Name: lancerevo8_top
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.44999998807907104
+      - 0.64999997615814209
+      - 1
+    GRIP_SCALE:
+      Front: 1.0499999523162842
+      Rear: 1.0750000476837158
+    DYNAMIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 1.9500000476837158
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.2000000476837158
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 235
+    STEERING: 1
+    YAW_SPEED: 0.69999998807907104
+- ParentName: default
+  Name: senna
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0
+      - 0.5
+      - 0.85000002384185791
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 1.9500000476837158
+    ASPECT_RATIO:
+      Front: 35
+      Rear: 30
+    RIM_SIZE:
+      Front: 19
+      Rear: 20
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.1500000953674316
+    SECTION_WIDTH:
+      Front: 245
+      Rear: 315
+    STEERING: 1
+    YAW_SPEED: 0.34999999403953552
+- ParentName: senna
+  Name: 0xFF015798
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.69999998807907104
+      - 1
+      - 1.1000000238418579
+    GRIP_SCALE:
+      Front: 1.1000000238418579
+      Rear: 1.1499999761581421
+    DYNAMIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.0999999046325684
+    ASPECT_RATIO:
+      Front: 35
+      Rear: 30
+    RIM_SIZE:
+      Front: 19
+      Rear: 20
+    STATIC_GRIP:
+      Front: 2.3499999046325684
+      Rear: 2.3499999046325684
+    SECTION_WIDTH:
+      Front: 245
+      Rear: 315
+    STEERING: 1
+    YAW_SPEED: 0.37999999523162842
+- ParentName: default
+  Name: bmwm3gtr
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.40000000596046448
+      - 0.60000002384185791
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.7000000476837158
+      Rear: 1.7000000476837158
+    ASPECT_RATIO:
+      Front: 35
+      Rear: 35
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 2
+    SECTION_WIDTH:
+      Front: 255
+      Rear: 255
+    STEERING: 1
+    YAW_SPEED: 0.30000001192092896
+- ParentName: default
+  Name: vxr
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.5
+      - 0.69999998807907104
+      - 0.10000000149011612
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.5
+      Rear: 1.5
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 1.7000000476837158
+      Rear: 1.7000000476837158
+    SECTION_WIDTH:
+      Front: 235
+      Rear: 235
+    STEERING: 1
+    YAW_SPEED: 0.34999999403953552
+- ParentName: vxr
+  Name: 0x2981705F
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.60000002384185791
+      - 0.80000001192092896
+      - 1.25
+    GRIP_SCALE:
+      Front: 1.0499999523162842
+      Rear: 1.1000000238418579
+    DYNAMIC_GRIP:
+      Front: 1.8500000238418579
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.0999999046325684
+    SECTION_WIDTH:
+      Front: 235
+      Rear: 235
+    STEERING: 1
+    YAW_SPEED: 0.34999999403953552
+- ParentName: default
+  Name: 911turbo
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.25
+      - 0.34999999403953552
+      - 0.60000002384185791
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.7000000476837158
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 2.0999999046325684
+    SECTION_WIDTH:
+      Front: 295
+      Rear: 295
+    STEERING: 1
+    YAW_SPEED: 0.69999998807907104
+- ParentName: 911turbo
+  Name: 911turbo_top
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.20000000298023224
+      - 0.64999997615814209
+      - 0.80000001192092896
+      - 1.2000000476837158
+    GRIP_SCALE:
+      Front: 1.125
+      Rear: 1.2000000476837158
+    DYNAMIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 2.0999999046325684
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.2999999523162842
+    SECTION_WIDTH:
+      Front: 295
+      Rear: 295
+    STEERING: 1
+    YAW_SPEED: 0.69999998807907104
+- ParentName: default
+  Name: supra70
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.05000000074505806
+      - 0.34999999403953552
+      - 0.5
+      - 0.69999998807907104
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.5
+      Rear: 1.5
+    ASPECT_RATIO:
+      Front: 40
+      Rear: 40
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 1.7000000476837158
+      Rear: 1.7000000476837158
+    SECTION_WIDTH:
+      Front: 255
+      Rear: 255
+    STEERING: 1.0499999523162842
+    YAW_SPEED: 0.47999998927116394
+- ParentName: supra70
+  Name: 0x4EDBE6BF
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0
+      - 0.44999998807907104
+      - 0.85000002384185791
+      - 1
+    GRIP_SCALE:
+      Front: 1.1000000238418579
+      Rear: 1.1000000238418579
+    DYNAMIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 40
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.0999999046325684
+    SECTION_WIDTH:
+      Front: 255
+      Rear: 255
+    STEERING: 1
+    YAW_SPEED: 0.47999998927116394
+- ParentName: default
+  Name: semi
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 2
+    ASPECT_RATIO:
+      Front: 40
+      Rear: 40
+    RIM_SIZE:
+      Front: 24
+      Rear: 24
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.2000000476837158
+    SECTION_WIDTH:
+      Front: 380
+      Rear: 380
+    STEERING: 1.1000000238418579
+    YAW_SPEED: 1
+- ParentName: default
+  Name: a3
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.30000001192092896
+      - 0.44999998807907104
+      - 0.60000002384185791
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.3999999761581421
+      Rear: 1.5
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 1.6000000238418579
+      Rear: 1.7000000476837158
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 225
+    STEERING: 1.0750000476837158
+    YAW_SPEED: 0.60000002384185791
+- ParentName: a3
+  Name: a3_top
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.64999997615814209
+      - 0.85000002384185791
+      - 1.2000000476837158
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.75
+      Rear: 1.8500000238418579
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 2
+      Rear: 2.0499999523162842
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 225
+    STEERING: 1
+    YAW_SPEED: 0.61000001430511475
+- ParentName: default
+  Name: bmwm3csl
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.18999999761581421
+      - 0.60000002384185791
+      - 0.85000002384185791
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.7039999961853027
+      Rear: 1.7039999961853027
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 40
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 1.7999999523162842
+    SECTION_WIDTH:
+      Front: 230
+      Rear: 260
+    STEERING: 0.94999998807907104
+    YAW_SPEED: 0.74299997091293335
+- ParentName: bmwm3csl
+  Name: 0x551B0D26
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.18999999761581421
+      - 0.60000002384185791
+      - 0.85000002384185791
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 2.0260000228881836
+      Rear: 2.0260000228881836
+    ASPECT_RATIO:
+      Front: 33.5
+      Rear: 33.5
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 2.2000000476837158
+      Rear: 2.2999999523162842
+    SECTION_WIDTH:
+      Front: 290
+      Rear: 290
+    STEERING: 0.89999997615814209
+    YAW_SPEED: 0.74299997091293335
+- ParentName: default
+  Name: rx8
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.55000001192092896
+      - 0.69999998807907104
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.6000000238418579
+      Rear: 1.6000000238418579
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 1.7999999523162842
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 225
+    STEERING: 1.0750000476837158
+    YAW_SPEED: 0.72500002384185791
+- ParentName: rx8
+  Name: rx8_top
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.40000000596046448
+      - 1
+      - 1.2000000476837158
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 1.7999999523162842
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.1500000953674316
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 225
+    STEERING: 1.0499999523162842
+    YAW_SPEED: 0.72500002384185791
+- ParentName: default
+  Name: jesko
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.15000000596046448
+      - 0.69999998807907104
+      - 1.1000000238418579
+      - 1.6000000238418579
+    GRIP_SCALE:
+      Front: 1.2000000476837158
+      Rear: 1.25
+    DYNAMIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 2
+    ASPECT_RATIO:
+      Front: 35
+      Rear: 30
+    RIM_SIZE:
+      Front: 20
+      Rear: 21
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.1749999523162842
+    SECTION_WIDTH:
+      Front: 265
+      Rear: 325
+    STEERING: 1.1000000238418579
+    YAW_SPEED: 0.34999999403953552
+- ParentName: jesko
+  Name: 0x12C15C61
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.15000000596046448
+      - 0.69999998807907104
+      - 1.25
+      - 1.75
+    GRIP_SCALE:
+      Front: 1.25
+      Rear: 1.2999999523162842
+    DYNAMIC_GRIP:
+      Front: 2.4000000953674316
+      Rear: 2.5
+    ASPECT_RATIO:
+      Front: 35
+      Rear: 30
+    RIM_SIZE:
+      Front: 20
+      Rear: 21
+    STATIC_GRIP:
+      Front: 2.5999999046325684
+      Rear: 2.7000000476837158
+    SECTION_WIDTH:
+      Front: 265
+      Rear: 325
+    STEERING: 1.1000000238418579
+    YAW_SPEED: 0.34999999403953552
+- ParentName: default
+  Name: 0xD7B140CC
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0
+      - 0.10000000149011612
+      - 0.20000000298023224
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 20
+      Rear: 20
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.0999999046325684
+    SECTION_WIDTH:
+      Front: 335
+      Rear: 335
+    STEERING: 1.1200000047683716
+    YAW_SPEED: 0.40000000596046448
+- ParentName: 0xD7B140CC
+  Name: 0xB58932BA
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0
+      - 0.60000002384185791
+      - 0.89999997615814209
+      - 1
+    GRIP_SCALE:
+      Front: 1.1749999523162842
+      Rear: 1.2000000476837158
+    DYNAMIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.0999999046325684
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 20
+      Rear: 20
+    STATIC_GRIP:
+      Front: 2.2699999809265137
+      Rear: 2.25
+    SECTION_WIDTH:
+      Front: 335
+      Rear: 335
+    STEERING: 0.97500002384185791
+    YAW_SPEED: 0.30000001192092896
+- ParentName: default
+  Name: s28103
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.05000000074505806
+      - 0.070000000298023224
+      - 0.15000000596046448
+      - 0.20000000298023224
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.6000000238418579
+      Rear: 1.6499999761581421
+    ASPECT_RATIO:
+      Front: 55
+      Rear: 55
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 1.8400000333786011
+    SECTION_WIDTH:
+      Front: 235
+      Rear: 235
+    STEERING: 1
+    YAW_SPEED: 0.55000001192092896
+- ParentName: s28103
+  Name: 0xD651B679
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.20000000298023224
+      - 0.30000001192092896
+      - 1
+    GRIP_SCALE:
+      Front: 1.1399999856948853
+      Rear: 1.1399999856948853
+    DYNAMIC_GRIP:
+      Front: 1.8700000047683716
+      Rear: 1.8700000047683716
+    ASPECT_RATIO:
+      Front: 55
+      Rear: 55
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 1.940000057220459
+      Rear: 1.940000057220459
+    SECTION_WIDTH:
+      Front: 235
+      Rear: 235
+    STEERING: 1.0099999904632568
+    YAW_SPEED: 0.55000001192092896
+- ParentName: default
+  Name: cts
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10999999940395355
+      - 0.40999999642372131
+      - 0.50999999046325684
+      - 0.75999999046325684
+    GRIP_SCALE:
+      Front: 1.0099999904632568
+      Rear: 1.0099999904632568
+    DYNAMIC_GRIP:
+      Front: 1.7000000476837158
+      Rear: 1.7000000476837158
+    ASPECT_RATIO:
+      Front: 50
+      Rear: 50
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 1.8999999761581421
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 225
+    STEERING: 1
+    YAW_SPEED: 0.40000000596046448
+- ParentName: cts
+  Name: cs_cts_traffictruck
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0
+      - 0.30000001192092896
+      - 0.40000000596046448
+      - 0.60000002384185791
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.6000000238418579
+      Rear: 1.7999999523162842
+    ASPECT_RATIO:
+      Front: 55
+      Rear: 55
+    RIM_SIZE:
+      Front: 20
+      Rear: 20
+    STATIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 2
+    SECTION_WIDTH:
+      Front: 275
+      Rear: 275
+    STEERING: 1
+    YAW_SPEED: 0.30000001192092896
+- ParentName: cts
+  Name: cts_top
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.15000000596046448
+      - 0.44999998807907104
+      - 0.75
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 2
+      Rear: 2
+    ASPECT_RATIO:
+      Front: 50
+      Rear: 50
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 2.2999999523162842
+      Rear: 2.2999999523162842
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 225
+    STEERING: 0.97500002384185791
+    YAW_SPEED: 0.40000000596046448
+- ParentName: default
+  Name: tiburon
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.070000000298023224
+      - 0.27000001072883606
+      - 0.60000002384185791
+      - 0.47999998927116394
+    GRIP_SCALE:
+      Front: 1.0249999761581421
+      Rear: 1.0249999761581421
+    DYNAMIC_GRIP:
+      Front: 1.4500000476837158
+      Rear: 1.4500000476837158
+    ASPECT_RATIO:
+      Front: 40
+      Rear: 40
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 1.6299999952316284
+      Rear: 1.7000000476837158
+    SECTION_WIDTH:
+      Front: 239
+      Rear: 239
+    STEERING: 1.0750000476837158
+    YAW_SPEED: 0.44999998807907104
+- ParentName: tiburon
+  Name: 0xD7327B02
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.12999999523162842
+      - 0.34000000357627869
+      - 1
+      - 0.89999997615814209
+    GRIP_SCALE:
+      Front: 1.1699999570846558
+      Rear: 1.1699999570846558
+    DYNAMIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.0999999046325684
+    SECTION_WIDTH:
+      Front: 239
+      Rear: 239
+    STEERING: 1.2000000476837158
+    YAW_SPEED: 0.44999998807907104
+- ParentName: default
+  Name: slr
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.30000001192092896
+      - 0.5
+      - 1
+    GRIP_SCALE:
+      Front: 1.1499999761581421
+      Rear: 1.1399999856948853
+    DYNAMIC_GRIP:
+      Front: 1.8500000238418579
+      Rear: 1.8500000238418579
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.0999999046325684
+    SECTION_WIDTH:
+      Front: 295
+      Rear: 295
+    STEERING: 1.0399999618530273
+    YAW_SPEED: 0.44999998807907104
+- ParentName: slr
+  Name: slr_top
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.5
+      - 0.69999998807907104
+      - 1.2000000476837158
+    GRIP_SCALE:
+      Front: 1.2000000476837158
+      Rear: 1.2000000476837158
+    DYNAMIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 35
+      Rear: 35
+    RIM_SIZE:
+      Front: 19
+      Rear: 19
+    STATIC_GRIP:
+      Front: 2.2000000476837158
+      Rear: 2.2000000476837158
+    SECTION_WIDTH:
+      Front: 295
+      Rear: 295
+    STEERING: 1.1499999761581421
+    YAW_SPEED: 0.4699999988079071
+- ParentName: default
+  Name: 3000gt
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.23000000417232513
+      - 0.37999999523162842
+      - 0.49000000953674316
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.4199999570846558
+      Rear: 1.4199999570846558
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 1.6100000143051147
+      Rear: 1.6799999475479126
+    SECTION_WIDTH:
+      Front: 255
+      Rear: 255
+    STEERING: 0.72500002384185791
+    YAW_SPEED: 0.5
+- ParentName: 3000gt
+  Name: 0xCDF97732
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.12999999523162842
+      - 0.37999999523162842
+      - 0.73000001907348633
+      - 1.2999999523162842
+    GRIP_SCALE:
+      Front: 1.1100000143051147
+      Rear: 1.1100000143051147
+    DYNAMIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.2000000476837158
+    SECTION_WIDTH:
+      Front: 235
+      Rear: 235
+    STEERING: 1.1749999523162842
+    YAW_SPEED: 0.5
+- ParentName: default
+  Name: 0xE8155144
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.5
+      - 0.69999998807907104
+      - 0.10000000149011612
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.5
+      Rear: 1.5
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 1.7000000476837158
+      Rear: 1.7000000476837158
+    SECTION_WIDTH:
+      Front: 235
+      Rear: 235
+    STEERING: 1
+    YAW_SPEED: 0.34999999403953552
+- ParentName: 0xE8155144
+  Name: 0x09D10C7C
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.60000002384185791
+      - 0.80000001192092896
+      - 1.25
+    GRIP_SCALE:
+      Front: 1.0499999523162842
+      Rear: 1.1000000238418579
+    DYNAMIC_GRIP:
+      Front: 1.8500000238418579
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.0999999046325684
+    SECTION_WIDTH:
+      Front: 235
+      Rear: 235
+    STEERING: 1
+    YAW_SPEED: 0.34999999403953552
+- ParentName: default
+  Name: clio
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.20000000298023224
+      - 0.5
+      - 0.60000002384185791
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.3999999761581421
+      Rear: 1.5
+    ASPECT_RATIO:
+      Front: 40
+      Rear: 40
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 1.6000000238418579
+      Rear: 1.7000000476837158
+    SECTION_WIDTH:
+      Front: 245
+      Rear: 245
+    STEERING: 1
+    YAW_SPEED: 0.30000001192092896
+- ParentName: clio
+  Name: clio_top
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.60000002384185791
+      - 1
+      - 1.25
+    GRIP_SCALE:
+      Front: 1.0700000524520874
+      Rear: 1.0850000381469727
+    DYNAMIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 40
+      Rear: 40
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 2.0499999523162842
+      Rear: 2.1500000953674316
+    SECTION_WIDTH:
+      Front: 245
+      Rear: 245
+    STEERING: 1.0499999523162842
+    YAW_SPEED: 0.40000000596046448
+- ParentName: default
+  Name: crx91
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.15000000596046448
+      - 0.44999998807907104
+      - 0.55000001192092896
+      - 0.69999998807907104
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.5
+      Rear: 1.6499999761581421
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 1.8500000238418579
+    SECTION_WIDTH:
+      Front: 245
+      Rear: 245
+    STEERING: 1.0757999420166016
+    YAW_SPEED: 0.69999998807907104
+- ParentName: crx91
+  Name: 0x898C9100
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.60000002384185791
+      - 1
+      - 1.2000000476837158
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1.0499999523162842
+    DYNAMIC_GRIP:
+      Front: 1.9249999523162842
+      Rear: 2
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.2000000476837158
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 245
+    STEERING: 1
+    YAW_SPEED: 0.5
+- ParentName: default
+  Name: is350
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.05000000074505806
+      - 0.34999999403953552
+      - 0.5
+      - 0.69999998807907104
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.5
+      Rear: 1.5
+    ASPECT_RATIO:
+      Front: 40
+      Rear: 40
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 1.7000000476837158
+      Rear: 1.7000000476837158
+    SECTION_WIDTH:
+      Front: 255
+      Rear: 255
+    STEERING: 1.0499999523162842
+    YAW_SPEED: 0.47999998927116394
+- ParentName: is350
+  Name: 0x94740429
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0
+      - 0.44999998807907104
+      - 0.85000002384185791
+      - 1
+    GRIP_SCALE:
+      Front: 1.1000000238418579
+      Rear: 1.1000000238418579
+    DYNAMIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 40
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.0999999046325684
+    SECTION_WIDTH:
+      Front: 255
+      Rear: 255
+    STEERING: 1
+    YAW_SPEED: 0.47999998927116394
+- ParentName: default
+  Name: skylinelm
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.55000001192092896
+      - 0.69999998807907104
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.6000000238418579
+      Rear: 1.6000000238418579
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 1.7999999523162842
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 225
+    STEERING: 1.0750000476837158
+    YAW_SPEED: 0.72500002384185791
+- ParentName: skylinelm
+  Name: 0x52FC2B94
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.40000000596046448
+      - 1
+      - 1.2000000476837158
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 1.7999999523162842
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.1500000953674316
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 225
+    STEERING: 1.0499999523162842
+    YAW_SPEED: 0.72500002384185791
+- ParentName: default
+  Name: gt3rs
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.25
+      - 0.34999999403953552
+      - 0.60000002384185791
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.7000000476837158
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 2.0999999046325684
+    SECTION_WIDTH:
+      Front: 295
+      Rear: 295
+    STEERING: 1
+    YAW_SPEED: 0.69999998807907104
+- ParentName: gt3rs
+  Name: 0xEC43A26C
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.20000000298023224
+      - 0.64999997615814209
+      - 0.80000001192092896
+      - 1.2000000476837158
+    GRIP_SCALE:
+      Front: 1.125
+      Rear: 1.2000000476837158
+    DYNAMIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 2.0999999046325684
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.2999999523162842
+    SECTION_WIDTH:
+      Front: 295
+      Rear: 295
+    STEERING: 1
+    YAW_SPEED: 0.69999998807907104
+- ParentName: default
+  Name: 0xF4979035
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.5
+      - 0.69999998807907104
+      - 0.10000000149011612
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.5
+      Rear: 1.5
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 1.7000000476837158
+      Rear: 1.7000000476837158
+    SECTION_WIDTH:
+      Front: 235
+      Rear: 235
+    STEERING: 1
+    YAW_SPEED: 0.34999999403953552
+- ParentName: 0xF4979035
+  Name: 0x5BC65689
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.60000002384185791
+      - 0.80000001192092896
+      - 1.25
+    GRIP_SCALE:
+      Front: 1.0499999523162842
+      Rear: 1.1000000238418579
+    DYNAMIC_GRIP:
+      Front: 1.8500000238418579
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.0999999046325684
+    SECTION_WIDTH:
+      Front: 235
+      Rear: 235
+    STEERING: 1
+    YAW_SPEED: 0.34999999403953552
+- ParentName: default
+  Name: civichb
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.05000000074505806
+      - 0.10000000149011612
+      - 0.20000000298023224
+      - 0.30000001192092896
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.2999999523162842
+      Rear: 1.2999999523162842
+    ASPECT_RATIO:
+      Front: 55
+      Rear: 55
+    RIM_SIZE:
+      Front: 15
+      Rear: 15
+    STATIC_GRIP:
+      Front: 1.5499999523162842
+      Rear: 1.6000000238418579
+    SECTION_WIDTH:
+      Front: 185
+      Rear: 185
+    STEERING: 0.97000002861022949
+    YAW_SPEED: 0.34000000357627869
+- ParentName: civichb
+  Name: 0xD1D2908A
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.60000002384185791
+      - 0.80000001192092896
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.8500000238418579
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 55
+      Rear: 55
+    RIM_SIZE:
+      Front: 15
+      Rear: 15
+    STATIC_GRIP:
+      Front: 2
+      Rear: 2.1500000953674316
+    SECTION_WIDTH:
+      Front: 185
+      Rear: 185
+    STEERING: 1
+    YAW_SPEED: 0.33000001311302185
+- ParentName: default
+  Name: delta
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.30000001192092896
+      - 0.44999998807907104
+      - 0.60000002384185791
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.3999999761581421
+      Rear: 1.5
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 1.6000000238418579
+      Rear: 1.7000000476837158
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 225
+    STEERING: 1.0750000476837158
+    YAW_SPEED: 0.60000002384185791
+- ParentName: delta
+  Name: 0x239513FF
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.64999997615814209
+      - 0.85000002384185791
+      - 1.2000000476837158
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.75
+      Rear: 1.8500000238418579
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 2
+      Rear: 2.0499999523162842
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 225
+    STEERING: 1
+    YAW_SPEED: 0.61000001430511475
+- ParentName: default
+  Name: s2000
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.30000001192092896
+    GRIP_SCALE:
+      Front: 1.0499999523162842
+      Rear: 1.0499999523162842
+    DYNAMIC_GRIP:
+      Front: 1.5
+      Rear: 1.6000000238418579
+    ASPECT_RATIO:
+      Front: 50
+      Rear: 50
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 1.7000000476837158
+      Rear: 1.7999999523162842
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 225
+    STEERING: 1.0499999523162842
+    YAW_SPEED: 0.40999999642372131
+- ParentName: s2000
+  Name: 0xD664C8F5
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.7000000476837158
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 50
+      Rear: 50
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 2.2000000476837158
+    SECTION_WIDTH:
+      Front: 225
+      Rear: 225
+    STEERING: 1.1000000238418579
+    YAW_SPEED: 0.44999998807907104
+- ParentName: default
+  Name: 0xFA58F4D9
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.5
+      - 0.80000001192092896
+      - 1.2000000476837158
+    GRIP_SCALE:
+      Front: 1.1499999761581421
+      Rear: 1.1499999761581421
+    DYNAMIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 2.1500000953674316
+      Rear: 2.1500000953674316
+    SECTION_WIDTH:
+      Front: 335
+      Rear: 335
+    STEERING: 1
+    YAW_SPEED: 0.34999999403953552
+- ParentName: 0xFA58F4D9
+  Name: 0x0491E10A
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.5
+      - 1
+      - 1.2000000476837158
+    GRIP_SCALE:
+      Front: 1.1399999856948853
+      Rear: 1.1299999952316284
+    DYNAMIC_GRIP:
+      Front: 2.0999999046325684
+      Rear: 2.0999999046325684
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 18
+      Rear: 18
+    STATIC_GRIP:
+      Front: 2.3499999046325684
+      Rear: 2.3499999046325684
+    SECTION_WIDTH:
+      Front: 335
+      Rear: 335
+    STEERING: 0.99000000953674316
+    YAW_SPEED: 0.375
+- ParentName: default
+  Name: f40
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0
+      - 0.10000000149011612
+      - 0.30000001192092896
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.7000000476837158
+      Rear: 1.7999999523162842
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 1.8999999761581421
+      Rear: 2
+    SECTION_WIDTH:
+      Front: 245
+      Rear: 245
+    STEERING: 1
+    YAW_SPEED: 0.40000000596046448
+- ParentName: f40
+  Name: 0x243B31B9
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.5
+      - 0.85000002384185791
+      - 1.1000000238418579
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 2.0499999523162842
+      Rear: 2.0999999046325684
+    ASPECT_RATIO:
+      Front: 45
+      Rear: 45
+    RIM_SIZE:
+      Front: 17
+      Rear: 17
+    STATIC_GRIP:
+      Front: 2.25
+      Rear: 2.2999999523162842
+    SECTION_WIDTH:
+      Front: 285
+      Rear: 285
+    STEERING: 0.89999997615814209
+    YAW_SPEED: 0.40999999642372131
+- ParentName: default
+  Name: 0xFCDE8A4D
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.02500000037252903
+      - 0.10000000149011612
+      - 0.20000000298023224
+      - 0.30000001192092896
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.2999999523162842
+      Rear: 1.2999999523162842
+    ASPECT_RATIO:
+      Front: 55
+      Rear: 55
+    RIM_SIZE:
+      Front: 15
+      Rear: 15
+    STATIC_GRIP:
+      Front: 1.5
+      Rear: 1.6000000238418579
+    SECTION_WIDTH:
+      Front: 185
+      Rear: 185
+    STEERING: 1
+    YAW_SPEED: 0.30000001192092896
+- ParentName: 0xFCDE8A4D
+  Name: 0xA69BE971
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0.10000000149011612
+      - 0.60000002384185791
+      - 0.80000001192092896
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 1.7999999523162842
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 55
+      Rear: 55
+    RIM_SIZE:
+      Front: 15
+      Rear: 15
+    STATIC_GRIP:
+      Front: 2
+      Rear: 2.0999999046325684
+    SECTION_WIDTH:
+      Front: 185
+      Rear: 185
+    STEERING: 1
+    YAW_SPEED: 0.30000001192092896
+- ParentName: default
+  Name: r8lms
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0
+      - 0.10000000149011612
+      - 0.20000000298023224
+      - 1
+    GRIP_SCALE:
+      Front: 1
+      Rear: 1
+    DYNAMIC_GRIP:
+      Front: 2
+      Rear: 1.8999999761581421
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 20
+      Rear: 20
+    STATIC_GRIP:
+      Front: 2.2000000476837158
+      Rear: 2.0999999046325684
+    SECTION_WIDTH:
+      Front: 335
+      Rear: 335
+    STEERING: 1.1200000047683716
+    YAW_SPEED: 0.40000000596046448
+- ParentName: r8lms
+  Name: 0x0C3A2590
+  Data:
+    YAW_CONTROL:
+      Capacity: 4
+      Data:
+      - 0
+      - 0.60000002384185791
+      - 0.89999997615814209
+      - 1
+    GRIP_SCALE:
+      Front: 1.1749999523162842
+      Rear: 1.2000000476837158
+    DYNAMIC_GRIP:
+      Front: 2.2000000476837158
+      Rear: 2.0999999046325684
+    ASPECT_RATIO:
+      Front: 30
+      Rear: 30
+    RIM_SIZE:
+      Front: 20
+      Rear: 20
+    STATIC_GRIP:
+      Front: 2.2999999523162842
+      Rear: 2.25
+    SECTION_WIDTH:
+      Front: 335
+      Rear: 335
+    STEERING: 0.97500002384185791
+    YAW_SPEED: 0.30000001192092896

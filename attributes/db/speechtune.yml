@@ -1,0 +1,54 @@
+- ParentName: 
+  Name: default
+  Data:
+    PlayerSmashSpeedRange:
+      Capacity: 2
+      Data:
+      - 10
+      - 30
+    PursuitInactivityTimer:
+      Capacity: 3
+      Data:
+      - 2
+      - 150
+    SpeechDropoffRamp:
+      X: 30
+      Y: 500
+    OutcomeFailSpeed: 20
+    MinIntensitySideswipe: 0.5
+    SpeedDiffForBlowby: 60
+    BlowbyInterval: 10
+    HangTimeForCommentary: 0.89999997615814209
+    BURemindTime: 20
+    AIRacerProximity: 145
+    MinIntensityCopSmash: 0.85000002384185791
+    MaxRangeFor180: 50
+    MaxRangeForPrimaryBranch: 20
+    MinIntensityTrafficSmash: 0.5
+    MinPursuitDurationForBailouts: 60
+    FlipTimeForCommentary: 1
+    PriorityWeight: 0.15000000596046448
+    OutcomeTrackTime: 3
+    RangeForSpotterBranch: 100
+    RBOutcomeTimer: 1.5
+    SpeedThreshFlyFlipIntensity: 100
+    PursuitInitDelay: 2
+    TimeWaitForSpotterReply: 6
+    TimeConsideredLostNoLOS: 3
+    RBPostOutcomeResetTime: 2
+    MinHeightAirborne: 0.5
+    MinHavocForSuspectBehavior: 200
+    MinSpeedConsideredStopped: 5
+    MinTimeConsideredStopped: 2
+    PursuitDurationHighIntensity: 150
+    CrashSlowdownPct: 0.6600000262260437
+    MinHealthForCommentary: 0.33000001311302185
+    CollisionMinClosingVelSq: 5
+    MaxTimeFor180: 5
+    SuspectOutrunRange: 120
+    NoLOSCommentaryTime: 2
+    HighIntensityMark: 2
+    MinContigFramesFor180: 12
+    CacheDisplayCoords:
+      X: 150
+      Y: -155

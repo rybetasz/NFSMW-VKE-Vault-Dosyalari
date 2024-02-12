@@ -1,0 +1,2202 @@
+- ParentName: 
+  Name: default
+  Data:
+    Emitters:
+      Capacity: 6
+      Data: []
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: default
+    FarClip: 200
+- ParentName: default
+  Name: terraindriving
+  Data:
+    Emitters:
+      Capacity: 6
+      Data: []
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: terraindriving
+    FarClip: 200
+- ParentName: terraindriving
+  Name: fxtd_dr_cobble
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emtd_dr_cobblefastsmk1
+      - ClassKey: emitterdata
+        CollectionKey: emtd_dr_cobblefastdebris1
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxtd_dr_cobble
+    FarClip: 200
+- ParentName: terraindriving
+  Name: fxtd_sk_cobble
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emtd_sk_cobblefastsmk1
+      - ClassKey: emitterdata
+        CollectionKey: emtd_sk_cobblefastdebris1
+      - ClassKey: emitterdata
+        CollectionKey: emtd_sk_asphaltfastsmk1
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxtd_sk_cobble
+    FarClip: 200
+- ParentName: terraindriving
+  Name: fxtd_dr_sand
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emtd_dr_sandfastsmk1
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxtd_dr_sand
+    FarClip: 200
+- ParentName: fxtd_dr_sand
+  Name: fxtd_hit_sand
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emtd_hit_sandfastdebris1
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxtd_hit_sand
+    FarClip: 200
+- ParentName: terraindriving
+  Name: fxtd_dr_grass
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emtd_dr_grass_debris
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxtd_dr_grass
+    FarClip: 200
+- ParentName: fxtd_dr_grass
+  Name: fxtd_sl_grass
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emtd_dr_grass_smk01
+      - ClassKey: emitterdata
+        CollectionKey: emtd_sl_grass_debris
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxtd_sl_grass
+    FarClip: 200
+- ParentName: fxtd_dr_grass
+  Name: fxtd_hit_grass
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emtd_hit_grass_debris
+      - ClassKey: emitterdata
+        CollectionKey: emmis_grasspuff1
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxtd_hit_grass
+    FarClip: 200
+- ParentName: terraindriving
+  Name: fxtd_dr_asphalt_leaves
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emtd_dr_leaves
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxtd_dr_asphalt_leaves
+    FarClip: 100
+- ParentName: fxtd_dr_asphalt_leaves
+  Name: fxtd_dr_asphalt_noleaves
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: ''
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxtd_dr_asphalt_noleaves
+    FarClip: 100
+- ParentName: terraindriving
+  Name: fxtd_dr_asphalt_wet
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emtd_dr_watermist
+      - ClassKey: emitterdata
+        CollectionKey: emtd_dr_watersplash
+      - ClassKey: emitterdata
+        CollectionKey: emtd_dr_watersparkle
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxtd_dr_asphalt_wet
+    FarClip: 200
+- ParentName: fxtd_dr_asphalt_wet
+  Name: fxtd_dr_cobble_wet
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emtd_dr_watermist
+      - ClassKey: emitterdata
+        CollectionKey: emtd_dr_watersparkle
+      - ClassKey: emitterdata
+        CollectionKey: emtd_dr_watersplash
+      - ClassKey: emitterdata
+        CollectionKey: emtd_sk_cobblefastdebris1
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxtd_dr_cobble_wet
+    FarClip: 200
+- ParentName: fxtd_dr_asphalt_wet
+  Name: fxtd_dr_grass_wet
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emtd_dr_watermist
+      - ClassKey: emitterdata
+        CollectionKey: emtd_dr_watersparkle
+      - ClassKey: emitterdata
+        CollectionKey: emtd_dr_grass_debris
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxtd_dr_grass_wet
+    FarClip: 200
+- ParentName: fxtd_dr_asphalt_wet
+  Name: fxtd_dr_sand_wet
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emtd_hit_sandfastdebris1
+      - ClassKey: emitterdata
+        CollectionKey: emtd_dr_watersparkle
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxtd_dr_sand_wet
+    FarClip: 200
+- ParentName: terraindriving
+  Name: fxtd_dr_dirt
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emtd_dr_dirt_smk01
+      - ClassKey: emitterdata
+        CollectionKey: emtd_dr_dirt_debris
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxtd_dr_dirt
+    FarClip: 200
+- ParentName: terraindriving
+  Name: fxtd_sk_sand
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emtd_dr_sandfastsmk1
+      - ClassKey: emitterdata
+        CollectionKey: emtd_sk_sandfastdebris1
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxtd_sk_sand
+    FarClip: 200
+- ParentName: terraindriving
+  Name: fxtd_sk_asphalt
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emtd_sk_asphaltfastsmk1
+      - ClassKey: emitterdata
+        CollectionKey: emtd_sk_asphaltfastsmk2
+      - ClassKey: emitterdata
+        CollectionKey: emtd_dr_leaves
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0.125
+    CollectionName: fxtd_sk_asphalt
+    FarClip: 200
+- ParentName: fxtd_sk_asphalt
+  Name: fxtd_sl_asphalt
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emtd_sl_asphaltfastsmk1
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0.0099999997764825821
+        Y: 1
+    CollectionName: fxtd_sl_asphalt
+    FarClip: 200
+- ParentName: fxtd_sk_asphalt
+  Name: fxtd_sk_asphalt_no_leaves
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emtd_sk_asphaltfastsmk1
+      - ClassKey: emitterdata
+        CollectionKey: emtd_sk_asphaltfastsmk2
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0.125
+    CollectionName: fxtd_sk_asphalt_no_leaves
+    FarClip: 200
+- ParentName: terraindriving
+  Name: fxtd_fly_asphalt
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emcar_helidust2
+      - ClassKey: emitterdata
+        CollectionKey: emcar_helileaves2
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxtd_fly_asphalt
+    FarClip: 250
+- ParentName: fxtd_fly_asphalt
+  Name: fxtd_fly_dirt
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emcar_helidust1
+      - ClassKey: emitterdata
+        CollectionKey: emcar_heligrass1
+      - ClassKey: emitterdata
+        CollectionKey: emcar_helileaves1
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxtd_fly_dirt
+    FarClip: 250
+- ParentName: default
+  Name: environmental
+  Data:
+    Emitters:
+      Capacity: 6
+      Data: []
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: environmental
+    FarClip: 200
+- ParentName: environmental
+  Name: fxenv_dustmotes1
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emenv_dustmotes1
+      - ClassKey: emitterdata
+        CollectionKey: emenv_dustmotes2
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxenv_dustmotes1
+    FarClip: 200
+- ParentName: environmental
+  Name: fxenv_smokestack
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emsmk_env_white
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxenv_smokestack
+    FarClip: 1000
+- ParentName: fxenv_smokestack
+  Name: fxenv_smokestack_blk
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emsmk_env_black
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxenv_smokestack_blk
+    FarClip: 1000
+- ParentName: fxenv_smokestack
+  Name: fxenv_chimney1
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emsmk_env_chimney1
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxenv_chimney1
+    FarClip: 150
+- ParentName: fxenv_smokestack
+  Name: fxenv_smokestack_brn
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emsmk_env_brown
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxenv_smokestack_brn
+    FarClip: 1000
+- ParentName: fxenv_smokestack
+  Name: fxenv_smokestack_long
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emsmk_env_long
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxenv_smokestack_long
+    FarClip: 1000
+- ParentName: environmental
+  Name: fxenv_ripple1
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emenv_ripple1
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxenv_ripple1
+    FarClip: 250
+- ParentName: fxenv_ripple1
+  Name: fxenv_ripple2
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emenv_ripple2
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxenv_ripple2
+    FarClip: 250
+- ParentName: environmental
+  Name: fxenv_small_steam2
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emmis_small_steam2
+      - ClassKey: emitterdata
+        CollectionKey: emmis_small_steam2b
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxenv_small_steam2
+    FarClip: 200
+- ParentName: environmental
+  Name: fxenv_leaffall_hvy
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emenv_leaves3
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxenv_leaffall_hvy
+    FarClip: 500
+- ParentName: environmental
+  Name: fxenv_fog1
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emenv_fog1
+      - ClassKey: emitterdata
+        CollectionKey: emenv_fog3
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxenv_fog1
+    FarClip: 175
+- ParentName: fxenv_fog1
+  Name: fxenv_fog1thick
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emenv_fog_far1
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxenv_fog1thick
+    FarClip: 200
+- ParentName: fxenv_fog1
+  Name: fxenv_fog_fe2
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emenv_fog_fe2
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxenv_fog_fe2
+    FarClip: 175
+- ParentName: fxenv_fog1
+  Name: fxenv_fog_fe1
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emenv_fog_fe1
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxenv_fog_fe1
+    FarClip: 175
+- ParentName: fxenv_fog1
+  Name: fxenv_fog2
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emenv_fog2
+      - ClassKey: emitterdata
+        CollectionKey: emenv_fog4
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxenv_fog2
+    FarClip: 175
+- ParentName: environmental
+  Name: fxenv_bird
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emenv_bird01
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxenv_bird
+    FarClip: 300
+- ParentName: fxenv_bird
+  Name: fxenv_birdblack01
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emenv_birdblack01
+      - ClassKey: emitterdata
+        CollectionKey: emenv_leaves2
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxenv_birdblack01
+    FarClip: 300
+- ParentName: fxenv_birdblack01
+  Name: fxenv_blackbird02
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emenv_blackbird02
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxenv_blackbird02
+    FarClip: 300
+- ParentName: environmental
+  Name: fxenv_small_steam1
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emmis_small_steam1
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxenv_small_steam1
+    FarClip: 200
+- ParentName: environmental
+  Name: fxenv_fountain1
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emwtr_splashmist1
+      - ClassKey: emitterdata
+        CollectionKey: emwtr_splashsparkle1
+      - ClassKey: emitterdata
+        CollectionKey: emwtr_fountainmist2
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxenv_fountain1
+    FarClip: 75
+- ParentName: fxenv_fountain1
+  Name: fxenv_fountain2
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emwtr_splashmist2
+      - ClassKey: emitterdata
+        CollectionKey: emwtr_splashsparkle2
+      - ClassKey: emitterdata
+        CollectionKey: emwtr_fountainmist3
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxenv_fountain2
+    FarClip: 150
+- ParentName: fxenv_fountain2
+  Name: fxenv_fountain3
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emwtr_splashmist3
+      - ClassKey: emitterdata
+        CollectionKey: emwtr_splashsparkle2
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxenv_fountain3
+    FarClip: 150
+- ParentName: environmental
+  Name: fxenv_leaves1
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emenv_leaves1
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxenv_leaves1
+    FarClip: 150
+- ParentName: environmental
+  Name: fxenv_small_steam3
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emmis_small_steam3
+      - ClassKey: emitterdata
+        CollectionKey: emmis_small_steam3b
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxenv_small_steam3
+    FarClip: 200
+- ParentName: default
+  Name: gameplay
+  Data:
+    Emitters:
+      Capacity: 6
+      Data: []
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: gameplay
+    FarClip: 200
+- ParentName: gameplay
+  Name: fxgame_flare_red
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: fxgame_flare_core_red
+      - ClassKey: emitterdata
+        CollectionKey: fxgame_flare_glow_red
+      - ClassKey: emitterdata
+        CollectionKey: fxgame_flare_smoke
+      - ClassKey: emitterdata
+        CollectionKey: fxgame_flare_sparks
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxgame_flare_red
+    FarClip: 200
+- ParentName: fxgame_flare_red
+  Name: fxgame_flare_green
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: fxgame_flare_core_green
+      - ClassKey: emitterdata
+        CollectionKey: fxgame_flare_glow_green
+      - ClassKey: emitterdata
+        CollectionKey: fxgame_flare_sparks
+      - ClassKey: emitterdata
+        CollectionKey: fxgame_flare_smoke_grn
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxgame_flare_green
+    FarClip: 200
+- ParentName: gameplay
+  Name: fxgame_icongrp_drag
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: fxgame_icon_drag
+      - ClassKey: emitterdata
+        CollectionKey: fxgame_chk_fire_red
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxgame_icongrp_drag
+    FarClip: 1000
+- ParentName: fxgame_icongrp_drag
+  Name: fxgame_icongrp_cashgrab
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: fxgame_icon_cashgrab
+      - ClassKey: emitterdata
+        CollectionKey: fxgame_iconbg_cashgrab
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxgame_icongrp_cashgrab
+    FarClip: 1000
+- ParentName: fxgame_icongrp_drag
+  Name: fxgame_icongrp_circuit
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: fxgame_icon_circuit
+      - ClassKey: emitterdata
+        CollectionKey: fxgame_iconbg_circuit
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxgame_icongrp_circuit
+    FarClip: 1000
+- ParentName: fxgame_icongrp_drag
+  Name: fxgame_icongrp_cashgrn
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: fxgame_icon_cashgrn
+      - ClassKey: emitterdata
+        CollectionKey: fxgame_chk_fire_grn
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxgame_icongrp_cashgrn
+    FarClip: 400
+- ParentName: fxgame_icongrp_drag
+  Name: fxgame_icongrp_tollb
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: fxgame_icon_tollb
+      - ClassKey: emitterdata
+        CollectionKey: fxgame_iconbg_tollbooth
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxgame_icongrp_tollb
+    FarClip: 1000
+- ParentName: fxgame_icongrp_drag
+  Name: fxgame_icongrp_speedt
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: fxgame_icon_speedt
+      - ClassKey: emitterdata
+        CollectionKey: fxgame_iconbg_speed
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxgame_icongrp_speedt
+    FarClip: 1000
+- ParentName: fxgame_icongrp_drag
+  Name: fxgame_icongrp_chop
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: fxgame_icon_chop
+      - ClassKey: emitterdata
+        CollectionKey: fxgame_iconbg_chopshop
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxgame_icongrp_chop
+    FarClip: 1000
+- ParentName: fxgame_icongrp_drag
+  Name: fxgame_icongrp_safe
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: fxgame_icon_safe
+      - ClassKey: emitterdata
+        CollectionKey: fxgame_iconbg_safehouse
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxgame_icongrp_safe
+    FarClip: 1000
+- ParentName: fxgame_icongrp_drag
+  Name: fxgame_icongrp_pursuit
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: fxgame_icon_pursuit
+      - ClassKey: emitterdata
+        CollectionKey: fxgame_iconbg_pursuit
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxgame_icongrp_pursuit
+    FarClip: 1000
+- ParentName: fxgame_icongrp_drag
+  Name: fxgame_icongrp_rivalr
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: fxgame_icon_rivalr
+      - ClassKey: emitterdata
+        CollectionKey: fxgame_iconbg_rival
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxgame_icongrp_rivalr
+    FarClip: 1000
+- ParentName: fxgame_icongrp_drag
+  Name: fxgame_icongrp_cashred
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: fxgame_icon_cashred
+      - ClassKey: emitterdata
+        CollectionKey: fxgame_chk_fire_red
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxgame_icongrp_cashred
+    FarClip: 400
+- ParentName: fxgame_icongrp_drag
+  Name: fxgame_icongrp_lapk
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: fxgame_icon_lapk
+      - ClassKey: emitterdata
+        CollectionKey: fxgame_iconbg_knockout
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxgame_icongrp_lapk
+    FarClip: 1000
+- ParentName: fxgame_icongrp_drag
+  Name: fxgame_icongrp_lot
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: fxgame_icon_lot
+      - ClassKey: emitterdata
+        CollectionKey: fxgame_iconbg_carlot
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxgame_icongrp_lot
+    FarClip: 1000
+- ParentName: fxgame_icongrp_drag
+  Name: fxgame_icongrp_cashylw
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: fxgame_icon_cashylw
+      - ClassKey: emitterdata
+        CollectionKey: fxgame_chk_fire_ylw
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxgame_icongrp_cashylw
+    FarClip: 400
+- ParentName: fxgame_icongrp_drag
+  Name: fxgame_icongrp_sprint
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: fxgame_icon_sprint
+      - ClassKey: emitterdata
+        CollectionKey: fxgame_iconbg_sprint
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxgame_icongrp_sprint
+    FarClip: 1000
+- ParentName: fxgame_icongrp_drag
+  Name: fxgame_icongrp_hidecar
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: fxgame_icon_hidecar
+      - ClassKey: emitterdata
+        CollectionKey: fxgame_iconbg_hidespot
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxgame_icongrp_hidecar
+    FarClip: 1000
+- ParentName: default
+  Name: xeci_car
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emcs_sc_spark01
+      - ClassKey: emitterdata
+        CollectionKey: emcs_sc_spark02
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: xeci_car
+    FarClip: 200
+- ParentName: default
+  Name: destruction
+  Data:
+    Emitters:
+      Capacity: 6
+      Data: []
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: destruction
+    FarClip: 200
+- ParentName: destruction
+  Name: smoke
+  Data:
+    Emitters:
+      Capacity: 6
+      Data: []
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: smoke
+    FarClip: 200
+- ParentName: smoke
+  Name: fxsmk_md_trail
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emsmk_md_smk1
+      - ClassKey: emitterdata
+        CollectionKey: EmCS_Sc_WoodSplinter
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxsmk_md_trail
+    FarClip: 200
+- ParentName: fxsmk_md_trail
+  Name: fxsmk_md_trail02
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emfire_smoke
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxsmk_md_trail02
+    FarClip: 200
+- ParentName: destruction
+  Name: sparks
+  Data:
+    Emitters:
+      Capacity: 6
+      Data: []
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: sparks
+    FarClip: 200
+- ParentName: sparks
+  Name: fxsprk_md_dir
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emsprk_mddir_core
+      - ClassKey: emitterdata
+        CollectionKey: emsprk_mddir_sprk1
+      - ClassKey: emitterdata
+        CollectionKey: emsprk_mddir_sprk2
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxsprk_md_dir
+    FarClip: 200
+- ParentName: sparks
+  Name: fxsprk_lg_dir
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emsprk_lgdir_core
+      - ClassKey: emitterdata
+        CollectionKey: emsprk_lgdir_sprk1
+      - ClassKey: emitterdata
+        CollectionKey: emsprk_lgdir_sprk2
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxsprk_lg_dir
+    FarClip: 200
+- ParentName: sparks
+  Name: fxsprk_md_trail
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emsprk_mdtrail_core
+      - ClassKey: emitterdata
+        CollectionKey: emsprk_mdtrail_sprk1
+      - ClassKey: emitterdata
+        CollectionKey: emsprk_mdtrail_sprk2
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxsprk_md_trail
+    FarClip: 200
+- ParentName: destruction
+  Name: dust
+  Data:
+    Emitters:
+      Capacity: 6
+      Data: []
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: dust
+    FarClip: 200
+- ParentName: dust
+  Name: fxmis_wooddust1
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emmisc_glassmed_dust1
+      - ClassKey: emitterdata
+        CollectionKey: emdbr_sm_wooddebris1
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxmis_wooddust1
+    FarClip: 200
+- ParentName: dust
+  Name: fxdust_med_exup
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emdust_medexup_core
+      - ClassKey: emitterdata
+        CollectionKey: emdust_medexup_smk1
+      - ClassKey: emitterdata
+        CollectionKey: emdust_medexup_debris
+      - ClassKey: emitterdata
+        CollectionKey: emdust_medexup_smk2
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxdust_med_exup
+    FarClip: 200
+- ParentName: dust
+  Name: fxmis_dustpuff
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emmis_dustpuff
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxmis_dustpuff
+    FarClip: 200
+- ParentName: dust
+  Name: fxdust_lg_fall
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emdust_lg_smkdrop1
+      - ClassKey: emitterdata
+        CollectionKey: emdust_lg_smkdrop2
+      - ClassKey: emitterdata
+        CollectionKey: emdust_lg_debrisdrop
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxdust_lg_fall
+    FarClip: 200
+- ParentName: dust
+  Name: fxdust_med_fall
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emdust_med_debrisdrop1
+      - ClassKey: emitterdata
+        CollectionKey: emdust_med_smkdrop
+      - ClassKey: emitterdata
+        CollectionKey: emdust_med_debrisdrop2
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxdust_med_fall
+    FarClip: 200
+- ParentName: dust
+  Name: fxdust_lg_billow1
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emdust_lgbillowsmk1
+      - ClassKey: emitterdata
+        CollectionKey: emdust_lgbillowsmk2
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxdust_lg_billow1
+    FarClip: 200
+- ParentName: fxdust_lg_billow1
+  Name: fxdust_med_billow1
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emdust_md_billowsmk1
+      - ClassKey: emitterdata
+        CollectionKey: emdust_md_billowsmk2
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxdust_med_billow1
+    FarClip: 200
+- ParentName: destruction
+  Name: debris
+  Data:
+    Emitters:
+      Capacity: 6
+      Data: []
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: debris
+    FarClip: 200
+- ParentName: debris
+  Name: fxmis_coins1
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emmisc_coins1
+      - ClassKey: emitterdata
+        CollectionKey: emmisc_glassmed_dust1
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxmis_coins1
+    FarClip: 200
+- ParentName: debris
+  Name: fxmis_grasshit
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emmis_grasspuff1
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxmis_grasshit
+    FarClip: 200
+- ParentName: debris
+  Name: fxmis_leaffall1
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emmisc_glassmed_dust1
+      - ClassKey: emitterdata
+        CollectionKey: emdbr_sm_leaves1
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxmis_leaffall1
+    FarClip: 200
+- ParentName: debris
+  Name: fxmis_hitdust1
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emmisc_glassmed_dust1
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxmis_hitdust1
+    FarClip: 200
+- ParentName: debris
+  Name: fxmis_leafhit
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emmis_leafpuff1
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxmis_leafhit
+    FarClip: 200
+- ParentName: debris
+  Name: fxmis_glass1
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emmisc_glassmed_glass1
+      - ClassKey: emitterdata
+        CollectionKey: emmisc_glassmed_dust1
+      - ClassKey: emitterdata
+        CollectionKey: emmisc_glassmed_sprkl1
+      - ClassKey: emitterdata
+        CollectionKey: emmisc_glassmed_glass2
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxmis_glass1
+    FarClip: 200
+- ParentName: debris
+  Name: fxmis_paper1
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emmisc_paper1
+      - ClassKey: emitterdata
+        CollectionKey: emmisc_glassmed_dust1
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxmis_paper1
+    FarClip: 200
+- ParentName: destruction
+  Name: water
+  Data:
+    Emitters:
+      Capacity: 6
+      Data: []
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: water
+    FarClip: 200
+- ParentName: water
+  Name: fxwtr_waterbarrel_L
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emwtr_barrel_lg_core
+      - ClassKey: emitterdata
+        CollectionKey: emwtr_barrel_lg_mist1
+      - ClassKey: emitterdata
+        CollectionKey: emwtr_barrel_Lg_sparkle
+      - ClassKey: emitterdata
+        CollectionKey: emwtr_barrel_Lg_mist2
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxwtr_waterbarrel_L
+    FarClip: 200
+- ParentName: fxwtr_waterbarrel_L
+  Name: fxwtr_waterbarrel_sm
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emwtr_barrel_sm_core
+      - ClassKey: emitterdata
+        CollectionKey: emwtr_barrel_lg_mist1
+      - ClassKey: emitterdata
+        CollectionKey: emwtr_barrel_Lg_sparkle
+      - ClassKey: emitterdata
+        CollectionKey: emwtr_barrel_Lg_mist2
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxwtr_waterbarrel_sm
+    FarClip: 200
+- ParentName: water
+  Name: fxwtr_fountain1
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emwtr_fountaincore1
+      - ClassKey: emitterdata
+        CollectionKey: emwtr_fountainmist1
+      - ClassKey: emitterdata
+        CollectionKey: emwtr_fountaintop1
+      - ClassKey: emitterdata
+        CollectionKey: emwtr_fountainmist2
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxwtr_fountain1
+    FarClip: 200
+- ParentName: destruction
+  Name: fire
+  Data:
+    Emitters:
+      Capacity: 6
+      Data: []
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fire
+    FarClip: 200
+- ParentName: fire
+  Name: fxfire_lg_area1
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emfire_lgarea_smk
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxfire_lg_area1
+    FarClip: 500
+- ParentName: fire
+  Name: fxfire_sm1
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: fxfire_core_sm1
+      - ClassKey: emitterdata
+        CollectionKey: fxfire_licks_sm1
+      - ClassKey: emitterdata
+        CollectionKey: fxfire_smk_sm1
+      - ClassKey: emitterdata
+        CollectionKey: fxfire_glow_sm1
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxfire_sm1
+    FarClip: 200
+- ParentName: fire
+  Name: fxfire_trail1
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emfire_core
+      - ClassKey: emitterdata
+        CollectionKey: emfire_fire
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxfire_trail1
+    FarClip: 200
+- ParentName: destruction
+  Name: explosions
+  Data:
+    Emitters:
+      Capacity: 6
+      Data: []
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: explosions
+    FarClip: 200
+- ParentName: explosions
+  Name: fxex_large2
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emex_lg2_smk1
+      - ClassKey: emitterdata
+        CollectionKey: emex_lg2_dust1
+      - ClassKey: emitterdata
+        CollectionKey: emex_lg2_smk1
+      - ClassKey: emitterdata
+        CollectionKey: emex_lg2_smk1
+      - ClassKey: emitterdata
+        CollectionKey: emex_lg2_dust1
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxex_large2
+    FarClip: 200
+- ParentName: explosions
+  Name: fxex_carexplode_sm1
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emdust_medexup_core
+      - ClassKey: emitterdata
+        CollectionKey: emdust_medexup_smk1
+      - ClassKey: emitterdata
+        CollectionKey: emcar_impact_debris2
+      - ClassKey: emitterdata
+        CollectionKey: emdust_medexup_smk2
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxex_carexplode_sm1
+    FarClip: 200
+- ParentName: explosions
+  Name: fxex_gasstation
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emex_gas_flash1
+      - ClassKey: emitterdata
+        CollectionKey: emex_gas_fire2
+      - ClassKey: emitterdata
+        CollectionKey: emex_gas_dust1
+      - ClassKey: emitterdata
+        CollectionKey: emex_gas_base
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxex_gasstation
+    FarClip: 200
+- ParentName: explosions
+  Name: fxex_large1
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emex_lg_spark1
+      - ClassKey: emitterdata
+        CollectionKey: emex_lg_fire1
+      - ClassKey: emitterdata
+        CollectionKey: emex_lg_dust1
+      - ClassKey: emitterdata
+        CollectionKey: emex_lg_smk1
+      - ClassKey: emitterdata
+        CollectionKey: emex_lg_flash1
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxex_large1
+    FarClip: 200
+- ParentName: default
+  Name: nis
+  Data:
+    Emitters:
+      Capacity: 6
+      Data: []
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: nis
+    FarClip: 200
+- ParentName: nis
+  Name: fxnis_extradust1
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emnis_extradust1
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 1
+    CollectionName: fxnis_extradust1
+    FarClip: 100
+- ParentName: nis
+  Name: fxnis_steamjet
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emnis_steamjet1
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxnis_steamjet
+    FarClip: 200
+- ParentName: nis
+  Name: fxnis_leafblast1
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emnis_leaves1
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxnis_leafblast1
+    FarClip: 200
+- ParentName: fxnis_leafblast1
+  Name: fxnis_leafblast2
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emnis_leaves2
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxnis_leafblast2
+    FarClip: 500
+- ParentName: fxnis_leafblast2
+  Name: fxnis_leafblast3
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emnis_leaves3
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxnis_leafblast3
+    FarClip: 500
+- ParentName: fxnis_leafblast2
+  Name: fxnis_leafblast4
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emnis_leaves4
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxnis_leafblast4
+    FarClip: 500
+- ParentName: default
+  Name: car
+  Data:
+    Emitters:
+      Capacity: 6
+      Data: []
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: car
+    FarClip: 200
+- ParentName: car
+  Name: fxcar_coplightblue
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emcar_coplightblue
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxcar_coplightblue
+    FarClip: 200
+- ParentName: car
+  Name: fxcar_cop_death1
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emcar_death_smoke1
+      - ClassKey: emitterdata
+        CollectionKey: emfire_smoke
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxcar_cop_death1
+    FarClip: 300
+- ParentName: car
+  Name: fxcar_exhaust_drip
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emcar_exhaust_drip
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxcar_exhaust_drip
+    FarClip: 200
+- ParentName: car
+  Name: fxcar_tireblow
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emcar_tireblow_smoke
+      - ClassKey: emitterdata
+        CollectionKey: emcar_tire_debris
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxcar_tireblow
+    FarClip: 150
+- ParentName: car
+  Name: fxcar_nos
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emcar_nos_fire
+      - ClassKey: emitterdata
+        CollectionKey: emcar_nos_glow
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxcar_nos
+    FarClip: 200
+- ParentName: car
+  Name: fxcar_dusttrail1
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emcar_dustcloud1
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxcar_dusttrail1
+    FarClip: 200
+- ParentName: car
+  Name: fxcar_exhaust_bmw
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emcar_exhaust_bmw
+      - ClassKey: emitterdata
+        CollectionKey: emcar_exhaust_bmw2
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxcar_exhaust_bmw
+    FarClip: 200
+- ParentName: fxcar_exhaust_bmw
+  Name: fxcar_exhaust_bmw2
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emcar_exhaust_bmw_sm1
+      - ClassKey: emitterdata
+        CollectionKey: emcar_exhaust_bmw_sm2
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxcar_exhaust_bmw2
+    FarClip: 200
+- ParentName: car
+  Name: fxcar_cop_damage1
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emcar_damage_smoke1
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxcar_cop_damage1
+    FarClip: 300
+- ParentName: car
+  Name: fxcar_coplightred
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emcar_coplightred
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxcar_coplightred
+    FarClip: 200
+- ParentName: car
+  Name: fxcar_engineblow1
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emcar_engineblow_smoke
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxcar_engineblow1
+    FarClip: 200
+- ParentName: car
+  Name: fxcar_coplightwhite
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emcar_coplightwhite
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxcar_coplightwhite
+    FarClip: 200
+- ParentName: car
+  Name: fxcar_impactpavement
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emcar_impact_smkl
+      - ClassKey: emitterdata
+        CollectionKey: emcar_impact_smk2l
+      - ClassKey: emitterdata
+        CollectionKey: emcar_impact_debrisl
+      - ClassKey: emitterdata
+        CollectionKey: emsprk_mddir_sprk1
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxcar_impactpavement
+    FarClip: 200
+- ParentName: car
+  Name: fxcar_impactdebrisl
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emcs_sc_glow
+      - ClassKey: emitterdata
+        CollectionKey: emcs_sc_spark02
+      - ClassKey: emitterdata
+        CollectionKey: emcar_impact_debrisl
+      - ClassKey: emitterdata
+        CollectionKey: emcar_impact_smk2l
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxcar_impactdebrisl
+    FarClip: 200
+- ParentName: car
+  Name: fxcar_impactl
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emcs_sc_spark01
+      - ClassKey: emitterdata
+        CollectionKey: emcs_sc_spark02
+      - ClassKey: emitterdata
+        CollectionKey: emcs_sc_glow
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxcar_impactl
+    FarClip: 200
+- ParentName: default
+  Name: xecs_solid_wall
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emcs_sc_glow
+      - ClassKey: emitterdata
+        CollectionKey: emcs_sc_spark01
+      - ClassKey: emitterdata
+        CollectionKey: emcs_sc_spark02
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: xecs_solid_wall
+    FarClip: 200
+- ParentName: default
+  Name: carsurface
+  Data:
+    Emitters:
+      Capacity: 6
+      Data: []
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: carsurface
+    FarClip: 200
+- ParentName: carsurface
+  Name: FxCS_Sc_Wood
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: EmCS_Sc_WoodSlowSMK
+      - ClassKey: emitterdata
+        CollectionKey: EmCS_Sc_WoodSplinter
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: FxCS_Sc_Wood
+    FarClip: 200
+- ParentName: carsurface
+  Name: fxcs_sc_metal
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: emcs_sc_glow
+      - ClassKey: emitterdata
+        CollectionKey: emcs_sc_spark01
+      - ClassKey: emitterdata
+        CollectionKey: emcs_sc_spark02
+      - ClassKey: emitterdata
+        CollectionKey: emsprk_anim01
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: fxcs_sc_metal
+    FarClip: 200
+- ParentName: carsurface
+  Name: FxCS_Sc_Stone
+  Data:
+    Emitters:
+      Capacity: 6
+      Data:
+      - ClassKey: emitterdata
+        CollectionKey: EmCs_Sc_StoneDebris
+      - ClassKey: emitterdata
+        CollectionKey: emcs_sc_spark01
+      - ClassKey: emitterdata
+        CollectionKey: emcs_sc_spark02
+    IntensityRanges:
+      Capacity: 5
+      Data:
+      - X: 0
+        Y: 0
+    CollectionName: FxCS_Sc_Stone
+    FarClip: 200

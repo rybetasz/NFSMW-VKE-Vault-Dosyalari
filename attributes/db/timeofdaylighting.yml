@@ -1,0 +1,320 @@
+- ParentName: 
+  Name: sunny
+  Data:
+    SpecularColour:
+      X: 0.29399999976158142
+      Y: 0.26199999451637268
+      Z: 0.2070000022649765
+      W: 0
+    DiffuseColour:
+      X: 0.49000000953674316
+      Y: 0.3919999897480011
+      Z: 0.19799999892711639
+      W: 1
+    AmbientColour:
+      X: 0.13199999928474426
+      Y: 0.18899999558925629
+      Z: 0.28200000524520874
+      W: 1
+    FogHazeColour:
+      X: 0.18000000715255737
+      Y: 0.23999999463558197
+      Z: 0.37000000476837158
+      W: 1
+    FixedFunctionSkyColor:
+      X: 0.86000001430511475
+      Y: 0.94999998807907104
+      Z: 1
+      W: 1
+    FogDistanceScale: 2
+    FogHazeColourScale: 0.10000000149011612
+    FogSkyColourScale: 1
+    EnvSkyBrightness: 2
+    CarSpecScale: 1
+    FogSunFalloff: 0
+    FogSkyColour:
+      X: 0.3580000102519989
+      Y: 0.56400001049041748
+      Z: 0.90499997138977051
+      W: 1
+    FogInLightScatter: 11
+- ParentName: sunny
+  Name: dusk_sunny
+  Data:
+    SpecularColour:
+      X: 0.21899999678134918
+      Y: 0.14000000059604645
+      Z: 0.068999998271465302
+      W: 0
+    DiffuseColour:
+      X: 0.73000001907348633
+      Y: 0.47999998927116394
+      Z: 0.05000000074505806
+      W: 1
+    AmbientColour:
+      X: 0.15000000596046448
+      Y: 0.18999999761581421
+      Z: 0.36000001430511475
+      W: 1
+    FogHazeColour:
+      X: 0.61000001430511475
+      Y: 0.28999999165534973
+      Z: 0.039999999105930328
+      W: 1
+    FixedFunctionSkyColor:
+      X: 1
+      Y: 0.9100000262260437
+      Z: 0.63999998569488525
+      W: 1
+    FogDistanceScale: 2
+    FogHazeColourScale: 3
+    FogSkyColourScale: 0.0010000000474974513
+    EnvSkyBrightness: 2
+    CarSpecScale: 1
+    FogSunFalloff: -0.30000001192092896
+    FogSkyColour:
+      X: 0.27000001072883606
+      Y: 0.46000000834465027
+      Z: 0.94999998807907104
+      W: 1
+    FogInLightScatter: 3
+- ParentName: 
+  Name: overcast
+  Data:
+    SpecularColour:
+      X: 0.14000000059604645
+      Y: 0.15999999642372131
+      Z: 0.20999999344348907
+      W: 1
+    DiffuseColour:
+      X: 0.029999999329447746
+      Y: 0.039999999105930328
+      Z: 0.05000000074505806
+      W: 1
+    AmbientColour:
+      X: 0.28299999237060547
+      Y: 0.32600000500679016
+      Z: 0.37999999523162842
+      W: 1
+    FogHazeColour:
+      X: 0.14399999380111694
+      Y: 0.18500000238418579
+      Z: 0.21899999678134918
+      W: 1
+    FixedFunctionSkyColor:
+      X: 0.52999997138977051
+      Y: 0.56000000238418579
+      Z: 0.56999999284744263
+      W: 1
+    FogDistanceScale: 6
+    FogHazeColourScale: 1
+    FogSkyColourScale: 2
+    EnvSkyBrightness: 1
+    CarSpecScale: 0.40000000596046448
+    FogSunFalloff: -0.15000000596046448
+    FogSkyColour:
+      X: 0.27000001072883606
+      Y: 0.43999999761581421
+      Z: 0.94999998807907104
+      W: 1
+    FogInLightScatter: 3
+- ParentName: overcast
+  Name: dusk_overcast
+  Data:
+    SpecularColour:
+      X: 0.14000000059604645
+      Y: 0.15999999642372131
+      Z: 0.20999999344348907
+      W: 1
+    DiffuseColour:
+      X: 0.34000000357627869
+      Y: 0.2199999988079071
+      Z: 0.019999999552965164
+      W: 1
+    AmbientColour:
+      X: 0.20000000298023224
+      Y: 0.23000000417232513
+      Z: 0.27000001072883606
+      W: 1
+    FogHazeColour:
+      X: 0.17000000178813934
+      Y: 0.059999998658895493
+      Z: 0
+      W: 1
+    FixedFunctionSkyColor:
+      X: 1
+      Y: 0.89999997615814209
+      Z: 0.62999999523162842
+      W: 1
+    FogDistanceScale: 6
+    FogHazeColourScale: 3
+    FogSkyColourScale: 0.0099999997764825821
+    EnvSkyBrightness: 1
+    CarSpecScale: 0.40000000596046448
+    FogSunFalloff: -0.30000001192092896
+    FogSkyColour:
+      X: 0.25999999046325684
+      Y: 0.44999998807907104
+      Z: 1
+      W: 1
+    FogInLightScatter: 2
+- ParentName: 
+  Name: 0x94ABDFF0
+  Data:
+    SpecularColour:
+      X: 0.31999999284744263
+      Y: 0.37000000476837158
+      Z: 0.47999998927116394
+      W: 1
+    DiffuseColour:
+      X: 0.5
+      Y: 0.54000002145767212
+      Z: 0.62000000476837158
+      W: 1
+    AmbientColour:
+      X: 0.20000000298023224
+      Y: 0.23000000417232513
+      Z: 0.2800000011920929
+      W: 1
+    FogHazeColour:
+      X: 0.34000000357627869
+      Y: 0.47999998927116394
+      Z: 0.6600000262260437
+      W: 1
+    FixedFunctionSkyColor:
+      X: 0.52999997138977051
+      Y: 0.56000000238418579
+      Z: 0.56999999284744263
+      W: 1
+    FogDistanceScale: 10
+    FogHazeColourScale: 1
+    FogSkyColourScale: 2
+    EnvSkyBrightness: 1
+    CarSpecScale: 0.40000000596046448
+    FogSunFalloff: -0.15000000596046448
+    FogSkyColour:
+      X: 0.27000001072883606
+      Y: 0.43999999761581421
+      Z: 0.94999998807907104
+      W: 1
+    FogInLightScatter: 3
+- ParentName: 0x94ABDFF0
+  Name: 0x919B6689
+  Data:
+    SpecularColour:
+      X: 0.6600000262260437
+      Y: 0.57999998331069946
+      Z: 0.4699999988079071
+      W: 1
+    DiffuseColour:
+      X: 0.34000000357627869
+      Y: 0.23999999463558197
+      Z: 0.10999999940395355
+      W: 1
+    AmbientColour:
+      X: 0.31000000238418579
+      Y: 0.37999999523162842
+      Z: 0.46000000834465027
+      W: 1
+    FogHazeColour:
+      X: 0.6600000262260437
+      Y: 0.40999999642372131
+      Z: 0.2800000011920929
+      W: 1
+    FixedFunctionSkyColor:
+      X: 1
+      Y: 0.89999997615814209
+      Z: 0.62999999523162842
+      W: 1
+    FogDistanceScale: 10
+    FogHazeColourScale: 3
+    FogSkyColourScale: 0.0099999997764825821
+    EnvSkyBrightness: 1
+    CarSpecScale: 0.40000000596046448
+    FogSunFalloff: -0.30000001192092896
+    FogSkyColour:
+      X: 0.25999999046325684
+      Y: 0.44999998807907104
+      Z: 1
+      W: 1
+    FogInLightScatter: 2
+- ParentName: 
+  Name: 0xA01A3942
+  Data:
+    SpecularColour:
+      X: 0.81000000238418579
+      Y: 0.68999999761581421
+      Z: 0.46000000834465027
+      W: 0
+    DiffuseColour:
+      X: 1
+      Y: 0.94999998807907104
+      Z: 0.75
+      W: 1
+    AmbientColour:
+      X: 0.14000000059604645
+      Y: 0.14000000059604645
+      Z: 0.10000000149011612
+      W: 1
+    FogHazeColour:
+      X: 0.23000000417232513
+      Y: 0.2800000011920929
+      Z: 0.37000000476837158
+      W: 1
+    FixedFunctionSkyColor:
+      X: 0.70999997854232788
+      Y: 0.81999999284744263
+      Z: 1
+      W: 1
+    FogDistanceScale: 4
+    FogHazeColourScale: 0.10000000149011612
+    FogSkyColourScale: 1
+    EnvSkyBrightness: 3
+    CarSpecScale: 1
+    FogSunFalloff: 0
+    FogSkyColour:
+      X: 0.37000000476837158
+      Y: 0.60000002384185791
+      Z: 1
+      W: 1
+    FogInLightScatter: 10
+- ParentName: 0xA01A3942
+  Name: 0x0E1C797C
+  Data:
+    SpecularColour:
+      X: 0.93999999761581421
+      Y: 0.56000000238418579
+      Z: 0.27000001072883606
+      W: 0
+    DiffuseColour:
+      X: 1
+      Y: 0.61000001430511475
+      Z: 0.039999999105930328
+      W: 1
+    AmbientColour:
+      X: 0.2800000011920929
+      Y: 0.31000000238418579
+      Z: 0.40999999642372131
+      W: 1
+    FogHazeColour:
+      X: 0.61000001430511475
+      Y: 0.28999999165534973
+      Z: 0.039999999105930328
+      W: 1
+    FixedFunctionSkyColor:
+      X: 1
+      Y: 0.9100000262260437
+      Z: 0.63999998569488525
+      W: 1
+    FogDistanceScale: 4
+    FogHazeColourScale: 3
+    FogSkyColourScale: 0.0010000000474974513
+    EnvSkyBrightness: 2
+    CarSpecScale: 1
+    FogSunFalloff: -0.30000001192092896
+    FogSkyColour:
+      X: 0.27000001072883606
+      Y: 0.46000000834465027
+      Z: 0.94999998807907104
+      W: 1
+    FogInLightScatter: 3

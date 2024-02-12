@@ -1,0 +1,5540 @@
+- ParentName: 
+  Name: default
+  Data:
+    EventSequencer: ''
+    CollectionName: default
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    CAN_SIMPLIFY: 50
+    OnScrapeGround:
+      Capacity: 3
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: smackable_scrapes
+        MinSpeed: 5
+        MaxSpeed: 30
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: organic
+        Effect:
+          ClassKey: effects
+          CollectionKey: smackable_scrape_earth
+        MinSpeed: 5
+        MaxSpeed: 30
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: concrete
+        Effect:
+          ClassKey: effects
+          CollectionKey: smackable_scrape_concrete
+        MinSpeed: 5
+        MaxSpeed: 30
+    COST_TO_STATE: 100
+    AUTO_SIMPLIFY: 0
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: smackable_hit_world
+        MinSpeed: 3
+        MaxSpeed: 30
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: smackable_hit_car
+        MinSpeed: 3
+        MaxSpeed: 30
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: smackable_hit_world
+        MinSpeed: 3
+        MaxSpeed: 30
+    DROPOUT:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    MOMENT:
+      X: 1.5
+      Y: 1.5
+      Z: 1.5
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: smackable_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    ExplosionEffect: 1
+    rigidbodyspecs:
+      ClassKey: rigidbodyspecs
+      CollectionKey: smackable
+    WooshType: DRIVE_BY_LAMPPOST
+    SimplePhysics: false
+    KILL_OFF_SCREEN: 8
+    RESPAWN_TIME: 120
+    no_trigger: false
+- ParentName: default
+  Name: glass
+  Data:
+    EventSequencer: glasswindow_seq
+    CollectionName: glass
+    MASS: 100
+    DETACH_FORCE: 150
+    NO_CAR_EFFECT: false
+    IsWooshable: false
+    COST_TO_STATE: 200
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: glass_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: glass_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: glass_hit_car
+        MinSpeed: 0.10000000149011612
+        MaxSpeed: 15
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: glass_hit_world
+        MinSpeed: 0.10000000149011612
+        MaxSpeed: 15
+- ParentName: glass
+  Name: gls_toll
+  Data:
+    EventSequencer: ''
+    CollectionName: gls_toll
+    MASS: 100
+    DETACH_FORCE: 500
+    NO_CAR_EFFECT: false
+    IsWooshable: false
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: sfx_glass_med_brk
+        MinSpeed: 1
+        MaxSpeed: 5
+    RiskCar_Tier:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: sfx_glass_med_brk
+        MinSpeed: 1
+        MaxSpeed: 15
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: sfx_glass_med_brk
+        MinSpeed: 1
+        MaxSpeed: 15
+- ParentName: gls_toll
+  Name: gls_toll_no_sound
+  Data:
+    EventSequencer: ''
+    CollectionName: gls_toll_no_sound
+    MASS: 100
+    DETACH_FORCE: 500
+    NO_CAR_EFFECT: false
+    IsWooshable: false
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: no_sound
+        MinSpeed: 1
+        MaxSpeed: 5
+    OnScrapeGround:
+      Capacity: 3
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: no_sound
+        MinSpeed: 5
+        MaxSpeed: 30
+      - Surface:
+          ClassKey: ''
+          CollectionKey: ''
+        Effect:
+          ClassKey: ''
+          CollectionKey: ''
+        MinSpeed: 5
+        MaxSpeed: 30
+      - Surface:
+          ClassKey: ''
+          CollectionKey: ''
+        Effect:
+          ClassKey: ''
+          CollectionKey: ''
+        MinSpeed: 5
+        MaxSpeed: 30
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: no_sound
+        MinSpeed: 1
+        MaxSpeed: 15
+- ParentName: glass
+  Name: greenhouse
+  Data:
+    EventSequencer: greenhouse_seq
+    CollectionName: greenhouse
+    MASS: 100
+    DETACH_FORCE: 150
+    NO_CAR_EFFECT: false
+    IsWooshable: false
+    COST_TO_STATE: 100
+- ParentName: glass
+  Name: largeglass
+  Data:
+    EventSequencer: glasswindow_seq
+    CollectionName: largeglass
+    MASS: 100
+    DETACH_FORCE: 150
+    NO_CAR_EFFECT: false
+    IsWooshable: false
+- ParentName: glass
+  Name: gls_dr
+  Data:
+    EventSequencer: glassshatter1
+    CollectionName: gls_dr
+    MASS: 100
+    DETACH_FORCE: 150
+    NO_CAR_EFFECT: false
+    IsWooshable: false
+- ParentName: glass
+  Name: glassshatter1
+  Data:
+    EventSequencer: glassshatter1
+    CollectionName: glassshatter1
+    MASS: 100
+    DETACH_FORCE: 150
+    NO_CAR_EFFECT: false
+    IsWooshable: false
+- ParentName: glass
+  Name: storefront
+  Data:
+    EventSequencer: glasswindow_seq
+    CollectionName: storefront
+    MASS: 100
+    DETACH_FORCE: 150
+    NO_CAR_EFFECT: false
+    IsWooshable: false
+- ParentName: glass
+  Name: glass_frag
+  Data:
+    EventSequencer: glasswindow_frag_seq
+    CollectionName: glass_frag
+    MASS: 100
+    DETACH_FORCE: 150
+    NO_CAR_EFFECT: false
+    IsWooshable: false
+- ParentName: default
+  Name: trailing_fx
+  Data:
+    EventSequencer: trailing_fx_seq
+    CollectionName: trailing_fx
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: false
+- ParentName: trailing_fx
+  Name: trailing_fx_med
+  Data:
+    EventSequencer: trailing_fx_seq
+    CollectionName: trailing_fx_med
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: false
+    ExplosionEffect: 0.5
+- ParentName: trailing_fx
+  Name: trailing_fx_slow
+  Data:
+    EventSequencer: trailing_fx_seq
+    CollectionName: trailing_fx_slow
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: false
+    ExplosionEffect: 0.25
+- ParentName: default
+  Name: misc
+  Data:
+    EventSequencer: ''
+    CollectionName: misc
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+- ParentName: misc
+  Name: fallingobject
+  Data:
+    EventSequencer: fallingobject_seq
+    CollectionName: fallingobject
+    MASS: 1000
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: false
+    IsWooshable: true
+    no_trigger: true
+- ParentName: fallingobject
+  Name: surfboard
+  Data:
+    EventSequencer: fallingobject_seq
+    CollectionName: surfboard
+    MASS: 1000
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: false
+    IsWooshable: true
+    COST_TO_STATE: 50
+- ParentName: misc
+  Name: haybale
+  Data:
+    EventSequencer: ''
+    CollectionName: haybale
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+- ParentName: misc
+  Name: lounge_chr
+  Data:
+    EventSequencer: ''
+    CollectionName: lounge_chr
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: soft_furn_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: soft_furn_hit_car
+        MinSpeed: 3
+        MaxSpeed: 30
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: soft_furn_hit_world
+        MinSpeed: 3
+        MaxSpeed: 30
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: soft_furn_hit_world
+        MinSpeed: 3
+        MaxSpeed: 30
+    COST_TO_STATE: 50
+- ParentName: misc
+  Name: tennisnet
+  Data:
+    EventSequencer: ''
+    CollectionName: tennisnet
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: soft_furn_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: soft_furn_hit_car
+        MinSpeed: 3
+        MaxSpeed: 30
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: soft_furn_hit_world
+        MinSpeed: 3
+        MaxSpeed: 30
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: soft_furn_hit_world
+        MinSpeed: 3
+        MaxSpeed: 30
+    COST_TO_STATE: 50
+- ParentName: misc
+  Name: tire
+  Data:
+    EventSequencer: ''
+    CollectionName: tire
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: tire_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: tire_hit_car
+        MinSpeed: 3
+        MaxSpeed: 30
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: tire_hit_world
+        MinSpeed: 3
+        MaxSpeed: 30
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: tire_hit_world
+        MinSpeed: 3
+        MaxSpeed: 30
+    COST_TO_STATE: 50
+- ParentName: misc
+  Name: campuskiosk
+  Data:
+    EventSequencer: campuskiosk_seq
+    CollectionName: campuskiosk
+    MASS: 500
+    DETACH_FORCE: 500
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+- ParentName: default
+  Name: rm_tollbooth
+  Data:
+    EventSequencer: tollbooth_seq
+    CollectionName: rm_tollbooth
+    MASS: 10000
+    DETACH_FORCE: 500
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    WooshType: DRIVE_BY_TUNNEL_IN
+- ParentName: default
+  Name: wood
+  Data:
+    EventSequencer: genericsmackable
+    CollectionName: wood
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    COST_TO_STATE: 50
+- ParentName: wood
+  Name: largewoodenobject
+  Data:
+    EventSequencer: largewoodenobject_seq
+    CollectionName: largewoodenobject
+    MASS: 5000
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: false
+    IsWooshable: true
+    WooshType: DRIVE_BY_OVERPASS_OUT
+    no_trigger: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: bigrollingtorus_hit_world
+        MinSpeed: 2
+        MaxSpeed: 20
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: bigrollingtorus_hit_world
+        MinSpeed: 2
+        MaxSpeed: 12
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: dumpster_hit_car
+        MinSpeed: 1
+        MaxSpeed: 12
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: dumpster_hit_world
+        MinSpeed: 2
+        MaxSpeed: 15
+- ParentName: largewoodenobject
+  Name: woodenscaffolding
+  Data:
+    EventSequencer: woodenscaffold_seq
+    CollectionName: woodenscaffolding
+    MASS: 10000
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: false
+    IsWooshable: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: bigrollingtorus_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    no_trigger: true
+    COST_TO_STATE: 200
+- ParentName: largewoodenobject
+  Name: largewoodimobile
+  Data:
+    EventSequencer: ''
+    CollectionName: largewoodimobile
+    MASS: 5000
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: false
+    IsWooshable: true
+    WooshType: DRIVE_BY_OVERPASS_OUT
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: dumpster_hit_car
+        MinSpeed: 1
+        MaxSpeed: 12
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: dumpster_hit_world
+        MinSpeed: 2
+        MaxSpeed: 15
+    no_trigger: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: bigrollingtorus_hit_world
+        MinSpeed: 2
+        MaxSpeed: 20
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: bigrollingtorus_hit_world
+        MinSpeed: 2
+        MaxSpeed: 12
+    AUTO_SIMPLIFY: 3
+    rigidbodyspecs:
+      ClassKey: rigidbodyspecs
+      CollectionKey: radiotower
+- ParentName: wood
+  Name: woodcarparts
+  Data:
+    EventSequencer: ''
+    CollectionName: woodcarparts
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+- ParentName: woodcarparts
+  Name: log
+  Data:
+    EventSequencer: ''
+    CollectionName: log
+    MASS: 1000
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: false
+    IsWooshable: true
+    WooshType: DRIVE_BY_BRIDGE
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: log_hit_world
+        MinSpeed: 1
+        MaxSpeed: 9
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: log_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    CAN_SIMPLIFY: 1
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: log_hit_car
+        MinSpeed: 1
+        MaxSpeed: 12
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: log_hit_world
+        MinSpeed: 1
+        MaxSpeed: 12
+- ParentName: wood
+  Name: woodgate
+  Data:
+    EventSequencer: glasswindow_seq
+    CollectionName: woodgate
+    MASS: 100
+    DETACH_FORCE: 500
+    NO_CAR_EFFECT: false
+    IsWooshable: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: wood_frag_lrg_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    RiskCar_Tier:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: wood_frag_med_hit_car
+        MinSpeed: 0.10000000149011612
+        MaxSpeed: 15
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: wood_frag_med_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    COST_TO_STATE: 50
+- ParentName: wood
+  Name: lightwoodenpost
+  Data:
+    EventSequencer: genericsmackable
+    CollectionName: lightwoodenpost
+    MASS: 100
+    DETACH_FORCE: 10000
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnDetached:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: wood_sign_hit_car
+        MinSpeed: 0
+        MaxSpeed: 10
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: post_light_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: post_light_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: post_light_hit_car
+        MinSpeed: 1
+        MaxSpeed: 12
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: post_light_hit_world
+        MinSpeed: 1
+        MaxSpeed: 12
+- ParentName: wood
+  Name: mediumwoodenpost
+  Data:
+    EventSequencer: genericsmackable
+    CollectionName: mediumwoodenpost
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: generic_wood_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: generic_wood_hit_car
+        MinSpeed: 1
+        MaxSpeed: 12
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: generic_wood_hit_world
+        MinSpeed: 1
+        MaxSpeed: 12
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: generic_wood_hit_world
+        MinSpeed: 1
+        MaxSpeed: 12
+- ParentName: wood
+  Name: tree
+  Data:
+    EventSequencer: genericsmackable
+    CollectionName: tree
+    MASS: 100
+    DETACH_FORCE: 20000
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    RESPAWN_TIME: 120
+    DROPOUT:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    WooshType: DRIVE_BY_TREE
+    MOMENT:
+      X: 1
+      Y: 1
+      Z: 1
+    ALLOW_OFF_WORLD: false
+- ParentName: wood
+  Name: subfrag
+  Data:
+    EventSequencer: spawnsubfrag_seq
+    CollectionName: subfrag
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    rigidbodyspecs:
+      ClassKey: rigidbodyspecs
+      CollectionKey: 0x493A8A87
+- ParentName: wood
+  Name: lightwoodenobject
+  Data:
+    EventSequencer: genericsmackable
+    CollectionName: lightwoodenobject
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: wood_frag_med_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: smackable_hit_car
+        MinSpeed: 1
+        MaxSpeed: 12
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: wood_frag_sm_hit_world
+        MinSpeed: 1
+        MaxSpeed: 12
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: wood_frag_med_hit_world
+        MinSpeed: 1
+        MaxSpeed: 12
+    CAN_SIMPLIFY: 100
+- ParentName: lightwoodenobject
+  Name: picket_fence
+  Data:
+    EventSequencer: genericsmackable
+    CollectionName: picket_fence
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: wood_frag_med_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: picket_hit_car
+        MinSpeed: 1
+        MaxSpeed: 12
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: wood_frag_sm_hit_world
+        MinSpeed: 1
+        MaxSpeed: 12
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: wood_frag_med_hit_world
+        MinSpeed: 1
+        MaxSpeed: 12
+    CAN_SIMPLIFY: 100
+    COST_TO_STATE: 50
+- ParentName: lightwoodenobject
+  Name: plank
+  Data:
+    EventSequencer: bench
+    CollectionName: plank
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: wood_frag_med_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: wood_frag_med_hit_car
+        MinSpeed: 1
+        MaxSpeed: 12
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: wood_frag_med_hit_world
+        MinSpeed: 1
+        MaxSpeed: 12
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: wood_frag_med_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+- ParentName: lightwoodenobject
+  Name: golf_flag
+  Data:
+    EventSequencer: genericsmackable
+    CollectionName: golf_flag
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    WooshType: DRIVE_BY_SMOKABLE
+    COST_TO_STATE: 50
+- ParentName: lightwoodenobject
+  Name: sawhorse
+  Data:
+    EventSequencer: genericsmackable
+    CollectionName: sawhorse
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: wd_roadblk_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: wd_roadblk_hit_car
+        MinSpeed: 1
+        MaxSpeed: 15
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: wd_roadblk_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: wd_roadblk_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    COST_TO_STATE: 50
+- ParentName: lightwoodenobject
+  Name: woodsimplesmack
+  Data:
+    EventSequencer: genericsmackable
+    CollectionName: woodsimplesmack
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    SimplePhysics: true
+- ParentName: lightwoodenobject
+  Name: chair
+  Data:
+    EventSequencer: genericsmackable
+    CollectionName: chair
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: wood_furn_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: wood_furn_hit_car
+        MinSpeed: 1
+        MaxSpeed: 16
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: wood_furn_hit_world
+        MinSpeed: 1
+        MaxSpeed: 16
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: wood_furn_hit_world
+        MinSpeed: 1
+        MaxSpeed: 16
+    COST_TO_STATE: 50
+- ParentName: lightwoodenobject
+  Name: umb_table
+  Data:
+    EventSequencer: umbrella_table_seq
+    CollectionName: umb_table
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: umbrella_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: umbrella_hit_car
+        MinSpeed: 1
+        MaxSpeed: 12
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: umbrella_hit_world
+        MinSpeed: 1
+        MaxSpeed: 12
+    ExplosionEffect: 0.10000000149011612
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: umbrella_hit_world
+        MinSpeed: 1
+        MaxSpeed: 12
+- ParentName: umb_table
+  Name: table_frag
+  Data:
+    EventSequencer: umbrella_table_seq
+    CollectionName: table_frag
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+- ParentName: umb_table
+  Name: umbrella
+  Data:
+    EventSequencer: umbrella_table_seq
+    CollectionName: umbrella
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    COST_TO_STATE: 50
+- ParentName: umb_table
+  Name: table
+  Data:
+    EventSequencer: umbrella_table_seq
+    CollectionName: table
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: wood_sign_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: wood_furn_hit_car
+        MinSpeed: 1
+        MaxSpeed: 10
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: wood_furn_hit_world
+        MinSpeed: 1
+        MaxSpeed: 10
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: wood_furn_hit_world
+        MinSpeed: 1
+        MaxSpeed: 10
+    COST_TO_STATE: 50
+- ParentName: lightwoodenobject
+  Name: leg
+  Data:
+    EventSequencer: bench
+    CollectionName: leg
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: wood_frag_sm_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: wood_frag_sm_hit_car
+        MinSpeed: 1
+        MaxSpeed: 12
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: wood_frag_sm_hit_world
+        MinSpeed: 1
+        MaxSpeed: 12
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: wood_frag_sm_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+- ParentName: lightwoodenobject
+  Name: bench
+  Data:
+    EventSequencer: bench
+    CollectionName: bench
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    COST_TO_STATE: 50
+- ParentName: lightwoodenobject
+  Name: wood_slat_fence
+  Data:
+    EventSequencer: wood_slat_fence
+    CollectionName: wood_slat_fence
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: wood_frag_sm_hit_car
+        MinSpeed: 1
+        MaxSpeed: 12
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: wood_frag_sm_hit_world
+        MinSpeed: 1
+        MaxSpeed: 12
+- ParentName: lightwoodenobject
+  Name: cardboard_box
+  Data:
+    EventSequencer: genericsmackable
+    CollectionName: cardboard_box
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: carboard_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: carboard_hit_car
+        MinSpeed: 1
+        MaxSpeed: 12
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: carboard_hit_world
+        MinSpeed: 1
+        MaxSpeed: 12
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: carboard_hit_world
+        MinSpeed: 1
+        MaxSpeed: 12
+    COST_TO_STATE: 25
+- ParentName: lightwoodenobject
+  Name: panel
+  Data:
+    EventSequencer: kiosk_seq
+    CollectionName: panel
+    MASS: 500
+    DETACH_FORCE: 500
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    COST_TO_STATE: 50
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: panel_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: panel_hit_world
+        MinSpeed: 1
+        MaxSpeed: 16
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: panel_hit_car
+        MinSpeed: 1
+        MaxSpeed: 16
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: panel_hit_world
+        MinSpeed: 1
+        MaxSpeed: 16
+- ParentName: lightwoodenobject
+  Name: genericwood_frag
+  Data:
+    EventSequencer: ''
+    CollectionName: genericwood_frag
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+- ParentName: wood
+  Name: mediumwoodenobject
+  Data:
+    EventSequencer: genericsmackable
+    CollectionName: mediumwoodenobject
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: wood_frag_med_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: wood_frag_med_hit_car
+        MinSpeed: 1
+        MaxSpeed: 12
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: wood_frag_med_hit_world
+        MinSpeed: 1
+        MaxSpeed: 12
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: wood_frag_med_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+- ParentName: mediumwoodenobject
+  Name: pic_table
+  Data:
+    EventSequencer: genericsmackable
+    CollectionName: pic_table
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    COST_TO_STATE: 50
+- ParentName: mediumwoodenobject
+  Name: busstoproof
+  Data:
+    EventSequencer: genericsmackable
+    CollectionName: busstoproof
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+- ParentName: mediumwoodenobject
+  Name: roadblock
+  Data:
+    EventSequencer: genericsmackable
+    CollectionName: roadblock
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: wd_roadblk_hit_car
+        MinSpeed: 0.10000000149011612
+        MaxSpeed: 15
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: wd_roadblk_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    COST_TO_STATE: 50
+- ParentName: mediumwoodenobject
+  Name: crate
+  Data:
+    EventSequencer: genericsmackable
+    CollectionName: crate
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: crate_hit_car
+        MinSpeed: 1
+        MaxSpeed: 14
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: crate_hit_world
+        MinSpeed: 1
+        MaxSpeed: 14
+    COST_TO_STATE: 25
+- ParentName: mediumwoodenobject
+  Name: kiosk
+  Data:
+    EventSequencer: kiosk_seq
+    CollectionName: kiosk
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+- ParentName: wood
+  Name: largewoodenpost
+  Data:
+    EventSequencer: genericsmackable
+    CollectionName: largewoodenpost
+    MASS: 100
+    DETACH_FORCE: 20000
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    RESPAWN_TIME: 120
+    DROPOUT:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: wood_support_hit_car
+        MinSpeed: 1
+        MaxSpeed: 12
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: wood_support_hit_world
+        MinSpeed: 1
+        MaxSpeed: 12
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: wood_support_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: wood_support_hit_world
+        MinSpeed: 1
+        MaxSpeed: 12
+    MOMENT:
+      X: 1
+      Y: 1
+      Z: 1
+    ALLOW_OFF_WORLD: false
+- ParentName: largewoodenpost
+  Name: parkingarmpost
+  Data:
+    EventSequencer: genericsmackable
+    CollectionName: parkingarmpost
+    MASS: 100
+    DETACH_FORCE: 15000
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    COST_TO_STATE: 50
+- ParentName: largewoodenpost
+  Name: gazeboroofsupport
+  Data:
+    EventSequencer: gazeboroofsupport_seq
+    CollectionName: gazeboroofsupport
+    MASS: 100
+    DETACH_FORCE: 7500
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    COST_TO_STATE: 0
+- ParentName: gazeboroofsupport
+  Name: gazebosupport_frag
+  Data:
+    EventSequencer: gazeboroofsupport_seq
+    CollectionName: gazebosupport_frag
+    MASS: 100
+    DETACH_FORCE: 7500
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    AUTO_SIMPLIFY: 2.5
+- ParentName: largewoodenpost
+  Name: woodsupport
+  Data:
+    EventSequencer: woodsupport_seq
+    CollectionName: woodsupport
+    MASS: 100
+    DETACH_FORCE: 2000
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+- ParentName: woodsupport
+  Name: radiotowersupport
+  Data:
+    EventSequencer: radiotowersupport_seq
+    CollectionName: radiotowersupport
+    MASS: 20000
+    DETACH_FORCE: 1000
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    rigidbodyspecs:
+      ClassKey: rigidbodyspecs
+      CollectionKey: immobileheavygravity
+    start_sequencer: true
+    ExplosionEffect: 0.20000000298023224
+    AI_AVOIDABLE: true
+    CAN_SIMPLIFY: 1
+    MOMENT:
+      X: 3
+      Y: 3
+      Z: 3
+    KILL_OFF_SCREEN: 16
+- ParentName: radiotowersupport
+  Name: radiotowersupport_frag
+  Data:
+    EventSequencer: genericsmackable
+    CollectionName: radiotowersupport_frag
+    MASS: 20000
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: bigrollingtorus_hit_world
+        MinSpeed: 1
+        MaxSpeed: 3
+    ExplosionEffect: 0.40000000596046448
+    rigidbodyspecs:
+      ClassKey: rigidbodyspecs
+      CollectionKey: radiotower
+    DROPOUT:
+      Capacity: 2
+      Data:
+      - 0
+      - 4
+    MOMENT:
+      X: 3
+      Y: 3
+      Z: 3
+- ParentName: woodsupport
+  Name: watertowersupport
+  Data:
+    EventSequencer: watertowersupport_seq
+    CollectionName: watertowersupport
+    MASS: 1000
+    DETACH_FORCE: 2000
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    COST_TO_STATE: 2000
+    ExplosionEffect: 0.10000000149011612
+    AI_AVOIDABLE: true
+    CAN_SIMPLIFY: 25
+    rigidbodyspecs:
+      ClassKey: rigidbodyspecs
+      CollectionKey: smackable
+- ParentName: watertowersupport
+  Name: watertowersupport_frag
+  Data:
+    EventSequencer: genericsmackable
+    CollectionName: watertowersupport_frag
+    MASS: 1000
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    AI_AVOIDABLE: false
+    DROPOUT:
+      Capacity: 2
+      Data:
+      - 0
+      - 4
+    ExplosionEffect: 0.5
+    CAN_SIMPLIFY: 75
+- ParentName: largewoodenpost
+  Name: cranesupport
+  Data:
+    EventSequencer: cranesupport_seq
+    CollectionName: cranesupport
+    MASS: 100
+    DETACH_FORCE: 1500
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    COST_TO_STATE: 25
+- ParentName: largewoodenpost
+  Name: smallwoodroofsupport
+  Data:
+    EventSequencer: smallwoodroofsupport_seq
+    CollectionName: smallwoodroofsupport
+    MASS: 100
+    DETACH_FORCE: 2000
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    AUTO_SIMPLIFY: 2.5
+- ParentName: largewoodenpost
+  Name: woodroofsupport
+  Data:
+    EventSequencer: donutshoproofsupport_seq
+    CollectionName: woodroofsupport
+    MASS: 100
+    DETACH_FORCE: 10000
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    AI_AVOIDABLE: true
+- ParentName: woodroofsupport
+  Name: woodroofsupport_frag
+  Data:
+    EventSequencer: genericsmackable
+    CollectionName: woodroofsupport_frag
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    AI_AVOIDABLE: false
+    AUTO_SIMPLIFY: 4
+    DROPOUT:
+      Capacity: 2
+      Data:
+      - 9.8000001907348633
+      - 4
+- ParentName: largewoodenpost
+  Name: stump
+  Data:
+    EventSequencer: tree
+    CollectionName: stump
+    MASS: 100
+    DETACH_FORCE: 10000
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    COST_TO_STATE: 100
+    WooshType: DRIVE_BY_LAMPPOST
+    ExplosionEffect: 1
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: tree_hit_car
+        MinSpeed: 1
+        MaxSpeed: 8
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: tree_hit_car
+        MinSpeed: 1
+        MaxSpeed: 8
+    rigidbodyspecs:
+      ClassKey: rigidbodyspecs
+      CollectionKey: smackable
+- ParentName: stump
+  Name: shrub
+  Data:
+    EventSequencer: shrub_seq
+    CollectionName: shrub
+    MASS: 100
+    DETACH_FORCE: 1
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: shrub_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: shrub_hit_car
+        MinSpeed: 1
+        MaxSpeed: 8
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: shrub_hit_world
+        MinSpeed: 1
+        MaxSpeed: 8
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: shrub_hit_world
+        MinSpeed: 1
+        MaxSpeed: 12
+    COST_TO_STATE: 25
+- ParentName: largewoodenpost
+  Name: drivein
+  Data:
+    EventSequencer: drivein_seq
+    CollectionName: drivein
+    MASS: 1500
+    DETACH_FORCE: 20000
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    rigidbodyspecs:
+      ClassKey: rigidbodyspecs
+      CollectionKey: drivein
+    COST_TO_STATE: 2000
+    MOMENT:
+      X: 10
+      Y: 1
+      Z: 1
+- ParentName: wood
+  Name: smallwoodroof
+  Data:
+    EventSequencer: smallwoodroof_seq
+    CollectionName: smallwoodroof
+    MASS: 2000
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: false
+    IsWooshable: true
+    no_trigger: true
+    COST_TO_STATE: 1000
+- ParentName: wood
+  Name: woodroof
+  Data:
+    EventSequencer: donutshoproof_seq
+    CollectionName: woodroof
+    MASS: 2000
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: false
+    IsWooshable: false
+    no_trigger: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: wood_frag_lrg_hit_world
+        MinSpeed: 2.2999999523162842
+        MaxSpeed: 8
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: wood_frag_lrg_hit_world
+        MinSpeed: 2
+        MaxSpeed: 8
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: wood_frag_lrg_hit_world
+        MinSpeed: 1
+        MaxSpeed: 8
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: wood_frag_lrg_hit_world
+        MinSpeed: 1.5
+        MaxSpeed: 8
+- ParentName: woodroof
+  Name: gazebo
+  Data:
+    EventSequencer: gazebo_seq
+    CollectionName: gazebo
+    MASS: 2000
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: false
+    IsWooshable: false
+    COST_TO_STATE: 1000
+- ParentName: gazebo
+  Name: gazebo_roof
+  Data:
+    EventSequencer: largewoodenobject_seq
+    CollectionName: gazebo_roof
+    MASS: 2000
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: false
+    IsWooshable: false
+- ParentName: woodroof
+  Name: sm_wd_roof
+  Data:
+    EventSequencer: kiosk_seq
+    CollectionName: sm_wd_roof
+    MASS: 50
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: false
+    IsWooshable: false
+    CAN_SIMPLIFY: 30
+- ParentName: woodroof
+  Name: woodroof_frag
+  Data:
+    EventSequencer: donutshoproof_frag
+    CollectionName: woodroof_frag
+    MASS: 2000
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: false
+    IsWooshable: false
+    AUTO_SIMPLIFY: 5
+    CAN_SIMPLIFY: 1
+- ParentName: woodroof_frag
+  Name: huge_wood_roof
+  Data:
+    EventSequencer: donutshoproof_frag
+    CollectionName: huge_wood_roof
+    MASS: 2000
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: false
+    IsWooshable: false
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: huge_object_hit_world
+        MinSpeed: 2.2999999523162842
+        MaxSpeed: 8
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: huge_object_hit_car
+        MinSpeed: 1
+        MaxSpeed: 8
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: huge_object_hit_world
+        MinSpeed: 1.5
+        MaxSpeed: 8
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: huge_object_hit_world
+        MinSpeed: 2
+        MaxSpeed: 8
+- ParentName: woodroof
+  Name: seafoodpatio
+  Data:
+    EventSequencer: seafoodpatio_seq
+    CollectionName: seafoodpatio
+    MASS: 2000
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: false
+    IsWooshable: false
+    no_trigger: false
+    COST_TO_STATE: 1000
+- ParentName: wood
+  Name: largesign
+  Data:
+    EventSequencer: spawnsubfrag_seq
+    CollectionName: largesign
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: wood_support_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: wood_support_hit_car
+        MinSpeed: 1
+        MaxSpeed: 15
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: wood_support_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: wood_support_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+- ParentName: largesign
+  Name: fishmarketsign
+  Data:
+    EventSequencer: fmarketsignspawnsubfrag_seq
+    CollectionName: fishmarketsign
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    rigidbodyspecs:
+      ClassKey: rigidbodyspecs
+      CollectionKey: 0x493A8A87
+    COST_TO_STATE: 200
+- ParentName: default
+  Name: concrete
+  Data:
+    EventSequencer: ''
+    CollectionName: concrete
+    MASS: 500
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: false
+- ParentName: concrete
+  Name: mediumconcreteobject
+  Data:
+    EventSequencer: ''
+    CollectionName: mediumconcreteobject
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: false
+- ParentName: concrete
+  Name: gassstation_parts
+  Data:
+    EventSequencer: ''
+    CollectionName: gassstation_parts
+    MASS: 500
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: false
+    RiskCar_Tier:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: pillar_hit_car
+        MinSpeed: 0
+        MaxSpeed: 5
+- ParentName: gassstation_parts
+  Name: gasstationroof_frag
+  Data:
+    EventSequencer: ''
+    CollectionName: gasstationroof_frag
+    MASS: 10000
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: false
+    IsWooshable: false
+    MOMENT:
+      X: 500
+      Y: 500
+      Z: 50
+    ExplosionEffect: 0.004999999888241291
+    CAN_SIMPLIFY: 10
+    KILL_OFF_SCREEN: 0
+- ParentName: gassstation_parts
+  Name: gasstationsupport
+  Data:
+    EventSequencer: gasstationsupport_seq
+    CollectionName: gasstationsupport
+    MASS: 1000
+    DETACH_FORCE: -1
+    NO_CAR_EFFECT: true
+    IsWooshable: false
+    COST_TO_STATE: 0
+    start_sequencer: true
+    ExplosionEffect: 0.69999998807907104
+    CAN_SIMPLIFY: 100
+    MOMENT:
+      X: 10
+      Y: 10
+      Z: 10
+- ParentName: gassstation_parts
+  Name: gasstationroof
+  Data:
+    EventSequencer: gasstationroof_seq
+    CollectionName: gasstationroof
+    MASS: 100000
+    DETACH_FORCE: -1
+    NO_CAR_EFFECT: false
+    IsWooshable: true
+    COST_TO_STATE: 3000
+    WooshType: DRIVE_BY_BRIDGE
+    no_trigger: true
+    ExplosionEffect: 0.0099999997764825821
+    CAN_SIMPLIFY: 0
+- ParentName: concrete
+  Name: heavyconcreteobject
+  Data:
+    EventSequencer: heavyconcrete_seq
+    CollectionName: heavyconcreteobject
+    MASS: 20000
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: false
+    IsWooshable: false
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: bigrollingtorus_hit_world
+        MinSpeed: 2
+        MaxSpeed: 10
+    RiskCar_Tier:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: pillar_hit_car
+        MinSpeed: 0.10000000149011612
+        MaxSpeed: 0.5
+    CAN_SIMPLIFY: 1
+- ParentName: concrete
+  Name: foundation
+  Data:
+    EventSequencer: ''
+    CollectionName: foundation
+    MASS: 100000
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: false
+    IsWooshable: false
+    ExplosionEffect: 0
+    rigidbodyspecs:
+      ClassKey: rigidbodyspecs
+      CollectionKey: immobile
+    CAN_SIMPLIFY: 0
+- ParentName: concrete
+  Name: propanetank
+  Data:
+    EventSequencer: ''
+    CollectionName: propanetank
+    MASS: 500
+    DETACH_FORCE: -1
+    NO_CAR_EFFECT: true
+    IsWooshable: false
+    COST_TO_STATE: 0
+- ParentName: default
+  Name: rm_glass
+  Data:
+    EventSequencer: rm_glass
+    CollectionName: rm_glass
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: false
+- ParentName: default
+  Name: testsplode
+  Data:
+    EventSequencer: testtrigger
+    CollectionName: testsplode
+    MASS: 1
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    RESPAWN_TIME: 10
+    COST_TO_STATE: 0
+- ParentName: default
+  Name: moments
+  Data:
+    EventSequencer: ''
+    CollectionName: moments
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+- ParentName: moments
+  Name: radiotower
+  Data:
+    EventSequencer: radiotower_seq
+    CollectionName: radiotower
+    MASS: 1000
+    DETACH_FORCE: 1
+    NO_CAR_EFFECT: false
+    IsWooshable: true
+    COST_TO_STATE: 1000
+    rigidbodyspecs:
+      ClassKey: rigidbodyspecs
+      CollectionKey: radiotower
+    start_sequencer: true
+    ExplosionEffect: 0.10000000149011612
+    CAN_SIMPLIFY: 1
+    MOMENT:
+      X: 10
+      Y: 10
+      Z: 1
+    DROPOUT:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    KILL_OFF_SCREEN: 0
+- ParentName: radiotower
+  Name: amphitheater
+  Data:
+    EventSequencer: radiotower_seq
+    CollectionName: amphitheater
+    MASS: 1000
+    DETACH_FORCE: 1
+    NO_CAR_EFFECT: false
+    IsWooshable: true
+    COST_TO_STATE: 1000
+- ParentName: moments
+  Name: busstopsmack
+  Data:
+    EventSequencer: busstopsmack
+    CollectionName: busstopsmack
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+- ParentName: moments
+  Name: watertower
+  Data:
+    EventSequencer: watertower_seq
+    CollectionName: watertower
+    MASS: 10000
+    DETACH_FORCE: 1
+    NO_CAR_EFFECT: false
+    IsWooshable: true
+    rigidbodyspecs:
+      ClassKey: rigidbodyspecs
+      CollectionKey: watertower
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: bigrollingtorus_hit_world
+        MinSpeed: 1
+        MaxSpeed: 10
+    ExplosionEffect: 0.10000000149011612
+    AI_AVOIDABLE: true
+    CAN_SIMPLIFY: 1
+    MOMENT:
+      X: 2
+      Y: 2
+      Z: 2
+    DROPOUT:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: bigsmack_hit_car
+        MinSpeed: 3
+        MaxSpeed: 30
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: smackable_hit_world
+        MinSpeed: 0.10000000149011612
+        MaxSpeed: 0.5
+    CAMERA_AVOIDABLE: true
+    KILL_OFF_SCREEN: 0
+- ParentName: default
+  Name: plastic
+  Data:
+    EventSequencer: genericsmackable
+    CollectionName: plastic
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnScrapeGround:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: smackable_scrapes
+        MinSpeed: 5
+        MaxSpeed: 30
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: organic
+        Effect:
+          ClassKey: effects
+          CollectionKey: smackable_scrape_earth
+        MinSpeed: 5
+        MaxSpeed: 30
+- ParentName: plastic
+  Name: lightplasticobject
+  Data:
+    EventSequencer: genericsmackable
+    CollectionName: lightplasticobject
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: cone_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: cone_hit_car
+        MinSpeed: 1
+        MaxSpeed: 16
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: crate_hit_world
+        MinSpeed: 1
+        MaxSpeed: 16
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: cone_hit_world
+        MinSpeed: 1
+        MaxSpeed: 16
+- ParentName: lightplasticobject
+  Name: cone
+  Data:
+    EventSequencer: genericsmackable
+    CollectionName: cone
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    WooshType: DRIVE_BY_SMOKABLE
+    COST_TO_STATE: 25
+- ParentName: lightplasticobject
+  Name: garbg_bag
+  Data:
+    EventSequencer: genericsmackable
+    CollectionName: garbg_bag
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    COST_TO_STATE: 25
+    SimplePhysics: false
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: garbagebag_hit_car
+        MinSpeed: 1
+        MaxSpeed: 15
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: garbagebag_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: garbagebag_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: garbagebag_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    AUTO_SIMPLIFY: 0
+    KILL_OFF_SCREEN: 8
+- ParentName: plastic
+  Name: mediumplasticobject
+  Data:
+    EventSequencer: genericsmackable
+    CollectionName: mediumplasticobject
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: wtr_drum_emp_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: wtr_drum_emp_hit_car
+        MinSpeed: 1
+        MaxSpeed: 15
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: wtr_drum_emp_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: wtr_drum_emp_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+- ParentName: mediumplasticobject
+  Name: bumper
+  Data:
+    EventSequencer: genericsmackable
+    CollectionName: bumper
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    COST_TO_STATE: 50
+- ParentName: mediumplasticobject
+  Name: potty
+  Data:
+    EventSequencer: genericsmackable
+    CollectionName: potty
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: portpotty_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: portpotty_hit_car
+        MinSpeed: 1
+        MaxSpeed: 11
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: portpotty_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: portpotty_hit_world
+        MinSpeed: 1
+        MaxSpeed: 11
+    COST_TO_STATE: 75
+- ParentName: mediumplasticobject
+  Name: crsh_barrel
+  Data:
+    EventSequencer: wtr_barrel_seq
+    CollectionName: crsh_barrel
+    MASS: 700
+    DETACH_FORCE: 10000
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: wtr_drum_hit_car
+        MinSpeed: 1
+        MaxSpeed: 5
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: wtr_drum_hit_car
+        MinSpeed: 1
+        MaxSpeed: 10
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: wtr_drum_hit_car
+        MinSpeed: 1
+        MaxSpeed: 10
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: wtr_drum_hit_car
+        MinSpeed: 1
+        MaxSpeed: 5
+    COST_TO_STATE: 50
+- ParentName: crsh_barrel
+  Name: crsh_barrel_lid
+  Data:
+    EventSequencer: wtr_barrel_seq
+    CollectionName: crsh_barrel_lid
+    MASS: 700
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: cone_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: cone_hit_car
+        MinSpeed: 1
+        MaxSpeed: 10
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: cone_hit_world
+        MinSpeed: 1
+        MaxSpeed: 10
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: no_sound
+        MinSpeed: 1
+        MaxSpeed: 10
+- ParentName: crsh_barrel
+  Name: crsh_barrel_frag
+  Data:
+    EventSequencer: wtr_barrel_seq
+    CollectionName: crsh_barrel_frag
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: wtr_drum_emp_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: wtr_drum_emp_hit_car
+        MinSpeed: 1
+        MaxSpeed: 5
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: wtr_drum_emp_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: no_sound
+        MinSpeed: 1
+        MaxSpeed: 2
+- ParentName: mediumplasticobject
+  Name: stand
+  Data:
+    EventSequencer: genericsmackable
+    CollectionName: stand
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+- ParentName: mediumplasticobject
+  Name: pylon
+  Data:
+    EventSequencer: genericsmackable
+    CollectionName: pylon
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    WooshType: DRIVE_BY_SMOKABLE
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: cone_hit_world
+        MinSpeed: 1
+        MaxSpeed: 10
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: cone_hit_car
+        MinSpeed: 1
+        MaxSpeed: 10
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: cone_hit_world
+        MinSpeed: 1
+        MaxSpeed: 10
+    AUTO_SIMPLIFY: 3.5
+    COST_TO_STATE: 50
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: cone_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+- ParentName: plastic
+  Name: traffic_cable
+  Data:
+    EventSequencer: trafficcable_seq
+    CollectionName: traffic_cable
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    no_trigger: true
+    CAN_SIMPLIFY: 100
+    COST_TO_STATE: 50
+- ParentName: default
+  Name: bigrollingtorus
+  Data:
+    EventSequencer: donut_seq
+    CollectionName: bigrollingtorus
+    MASS: 10000
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: false
+    IsWooshable: true
+    COST_TO_STATE: 2000
+    WooshType: DRIVE_BY_OVERPASS_IN
+    rigidbodyspecs:
+      ClassKey: rigidbodyspecs
+      CollectionKey: torus
+    DROPOUT:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: donut_hit_world
+        MinSpeed: 2
+        MaxSpeed: 15
+    ExplosionEffect: 0.75
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: donut_hit_world
+        MinSpeed: 1.5
+        MaxSpeed: 15
+    CAN_SIMPLIFY: 0
+    MOMENT:
+      X: 1
+      Y: 1
+      Z: 1.5
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: donut_hit_car
+        MinSpeed: 0.10000000149011612
+        MaxSpeed: 0.5
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: donut_hit_world
+        MinSpeed: 1.5
+        MaxSpeed: 15
+    CAMERA_AVOIDABLE: true
+    KILL_OFF_SCREEN: 0
+- ParentName: default
+  Name: metal
+  Data:
+    EventSequencer: genericsmackable_metal
+    CollectionName: metal
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnScrapeGround:
+      Capacity: 3
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: smackable_scrapes
+        MinSpeed: 5
+        MaxSpeed: 16
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: organic
+        Effect:
+          ClassKey: effects
+          CollectionKey: smackable_scrape_earth
+        MinSpeed: 5
+        MaxSpeed: 16
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: concrete
+        Effect:
+          ClassKey: effects
+          CollectionKey: metal_scrape_concrete
+        MinSpeed: 5
+        MaxSpeed: 16
+- ParentName: metal
+  Name: mediummetalpost
+  Data:
+    EventSequencer: metalpost_seq
+    CollectionName: mediummetalpost
+    MASS: 250
+    DETACH_FORCE: 1
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnDetached:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: mtl_sign_hit_car
+        MinSpeed: 0
+        MaxSpeed: 8
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: mtl_sign_hit_world
+        MinSpeed: 1
+        MaxSpeed: 10
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: mtl_sign_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    WooshType: DRIVE_BY_SMOKABLE
+    MOMENT:
+      X: 0.5
+      Y: 1
+      Z: 0.5
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: mtl_sign_hit_car
+        MinSpeed: 1
+        MaxSpeed: 15
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: mtl_sign_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+- ParentName: mediummetalpost
+  Name: parking_mtr
+  Data:
+    EventSequencer: genericsmackable_metal
+    CollectionName: parking_mtr
+    MASS: 100
+    DETACH_FORCE: 10000
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    COST_TO_STATE: 50
+    OnDetached:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: prkg_mtr_hit_car
+        MinSpeed: 0
+        MaxSpeed: 8
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: prkg_mtr_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: prkg_mtr_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: prkg_mtr_hit_car
+        MinSpeed: 1
+        MaxSpeed: 15
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: prkg_mtr_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+- ParentName: parking_mtr
+  Name: bbnet
+  Data:
+    EventSequencer: genericsmackable
+    CollectionName: bbnet
+    MASS: 100
+    DETACH_FORCE: 10000
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    COST_TO_STATE: 50
+- ParentName: metal
+  Name: largemetalsupport
+  Data:
+    EventSequencer: radiotowersupport_seq
+    CollectionName: largemetalsupport
+    MASS: 20000
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    COST_TO_STATE: 2000
+    ExplosionEffect: 1
+    AI_AVOIDABLE: true
+    CAN_SIMPLIFY: 1
+    MOMENT:
+      X: 3
+      Y: 3
+      Z: 3
+    rigidbodyspecs:
+      ClassKey: rigidbodyspecs
+      CollectionKey: smackable
+- ParentName: largemetalsupport
+  Name: hinkleybase
+  Data:
+    EventSequencer: hinkleybase_seq
+    CollectionName: hinkleybase
+    MASS: 100
+    DETACH_FORCE: 500
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+- ParentName: largemetalsupport
+  Name: amphitheater_base
+  Data:
+    EventSequencer: radiotowersupport_seq
+    CollectionName: amphitheater_base
+    MASS: 20000
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    COST_TO_STATE: 0
+- ParentName: metal
+  Name: mediummetalobject
+  Data:
+    EventSequencer: genericsmackable_metal
+    CollectionName: mediummetalobject
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: mtl_box_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    RiskCar_Tier:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: smackable_hit_car
+        MinSpeed: 1
+        MaxSpeed: 15
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: mtl_box_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+- ParentName: mediummetalobject
+  Name: vend_mach
+  Data:
+    EventSequencer: genericsmackable_metal
+    CollectionName: vend_mach
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: vend_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: vend_hit_car
+        MinSpeed: 1
+        MaxSpeed: 15
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: vend_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: vend_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    COST_TO_STATE: 50
+- ParentName: mediummetalobject
+  Name: bicycle
+  Data:
+    EventSequencer: genericsmackable_metal
+    CollectionName: bicycle
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: bike_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: bike_hit_car
+        MinSpeed: 1
+        MaxSpeed: 15
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: bike_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: bike_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    COST_TO_STATE: 75
+- ParentName: mediummetalobject
+  Name: payphone
+  Data:
+    EventSequencer: payphone
+    CollectionName: payphone
+    MASS: 100
+    DETACH_FORCE: 1
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: payphone_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: payphone_hit_car
+        MinSpeed: 1
+        MaxSpeed: 15
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: payphone_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: payphone_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    COST_TO_STATE: 75
+- ParentName: mediummetalobject
+  Name: garbg_can
+  Data:
+    EventSequencer: genericsmackable_metal
+    CollectionName: garbg_can
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: trashcan_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: trashcan_hit_car
+        MinSpeed: 1
+        MaxSpeed: 15
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: trashcan_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: trashcan_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    COST_TO_STATE: 25
+- ParentName: mediummetalobject
+  Name: boothroof
+  Data:
+    EventSequencer: ''
+    CollectionName: boothroof
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: shelt_frag_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    RiskCar_Tier:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: smackable_hit_car
+        MinSpeed: 1
+        MaxSpeed: 15
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: shelt_frag_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+- ParentName: boothroof
+  Name: boothroof_no_sound
+  Data:
+    EventSequencer: ''
+    CollectionName: boothroof_no_sound
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: no_sound
+        MinSpeed: 1
+        MaxSpeed: 15
+    RiskCar_Tier:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: no_sound
+        MinSpeed: 1
+        MaxSpeed: 15
+    OnScrapeGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: no_sound
+        MinSpeed: 5
+        MaxSpeed: 16
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: no_sound
+        MinSpeed: 1
+        MaxSpeed: 15
+- ParentName: mediummetalobject
+  Name: recyc_bin
+  Data:
+    EventSequencer: genericsmackable_metal
+    CollectionName: recyc_bin
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    COST_TO_STATE: 100
+- ParentName: mediummetalobject
+  Name: trafficcablelight
+  Data:
+    EventSequencer: trafficcablelight_seq
+    CollectionName: trafficcablelight
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    no_trigger: false
+    CAN_SIMPLIFY: 50
+    COST_TO_STATE: 100
+- ParentName: mediummetalobject
+  Name: news_box
+  Data:
+    EventSequencer: genericsmackable_metal
+    CollectionName: news_box
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: vend_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: vend_hit_car
+        MinSpeed: 1
+        MaxSpeed: 10
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: vend_hit_world
+        MinSpeed: 1
+        MaxSpeed: 10
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: vend_hit_world
+        MinSpeed: 1
+        MaxSpeed: 10
+    COST_TO_STATE: 50
+- ParentName: mediummetalobject
+  Name: oil_drum
+  Data:
+    EventSequencer: genericsmackable_metal
+    CollectionName: oil_drum
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: barrel_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: barrel_hit_car
+        MinSpeed: 1
+        MaxSpeed: 8
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: barrel_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: barrel_hit_world
+        MinSpeed: 1
+        MaxSpeed: 8
+    COST_TO_STATE: 50
+- ParentName: mediummetalobject
+  Name: ice_box
+  Data:
+    EventSequencer: genericsmackable_metal
+    CollectionName: ice_box
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: dumpster_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: dumpster_hit_car
+        MinSpeed: 1
+        MaxSpeed: 15
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: dumpster_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: dumpster_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+- ParentName: mediummetalobject
+  Name: hotdog_stnd
+  Data:
+    EventSequencer: genericsmackable_metal
+    CollectionName: hotdog_stnd
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    ExplosionEffect: 0.5
+    COST_TO_STATE: 0
+- ParentName: mediummetalobject
+  Name: tix_mach
+  Data:
+    EventSequencer: genericsmackable_metal
+    CollectionName: tix_mach
+    MASS: 100
+    DETACH_FORCE: 1
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: vend_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: vend_hit_car
+        MinSpeed: 1
+        MaxSpeed: 15
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: vend_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: vend_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    COST_TO_STATE: 50
+- ParentName: mediummetalobject
+  Name: chlink_fnc
+  Data:
+    EventSequencer: genericsmackable_metal
+    CollectionName: chlink_fnc
+    MASS: 100
+    DETACH_FORCE: 1
+    NO_CAR_EFFECT: true
+    IsWooshable: false
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: chlkfence_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: chlkfence_hit_car
+        MinSpeed: 1
+        MaxSpeed: 30
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: chlkfence_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: chlkfence_hit_world
+        MinSpeed: 1
+        MaxSpeed: 30
+    COST_TO_STATE: 50
+- ParentName: chlink_fnc
+  Name: rake
+  Data:
+    EventSequencer: genericsmackable_metal
+    CollectionName: rake
+    MASS: 100
+    DETACH_FORCE: 1
+    NO_CAR_EFFECT: true
+    IsWooshable: false
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: rake_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: rake_hit_car
+        MinSpeed: 1
+        MaxSpeed: 30
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: rake_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: rake_hit_car
+        MinSpeed: 1
+        MaxSpeed: 30
+- ParentName: mediummetalobject
+  Name: firehydrant
+  Data:
+    EventSequencer: firehydrant_seq
+    CollectionName: firehydrant
+    MASS: 50
+    DETACH_FORCE: 10000
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnDetached:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: hydrant_hit_car
+        MinSpeed: 0
+        MaxSpeed: 10
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: hydrant_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: hydrant_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    WooshType: DRIVE_BY_SMOKABLE
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: hydrant_hit_car
+        MinSpeed: 0.10000000149011612
+        MaxSpeed: 15
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: hydrant_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+- ParentName: mediummetalobject
+  Name: mtl_bus_roof
+  Data:
+    EventSequencer: genericsmackable_metal
+    CollectionName: mtl_bus_roof
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    WooshType: DRIVE_BY_BRIDGE
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: mtl_bus_roof_hit_world
+        MinSpeed: 1
+        MaxSpeed: 3
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: mtl_bus_roof_hit_world
+        MinSpeed: 1
+        MaxSpeed: 3
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: mtl_bus_roof_hit_world
+        MinSpeed: 1
+        MaxSpeed: 8
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: mtl_bus_roof_hit_world
+        MinSpeed: 1
+        MaxSpeed: 3
+- ParentName: mediummetalobject
+  Name: rack
+  Data:
+    EventSequencer: genericsmackable_metal
+    CollectionName: rack
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: mtl_fence_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: mtl_fence_hit_car
+        MinSpeed: 1
+        MaxSpeed: 15
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: mtl_fence_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: mtl_fence_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    COST_TO_STATE: 50
+- ParentName: metal
+  Name: largemetalpost
+  Data:
+    EventSequencer: trafficpole_seq
+    CollectionName: largemetalpost
+    MASS: 200
+    DETACH_FORCE: 7500
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnDetached:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: lamp_lrg_hit_car
+        MinSpeed: 0
+        MaxSpeed: 10
+    RESPAWN_TIME: 120
+    DROPOUT:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: lamp_lrg_hit_car
+        MinSpeed: 1
+        MaxSpeed: 8
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: lamp_lrg_hit_world
+        MinSpeed: 1
+        MaxSpeed: 8
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: lamp_lrg_hit_world
+        MinSpeed: 1
+        MaxSpeed: 8
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: lamp_lrg_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    MOMENT:
+      X: 0.5
+      Y: 1
+      Z: 0.5
+    ALLOW_OFF_WORLD: false
+- ParentName: largemetalpost
+  Name: trafficlight
+  Data:
+    EventSequencer: trafficpole_seq
+    CollectionName: trafficlight
+    MASS: 200
+    DETACH_FORCE: 7500
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    COST_TO_STATE: 50
+    RESPAWN_TIME: 120
+    DROPOUT:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: lamp_lrg_hit_car
+        MinSpeed: 1
+        MaxSpeed: 8
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: lamp_lrg_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: lamp_lrg_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: lamp_lrg_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    MOMENT:
+      X: 0.5
+      Y: 1
+      Z: 0.5
+    ALLOW_OFF_WORLD: false
+- ParentName: largemetalpost
+  Name: mast
+  Data:
+    EventSequencer: sailboatmast_seq
+    CollectionName: mast
+    MASS: 2500
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    COST_TO_STATE: 2000
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: mast_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: mast_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    CAN_SIMPLIFY: 10
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: mast_hit_car
+        MinSpeed: 1
+        MaxSpeed: 15
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: mast_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    rigidbodyspecs:
+      ClassKey: rigidbodyspecs
+      CollectionKey: heavygravity
+- ParentName: mast
+  Name: sail_wrap
+  Data:
+    EventSequencer: sailboatmast_seq
+    CollectionName: sail_wrap
+    MASS: 2500
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    COST_TO_STATE: 0
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: umbrella_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: umbrella_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    CAN_SIMPLIFY: 10
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: umbrella_hit_car
+        MinSpeed: 1
+        MaxSpeed: 15
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: umbrella_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+- ParentName: largemetalpost
+  Name: scaffolding
+  Data:
+    EventSequencer: scaffoldsupport_seq
+    CollectionName: scaffolding
+    MASS: 1000
+    DETACH_FORCE: 2000
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    AI_AVOIDABLE: true
+    ExplosionEffect: 0.10000000149011612
+- ParentName: scaffolding
+  Name: billboard
+  Data:
+    EventSequencer: billboard_seq
+    CollectionName: billboard
+    MASS: 1000
+    DETACH_FORCE: 2000
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+- ParentName: metal
+  Name: largemetalobject
+  Data:
+    EventSequencer: genericsmackable
+    CollectionName: largemetalobject
+    MASS: 5000
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    RiskCar_Tier:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: pillar_hit_car
+        MinSpeed: 0
+        MaxSpeed: 5
+    CAN_SIMPLIFY: 25
+    COST_TO_STATE: 100
+- ParentName: largemetalobject
+  Name: pop_mach
+  Data:
+    EventSequencer: genericsmackable
+    CollectionName: pop_mach
+    MASS: 150
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: false
+    IsWooshable: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: pop_mach_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: pop_mach_hit_car
+        MinSpeed: 0.10000000149011612
+        MaxSpeed: 15
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: pop_mach_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    ExplosionEffect: 0.5
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: pop_mach_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    COST_TO_STATE: 75
+- ParentName: largemetalobject
+  Name: tollbooth
+  Data:
+    EventSequencer: tollbooth_seq
+    CollectionName: tollbooth
+    MASS: 400
+    DETACH_FORCE: 15000
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    COST_TO_STATE: 200
+    WooshType: DRIVE_BY_OVERPASS_IN
+    RiskCar_Tier:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: dumpster_hit_car
+        MinSpeed: 1
+        MaxSpeed: 15
+    CAMERA_AVOIDABLE: true
+- ParentName: tollbooth
+  Name: ph_booth
+  Data:
+    EventSequencer: ph_booth_seq
+    CollectionName: ph_booth
+    MASS: 500
+    DETACH_FORCE: 20000
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    WooshType: DRIVE_BY_BRIDGE
+    RiskCar_Tier:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: pop_mach_hit_car
+        MinSpeed: 1
+        MaxSpeed: 15
+    COST_TO_STATE: 75
+- ParentName: largemetalobject
+  Name: metal_gate
+  Data:
+    EventSequencer: genericsmackable_metal
+    CollectionName: metal_gate
+    MASS: 150
+    DETACH_FORCE: 150
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    COST_TO_STATE: 50
+    OnDetached:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: mtl_gate_hit_car
+        MinSpeed: 0
+        MaxSpeed: 10
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: mtl_gate_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: mtl_gate_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: mtl_gate_hit_car
+        MinSpeed: 1
+        MaxSpeed: 15
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: mtl_fence_hit_world
+        MinSpeed: 1
+        MaxSpeed: 20
+    ExplosionEffect: 0.5
+- ParentName: largemetalobject
+  Name: largemetalobjectfrag
+  Data:
+    EventSequencer: genericsmackable
+    CollectionName: largemetalobjectfrag
+    MASS: 5000
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    ExplosionEffect: 0.5
+    COST_TO_STATE: 0
+- ParentName: largemetalobject
+  Name: dumpster
+  Data:
+    EventSequencer: genericsmackable
+    CollectionName: dumpster
+    MASS: 200
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: false
+    IsWooshable: true
+    COST_TO_STATE: 100
+    WooshType: DRIVE_BY_OVERPASS_IN
+    ExplosionEffect: 0.5
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: dumpster_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: dumpster_hit_car
+        MinSpeed: 1
+        MaxSpeed: 9
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: dumpster_hit_world
+        MinSpeed: 1
+        MaxSpeed: 8
+    CAMERA_AVOIDABLE: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: dumpster_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+- ParentName: largemetalobject
+  Name: golfcart
+  Data:
+    EventSequencer: genericsmackable
+    CollectionName: golfcart
+    MASS: 5000
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: golfcart_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: golfcart_hit_car
+        MinSpeed: 0.10000000149011612
+        MaxSpeed: 17
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: golfcart_hit_world
+        MinSpeed: 1
+        MaxSpeed: 17
+    ExplosionEffect: 0.5
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: golfcart_hit_world
+        MinSpeed: 1
+        MaxSpeed: 17
+    COST_TO_STATE: 0
+- ParentName: metal
+  Name: lightmetalobject
+  Data:
+    EventSequencer: ''
+    CollectionName: lightmetalobject
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: mtl_fence_hit_car
+        MinSpeed: 1
+        MaxSpeed: 15
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: mtl_fence_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: mtl_fence_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: mtl_fence_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    AUTO_SIMPLIFY: 1.5
+- ParentName: lightmetalobject
+  Name: bench_mtl_bar
+  Data:
+    EventSequencer: bench
+    CollectionName: bench_mtl_bar
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    WooshType: DRIVE_BY_SMOKABLE
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: mtl_bar_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: mtl_bar_hit_car
+        MinSpeed: 1
+        MaxSpeed: 15
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: mtl_bar_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: mtl_bar_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+- ParentName: lightmetalobject
+  Name: mtl_box
+  Data:
+    EventSequencer: ''
+    CollectionName: mtl_box
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: mtl_box_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: mtl_box_hit_car
+        MinSpeed: 1
+        MaxSpeed: 15
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: mtl_box_hit_world
+        MinSpeed: 1
+        MaxSpeed: 8
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: mtl_box_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    COST_TO_STATE: 25
+- ParentName: lightmetalobject
+  Name: lwn_chr
+  Data:
+    EventSequencer: ''
+    CollectionName: lwn_chr
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: lawn_chr_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: lawn_chr_hit_car
+        MinSpeed: 1
+        MaxSpeed: 20
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: lawn_chr_hit_world
+        MinSpeed: 1
+        MaxSpeed: 8
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: lawn_chr_hit_world
+        MinSpeed: 1
+        MaxSpeed: 20
+    COST_TO_STATE: 50
+- ParentName: lightmetalobject
+  Name: lightfixture
+  Data:
+    EventSequencer: ''
+    CollectionName: lightfixture
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: false
+- ParentName: lightmetalobject
+  Name: bus_mtl_peices
+  Data:
+    EventSequencer: ''
+    CollectionName: bus_mtl_peices
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: mtl_bus_shltr_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: mtl_bus_shltr_hit_car
+        MinSpeed: 1
+        MaxSpeed: 12
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: mtl_bus_shltr_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: mtl_bus_shltr_hit_world
+        MinSpeed: 1
+        MaxSpeed: 13
+- ParentName: metal
+  Name: carparts
+  Data:
+    EventSequencer: ''
+    CollectionName: carparts
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    rigidbodyspecs:
+      ClassKey: rigidbodyspecs
+      CollectionKey: fragment
+- ParentName: carparts
+  Name: hood
+  Data:
+    EventSequencer: ''
+    CollectionName: hood
+    MASS: 50
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+- ParentName: carparts
+  Name: car
+  Data:
+    EventSequencer: ''
+    CollectionName: car
+    MASS: 4000
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: false
+    IsWooshable: true
+    rigidbodyspecs:
+      ClassKey: rigidbodyspecs
+      CollectionKey: carriercars
+    OnScrapeWorld:
+      Capacity: 3
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: carscrapewall
+        MinSpeed: 5
+        MaxSpeed: 30
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: wood
+        Effect:
+          ClassKey: effects
+          CollectionKey: carscrapewood
+        MinSpeed: 5
+        MaxSpeed: 30
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: organic
+        Effect:
+          ClassKey: effects
+          CollectionKey: carscrapepavement
+        MinSpeed: 5
+        MaxSpeed: 30
+    OnScrapeObject:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: carscrapecar
+        MinSpeed: 0.10000000149011612
+        MaxSpeed: 30
+    OnHitGround:
+      Capacity: 3
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: carhitground
+        MinSpeed: 1
+        MaxSpeed: 5
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: concrete
+        Effect:
+          ClassKey: effects
+          CollectionKey: carhitpavement
+        MinSpeed: 1
+        MaxSpeed: 5
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: wood
+        Effect:
+          ClassKey: effects
+          CollectionKey: carhitwood
+        MinSpeed: 1
+        MaxSpeed: 5
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: carhitwall
+        MinSpeed: 1
+        MaxSpeed: 30
+    CAN_SIMPLIFY: 0
+    OnScrapeGround:
+      Capacity: 3
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: carscrapeground
+        MinSpeed: 0.10000000149011612
+        MaxSpeed: 30
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: organic
+        Effect:
+          ClassKey: effects
+          CollectionKey: carscrapeearth
+        MinSpeed: 5
+        MaxSpeed: 30
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: concrete
+        Effect:
+          ClassKey: effects
+          CollectionKey: carscrapepavement
+        MinSpeed: 5
+        MaxSpeed: 30
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: carhitcar
+        MinSpeed: 1
+        MaxSpeed: 30
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: carhitcar
+        MinSpeed: 1
+        MaxSpeed: 15
+    KILL_OFF_SCREEN: 0
+- ParentName: car
+  Name: carcarriercar
+  Data:
+    EventSequencer: trailing_fx_seq
+    CollectionName: carcarriercar
+    MASS: 4000
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: false
+    IsWooshable: true
+    OnHitGround:
+      Capacity: 3
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: carhitground
+        MinSpeed: 1
+        MaxSpeed: 5
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: concrete
+        Effect:
+          ClassKey: effects
+          CollectionKey: tankerhitground
+        MinSpeed: 1
+        MaxSpeed: 10
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: wood
+        Effect:
+          ClassKey: effects
+          CollectionKey: carhitwood
+        MinSpeed: 1
+        MaxSpeed: 5
+- ParentName: car
+  Name: parked_car
+  Data:
+    EventSequencer: parked_car
+    CollectionName: parked_car
+    MASS: 500
+    DETACH_FORCE: 1000
+    NO_CAR_EFFECT: false
+    IsWooshable: true
+    COST_TO_STATE: 200
+    rigidbodyspecs:
+      ClassKey: rigidbodyspecs
+      CollectionKey: carriercars
+    OnScrapeObject:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: carscrapecar
+        MinSpeed: 0.10000000149011612
+        MaxSpeed: 30
+    OnScrapeWorld:
+      Capacity: 3
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: carscrapewall
+        MinSpeed: 5
+        MaxSpeed: 30
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: wood
+        Effect:
+          ClassKey: effects
+          CollectionKey: carscrapewood
+        MinSpeed: 5
+        MaxSpeed: 30
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: organic
+        Effect:
+          ClassKey: effects
+          CollectionKey: carscrapepavement
+        MinSpeed: 5
+        MaxSpeed: 30
+    OnHitGround:
+      Capacity: 3
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: carhitground
+        MinSpeed: 1
+        MaxSpeed: 5
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: concrete
+        Effect:
+          ClassKey: effects
+          CollectionKey: carhitpavement
+        MinSpeed: 1
+        MaxSpeed: 5
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: wood
+        Effect:
+          ClassKey: effects
+          CollectionKey: carhitwood
+        MinSpeed: 1
+        MaxSpeed: 5
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: carhitwall
+        MinSpeed: 1
+        MaxSpeed: 30
+    CAN_SIMPLIFY: 0
+    OnScrapeGround:
+      Capacity: 3
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: carscrapeground
+        MinSpeed: 0.10000000149011612
+        MaxSpeed: 30
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: organic
+        Effect:
+          ClassKey: effects
+          CollectionKey: carscrapeearth
+        MinSpeed: 5
+        MaxSpeed: 30
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: concrete
+        Effect:
+          ClassKey: effects
+          CollectionKey: carscrapepavement
+        MinSpeed: 5
+        MaxSpeed: 30
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: carhitcar
+        MinSpeed: 1
+        MaxSpeed: 30
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: carhitcar
+        MinSpeed: 1
+        MaxSpeed: 15
+    KILL_OFF_SCREEN: 0
+- ParentName: parked_car
+  Name: minivan
+  Data:
+    EventSequencer: parked_car
+    CollectionName: minivan
+    MASS: 500
+    DETACH_FORCE: 1000
+    NO_CAR_EFFECT: false
+    IsWooshable: true
+    COST_TO_STATE: 300
+- ParentName: carparts
+  Name: coplights
+  Data:
+    EventSequencer: ''
+    CollectionName: coplights
+    MASS: 50
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+- ParentName: carparts
+  Name: door
+  Data:
+    EventSequencer: ''
+    CollectionName: door
+    MASS: 50
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+- ParentName: metal
+  Name: aluminumroof
+  Data:
+    EventSequencer: spawnheavy_seq
+    CollectionName: aluminumroof
+    MASS: 10000
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: false
+    IsWooshable: true
+    WooshType: DRIVE_BY_BRIDGE
+    no_trigger: false
+- ParentName: aluminumroof
+  Name: aluminumrooffrag
+  Data:
+    EventSequencer: spawnheavy_seq
+    CollectionName: aluminumrooffrag
+    MASS: 5000
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: false
+    IsWooshable: true
+- ParentName: metal
+  Name: metalexplosion
+  Data:
+    EventSequencer: explosion_seq
+    CollectionName: metalexplosion
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+- ParentName: metalexplosion
+  Name: gaspumpexplosion
+  Data:
+    EventSequencer: gaspumpexplosion_seq
+    CollectionName: gaspumpexplosion
+    MASS: 100
+    DETACH_FORCE: 10000
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+    COST_TO_STATE: 0
+- ParentName: metal
+  Name: hugemetalobject
+  Data:
+    EventSequencer: hugemetalobject_seq
+    CollectionName: hugemetalobject
+    MASS: 10000
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: false
+    IsWooshable: true
+    WooshType: DRIVE_BY_OVERPASS_OUT
+    no_trigger: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: huge_object_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: huge_object_hit_world
+        MinSpeed: 3
+        MaxSpeed: 30
+    CAN_SIMPLIFY: 25
+- ParentName: hugemetalobject
+  Name: sailboat
+  Data:
+    EventSequencer: sailboat_seq
+    CollectionName: sailboat
+    MASS: 30000
+    DETACH_FORCE: -1
+    NO_CAR_EFFECT: false
+    IsWooshable: true
+    COST_TO_STATE: 0
+    WooshType: DRIVE_BY_OVERPASS_OUT
+    rigidbodyspecs:
+      ClassKey: rigidbodyspecs
+      CollectionKey: sailboat
+    OnHitWorld:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: boat_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    no_trigger: false
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: boat_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    AI_AVOIDABLE: true
+    CAN_SIMPLIFY: 1
+    MOMENT:
+      X: 5
+      Y: 2
+      Z: 5
+    RiskCar_Tier:
+      Capacity: 2
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: carbody
+        Effect:
+          ClassKey: effects
+          CollectionKey: boat_hit_car
+        MinSpeed: 1
+        MaxSpeed: 15
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: solid
+        Effect:
+          ClassKey: effects
+          CollectionKey: boat_hit_world
+        MinSpeed: 1
+        MaxSpeed: 15
+    CAMERA_AVOIDABLE: true
+    KILL_OFF_SCREEN: 0
+- ParentName: hugemetalobject
+  Name: watertowercontainer
+  Data:
+    EventSequencer: hugemetalobject_seq
+    CollectionName: watertowercontainer
+    MASS: 10000
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: false
+    IsWooshable: true
+    MOMENT:
+      X: 20
+      Y: 6
+      Z: 20
+    rigidbodyspecs:
+      ClassKey: rigidbodyspecs
+      CollectionKey: watertower
+    KILL_OFF_SCREEN: 16
+- ParentName: hugemetalobject
+  Name: hugemetalfrag
+  Data:
+    EventSequencer: ''
+    CollectionName: hugemetalfrag
+    MASS: 2500
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: false
+    IsWooshable: true
+    CAN_SIMPLIFY: 0
+    no_trigger: false
+- ParentName: hugemetalobject
+  Name: wreck
+  Data:
+    EventSequencer: hugemetalobject_seq
+    CollectionName: wreck
+    MASS: 30000
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: false
+    IsWooshable: true
+    no_trigger: true
+    OnHitGround:
+      Capacity: 1
+      Data:
+      - Surface:
+          ClassKey: simsurface
+          CollectionKey: default
+        Effect:
+          ClassKey: effects
+          CollectionKey: bigrollingtorus_hit_world
+        MinSpeed: 1
+        MaxSpeed: 5
+    CAN_SIMPLIFY: 1
+    MOMENT:
+      X: 5
+      Y: 2
+      Z: 5
+    rigidbodyspecs:
+      ClassKey: rigidbodyspecs
+      CollectionKey: sailboat
+- ParentName: hugemetalobject
+  Name: hugemetalbreakable
+  Data:
+    EventSequencer: hugemetalbreakable_seq
+    CollectionName: hugemetalbreakable
+    MASS: 5000
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: false
+    IsWooshable: true
+    rigidbodyspecs:
+      ClassKey: rigidbodyspecs
+      CollectionKey: heavygravity
+    CAN_SIMPLIFY: 10
+- ParentName: metal
+  Name: rm_largemetalobject
+  Data:
+    EventSequencer: genericsmackable
+    CollectionName: rm_largemetalobject
+    MASS: 10
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true
+- ParentName: default
+  Name: placeables
+  Data:
+    EventSequencer: ''
+    CollectionName: placeables
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: false
+    IsWooshable: false
+    CAN_SIMPLIFY: 0
+    COST_TO_STATE: 0
+    KILL_OFF_SCREEN: 0
+- ParentName: placeables
+  Name: speed_trap_camera
+  Data:
+    EventSequencer: ''
+    CollectionName: speed_trap_camera
+    MASS: 100
+    DETACH_FORCE: 150
+    NO_CAR_EFFECT: false
+    IsWooshable: false
+    CAN_SIMPLIFY: 50
+    KILL_OFF_SCREEN: 8
+- ParentName: placeables
+  Name: spikestrip
+  Data:
+    EventSequencer: ''
+    CollectionName: spikestrip
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: false
+    IsWooshable: false
+    SimplePhysics: true
+    BEHAVIORS:
+      Capacity: 1
+      Data:
+      - Value: SpikeStrip
+- ParentName: default
+  Name: test
+  Data:
+    EventSequencer: testsmack
+    CollectionName: test
+    MASS: 100
+    DETACH_FORCE: 0
+    NO_CAR_EFFECT: true
+    IsWooshable: true

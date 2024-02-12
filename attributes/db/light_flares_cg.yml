@@ -1,0 +1,330 @@
+- ParentName: 
+  Name: coplightbrightred
+  Data:
+    colour:
+      X: 0.67000001668930054
+      Y: 0
+      Z: 0
+      W: 0.40000000596046448
+    MinSize: 40
+    MinScale: 0.0099999997764825821
+    Power: 1
+    flare_texture: 2
+    Maxscale: 0.019999999552965164
+    MaxSize: 50
+    ZBias: 1
+- ParentName: 
+  Name: traffic_light
+  Data:
+    colour:
+      X: 0.43000000715255737
+      Y: 0.28999999165534973
+      Z: 0
+      W: 0.57999998331069946
+    MinSize: 30
+    MinScale: 0.004999999888241291
+    Power: 1
+    flare_texture: 2
+    Maxscale: 0.10000000149011612
+    MaxSize: 30
+    ZBias: 0.40000000596046448
+- ParentName: 
+  Name: traffic_light_red
+  Data:
+    colour:
+      X: 0.31000000238418579
+      Y: 0.0099999997764825821
+      Z: 0
+      W: 0.38999998569488525
+    MinSize: 30
+    MinScale: 0.0010000000474974513
+    Power: 1
+    flare_texture: 2
+    Maxscale: 0.10000000149011612
+    MaxSize: 30
+    ZBias: 4
+- ParentName: 
+  Name: reverselight_inner
+  Data:
+    colour:
+      X: 1
+      Y: 1
+      Z: 1
+      W: 0.34000000357627869
+    MinSize: 20
+    MinScale: 0.004999999888241291
+    Power: 0.10000000149011612
+    flare_texture: 1
+    Maxscale: 0.0099999997764825821
+    MaxSize: 23
+    ZBias: 0.30000001192092896
+- ParentName: 
+  Name: headlight_inner
+  Data:
+    colour:
+      X: 0.23000000417232513
+      Y: 0.40000000596046448
+      Z: 0.60000002384185791
+      W: 0
+    MinSize: 0
+    MinScale: 0.019999999552965164
+    Power: 0.75
+    flare_texture: 2
+    Maxscale: 0.035000000149011612
+    MaxSize: 50
+    ZBias: 0.30000001192092896
+- ParentName: 
+  Name: foglight_inner
+  Data:
+    colour:
+      X: 0
+      Y: 0
+      Z: 0
+      W: 0
+    MinSize: 20
+    MinScale: 0.004999999888241291
+    Power: 1
+    flare_texture: 2
+    Maxscale: 0.0099999997764825821
+    MaxSize: 20
+    ZBias: 0.20000000298023224
+- ParentName: 
+  Name: catseye_red
+  Data:
+    colour:
+      X: 0
+      Y: 0
+      Z: 0
+      W: 0
+    MinSize: 0
+    MinScale: 0
+    Power: 0
+    flare_texture: 2
+    Maxscale: 0
+    MaxSize: 0
+    ZBias: 0
+- ParentName: 
+  Name: coplightwhite_inner
+  Data:
+    colour:
+      X: 0.5
+      Y: 0.5
+      Z: 0.5
+      W: 0.5
+    MinSize: 30
+    MinScale: 0.0099999997764825821
+    Power: 1
+    flare_texture: 2
+    Maxscale: 0.019999999552965164
+    MaxSize: 40
+    ZBias: 1
+- ParentName: 
+  Name: coplightorange
+  Data:
+    colour:
+      X: 1
+      Y: 0.51999998092651367
+      Z: 0.15000000596046448
+      W: 0.40000000596046448
+    MinSize: 20
+    MinScale: 0.004999999888241291
+    Power: 1.2000000476837158
+    flare_texture: 2
+    Maxscale: 0.0099999997764825821
+    MaxSize: 20
+    ZBias: 0.20000000298023224
+- ParentName: 
+  Name: lamppost_outer
+  Data:
+    colour:
+      X: 0
+      Y: 0
+      Z: 0
+      W: 0
+    MinSize: 1
+    MinScale: 0
+    Power: 1
+    flare_texture: 1
+    Maxscale: 0.10000000149011612
+    MaxSize: 4
+    ZBias: 0
+- ParentName: 
+  Name: sun_flare
+  Data:
+    colour:
+      X: 1
+      Y: 1
+      Z: 0.38999998569488525
+      W: 1
+    MinSize: 1
+    MinScale: 0.80000001192092896
+    Power: 1
+    flare_texture: 2
+    Maxscale: 1
+    MaxSize: 20
+    ZBias: 5
+- ParentName: 
+  Name: catseye_blue
+  Data:
+    colour:
+      X: 0
+      Y: 0
+      Z: 0
+      W: 0
+    MinSize: 0
+    MinScale: 0
+    Power: 0
+    flare_texture: 2
+    Maxscale: 0
+    MaxSize: 0
+    ZBias: 0
+- ParentName: 
+  Name: coplightbrightblue
+  Data:
+    colour:
+      X: 0
+      Y: 0.0099999997764825821
+      Z: 0.52999997138977051
+      W: 0.40000000596046448
+    MinSize: 40
+    MinScale: 0.0099999997764825821
+    Power: 1
+    flare_texture: 2
+    Maxscale: 0.019999999552965164
+    MaxSize: 50
+    ZBias: 1
+- ParentName: 
+  Name: catseye_orange
+  Data:
+    colour:
+      X: 0.43000000715255737
+      Y: 0.28999999165534973
+      Z: 0
+      W: 0.57999998331069946
+    MinSize: 10
+    MinScale: 0.0010000000474974513
+    Power: 1
+    flare_texture: 2
+    Maxscale: 0.10000000149011612
+    MaxSize: 10
+    ZBias: 2.7000000476837158
+- ParentName: 
+  Name: headlight_outer
+  Data:
+    colour:
+      X: 0.40000000596046448
+      Y: 0.49000000953674316
+      Z: 0.5
+      W: 0.34000000357627869
+    MinSize: 60
+    MinScale: 1
+    Power: 0.10000000149011612
+    flare_texture: 0
+    Maxscale: 0.014999999664723873
+    MaxSize: 40
+    ZBias: 0.30000001192092896
+- ParentName: 
+  Name: brakelight_inner
+  Data:
+    colour:
+      X: 0.93000000715255737
+      Y: 0.15999999642372131
+      Z: 0.15999999642372131
+      W: 0.20000000298023224
+    MinSize: 20
+    MinScale: 0.0099999997764825821
+    Power: 0.44999998807907104
+    flare_texture: 2
+    Maxscale: 0.039999999105930328
+    MaxSize: 25
+    ZBias: 0.30000001192092896
+- ParentName: 
+  Name: hand_flare_red
+  Data:
+    colour:
+      X: 0.40999999642372131
+      Y: 0.10000000149011612
+      Z: 0
+      W: 0.27000001072883606
+    MinSize: 1
+    MinScale: 0.070000000298023224
+    Power: 1
+    flare_texture: 2
+    Maxscale: 0.070000000298023224
+    MaxSize: 10
+    ZBias: 5
+- ParentName: 
+  Name: green_flare
+  Data:
+    colour:
+      X: 0
+      Y: 0.43000000715255737
+      Z: 0
+      W: 0.27000001072883606
+    MinSize: 1
+    MinScale: 0.070000000298023224
+    Power: 1
+    flare_texture: 2
+    Maxscale: 0.070000000298023224
+    MaxSize: 10
+    ZBias: 5
+- ParentName: 
+  Name: brakelight_traffic_inner
+  Data:
+    colour:
+      X: 0.93000000715255737
+      Y: 0.15999999642372131
+      Z: 0.15999999642372131
+      W: 0.80000001192092896
+    MinSize: 20
+    MinScale: 0.0099999997764825821
+    Power: 0.44999998807907104
+    flare_texture: 2
+    Maxscale: 0.039999999105930328
+    MaxSize: 25
+    ZBias: 0.30000001192092896
+- ParentName: 
+  Name: coplightblue_inner
+  Data:
+    colour:
+      X: 0
+      Y: 0
+      Z: 0.5
+      W: 0.57999998331069946
+    MinSize: 40
+    MinScale: 0.0099999997764825821
+    Power: 1
+    flare_texture: 2
+    Maxscale: 0.019999999552965164
+    MaxSize: 50
+    ZBias: 1
+- ParentName: 
+  Name: lamppost_inner
+  Data:
+    colour:
+      X: 0.43000000715255737
+      Y: 0.38999998569488525
+      Z: 0.28999999165534973
+      W: 0.43000000715255737
+    MinSize: 30
+    MinScale: 0.0010000000474974513
+    Power: 1
+    flare_texture: 2
+    Maxscale: 0.10000000149011612
+    MaxSize: 30
+    ZBias: 4
+- ParentName: 
+  Name: coplightred_inner
+  Data:
+    colour:
+      X: 0.5
+      Y: 0
+      Z: 0
+      W: 0.57999998331069946
+    MinSize: 40
+    MinScale: 0.0099999997764825821
+    Power: 1
+    flare_texture: 2
+    Maxscale: 0.019999999552965164
+    MaxSize: 50
+    ZBias: 1

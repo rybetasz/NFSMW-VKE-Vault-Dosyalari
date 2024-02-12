@@ -1,0 +1,189 @@
+- ParentName: 
+  Name: italian
+  Data:
+    CSIPath: Sound\Speech\copspeech.csi
+    BIGPath: Sound\Speech\copspeech.big
+    IDXPath: Sound\Speech\copspeech.idx
+    EVTPath: Sound\Speech\copspeech.evt
+- ParentName: 
+  Name: mwnissfxstreams
+  Data:
+    CSIPath: sound\streams\nisaudio.csi
+    BIGPath: sound\streams\nisaudio.big
+    IDXPath: sound\streams\nisaudio.idx
+    EVTPath: sound\streams\nisaudio.evt
+- ParentName: 
+  Name: french
+  Data:
+    CSIPath: Sound\Speech\copspeech.csi
+    BIGPath: Sound\Speech\copspeech.big
+    IDXPath: Sound\Speech\copspeech.idx
+    EVTPath: Sound\Speech\copspeech.evt
+- ParentName: 
+  Name: mwlicensedmusic
+  Data:
+    CSIPath: ''
+    BIGPath: ''
+    IDXPath: ''
+    EVTPath: ''
+    PFMapping:
+      Capacity: 26
+      Data:
+      - ClassKey: music
+        CollectionKey: ninethou
+      - ClassKey: music
+        CollectionKey: doyathang
+      - ClassKey: music
+        CollectionKey: iamroc
+      - ClassKey: music
+        CollectionKey: inmyhood
+      - ClassKey: music
+        CollectionKey: letsmove
+      - ClassKey: music
+        CollectionKey: setsgoup
+      - ClassKey: music
+        CollectionKey: firedup
+      - ClassKey: music
+        CollectionKey: bsidewinsagain
+      - ClassKey: music
+        CollectionKey: shapeshifter
+      - ClassKey: music
+        CollectionKey: tilted
+      - ClassKey: music
+        CollectionKey: feedmyaddiction
+      - ClassKey: music
+        CollectionKey: onegoodreason
+      - ClassKey: music
+        CollectionKey: wecontrol
+      - ClassKey: music
+        CollectionKey: skinnyman
+      - ClassKey: music
+        CollectionKey: barrierbreak
+      - ClassKey: music
+        CollectionKey: decadence
+      - ClassKey: music
+        CollectionKey: youllbeundermywheels
+      - ClassKey: music
+        CollectionKey: taoofthemachine
+      - ClassKey: music
+        CollectionKey: youmustfollow
+      - ClassKey: music
+        CollectionKey: bloodandthunder
+      - ClassKey: music
+        CollectionKey: brokensword
+      - ClassKey: music
+        CollectionKey: handofblood
+      - ClassKey: music
+        CollectionKey: 0x67ABD3A6
+      - ClassKey: music
+        CollectionKey: blindedinchains
+      - ClassKey: music
+        CollectionKey: feelslikeitshould
+      - ClassKey: music
+        CollectionKey: 0xFFB0D1C5
+- ParentName: 
+  Name: mostwanted
+  Data:
+    CSIPath: ''
+    BIGPath: ''
+    IDXPath: ''
+    EVTPath: ''
+    Locales:
+      Capacity: 6
+      Data:
+      - ClassKey: audiosystem
+        CollectionKey: english
+      - ClassKey: audiosystem
+        CollectionKey: french
+      - ClassKey: audiosystem
+        CollectionKey: german
+      - ClassKey: audiosystem
+        CollectionKey: italian
+      - ClassKey: audiosystem
+        CollectionKey: spanish
+      - ClassKey: audiosystem
+        CollectionKey: japanese
+    AEMS_SkidBanks:
+      Capacity: 4
+      Data:
+      - Value: SKID_BIG_MB.abk
+      - Value: SKID_SML_MB.abk
+      - Value: SKIDS_DRIFT_BIG_MB.abk
+      - Value: SKIDS_DRIFT_MED_MB.abk
+    EvtSys:
+      Capacity: 7
+      Data:
+      - Value: MAIN_AEMS.csi
+      - Value: FE_AEMS.csi
+      - Value: ENGINES_AEMS2.csi
+      - Value: TURBO.csi
+      - Value: ENVIRO_AEMS.csi
+      - Value: STITCH_AEMS.csi
+      - Value: COP_SIREN_AEMS.csi
+    AEMS_RNBanks: ROADNOISE_00_MB.abk
+    AEMS_FEBanks:
+      Capacity: 2
+      Data:
+      - Value: FE_MB.abk
+      - Value: FE_COMMON_MB.abk
+    AEMS_MiscBanks:
+      Capacity: 8
+      Data:
+      - Value: Siren_MB.abk
+      - Value: FX_Rain_MB.abk
+      - Value: TRAFFIC_MB.abk
+      - Value: FX_Misc_MB.abk
+      - Value: FX_Helicopter_MB.abk
+      - Value: FX_Camera.abk
+      - Value: CAR_99_ENG_MB_EE.abk
+      - Value: CAR_TRANNY.abk
+    AEMS_NOSBanks:
+      Capacity: 2
+      Data:
+      - Value: Nitrous_00_MB.abk
+      - Value: Nitrous_01_MB.abk
+    nissfxstreams:
+      ClassKey: audiosystem
+      CollectionKey: mwnissfxstreams
+    AEMS_WNBanks:
+      Capacity: 1
+      Data:
+      - Value: WIND_00_MB.abk
+    AEMS_StitchBanks:
+      Capacity: 3
+      Data:
+      - Value: Stich_Collision_MB.abk
+      - Value: Stitch_Whoosh_MB.abk
+      - Value: Stitch_Static_MB.abk
+    AEMS_EnvBanks: ENV_COMMON_MB.abK
+    LicensedMusic:
+      ClassKey: audiosystem
+      CollectionKey: mwlicensedmusic
+- ParentName: 
+  Name: german
+  Data:
+    CSIPath: Sound\Speech\copspeech.csi
+    BIGPath: Sound\Speech\copspeech.big
+    IDXPath: Sound\Speech\copspeech.idx
+    EVTPath: Sound\Speech\copspeech.evt
+- ParentName: 
+  Name: spanish
+  Data:
+    CSIPath: Sound\Speech\copspeech.csi
+    BIGPath: Sound\Speech\copspeech.big
+    IDXPath: Sound\Speech\copspeech.idx
+    EVTPath: Sound\Speech\copspeech.evt
+- ParentName: 
+  Name: english
+  Data:
+    CSIPath: Sound\Speech\copspeech.csi
+    BIGPath: Sound\Speech\copspeech.big
+    IDXPath: Sound\Speech\copspeech.idx
+    EVTPath: Sound\Speech\copspeech.evt
+- ParentName: 
+  Name: japanese
+  Data:
+    CSIPath: Sound\Speech\copspeech.csi
+    BIGPath: Sound\Speech\copspeech.big
+    IDXPath: Sound\Speech\copspeech.idx
+    EVTPath: Sound\Speech\copspeech.evt

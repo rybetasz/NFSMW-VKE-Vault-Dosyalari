@@ -1,0 +1,38 @@
+- ParentName: 
+  Name: contrail
+  Data:
+    doTest: true
+    NGEmitter:
+      Capacity: 1
+      Data:
+      - ClassKey: fuelcell_emitter
+        CollectionKey: trail3
+- ParentName: 
+  Name: default
+  Data:
+    doTest: false
+    NGEmitter:
+      Capacity: 1
+      Data:
+      - ClassKey: fuelcell_emitter
+        CollectionKey: test
+- ParentName: 
+  Name: test
+  Data:
+    doTest: false
+    NGEmitter:
+      Capacity: 1
+      Data:
+      - ClassKey: fuelcell_emitter
+        CollectionKey: trail2
+- ParentName: 
+  Name: fxsprk_line
+  Data:
+    doTest: false
+    NGEmitter:
+      Capacity: 2
+      Data:
+      - ClassKey: fuelcell_emitter
+        CollectionKey: emsprk_line1
+      - ClassKey: fuelcell_emitter
+        CollectionKey: emsprk_line2

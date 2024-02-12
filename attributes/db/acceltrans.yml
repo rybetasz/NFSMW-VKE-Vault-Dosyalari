@@ -1,0 +1,197 @@
+- ParentName: 
+  Name: default
+  Data:
+    AccelFromIdle_PEAK_T: 260
+    AccelFromIdle_RESUME_T: 700
+    AccelFromIdle_PEAK_RPM: 3250
+    AccelFromIdle_PEAK_VOL: 0.40000000596046448
+    AccelFromIdle_INTERUPT_T: 700
+- ParentName: default
+  Name: 0x065D0D03
+  Data:
+    AccelFromIdle_PEAK_T: 700
+    AccelFromIdle_RESUME_T: 1000
+    AccelFromIdle_PEAK_RPM: 2500
+    AccelFromIdle_PEAK_VOL: 0.5
+- ParentName: default
+  Name: 0x06E9DAF8
+  Data:
+    AccelFromIdle_PEAK_T: 500
+    AccelFromIdle_RESUME_T: 900
+    AccelFromIdle_PEAK_RPM: 4500
+    AccelFromIdle_PEAK_VOL: 0.34999999403953552
+- ParentName: 0x06E9DAF8
+  Name: muscle_med
+  Data:
+    AccelFromIdle_PEAK_T: 500
+    AccelFromIdle_RESUME_T: 900
+    AccelFromIdle_PEAK_RPM: 4500
+    AccelFromIdle_PEAK_VOL: 0.34999999403953552
+- ParentName: 0x06E9DAF8
+  Name: muscle_v_fast
+  Data:
+    AccelFromIdle_PEAK_T: 220
+    AccelFromIdle_RESUME_T: 300
+    AccelFromIdle_PEAK_RPM: 5000
+    AccelFromIdle_PEAK_VOL: 0.5
+- ParentName: 0x06E9DAF8
+  Name: muscle_fast
+  Data:
+    AccelFromIdle_PEAK_T: 400
+    AccelFromIdle_RESUME_T: 800
+    AccelFromIdle_PEAK_RPM: 5000
+    AccelFromIdle_PEAK_VOL: 0.40000000596046448
+- ParentName: default
+  Name: 0x43A340B2
+  Data:
+    AccelFromIdle_PEAK_T: 400
+    AccelFromIdle_RESUME_T: 1500
+    AccelFromIdle_PEAK_RPM: 3500
+    AccelFromIdle_PEAK_VOL: 0.5
+- ParentName: 0x43A340B2
+  Name: suv_v_fast
+  Data:
+    AccelFromIdle_PEAK_T: 350
+    AccelFromIdle_RESUME_T: 1500
+    AccelFromIdle_PEAK_RPM: 8500
+    AccelFromIdle_PEAK_VOL: 0.5
+- ParentName: 0x43A340B2
+  Name: suv_fast
+  Data:
+    AccelFromIdle_PEAK_T: 500
+    AccelFromIdle_RESUME_T: 900
+    AccelFromIdle_PEAK_RPM: 6500
+    AccelFromIdle_PEAK_VOL: 0.5
+- ParentName: default
+  Name: 0x996D51CF
+  Data:
+    AccelFromIdle_PEAK_T: 300
+    AccelFromIdle_RESUME_T: 1000
+    AccelFromIdle_PEAK_RPM: 6000
+    AccelFromIdle_PEAK_VOL: 0.5
+- ParentName: 0x996D51CF
+  Name: accel_from_idle_auto
+  Data:
+    AccelFromIdle_PEAK_T: 600
+    AccelFromIdle_RESUME_T: 600
+    AccelFromIdle_PEAK_RPM: 3500
+    AccelFromIdle_PEAK_VOL: 0.30000001192092896
+- ParentName: 0x996D51CF
+  Name: 0xD6B69989
+  Data:
+    AccelFromIdle_PEAK_T: 200
+    AccelFromIdle_RESUME_T: 300
+    AccelFromIdle_PEAK_RPM: 6000
+    AccelFromIdle_PEAK_VOL: 0.5
+- ParentName: 0x996D51CF
+  Name: 0xDDBFDEC2
+  Data:
+    AccelFromIdle_PEAK_T: 800
+    AccelFromIdle_RESUME_T: 1000
+    AccelFromIdle_PEAK_RPM: 5000
+    AccelFromIdle_PEAK_VOL: 0.5
+- ParentName: 0x996D51CF
+  Name: accel_from_idle_race
+  Data:
+    AccelFromIdle_PEAK_T: 300
+    AccelFromIdle_RESUME_T: 1000
+    AccelFromIdle_PEAK_RPM: 6000
+    AccelFromIdle_PEAK_VOL: 0.5
+- ParentName: default
+  Name: 0xBC8E241E
+  Data:
+    AccelFromIdle_PEAK_T: 260
+    AccelFromIdle_RESUME_T: 700
+    AccelFromIdle_PEAK_RPM: 3250
+    AccelFromIdle_PEAK_VOL: 0.40000000596046448
+- ParentName: 0xBC8E241E
+  Name: sport_fast
+  Data:
+    AccelFromIdle_PEAK_T: 300
+    AccelFromIdle_RESUME_T: 900
+    AccelFromIdle_PEAK_RPM: 6000
+    AccelFromIdle_PEAK_VOL: 0.60000002384185791
+- ParentName: 0xBC8E241E
+  Name: sport_v_fast
+  Data:
+    AccelFromIdle_PEAK_T: 250
+    AccelFromIdle_RESUME_T: 300
+    AccelFromIdle_PEAK_RPM: 5000
+    AccelFromIdle_PEAK_VOL: 0.69999998807907104
+- ParentName: default
+  Name: 0xD92DD03B
+  Data:
+    AccelFromIdle_PEAK_T: 500
+    AccelFromIdle_RESUME_T: 1000
+    AccelFromIdle_PEAK_RPM: 3500
+    AccelFromIdle_PEAK_VOL: 0.20000000298023224
+- ParentName: 0xD92DD03B
+  Name: tuner_fast
+  Data:
+    AccelFromIdle_PEAK_T: 300
+    AccelFromIdle_RESUME_T: 400
+    AccelFromIdle_PEAK_RPM: 6000
+    AccelFromIdle_PEAK_VOL: 0.20000000298023224
+- ParentName: 0xD92DD03B
+  Name: 0x05E62612
+  Data:
+    AccelFromIdle_PEAK_T: 500
+    AccelFromIdle_RESUME_T: 1000
+    AccelFromIdle_PEAK_RPM: 4000
+    AccelFromIdle_PEAK_VOL: 0.30000001192092896
+- ParentName: 0xD92DD03B
+  Name: accel_from_idle_00
+  Data:
+    AccelFromIdle_PEAK_T: 500
+    AccelFromIdle_RESUME_T: 800
+    AccelFromIdle_PEAK_RPM: 3500
+    AccelFromIdle_PEAK_VOL: 0.20000000298023224
+- ParentName: 0xD92DD03B
+  Name: tuner_v_fast
+  Data:
+    AccelFromIdle_PEAK_T: 225
+    AccelFromIdle_RESUME_T: 300
+    AccelFromIdle_PEAK_RPM: 6000
+    AccelFromIdle_PEAK_VOL: 0.20000000298023224
+- ParentName: 0xD92DD03B
+  Name: 0x7416794B
+  Data:
+    AccelFromIdle_PEAK_T: 500
+    AccelFromIdle_RESUME_T: 1000
+    AccelFromIdle_PEAK_RPM: 6500
+    AccelFromIdle_PEAK_VOL: 0.40000000596046448
+- ParentName: 0xD92DD03B
+  Name: 0x8A26A08B
+  Data:
+    AccelFromIdle_PEAK_T: 400
+    AccelFromIdle_RESUME_T: 1500
+    AccelFromIdle_PEAK_RPM: 5000
+    AccelFromIdle_PEAK_VOL: 0.5
+- ParentName: 0xD92DD03B
+  Name: 0x9142643C
+  Data:
+    AccelFromIdle_PEAK_T: 450
+    AccelFromIdle_RESUME_T: 450
+    AccelFromIdle_PEAK_RPM: 5000
+    AccelFromIdle_PEAK_VOL: 0.5
+- ParentName: 0xD92DD03B
+  Name: 0x9DAF24EB
+  Data:
+    AccelFromIdle_PEAK_T: 400
+    AccelFromIdle_RESUME_T: 1000
+    AccelFromIdle_PEAK_RPM: 4000
+    AccelFromIdle_PEAK_VOL: 0.5
+- ParentName: 0xD92DD03B
+  Name: tuner_med
+  Data:
+    AccelFromIdle_PEAK_T: 400
+    AccelFromIdle_RESUME_T: 800
+    AccelFromIdle_PEAK_RPM: 4000
+    AccelFromIdle_PEAK_VOL: 0.5
+- ParentName: 0xD92DD03B
+  Name: 0xD287B72E
+  Data:
+    AccelFromIdle_PEAK_T: 450
+    AccelFromIdle_RESUME_T: 1200
+    AccelFromIdle_PEAK_RPM: 6000
+    AccelFromIdle_PEAK_VOL: 0.40000000596046448

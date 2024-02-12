@@ -1,0 +1,308 @@
+- ParentName: finishline
+  Name: race_bin_01/1_5_10_alijemspeedtrap/finishline
+  Data:
+    CollectionName: race_bin_01/1_5_10_alijemspeedtrap/finishline
+    message_id: 0
+    Dimensions:
+      X: 3
+      Y: 40
+      Z: 3
+    FlareSpacing: 8
+    Rotation: 67.900001525878906
+    Position:
+      X: 2861.889892578125
+      Y: 3151.830078125
+      Z: 65.459999084472656
+- ParentName: checkpoint
+  Name: race_bin_01/1_5_10_alijemspeedtrap/checkpoint7
+  Data:
+    CollectionName: race_bin_01/1_5_10_alijemspeedtrap/checkpoint7
+    message_id: 0
+    Rotation: 344.3900146484375
+    Position:
+      X: 1991.8399658203125
+      Y: 3557.580078125
+      Z: 159.58000183105469
+    Name: race_bin_01/1_5_10_alijemspeedtrap/checkpoint7
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 40
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_5_10_alijemspeedtrap/checkpoint5
+  Data:
+    CollectionName: race_bin_01/1_5_10_alijemspeedtrap/checkpoint5
+    message_id: 0
+    Rotation: 223.33999633789062
+    Position:
+      X: 1387.8199462890625
+      Y: 2844.25
+      Z: 171.21000671386719
+    Name: race_bin_01/1_5_10_alijemspeedtrap/checkpoint5
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 40
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_5_10_alijemspeedtrap/checkpoint
+  Data:
+    CollectionName: race_bin_01/1_5_10_alijemspeedtrap/checkpoint
+    message_id: 0
+    Rotation: 153.32000732421875
+    Position:
+      X: 3365.949951171875
+      Y: 3273.429931640625
+      Z: 20.190000534057617
+    Name: race_bin_01/1_5_10_alijemspeedtrap/checkpoint9
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 40
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_5_10_alijemspeedtrap/checkpoint4
+  Data:
+    CollectionName: race_bin_01/1_5_10_alijemspeedtrap/checkpoint4
+    message_id: 0
+    Rotation: 88.029998779296875
+    Position:
+      X: 1985.4200439453125
+      Y: 1936.4100341796875
+      Z: 147.83000183105469
+    Name: race_bin_01/1_5_10_alijemspeedtrap/checkpoint4
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 40
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_5_10_alijemspeedtrap/checkpoint1
+  Data:
+    CollectionName: race_bin_01/1_5_10_alijemspeedtrap/checkpoint1
+    message_id: 0
+    Rotation: 46.049999237060547
+    Position:
+      X: 1195.5699462890625
+      Y: 752.4000244140625
+      Z: 115.12999725341797
+    Name: race_bin_01/1_5_10_alijemspeedtrap/checkpoint1
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 40
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_5_10_alijemspeedtrap/checkpoint2
+  Data:
+    CollectionName: race_bin_01/1_5_10_alijemspeedtrap/checkpoint2
+    message_id: 0
+    Rotation: 22.690000534057617
+    Position:
+      X: 2597.169921875
+      Y: 316.30999755859375
+      Z: 86.540000915527344
+    Name: race_bin_01/1_5_10_alijemspeedtrap/checkpoint2
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 40
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_5_10_alijemspeedtrap/checkpoint8
+  Data:
+    CollectionName: race_bin_01/1_5_10_alijemspeedtrap/checkpoint8
+    message_id: 0
+    Rotation: 338.25
+    Position:
+      X: 2463.010009765625
+      Y: 2521.2900390625
+      Z: 122.19000244140625
+    Name: race_bin_01/1_5_10_alijemspeedtrap/checkpoint8
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 40
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_5_10_alijemspeedtrap/checkpoint6
+  Data:
+    CollectionName: race_bin_01/1_5_10_alijemspeedtrap/checkpoint6
+    message_id: 0
+    Rotation: 6.6100001335144043
+    Position:
+      X: 810.07000732421875
+      Y: 3498.010009765625
+      Z: 199.69000244140625
+    Name: race_bin_01/1_5_10_alijemspeedtrap/checkpoint6
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 40
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_5_10_alijemspeedtrap/checkpoint3
+  Data:
+    CollectionName: race_bin_01/1_5_10_alijemspeedtrap/checkpoint3
+    message_id: 0
+    Rotation: 150.35000610351562
+    Position:
+      X: 2595.159912109375
+      Y: 1061.06005859375
+      Z: 87.25
+    Name: race_bin_01/1_5_10_alijemspeedtrap/checkpoint3
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 40
+      Z: 40
+- ParentName: checkpoint
+  Name: race_bin_01/1_5_10_alijemspeedtrap/checkpoint9
+  Data:
+    CollectionName: race_bin_01/1_5_10_alijemspeedtrap/checkpoint9
+    message_id: 0
+    Rotation: 153.32000732421875
+    Position:
+      X: 3365.949951171875
+      Y: 3273.429931640625
+      Z: 20.190000534057617
+    Name: race_bin_01/1_5_10_alijemspeedtrap/checkpoint9
+    Template: false
+    Dimensions:
+      X: 2
+      Y: 40
+      Z: 40
+- ParentName: speedtrap
+  Name: race_bin_01/1_5_10_alijemspeedtrap/speedtrap9
+  Data:
+    CollectionName: race_bin_01/1_5_10_alijemspeedtrap/speedtrap9
+    message_id: 0
+    Position:
+      X: 2042.6700439453125
+      Y: 3538.510009765625
+      Z: 159.72999572753906
+    Template: false
+    Name: race_bin_01/1_5_10_alijemspeedtrap/speedtrap9
+- ParentName: speedtrap
+  Name: race_bin_01/1_5_10_alijemspeedtrap/speedtrap11
+  Data:
+    CollectionName: race_bin_01/1_5_10_alijemspeedtrap/speedtrap11
+    message_id: 0
+    Position:
+      X: 3223.169921875
+      Y: 2600.8701171875
+      Z: 27.090000152587891
+    Template: false
+    Name: race_bin_01/1_5_10_alijemspeedtrap/speedtrap11
+- ParentName: speedtrap
+  Name: race_bin_01/1_5_10_alijemspeedtrap/speedtrap2
+  Data:
+    CollectionName: race_bin_01/1_5_10_alijemspeedtrap/speedtrap2
+    message_id: 0
+    Position:
+      X: 1402.3599853515625
+      Y: 894.219970703125
+      Z: 117.01000213623047
+    Template: false
+    Name: race_bin_01/1_5_10_alijemspeedtrap/speedtrap2
+- ParentName: speedtrap
+  Name: race_bin_01/1_5_10_alijemspeedtrap/speedtrap5
+  Data:
+    CollectionName: race_bin_01/1_5_10_alijemspeedtrap/speedtrap5
+    message_id: 0
+    Position:
+      X: 1978.300048828125
+      Y: 1757.52001953125
+      Z: 150.44000244140625
+    Template: false
+    Name: race_bin_01/1_5_10_alijemspeedtrap/speedtrap5
+- ParentName: speedtrap
+  Name: race_bin_01/1_5_10_alijemspeedtrap/speedtrap8
+  Data:
+    CollectionName: race_bin_01/1_5_10_alijemspeedtrap/speedtrap8
+    message_id: 0
+    Position:
+      X: 1119.8800048828125
+      Y: 3632.590087890625
+      Z: 199.64999389648438
+    Template: false
+    Name: race_bin_01/1_5_10_alijemspeedtrap/speedtrap8
+- ParentName: speedtrap
+  Name: race_bin_01/1_5_10_alijemspeedtrap/speedtrap7
+  Data:
+    CollectionName: race_bin_01/1_5_10_alijemspeedtrap/speedtrap7
+    message_id: 0
+    Position:
+      X: 922.21002197265625
+      Y: 3171.760009765625
+      Z: 199.52000427246094
+    Template: false
+    Name: race_bin_01/1_5_10_alijemspeedtrap/speedtrap7
+- ParentName: speedtrap
+  Name: race_bin_01/1_5_10_alijemspeedtrap/speedtrap4
+  Data:
+    CollectionName: race_bin_01/1_5_10_alijemspeedtrap/speedtrap4
+    message_id: 0
+    Position:
+      X: 2511.3701171875
+      Y: 1102.4000244140625
+      Z: 96.459999084472656
+    Template: false
+    Name: race_bin_01/1_5_10_alijemspeedtrap/speedtrap4
+- ParentName: speedtrap
+  Name: race_bin_01/1_5_10_alijemspeedtrap/speedtrap3
+  Data:
+    CollectionName: race_bin_01/1_5_10_alijemspeedtrap/speedtrap3
+    message_id: 0
+    Position:
+      X: 2667.3798828125
+      Y: 358.92001342773438
+      Z: 83.449996948242188
+    Template: false
+    Name: race_bin_01/1_5_10_alijemspeedtrap/speedtrap3
+- ParentName: speedtrap
+  Name: race_bin_01/1_5_10_alijemspeedtrap/speedtrap10
+  Data:
+    CollectionName: race_bin_01/1_5_10_alijemspeedtrap/speedtrap10
+    message_id: 0
+    Position:
+      X: 2499.31005859375
+      Y: 2502.5400390625
+      Z: 122.61000061035156
+    Template: false
+    Name: race_bin_01/1_5_10_alijemspeedtrap/speedtrap10
+- ParentName: speedtrap
+  Name: race_bin_01/1_5_10_alijemspeedtrap/speedtrap1
+  Data:
+    CollectionName: race_bin_01/1_5_10_alijemspeedtrap/speedtrap1
+    message_id: 0
+    Position:
+      X: 951.17999267578125
+      Y: 539.72998046875
+      Z: 115.41999816894531
+    Template: false
+    Name: race_bin_01/1_5_10_alijemspeedtrap/speedtrap1
+- ParentName: speedtrap
+  Name: race_bin_01/1_5_10_alijemspeedtrap/speedtrap6
+  Data:
+    CollectionName: race_bin_01/1_5_10_alijemspeedtrap/speedtrap6
+    message_id: 0
+    Position:
+      X: 1451.1800537109375
+      Y: 2699.590087890625
+      Z: 162.55000305175781
+    Template: false
+    Name: race_bin_01/1_5_10_alijemspeedtrap/speedtrap6
+- ParentName: startgrid
+  Name: race_bin_01/1_5_10_alijemspeedtrap/startgrid
+  Data:
+    CollectionName: race_bin_01/1_5_10_alijemspeedtrap/startgrid
+    message_id: 0
+    Name: race_bin_01/1_5_10_alijemspeedtrap/startgrid
+    Position:
+      X: 1673.989990234375
+      Y: 387.8800048828125
+      Z: 94.360000610351562
+    Rotation: 185.82000732421875
+    Template: false

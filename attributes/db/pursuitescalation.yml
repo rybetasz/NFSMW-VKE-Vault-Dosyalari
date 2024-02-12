@@ -1,0 +1,95 @@
+- ParentName: 
+  Name: default
+  Data:
+    heattable:
+      Capacity: 10
+      Data:
+      - ClassKey: pursuitlevels
+        CollectionKey: heat_01
+      - ClassKey: pursuitlevels
+        CollectionKey: heat_02
+      - ClassKey: pursuitlevels
+        CollectionKey: heat_03
+      - ClassKey: pursuitlevels
+        CollectionKey: heat_04
+      - ClassKey: pursuitlevels
+        CollectionKey: heat_05
+      - ClassKey: pursuitlevels
+        CollectionKey: heat_06
+      - ClassKey: pursuitlevels
+        CollectionKey: heat_07
+      - ClassKey: pursuitlevels
+        CollectionKey: heat_08
+      - ClassKey: pursuitlevels
+        CollectionKey: heat_09
+      - ClassKey: pursuitlevels
+        CollectionKey: heat_10
+    supportracetable:
+      Capacity: 10
+      Data:
+      - ClassKey: pursuitsupport
+        CollectionKey: supportrace_01
+      - ClassKey: pursuitsupport
+        CollectionKey: supportrace_02
+      - ClassKey: pursuitsupport
+        CollectionKey: supportrace_03
+      - ClassKey: pursuitsupport
+        CollectionKey: supportrace_04
+      - ClassKey: pursuitsupport
+        CollectionKey: supportrace_05
+      - ClassKey: pursuitsupport
+        CollectionKey: supportrace_06
+      - ClassKey: pursuitsupport
+        CollectionKey: supportrace_07
+      - ClassKey: pursuitsupport
+        CollectionKey: supportrace_08
+      - ClassKey: pursuitsupport
+        CollectionKey: supportrace_09
+      - ClassKey: pursuitsupport
+        CollectionKey: supportrace_10
+    supporttable:
+      Capacity: 10
+      Data:
+      - ClassKey: pursuitsupport
+        CollectionKey: support01
+      - ClassKey: pursuitsupport
+        CollectionKey: support02
+      - ClassKey: pursuitsupport
+        CollectionKey: support03
+      - ClassKey: pursuitsupport
+        CollectionKey: support04
+      - ClassKey: pursuitsupport
+        CollectionKey: support05
+      - ClassKey: pursuitsupport
+        CollectionKey: support06
+      - ClassKey: pursuitsupport
+        CollectionKey: support07
+      - ClassKey: pursuitsupport
+        CollectionKey: support08
+      - ClassKey: pursuitsupport
+        CollectionKey: support09
+      - ClassKey: pursuitsupport
+        CollectionKey: support10
+    racetable:
+      Capacity: 10
+      Data:
+      - ClassKey: pursuitlevels
+        CollectionKey: race_01
+      - ClassKey: pursuitlevels
+        CollectionKey: race_02
+      - ClassKey: pursuitlevels
+        CollectionKey: race_03
+      - ClassKey: pursuitlevels
+        CollectionKey: race_04
+      - ClassKey: pursuitlevels
+        CollectionKey: race_05
+      - ClassKey: pursuitlevels
+        CollectionKey: race_06
+      - ClassKey: pursuitlevels
+        CollectionKey: race_07
+      - ClassKey: pursuitlevels
+        CollectionKey: race_08
+      - ClassKey: pursuitlevels
+        CollectionKey: race_09
+      - ClassKey: pursuitlevels
+        CollectionKey: race_10

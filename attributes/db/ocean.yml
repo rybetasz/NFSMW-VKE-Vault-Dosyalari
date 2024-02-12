@@ -1,0 +1,20 @@
+- ParentName: 
+  Name: default
+  Data:
+    layer1_tile_xy:
+      X: 0
+      Y: 0
+    layer2_specular_colour:
+      X: 0
+      Y: 0
+      Z: 0
+      W: 0
+    layer1_specular_colour:
+      X: 0
+      Y: 0
+      Z: 0
+      W: 0
+    layer2_tile_xy:
+      X: 0
+      Y: 0
+    reflection_amount: 0

@@ -1,0 +1,6954 @@
+- ParentName: 
+  Name: default
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 0
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.85000002384185791
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 7900
+    RED_LINE: 7500
+    IDLE: 800
+- ParentName: default
+  Name: cerberalm
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 205
+      - 385
+      - 495
+      - 550
+      - 565
+      - 570
+      - 540
+      - 490
+      - 380
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.44999998807907104
+      - 0.47499999403953552
+      - 0.5
+    FLYWHEEL_MASS: 35
+    MAX_RPM: 8500
+    RED_LINE: 7500
+    IDLE: 800
+- ParentName: default
+  Name: 0x02AE8B00
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 145
+      - 220
+      - 289
+      - 410
+      - 355
+      - 345
+      - 310
+      - 305
+      - 298
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 6500
+    RED_LINE: 5500
+    IDLE: 800
+- ParentName: 0x02AE8B00
+  Name: 0x79DD4443
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 179
+      - 278
+      - 475
+      - 675
+      - 654
+      - 587
+      - 535
+      - 500
+      - 475
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 6999.9990234375
+    RED_LINE: 6999.9990234375
+    IDLE: 800
+- ParentName: default
+  Name: 0x062FB333
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 135
+      - 195
+      - 285
+      - 346
+      - 354
+      - 354
+      - 344
+      - 332
+      - 296
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 8
+    MAX_RPM: 9000
+    RED_LINE: 9000
+    IDLE: 800
+- ParentName: 0x062FB333
+  Name: 0xAC5CE480
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 420
+      - 589
+      - 670
+      - 467
+      - 499
+      - 520
+      - 442
+      - 725
+      - 677
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 8
+    MAX_RPM: 10000
+    RED_LINE: 10000
+    IDLE: 800
+- ParentName: default
+  Name: 0x097C7B7D
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 154.89999389648438
+      - 184.39999389648438
+      - 228.66000366210938
+      - 258.16000366210938
+      - 298
+      - 306
+      - 280
+      - 257
+      - 236
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.81000000238418579
+      - 0.77999997138977051
+      - 0.82999998331069946
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 10000
+    RED_LINE: 9000
+    IDLE: 800
+- ParentName: default
+  Name: impreza
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 77
+      - 101
+      - 129
+      - 154
+      - 162
+      - 161
+      - 157
+      - 147
+      - 122
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.64999997615814209
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 7000
+    RED_LINE: 6250
+    IDLE: 1000
+- ParentName: impreza
+  Name: 0x91FFC4C1
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 269
+      - 310
+      - 400
+      - 527
+      - 590
+      - 556
+      - 510
+      - 466
+      - 436
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.94999998807907104
+      - 0.85000002384185791
+      - 0.64999997615814209
+    FLYWHEEL_MASS: 11
+    MAX_RPM: 7999.9990234375
+    RED_LINE: 7999.9990234375
+    IDLE: 700
+- ParentName: default
+  Name: golf
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 88
+      - 141
+      - 196
+      - 187
+      - 173
+      - 161
+      - 150
+      - 141
+      - 134
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 13
+    MAX_RPM: 8000
+    RED_LINE: 7000
+    IDLE: 800
+- ParentName: golf
+  Name: 0x9B399813
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 201
+      - 389
+      - 579
+      - 659
+      - 589
+      - 519
+      - 459
+      - 409
+      - 368
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 15
+    MAX_RPM: 8000
+    RED_LINE: 7000
+    IDLE: 800
+- ParentName: default
+  Name: focus
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 90
+      - 102
+      - 114
+      - 145
+      - 140
+      - 128
+      - 117
+      - 106
+      - 95
+    SPEED_LIMITER:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 8
+    MAX_RPM: 8000
+    RED_LINE: 7000
+    IDLE: 800
+- ParentName: focus
+  Name: 0xE30CBCD6
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 190
+      - 276
+      - 380
+      - 550
+      - 521
+      - 482
+      - 447
+      - 420
+      - 400
+    SPEED_LIMITER:
+      Capacity: 2
+      Data:
+      - 0
+      - 0
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 8
+    MAX_RPM: 8500
+    RED_LINE: 8500
+    IDLE: 800
+- ParentName: default
+  Name: enzo
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 140
+      - 178
+      - 265
+      - 330
+      - 347
+      - 325
+      - 320
+      - 298
+      - 279
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.63999998569488525
+      - 0.72000002861022949
+      - 0.80000001192092896
+    FLYWHEEL_MASS: 11
+    MAX_RPM: 9000
+    RED_LINE: 8500
+    IDLE: 800
+- ParentName: enzo
+  Name: 0x17727DE3
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 323
+      - 408
+      - 530
+      - 650
+      - 695
+      - 682
+      - 625
+      - 590
+      - 570
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.73000001907348633
+      - 0.81000000238418579
+      - 0.87000000476837158
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 9500
+    RED_LINE: 9500
+    IDLE: 800
+- ParentName: default
+  Name: 0x132BAEC9
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 185
+      - 250
+      - 310
+      - 350
+      - 400
+      - 375
+      - 340
+      - 315
+      - 290
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.75
+      - 0.80000001192092896
+    FLYWHEEL_MASS: 12
+    MAX_RPM: 8000
+    RED_LINE: 6500
+    IDLE: 800
+- ParentName: 0x132BAEC9
+  Name: 0x16B8F959
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 273
+      - 376
+      - 433
+      - 538
+      - 645
+      - 689
+      - 636
+      - 598
+      - 565
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 11
+    MAX_RPM: 7500
+    RED_LINE: 6500
+    IDLE: 800
+- ParentName: default
+  Name: tt
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 141
+      - 189
+      - 236
+      - 236
+      - 225
+      - 220
+      - 200
+      - 190
+      - 190
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 14
+    MAX_RPM: 8000
+    RED_LINE: 6500
+    IDLE: 800
+- ParentName: tt
+  Name: tt_top
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 240
+      - 347
+      - 544
+      - 579
+      - 562
+      - 518
+      - 504
+      - 496
+      - 480
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 14
+    MAX_RPM: 8000
+    RED_LINE: 8000
+    IDLE: 800
+- ParentName: default
+  Name: regera
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 345
+      - 404
+      - 634
+      - 734
+      - 908
+      - 804
+      - 744
+      - 687
+      - 674
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 9000
+    RED_LINE: 8250
+    IDLE: 800
+- ParentName: regera
+  Name: 0xC2D75A21
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 445
+      - 504
+      - 734
+      - 834
+      - 999
+      - 918
+      - 865
+      - 804
+      - 785
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.85000002384185791
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10.5
+    MAX_RPM: 10000
+    RED_LINE: 9850
+    IDLE: 800
+- ParentName: default
+  Name: jaguarxk
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 122
+      - 194
+      - 292
+      - 302
+      - 303
+      - 300
+      - 290
+      - 282
+      - 256
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.85000002384185791
+    FLYWHEEL_MASS: 13
+    MAX_RPM: 8000
+    RED_LINE: 6800
+    IDLE: 800
+- ParentName: jaguarxk
+  Name: jaguarxk_top
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 315
+      - 482
+      - 601
+      - 700
+      - 673
+      - 634
+      - 586
+      - 541
+      - 485
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 9.5
+    MAX_RPM: 8000
+    RED_LINE: 7500
+    IDLE: 800
+- ParentName: default
+  Name: audisport4
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 110
+      - 147
+      - 213
+      - 258
+      - 235
+      - 214
+      - 195
+      - 179
+      - 169
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.89999997615814209
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 15
+    MAX_RPM: 8000
+    RED_LINE: 7000
+    IDLE: 800
+- ParentName: audisport4
+  Name: 0x56F68DD2
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 310
+      - 390
+      - 530
+      - 610
+      - 600
+      - 550
+      - 505
+      - 475
+      - 455
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 8000
+    RED_LINE: 8000
+    IDLE: 800
+- ParentName: default
+  Name: vipergts
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 150
+      - 275
+      - 450
+      - 500
+      - 500
+      - 467
+      - 425
+      - 405
+      - 400
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 14
+    MAX_RPM: 7000
+    RED_LINE: 6000
+    IDLE: 800
+- ParentName: vipergts
+  Name: 0x4C0E2739
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 318
+      - 482
+      - 699
+      - 783
+      - 754
+      - 728
+      - 707
+      - 667
+      - 642
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 14
+    MAX_RPM: 7500
+    RED_LINE: 7500
+    IDLE: 800
+- ParentName: default
+  Name: continental
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 207
+      - 274
+      - 408
+      - 541
+      - 590
+      - 559
+      - 514
+      - 455
+      - 407
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.60000002384185791
+      - 0.69999998807907104
+      - 0.80000001192092896
+    FLYWHEEL_MASS: 11
+    MAX_RPM: 8000
+    RED_LINE: 6500
+    IDLE: 900
+- ParentName: continental
+  Name: 0x16DD0F00
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 331
+      - 499
+      - 526
+      - 674
+      - 755
+      - 723
+      - 717
+      - 685
+      - 640
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.60000002384185791
+      - 0.69999998807907104
+      - 0.80000001192092896
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 8000
+    RED_LINE: 7500
+    IDLE: 900
+- ParentName: default
+  Name: 0x28B9279B
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 156
+      - 197
+      - 245
+      - 391
+      - 364
+      - 344
+      - 310
+      - 285
+      - 260
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 14
+    MAX_RPM: 8000
+    RED_LINE: 6500
+    IDLE: 950
+- ParentName: 0x28B9279B
+  Name: 0xD390D06B
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 194
+      - 284
+      - 394
+      - 544
+      - 535
+      - 484
+      - 428
+      - 398
+      - 386
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 14
+    MAX_RPM: 8000
+    RED_LINE: 7500
+    IDLE: 950
+- ParentName: default
+  Name: 0x2AFF6E40
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 575
+      - 695
+      - 845
+      - 950
+      - 980
+      - 895
+      - 865
+      - 842
+      - 830
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.81999999284744263
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 11
+    MAX_RPM: 8000
+    RED_LINE: 6800
+    IDLE: 800
+- ParentName: 0x2AFF6E40
+  Name: 0x3BEC9626
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 585
+      - 775
+      - 875
+      - 994
+      - 1180
+      - 1145
+      - 1085
+      - 965
+      - 935
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 8.5
+    MAX_RPM: 8000
+    RED_LINE: 8000
+    IDLE: 800
+- ParentName: default
+  Name: dbr9
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 135
+      - 210
+      - 285
+      - 365
+      - 479
+      - 459
+      - 421
+      - 397
+      - 377
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 8
+    MAX_RPM: 8000
+    RED_LINE: 6800
+    IDLE: 800
+- ParentName: dbr9
+  Name: 0xE9BD8DD3
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 315
+      - 477
+      - 585
+      - 785
+      - 764
+      - 697
+      - 667
+      - 625
+      - 583
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 8
+    MAX_RPM: 8000
+    RED_LINE: 8000
+    IDLE: 800
+- ParentName: default
+  Name: corsa
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 65
+      - 95
+      - 105
+      - 121
+      - 122
+      - 112
+      - 107
+      - 104
+      - 93
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 12
+    MAX_RPM: 8000
+    RED_LINE: 6500
+    IDLE: 800
+- ParentName: corsa
+  Name: 0x9CF00E3F
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 310
+      - 395
+      - 510
+      - 585
+      - 574
+      - 534
+      - 480
+      - 447
+      - 414
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 12
+    MAX_RPM: 8000
+    RED_LINE: 8000
+    IDLE: 800
+- ParentName: default
+  Name: 0x30C72248
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 180
+      - 190
+      - 260
+      - 432
+      - 472
+      - 450
+      - 400
+      - 360
+      - 340
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 11
+    MAX_RPM: 9000
+    RED_LINE: 8500
+    IDLE: 800
+- ParentName: 0x30C72248
+  Name: 0x009D9B1C
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 421
+      - 485
+      - 589
+      - 641
+      - 790
+      - 750
+      - 690
+      - 616
+      - 581
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 11
+    MAX_RPM: 9500
+    RED_LINE: 9500
+    IDLE: 800
+- ParentName: default
+  Name: elise
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 90
+      - 104
+      - 112
+      - 130
+      - 133
+      - 126
+      - 124
+      - 124
+      - 119
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 9000
+    RED_LINE: 8500
+    IDLE: 800
+- ParentName: elise
+  Name: elise_top
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 208
+      - 337
+      - 386
+      - 438
+      - 484
+      - 465
+      - 423
+      - 413
+      - 376
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 14
+    MAX_RPM: 10000
+    RED_LINE: 10000
+    IDLE: 800
+- ParentName: default
+  Name: ccx
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 329
+      - 421
+      - 566
+      - 637
+      - 693
+      - 660
+      - 590
+      - 565
+      - 480
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.47999998927116394
+      - 0.54000002145767212
+      - 0.60000002384185791
+    FLYWHEEL_MASS: 8
+    MAX_RPM: 9000
+    RED_LINE: 7500
+    IDLE: 800
+- ParentName: ccx
+  Name: ccx_top
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 410
+      - 540
+      - 690
+      - 775
+      - 785
+      - 670
+      - 650
+      - 610
+      - 580
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.57999998331069946
+      - 0.6600000262260437
+      - 0.74000000953674316
+    FLYWHEEL_MASS: 7
+    MAX_RPM: 9000
+    RED_LINE: 8500
+    IDLE: 800
+- ParentName: default
+  Name: 0x3348AB19
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 158
+      - 198
+      - 275
+      - 400
+      - 264
+      - 345
+      - 331
+      - 320
+      - 309
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 14
+    MAX_RPM: 8000
+    RED_LINE: 6500
+    IDLE: 950
+- ParentName: 0x3348AB19
+  Name: 0xC832E373
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 199
+      - 294
+      - 394
+      - 575
+      - 550
+      - 514
+      - 428
+      - 398
+      - 386
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 14
+    MAX_RPM: 8300
+    RED_LINE: 7300
+    IDLE: 950
+- ParentName: default
+  Name: corolla
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 50
+      - 68
+      - 94
+      - 103
+      - 101
+      - 100
+      - 99
+      - 98
+      - 86
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.85000002384185791
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 15
+    MAX_RPM: 9000
+    RED_LINE: 7500
+    IDLE: 800
+- ParentName: corolla
+  Name: corolla_top
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 280
+      - 388
+      - 474
+      - 497
+      - 485
+      - 460
+      - 432
+      - 408
+      - 386
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.85000002384185791
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 15
+    MAX_RPM: 10000
+    RED_LINE: 10000
+    IDLE: 800
+- ParentName: default
+  Name: 350z
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 84
+      - 131
+      - 189
+      - 263
+      - 264
+      - 257
+      - 226
+      - 224
+      - 184
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 14
+    MAX_RPM: 9000
+    RED_LINE: 7500
+    IDLE: 800
+- ParentName: 350z
+  Name: 350z_top
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 234
+      - 293
+      - 464
+      - 555
+      - 586
+      - 549
+      - 510
+      - 477
+      - 458
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 11.5
+    MAX_RPM: 9000
+    RED_LINE: 9000
+    IDLE: 800
+- ParentName: default
+  Name: xsaraf2
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 105
+      - 180
+      - 230
+      - 260
+      - 270
+      - 275
+      - 265
+      - 230
+      - 150
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.44999998807907104
+      - 0.47499999403953552
+      - 0.5
+    FLYWHEEL_MASS: 6.5
+    MAX_RPM: 7500
+    RED_LINE: 6500
+    IDLE: 800
+- ParentName: xsaraf2
+  Name: 0xCFB388CD
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 145
+      - 220
+      - 260
+      - 290
+      - 320
+      - 330
+      - 310
+      - 270
+      - 180
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.44999998807907104
+      - 0.47499999403953552
+      - 0.5
+    FLYWHEEL_MASS: 4.5
+    MAX_RPM: 7500
+    RED_LINE: 6500
+    IDLE: 800
+- ParentName: default
+  Name: 997s
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 130
+      - 175
+      - 230
+      - 295
+      - 288
+      - 270
+      - 250
+      - 235
+      - 225
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.93000000715255737
+      - 0.85000002384185791
+      - 0.86000001430511475
+    FLYWHEEL_MASS: 14
+    MAX_RPM: 8000
+    RED_LINE: 7300
+    IDLE: 800
+- ParentName: 997s
+  Name: 997s_top
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 264
+      - 365
+      - 510
+      - 640
+      - 631
+      - 583
+      - 575
+      - 526
+      - 488
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 14
+    MAX_RPM: 8500
+    RED_LINE: 8500
+    IDLE: 800
+- ParentName: default
+  Name: f50
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 160
+      - 220
+      - 320
+      - 327
+      - 347
+      - 323
+      - 309
+      - 264
+      - 241
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 11
+    MAX_RPM: 9000
+    RED_LINE: 8500
+    IDLE: 800
+- ParentName: f50
+  Name: 0xA457978F
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 265
+      - 350
+      - 500
+      - 675
+      - 721
+      - 655
+      - 590
+      - 530
+      - 490
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 9
+    MAX_RPM: 9500
+    RED_LINE: 9500
+    IDLE: 800
+- ParentName: default
+  Name: mc12
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 170
+      - 265
+      - 380
+      - 481
+      - 460
+      - 435
+      - 410
+      - 375
+      - 350
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.75
+      - 0.80000001192092896
+    FLYWHEEL_MASS: 13
+    MAX_RPM: 9000
+    RED_LINE: 7700
+    IDLE: 800
+- ParentName: mc12
+  Name: 0x6F26FD4C
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 365
+      - 470
+      - 555
+      - 680
+      - 765
+      - 800
+      - 755
+      - 710
+      - 675
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.6600000262260437
+      - 0.69999998807907104
+      - 0.74000000953674316
+    FLYWHEEL_MASS: 12
+    MAX_RPM: 10000
+    RED_LINE: 10000
+    IDLE: 800
+- ParentName: default
+  Name: caymans
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 138
+      - 176
+      - 231
+      - 251
+      - 251
+      - 244
+      - 231
+      - 220
+      - 209
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 14
+    MAX_RPM: 8000
+    RED_LINE: 7300
+    IDLE: 950
+- ParentName: caymans
+  Name: caymans_top
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 223
+      - 364
+      - 470
+      - 597
+      - 556
+      - 514
+      - 478
+      - 448
+      - 436
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 14
+    MAX_RPM: 8000
+    RED_LINE: 8000
+    IDLE: 950
+- ParentName: default
+  Name: 0x42B8384F
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 146
+      - 220
+      - 270
+      - 360
+      - 355
+      - 300
+      - 281
+      - 265
+      - 255
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.89999997615814209
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 15
+    MAX_RPM: 6000
+    RED_LINE: 5500
+    IDLE: 800
+- ParentName: 0x42B8384F
+  Name: 0xFAEB3728
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 325
+      - 400
+      - 535
+      - 625
+      - 600
+      - 541
+      - 499
+      - 468
+      - 447
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 15
+    MAX_RPM: 6999.9990234375
+    RED_LINE: 6999.9990234375
+    IDLE: 800
+- ParentName: default
+  Name: fordgt
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 201
+      - 368
+      - 469
+      - 536
+      - 571
+      - 502
+      - 469
+      - 441
+      - 419
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 8
+    MAX_RPM: 8000
+    RED_LINE: 6500
+    IDLE: 800
+- ParentName: fordgt
+  Name: fordgt_top
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 300
+      - 400
+      - 540
+      - 674
+      - 798
+      - 754
+      - 686
+      - 630
+      - 580
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 8
+    MAX_RPM: 8000
+    RED_LINE: 8000
+    IDLE: 800
+- ParentName: default
+  Name: 0x44511411
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 185
+      - 194
+      - 294
+      - 458
+      - 479
+      - 450
+      - 400
+      - 360
+      - 340
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 11
+    MAX_RPM: 9500
+    RED_LINE: 8500
+    IDLE: 800
+- ParentName: 0x44511411
+  Name: 0x88FD40FE
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 205
+      - 279
+      - 389
+      - 499
+      - 621
+      - 550
+      - 476
+      - 416
+      - 381
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 11
+    MAX_RPM: 9500
+    RED_LINE: 8500
+    IDLE: 800
+- ParentName: default
+  Name: huayra
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 265
+      - 385
+      - 575
+      - 645
+      - 737
+      - 685
+      - 650
+      - 560
+      - 540
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 11
+    MAX_RPM: 7000
+    RED_LINE: 6000
+    IDLE: 800
+- ParentName: huayra
+  Name: 0x46F6195A
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 399
+      - 489
+      - 589
+      - 699
+      - 795
+      - 775
+      - 771
+      - 716
+      - 681
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 11
+    MAX_RPM: 7999.9990234375
+    RED_LINE: 7999.9990234375
+    IDLE: 800
+- ParentName: default
+  Name: corvette
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 100
+      - 150
+      - 210
+      - 300
+      - 400
+      - 370
+      - 335
+      - 305
+      - 280
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.75
+      - 0.80000001192092896
+    FLYWHEEL_MASS: 12
+    MAX_RPM: 8000
+    RED_LINE: 6500
+    IDLE: 800
+- ParentName: corvette
+  Name: corvette_top
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 189
+      - 345
+      - 524
+      - 645
+      - 795
+      - 751
+      - 688
+      - 635
+      - 603
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 14
+    MAX_RPM: 8000
+    RED_LINE: 8000
+    IDLE: 800
+- ParentName: default
+  Name: cien
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 301
+      - 468
+      - 569
+      - 636
+      - 650
+      - 606
+      - 569
+      - 541
+      - 519
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 8
+    MAX_RPM: 8000
+    RED_LINE: 6500
+    IDLE: 800
+- ParentName: cien
+  Name: 0x66D99741
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 400
+      - 500
+      - 640
+      - 774
+      - 798
+      - 754
+      - 686
+      - 630
+      - 580
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 8
+    MAX_RPM: 8000
+    RED_LINE: 7500
+    IDLE: 800
+- ParentName: default
+  Name: speedtest
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 700
+      - 722
+      - 803
+      - 884
+      - 979
+      - 931
+      - 880
+      - 760
+      - 700
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.93000000715255737
+      - 0.85000002384185791
+      - 0.86000001430511475
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 9400
+    RED_LINE: 8400
+    IDLE: 950
+- ParentName: default
+  Name: bmwm3gtre46
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 170
+      - 251
+      - 340
+      - 354
+      - 337
+      - 322
+      - 311
+      - 275
+      - 250
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 9000
+    RED_LINE: 8500
+    IDLE: 800
+- ParentName: bmwm3gtre46
+  Name: 0x08BA14E4
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 170
+      - 251
+      - 340
+      - 428
+      - 467
+      - 452
+      - 411
+      - 375
+      - 350
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 9000
+    RED_LINE: 8500
+    IDLE: 800
+- ParentName: bmwm3gtre46
+  Name: m3gtre46careerstart
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 87
+      - 128
+      - 174
+      - 219
+      - 239
+      - 231
+      - 210
+      - 192
+      - 179
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 9000
+    RED_LINE: 8500
+    IDLE: 800
+- ParentName: default
+  Name: bora
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 74
+      - 125
+      - 164
+      - 199
+      - 170
+      - 150
+      - 144
+      - 139
+      - 114
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 8000
+    RED_LINE: 6500
+    IDLE: 800
+- ParentName: bora
+  Name: 0xCB3F0806
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 245
+      - 365
+      - 515
+      - 585
+      - 574
+      - 525
+      - 479
+      - 446
+      - 430
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 8000
+    RED_LINE: 8000
+    IDLE: 800
+- ParentName: default
+  Name: 0x507EF366
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 107
+      - 134
+      - 186
+      - 236
+      - 249
+      - 275
+      - 257
+      - 245
+      - 230
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 8000
+    RED_LINE: 7000
+    IDLE: 850
+- ParentName: 0x507EF366
+  Name: 0x52FF35B6
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 314
+      - 476
+      - 564
+      - 689
+      - 743
+      - 787
+      - 755
+      - 724
+      - 706
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 8999.9990234375
+    RED_LINE: 8999.9990234375
+    IDLE: 850
+- ParentName: default
+  Name: neon
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 62
+      - 86
+      - 94
+      - 125
+      - 133
+      - 126
+      - 113
+      - 107
+      - 98
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 12
+    MAX_RPM: 8000
+    RED_LINE: 6500
+    IDLE: 800
+- ParentName: neon
+  Name: 0x585688A9
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 210
+      - 302
+      - 485
+      - 585
+      - 540
+      - 526
+      - 497
+      - 463
+      - 433
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 8000
+    RED_LINE: 8000
+    IDLE: 800
+- ParentName: default
+  Name: 911gt1
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 140
+      - 210
+      - 285
+      - 365
+      - 396
+      - 355
+      - 321
+      - 299
+      - 280
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 8
+    MAX_RPM: 8500
+    RED_LINE: 7500
+    IDLE: 800
+- ParentName: 911gt1
+  Name: 0x43290D1F
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 450
+      - 590
+      - 750
+      - 880
+      - 1000
+      - 910
+      - 870
+      - 840
+      - 820
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 8
+    MAX_RPM: 10000
+    RED_LINE: 9500
+    IDLE: 600
+- ParentName: default
+  Name: lancerevo3
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 85
+      - 100
+      - 125
+      - 170
+      - 222
+      - 228
+      - 215
+      - 195
+      - 185
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.89999997615814209
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 8000
+    RED_LINE: 7000
+    IDLE: 850
+- ParentName: lancerevo3
+  Name: 0x39EBB438
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 351
+      - 412
+      - 555
+      - 680
+      - 740
+      - 776
+      - 738
+      - 692
+      - 666
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 8.5
+    MAX_RPM: 8999.9990234375
+    RED_LINE: 8999.9990234375
+    IDLE: 850
+- ParentName: default
+  Name: cobaltss
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 106
+      - 131
+      - 172
+      - 201
+      - 201
+      - 186
+      - 171
+      - 159
+      - 151
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 8
+    MAX_RPM: 8000
+    RED_LINE: 6500
+    IDLE: 800
+- ParentName: cobaltss
+  Name: cobaltss_top
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 182
+      - 308
+      - 495
+      - 595
+      - 550
+      - 495
+      - 482
+      - 449
+      - 441
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 8
+    MAX_RPM: 8000
+    RED_LINE: 7500
+    IDLE: 800
+- ParentName: default
+  Name: navigator
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 175
+      - 205
+      - 295
+      - 365
+      - 348
+      - 305
+      - 275
+      - 260
+      - 247
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 6500
+    RED_LINE: 5500
+    IDLE: 800
+- ParentName: navigator
+  Name: 0xCA169295
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 195
+      - 295
+      - 495
+      - 675
+      - 655
+      - 610
+      - 610
+      - 575
+      - 550
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 6999.9990234375
+    RED_LINE: 6999.9990234375
+    IDLE: 800
+- ParentName: default
+  Name: is300
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 133
+      - 168
+      - 194
+      - 218
+      - 218
+      - 216
+      - 194
+      - 178
+      - 167
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 12
+    MAX_RPM: 8000
+    RED_LINE: 6400
+    IDLE: 800
+- ParentName: is300
+  Name: is300_top
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 176
+      - 275
+      - 468
+      - 605
+      - 583
+      - 528
+      - 507
+      - 457
+      - 413
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 12
+    MAX_RPM: 8500
+    RED_LINE: 8500
+    IDLE: 800
+- ParentName: default
+  Name: 0x5E6BFCE4
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 221
+      - 268
+      - 369
+      - 396
+      - 400
+      - 392
+      - 369
+      - 341
+      - 319
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 8
+    MAX_RPM: 9000
+    RED_LINE: 7500
+    IDLE: 800
+- ParentName: 0x5E6BFCE4
+  Name: 0xFFD527C3
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 325
+      - 500
+      - 640
+      - 774
+      - 770
+      - 770
+      - 686
+      - 680
+      - 630
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 8
+    MAX_RPM: 9000
+    RED_LINE: 8500
+    IDLE: 800
+- ParentName: default
+  Name: 0x60C81988
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 84
+      - 107
+      - 155
+      - 196
+      - 203
+      - 180
+      - 168
+      - 156
+      - 130
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 9000
+    RED_LINE: 7500
+    IDLE: 800
+- ParentName: 0x60C81988
+  Name: 0x2663EC09
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 171
+      - 334
+      - 485
+      - 597
+      - 622
+      - 588
+      - 566
+      - 511
+      - 453
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 9000
+    RED_LINE: 9000
+    IDLE: 800
+- ParentName: default
+  Name: avantime
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 90
+      - 160
+      - 180
+      - 200
+      - 210
+      - 205
+      - 200
+      - 180
+      - 160
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.44999998807907104
+      - 0.47499999403953552
+      - 0.5
+    FLYWHEEL_MASS: 2.5
+    MAX_RPM: 7500
+    RED_LINE: 6500
+    IDLE: 800
+- ParentName: avantime
+  Name: 0x05E26712
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 120
+      - 180
+      - 200
+      - 220
+      - 240
+      - 230
+      - 220
+      - 200
+      - 180
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.44999998807907104
+      - 0.47499999403953552
+      - 0.5
+    FLYWHEEL_MASS: 2.5
+    MAX_RPM: 7500
+    RED_LINE: 6500
+    IDLE: 800
+- ParentName: avantime
+  Name: 0x3D3F4F71
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 140
+      - 220
+      - 240
+      - 260
+      - 280
+      - 260
+      - 240
+      - 220
+      - 200
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.44999998807907104
+      - 0.47499999403953552
+      - 0.5
+    FLYWHEEL_MASS: 2.5
+    MAX_RPM: 7500
+    RED_LINE: 6500
+    IDLE: 800
+- ParentName: avantime
+  Name: 0x96E46FF4
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 225
+      - 445
+      - 685
+      - 715
+      - 825
+      - 795
+      - 615
+      - 525
+      - 445
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.44999998807907104
+      - 0.47499999403953552
+      - 0.5
+    FLYWHEEL_MASS: 2.5
+    MAX_RPM: 7500
+    RED_LINE: 6500
+    IDLE: 800
+- ParentName: default
+  Name: supra
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 140
+      - 217
+      - 253
+      - 296
+      - 315
+      - 305
+      - 295
+      - 273
+      - 256
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 8000
+    RED_LINE: 6800
+    IDLE: 800
+- ParentName: supra
+  Name: supra_top
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 307
+      - 360
+      - 441
+      - 680
+      - 675
+      - 645
+      - 601
+      - 596
+      - 563
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 8999.9990234375
+    RED_LINE: 8999.9990234375
+    IDLE: 800
+- ParentName: default
+  Name: carreragt
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 145
+      - 175
+      - 245
+      - 350
+      - 435
+      - 395
+      - 365
+      - 342
+      - 330
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.81999999284744263
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 11
+    MAX_RPM: 9000
+    RED_LINE: 8400
+    IDLE: 800
+- ParentName: carreragt
+  Name: carreragt_top
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 365
+      - 449
+      - 569
+      - 683
+      - 753
+      - 703
+      - 664
+      - 635
+      - 619
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 8.5
+    MAX_RPM: 9500
+    RED_LINE: 9500
+    IDLE: 800
+- ParentName: default
+  Name: 0x6B4CE945
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 100
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.85000002384185791
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 7900
+    RED_LINE: 7500
+    IDLE: 800
+- ParentName: default
+  Name: venomf5
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 270
+      - 380
+      - 500
+      - 630
+      - 760
+      - 700
+      - 660
+      - 625
+      - 575
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 8
+    MAX_RPM: 9500
+    RED_LINE: 8500
+    IDLE: 875
+- ParentName: venomf5
+  Name: 0x0C01E1F8
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 420
+      - 550
+      - 670
+      - 830
+      - 980
+      - 900
+      - 850
+      - 780
+      - 630
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 5
+    MAX_RPM: 9500
+    RED_LINE: 8500
+    IDLE: 875
+- ParentName: default
+  Name: viper
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 187
+      - 312
+      - 487
+      - 560
+      - 538
+      - 480
+      - 437
+      - 417
+      - 412
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 14
+    MAX_RPM: 7000
+    RED_LINE: 6250
+    IDLE: 800
+- ParentName: viper
+  Name: viper_top
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 318
+      - 482
+      - 699
+      - 783
+      - 754
+      - 728
+      - 707
+      - 667
+      - 642
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 14
+    MAX_RPM: 7500
+    RED_LINE: 7500
+    IDLE: 800
+- ParentName: default
+  Name: reno5
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 86
+      - 121
+      - 147
+      - 163
+      - 163
+      - 161
+      - 154
+      - 143
+      - 131
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 15
+    MAX_RPM: 8000
+    RED_LINE: 7000
+    IDLE: 800
+- ParentName: reno5
+  Name: 0x5849EE22
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 271
+      - 339
+      - 431
+      - 545
+      - 585
+      - 588
+      - 531
+      - 496
+      - 468
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 15
+    MAX_RPM: 8000
+    RED_LINE: 8000
+    IDLE: 800
+- ParentName: default
+  Name: sl65
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 287
+      - 512
+      - 737
+      - 712
+      - 642
+      - 592
+      - 552
+      - 522
+      - 507
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 7000
+    RED_LINE: 6000
+    IDLE: 800
+- ParentName: default
+  Name: 0x71CCBA4D
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 145
+      - 165
+      - 185
+      - 268
+      - 289
+      - 284
+      - 257
+      - 230
+      - 203
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 9000
+    RED_LINE: 8000
+    IDLE: 850
+- ParentName: 0x71CCBA4D
+  Name: 0xB4101D4B
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 376
+      - 402
+      - 575
+      - 730
+      - 700
+      - 667
+      - 601
+      - 599
+      - 564
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 10000
+    RED_LINE: 10000
+    IDLE: 850
+- ParentName: default
+  Name: gti
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 100
+      - 153
+      - 207
+      - 201
+      - 187
+      - 175
+      - 164
+      - 155
+      - 148
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 13
+    MAX_RPM: 8000
+    RED_LINE: 7000
+    IDLE: 800
+- ParentName: gti
+  Name: gti_top
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 198
+      - 385
+      - 572
+      - 653
+      - 587
+      - 517
+      - 507
+      - 457
+      - 413
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 15
+    MAX_RPM: 8000
+    RED_LINE: 8000
+    IDLE: 800
+- ParentName: default
+  Name: 0x79B526BB
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 155
+      - 185
+      - 229
+      - 295
+      - 251
+      - 230
+      - 211
+      - 195
+      - 185
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.89999997615814209
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 15
+    MAX_RPM: 8000
+    RED_LINE: 7000
+    IDLE: 800
+- ParentName: 0x79B526BB
+  Name: 0x2BB06DB9
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 204
+      - 282
+      - 454
+      - 554
+      - 548
+      - 505
+      - 499
+      - 468
+      - 457
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 15
+    MAX_RPM: 8500
+    RED_LINE: 8500
+    IDLE: 800
+- ParentName: default
+  Name: gallardo
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 120
+      - 190
+      - 265
+      - 345
+      - 376
+      - 335
+      - 301
+      - 279
+      - 260
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 8
+    MAX_RPM: 9000
+    RED_LINE: 8100
+    IDLE: 800
+- ParentName: gallardo
+  Name: gallardo_top
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 390
+      - 451
+      - 550
+      - 655
+      - 746
+      - 725
+      - 692
+      - 659
+      - 583
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 8
+    MAX_RPM: 10000
+    RED_LINE: 10000
+    IDLE: 800
+- ParentName: default
+  Name: lancerevo9
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 146
+      - 191
+      - 229
+      - 275
+      - 295
+      - 281
+      - 263
+      - 242
+      - 199
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.75
+      - 0.80000001192092896
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 8000
+    RED_LINE: 7000
+    IDLE: 850
+- ParentName: lancerevo9
+  Name: lancerevo9_top
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 334
+      - 495
+      - 545
+      - 625
+      - 780
+      - 834
+      - 786
+      - 745
+      - 704
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 8999.9990234375
+    RED_LINE: 8999.9990234375
+    IDLE: 850
+- ParentName: default
+  Name: 0x80F5D559
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 200
+      - 300
+      - 440
+      - 536
+      - 620
+      - 602
+      - 520
+      - 480
+      - 430
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 8
+    MAX_RPM: 8000
+    RED_LINE: 6500
+    IDLE: 800
+- ParentName: 0x80F5D559
+  Name: 0x8787C71B
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 200
+      - 300
+      - 440
+      - 574
+      - 598
+      - 620
+      - 520
+      - 430
+      - 380
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 8
+    MAX_RPM: 8000
+    RED_LINE: 8000
+    IDLE: 800
+- ParentName: default
+  Name: clk500
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 120
+      - 210
+      - 336
+      - 339
+      - 330
+      - 285
+      - 250
+      - 230
+      - 220
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 12
+    MAX_RPM: 7000
+    RED_LINE: 6300
+    IDLE: 800
+- ParentName: clk500
+  Name: clk500_top
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 242
+      - 402
+      - 691
+      - 748
+      - 682
+      - 596
+      - 546
+      - 505
+      - 473
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 12
+    MAX_RPM: 7700
+    RED_LINE: 7500
+    IDLE: 800
+- ParentName: default
+  Name: charger69
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 159
+      - 266
+      - 439
+      - 490
+      - 460
+      - 410
+      - 350
+      - 315
+      - 301
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 12
+    MAX_RPM: 8000
+    RED_LINE: 6500
+    IDLE: 800
+- ParentName: charger69
+  Name: charger69_top
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 278
+      - 421
+      - 652
+      - 743
+      - 680
+      - 600
+      - 590
+      - 535
+      - 490
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.85000002384185791
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 11.5
+    MAX_RPM: 8000
+    RED_LINE: 7500
+    IDLE: 800
+- ParentName: default
+  Name: rx7
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 86
+      - 121
+      - 167
+      - 217
+      - 217
+      - 215
+      - 184
+      - 173
+      - 161
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 15
+    MAX_RPM: 9000
+    RED_LINE: 8000
+    IDLE: 800
+- ParentName: rx7
+  Name: rx7_top
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 271
+      - 439
+      - 531
+      - 595
+      - 595
+      - 588
+      - 531
+      - 496
+      - 468
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 15
+    MAX_RPM: 10000
+    RED_LINE: 10000
+    IDLE: 800
+- ParentName: default
+  Name: copmidsize_nis
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 250.77999877929688
+      - 295.04000854492188
+      - 368.79998779296875
+      - 516
+      - 590
+      - 663
+      - 590
+      - 516
+      - 464
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.81999999284744263
+      - 0.80000001192092896
+    FLYWHEEL_MASS: 8.5
+    MAX_RPM: 9400
+    RED_LINE: 8400
+    IDLE: 800
+- ParentName: default
+  Name: lancer
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 61
+      - 81
+      - 99
+      - 129
+      - 130
+      - 116
+      - 104
+      - 98
+      - 87
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 12
+    MAX_RPM: 7000
+    RED_LINE: 6000
+    IDLE: 800
+- ParentName: lancer
+  Name: 0xB21C59BF
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 194
+      - 295
+      - 485
+      - 625
+      - 595
+      - 534
+      - 518
+      - 477
+      - 435
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 12
+    MAX_RPM: 7999.9990234375
+    RED_LINE: 7500
+    IDLE: 800
+- ParentName: default
+  Name: speedster
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 92
+      - 117
+      - 153
+      - 159
+      - 184
+      - 164
+      - 146
+      - 133
+      - 123
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 8000
+    RED_LINE: 6500
+    IDLE: 800
+- ParentName: speedster
+  Name: 0x9CC210A7
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 225
+      - 365
+      - 450
+      - 520
+      - 518
+      - 475
+      - 445
+      - 430
+      - 417
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 8000
+    RED_LINE: 8000
+    IDLE: 800
+- ParentName: default
+  Name: 911gt2
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 230
+      - 355
+      - 440
+      - 472
+      - 450
+      - 430
+      - 410
+      - 390
+      - 380
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 8000
+    RED_LINE: 6800
+    IDLE: 950
+- ParentName: default
+  Name: a4
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 96
+      - 133
+      - 199
+      - 244
+      - 221
+      - 200
+      - 181
+      - 165
+      - 155
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.89999997615814209
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 15
+    MAX_RPM: 8000
+    RED_LINE: 6800
+    IDLE: 800
+- ParentName: a4
+  Name: a4_top
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 304
+      - 382
+      - 523
+      - 602
+      - 587
+      - 541
+      - 524
+      - 518
+      - 497
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 15
+    MAX_RPM: 8000
+    RED_LINE: 8000
+    IDLE: 800
+- ParentName: default
+  Name: mustanggt
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 125
+      - 165
+      - 250
+      - 320
+      - 318
+      - 275
+      - 245
+      - 230
+      - 217
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 7250
+    RED_LINE: 6250
+    IDLE: 800
+- ParentName: mustanggt
+  Name: mustanggt_top
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 175
+      - 275
+      - 475
+      - 640
+      - 630
+      - 560
+      - 560
+      - 525
+      - 500
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 7500
+    RED_LINE: 7500
+    IDLE: 800
+- ParentName: default
+  Name: f1
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 190
+      - 220
+      - 290
+      - 470
+      - 480
+      - 440
+      - 410
+      - 387
+      - 375
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.81999999284744263
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 11
+    MAX_RPM: 9000
+    RED_LINE: 7500
+    IDLE: 800
+- ParentName: f1
+  Name: 0x812E3764
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 265
+      - 349
+      - 469
+      - 599
+      - 684
+      - 654
+      - 564
+      - 535
+      - 519
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 8.5
+    MAX_RPM: 9000
+    RED_LINE: 9000
+    IDLE: 800
+- ParentName: default
+  Name: eclipsegt
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 120
+      - 145
+      - 185
+      - 230
+      - 261
+      - 240
+      - 217
+      - 200
+      - 185
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 8000
+    RED_LINE: 6500
+    IDLE: 800
+- ParentName: eclipsegt
+  Name: eclipsegt_top
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 250
+      - 350
+      - 450
+      - 575
+      - 687
+      - 629
+      - 573
+      - 528
+      - 501
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 8000
+    RED_LINE: 8000
+    IDLE: 800
+- ParentName: default
+  Name: challenger71
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 166
+      - 261
+      - 447
+      - 490
+      - 485
+      - 424
+      - 371
+      - 328
+      - 328
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 11
+    MAX_RPM: 8000
+    RED_LINE: 6500
+    IDLE: 800
+- ParentName: challenger71
+  Name: challenger71_top
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 228
+      - 358
+      - 611
+      - 716
+      - 663
+      - 580
+      - 557
+      - 499
+      - 453
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 8000
+    RED_LINE: 7500
+    IDLE: 800
+- ParentName: default
+  Name: db9
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 120
+      - 180
+      - 260
+      - 350
+      - 420
+      - 390
+      - 350
+      - 322
+      - 303
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.85000002384185791
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 8000
+    RED_LINE: 6800
+    IDLE: 800
+- ParentName: db9
+  Name: db9_top
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 298
+      - 400
+      - 625
+      - 748
+      - 740
+      - 676
+      - 598
+      - 544
+      - 496
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 8000
+    RED_LINE: 8000
+    IDLE: 800
+- ParentName: default
+  Name: punto
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 90
+      - 120
+      - 135
+      - 147
+      - 147
+      - 142
+      - 137
+      - 134
+      - 123
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 12
+    MAX_RPM: 8000
+    RED_LINE: 6500
+    IDLE: 800
+- ParentName: punto
+  Name: punto_top
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 200
+      - 270
+      - 390
+      - 566
+      - 556
+      - 518
+      - 480
+      - 447
+      - 414
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.5
+      - 0.60000002384185791
+      - 0.69999998807907104
+    FLYWHEEL_MASS: 12
+    MAX_RPM: 8000
+    RED_LINE: 8000
+    IDLE: 800
+- ParentName: default
+  Name: sl500
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 120
+      - 210
+      - 336
+      - 339
+      - 330
+      - 285
+      - 250
+      - 230
+      - 220
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 12
+    MAX_RPM: 7000
+    RED_LINE: 6300
+    IDLE: 800
+- ParentName: sl500
+  Name: sl500_top
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 242
+      - 402
+      - 691
+      - 748
+      - 682
+      - 596
+      - 546
+      - 505
+      - 473
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 12
+    MAX_RPM: 7500
+    RED_LINE: 7500
+    IDLE: 800
+- ParentName: default
+  Name: 240sx
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 62
+      - 111
+      - 154
+      - 160
+      - 145
+      - 126
+      - 118
+      - 108
+      - 97
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 12
+    MAX_RPM: 8000
+    RED_LINE: 6900
+    IDLE: 800
+- ParentName: 240sx
+  Name: 240sx_top
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 185
+      - 275
+      - 468
+      - 583
+      - 570
+      - 528
+      - 507
+      - 457
+      - 413
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 12
+    MAX_RPM: 8000
+    RED_LINE: 8000
+    IDLE: 800
+- ParentName: default
+  Name: cops
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 380
+      - 450
+      - 580
+      - 670
+      - 763
+      - 740
+      - 700
+      - 660
+      - 600
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.5
+      - 0.5
+      - 0.5
+    FLYWHEEL_MASS: 8.5
+    MAX_RPM: 10000
+    RED_LINE: 9000
+    IDLE: 800
+- ParentName: default
+  Name: 0xAA382491
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 365
+      - 475
+      - 645
+      - 750
+      - 796
+      - 695
+      - 665
+      - 642
+      - 580
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.81999999284744263
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 11
+    MAX_RPM: 9000
+    RED_LINE: 7500
+    IDLE: 800
+- ParentName: 0xAA382491
+  Name: 0x1AD93507
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 465
+      - 549
+      - 669
+      - 783
+      - 873
+      - 774
+      - 737
+      - 706
+      - 684
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 8.5
+    MAX_RPM: 9000
+    RED_LINE: 8500
+    IDLE: 800
+- ParentName: default
+  Name: veyron
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 475
+      - 594
+      - 758
+      - 897
+      - 922
+      - 895
+      - 865
+      - 742
+      - 730
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.81999999284744263
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 11
+    MAX_RPM: 8000
+    RED_LINE: 6600
+    IDLE: 800
+- ParentName: veyron
+  Name: 0x9D1A3D3C
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 565
+      - 649
+      - 878
+      - 1089
+      - 1178
+      - 1045
+      - 1014
+      - 985
+      - 969
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 8.5
+    MAX_RPM: 8000
+    RED_LINE: 8000
+    IDLE: 800
+- ParentName: default
+  Name: zonda
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 138
+      - 275
+      - 385
+      - 475
+      - 560
+      - 499
+      - 485
+      - 454
+      - 398
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.85000002384185791
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 11
+    MAX_RPM: 8000
+    RED_LINE: 7000
+    IDLE: 800
+- ParentName: zonda
+  Name: zonda_top
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 268
+      - 305
+      - 403
+      - 608
+      - 755
+      - 745
+      - 717
+      - 693
+      - 678
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.85000002384185791
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 11
+    MAX_RPM: 8000
+    RED_LINE: 8000
+    IDLE: 800
+- ParentName: default
+  Name: imperzawrx
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 150
+      - 175
+      - 215
+      - 275
+      - 298
+      - 270
+      - 240
+      - 215
+      - 195
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 8000
+    RED_LINE: 7000
+    IDLE: 800
+- ParentName: imperzawrx
+  Name: imprezawrx_top
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 243
+      - 309
+      - 430
+      - 559
+      - 650
+      - 606
+      - 540
+      - 496
+      - 463
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 8500
+    RED_LINE: 8500
+    IDLE: 800
+- ParentName: default
+  Name: 0xB2B10502
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 175
+      - 295
+      - 400
+      - 420
+      - 401
+      - 373
+      - 350
+      - 330
+      - 315
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 14
+    MAX_RPM: 8000
+    RED_LINE: 6400
+    IDLE: 800
+- ParentName: 0xB2B10502
+  Name: 0xC2BB123D
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 245
+      - 382
+      - 599
+      - 694
+      - 678
+      - 628
+      - 532
+      - 517
+      - 507
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 14
+    MAX_RPM: 8000
+    RED_LINE: 7500
+    IDLE: 800
+- ParentName: default
+  Name: golfr32
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 146
+      - 184
+      - 236
+      - 236
+      - 224
+      - 209
+      - 192
+      - 180
+      - 167
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 13
+    MAX_RPM: 8000
+    RED_LINE: 7000
+    IDLE: 800
+- ParentName: golfr32
+  Name: golfr32_top
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 208
+      - 395
+      - 582
+      - 663
+      - 597
+      - 577
+      - 567
+      - 517
+      - 473
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 12.5
+    MAX_RPM: 8500
+    RED_LINE: 8500
+    IDLE: 800
+- ParentName: default
+  Name: eclipse
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 105
+      - 130
+      - 170
+      - 214
+      - 201
+      - 190
+      - 187
+      - 170
+      - 155
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 8000
+    RED_LINE: 7000
+    IDLE: 800
+- ParentName: eclipse
+  Name: eclipse_top
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 250
+      - 350
+      - 450
+      - 575
+      - 687
+      - 629
+      - 573
+      - 528
+      - 501
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 8999.9990234375
+    RED_LINE: 8999.9990234375
+    IDLE: 800
+- ParentName: default
+  Name: phaeton
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 165
+      - 245
+      - 365
+      - 445
+      - 465
+      - 445
+      - 405
+      - 385
+      - 345
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 6
+    MAX_RPM: 7000
+    RED_LINE: 6000
+    IDLE: 800
+- ParentName: phaeton
+  Name: 0xEFA84154
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 245
+      - 325
+      - 545
+      - 675
+      - 845
+      - 745
+      - 645
+      - 545
+      - 445
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 6
+    MAX_RPM: 7000
+    RED_LINE: 6000
+    IDLE: 800
+- ParentName: default
+  Name: 0xB511B0AB
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 125
+      - 200
+      - 263
+      - 280
+      - 243
+      - 231
+      - 220
+      - 211
+      - 204
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 13
+    MAX_RPM: 8000
+    RED_LINE: 6700
+    IDLE: 800
+- ParentName: 0xB511B0AB
+  Name: 0x5210CA4E
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 198
+      - 385
+      - 599
+      - 685
+      - 687
+      - 667
+      - 607
+      - 557
+      - 513
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 15
+    MAX_RPM: 8000
+    RED_LINE: 8000
+    IDLE: 800
+- ParentName: default
+  Name: s7
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 365
+      - 495
+      - 665
+      - 675
+      - 700
+      - 695
+      - 665
+      - 617
+      - 580
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.81999999284744263
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 11
+    MAX_RPM: 8000
+    RED_LINE: 6500
+    IDLE: 800
+- ParentName: s7
+  Name: 0x1440A63C
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 480
+      - 649
+      - 769
+      - 890
+      - 980
+      - 950
+      - 880
+      - 835
+      - 819
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 8.5
+    MAX_RPM: 8000
+    RED_LINE: 8000
+    IDLE: 800
+- ParentName: default
+  Name: rs40
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 125
+      - 214
+      - 327
+      - 339
+      - 339
+      - 330
+      - 295
+      - 275
+      - 270
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.93000000715255737
+      - 0.85000002384185791
+      - 0.86000001430511475
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 9000
+    RED_LINE: 8400
+    IDLE: 950
+- ParentName: rs40
+  Name: 0xB1386AE5
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 325
+      - 514
+      - 645
+      - 775
+      - 794
+      - 744
+      - 697
+      - 660
+      - 633
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 9500
+    RED_LINE: 9500
+    IDLE: 950
+- ParentName: default
+  Name: camaron
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 173
+      - 311
+      - 362
+      - 400
+      - 382
+      - 376
+      - 319
+      - 307
+      - 299
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 12
+    MAX_RPM: 8000
+    RED_LINE: 6500
+    IDLE: 800
+- ParentName: camaron
+  Name: camaron_top
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 203
+      - 341
+      - 592
+      - 851
+      - 842
+      - 756
+      - 659
+      - 587
+      - 529
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 12
+    MAX_RPM: 8000
+    RED_LINE: 8000
+    IDLE: 800
+- ParentName: default
+  Name: murcielago
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 140
+      - 165
+      - 260
+      - 425
+      - 479
+      - 450
+      - 400
+      - 360
+      - 340
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 11
+    MAX_RPM: 9000
+    RED_LINE: 7650
+    IDLE: 800
+- ParentName: murcielago
+  Name: murcielago_top
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 293
+      - 475
+      - 585
+      - 695
+      - 770
+      - 850
+      - 771
+      - 766
+      - 731
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 11
+    MAX_RPM: 9000
+    RED_LINE: 9000
+    IDLE: 800
+- ParentName: default
+  Name: m5e39
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 140
+      - 230
+      - 356
+      - 369
+      - 350
+      - 325
+      - 290
+      - 270
+      - 260
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 12
+    MAX_RPM: 8000
+    RED_LINE: 7000
+    IDLE: 800
+- ParentName: m5e39
+  Name: 0x6C5DDEEA
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 206
+      - 402
+      - 691
+      - 721
+      - 708
+      - 646
+      - 596
+      - 555
+      - 523
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 12
+    MAX_RPM: 8500
+    RED_LINE: 8500
+    IDLE: 800
+- ParentName: default
+  Name: sentra
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 80
+      - 117
+      - 145
+      - 162
+      - 175
+      - 180
+      - 164
+      - 158
+      - 129
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 8
+    MAX_RPM: 7000
+    RED_LINE: 6250
+    IDLE: 800
+- ParentName: sentra
+  Name: 0x629A1807
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 226
+      - 375
+      - 410
+      - 500
+      - 555
+      - 525
+      - 482
+      - 447
+      - 436
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 8
+    MAX_RPM: 7999.9990234375
+    RED_LINE: 7999.9990234375
+    IDLE: 800
+- ParentName: default
+  Name: 0xC7BD8D1D
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 130
+      - 155
+      - 240
+      - 325
+      - 398
+      - 380
+      - 370
+      - 360
+      - 340
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 11
+    MAX_RPM: 9000
+    RED_LINE: 8500
+    IDLE: 800
+- ParentName: 0xC7BD8D1D
+  Name: 0xBDE18FE7
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 380
+      - 465
+      - 565
+      - 695
+      - 780
+      - 760
+      - 671
+      - 616
+      - 581
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 11
+    MAX_RPM: 10000
+    RED_LINE: 10000
+    IDLE: 800
+- ParentName: default
+  Name: miatamx5
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 65
+      - 99
+      - 105
+      - 125
+      - 125
+      - 123
+      - 120
+      - 119
+      - 100
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.89999997615814209
+      - 1
+      - 1.1000000238418579
+    FLYWHEEL_MASS: 15
+    MAX_RPM: 8000
+    RED_LINE: 7000
+    IDLE: 800
+- ParentName: miatamx5
+  Name: 0x63689496
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 276
+      - 375
+      - 490
+      - 555
+      - 555
+      - 526
+      - 474
+      - 452
+      - 405
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 15
+    MAX_RPM: 8000
+    RED_LINE: 8000
+    IDLE: 800
+- ParentName: default
+  Name: lancerevo8
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 139
+      - 164
+      - 214
+      - 286
+      - 277
+      - 250
+      - 226
+      - 209
+      - 194
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 8000
+    RED_LINE: 7000
+    IDLE: 850
+- ParentName: lancerevo8
+  Name: lancerevo8_top
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 361
+      - 482
+      - 575
+      - 700
+      - 760
+      - 756
+      - 733
+      - 722
+      - 686
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 8999.9990234375
+    RED_LINE: 8999.9990234375
+    IDLE: 850
+- ParentName: default
+  Name: senna
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 261
+      - 442
+      - 523
+      - 560
+      - 576
+      - 590
+      - 590
+      - 545
+      - 485
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.81999999284744263
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 12
+    MAX_RPM: 9000
+    RED_LINE: 7500
+    IDLE: 900
+- ParentName: senna
+  Name: 0xFF015798
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 474
+      - 625
+      - 710
+      - 790
+      - 870
+      - 845
+      - 810
+      - 775
+      - 716
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.81999999284744263
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 11
+    MAX_RPM: 9500
+    RED_LINE: 9500
+    IDLE: 900
+- ParentName: default
+  Name: bmwm3gtr
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 149
+      - 199
+      - 222
+      - 266
+      - 269
+      - 269
+      - 255
+      - 235
+      - 228
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 9000
+    RED_LINE: 8500
+    IDLE: 800
+- ParentName: default
+  Name: vxr
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 110
+      - 139
+      - 236
+      - 227
+      - 213
+      - 201
+      - 190
+      - 181
+      - 174
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 13
+    MAX_RPM: 8000
+    RED_LINE: 6500
+    IDLE: 800
+- ParentName: vxr
+  Name: 0x2981705F
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 198
+      - 385
+      - 572
+      - 653
+      - 637
+      - 617
+      - 557
+      - 507
+      - 463
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 15
+    MAX_RPM: 8000
+    RED_LINE: 8000
+    IDLE: 800
+- ParentName: default
+  Name: 911turbo
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 212
+      - 290
+      - 380
+      - 457
+      - 445
+      - 430
+      - 400
+      - 365
+      - 355
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.93000000715255737
+      - 0.85000002384185791
+      - 0.86000001430511475
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 8000
+    RED_LINE: 6800
+    IDLE: 950
+- ParentName: 911turbo
+  Name: 911turbo_top
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 312
+      - 390
+      - 524
+      - 645
+      - 620
+      - 554
+      - 497
+      - 460
+      - 433
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 8400
+    RED_LINE: 8400
+    IDLE: 950
+- ParentName: default
+  Name: supra70
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 113
+      - 140
+      - 176
+      - 219
+      - 254
+      - 244
+      - 218
+      - 196
+      - 179
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 8000
+    RED_LINE: 6500
+    IDLE: 800
+- ParentName: supra70
+  Name: 0x4EDBE6BF
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 285
+      - 360
+      - 441
+      - 680
+      - 650
+      - 617
+      - 601
+      - 596
+      - 563
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 8999.9990234375
+    RED_LINE: 8999.9990234375
+    IDLE: 800
+- ParentName: default
+  Name: semi
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 900
+      - 950
+      - 1000
+      - 1100
+      - 1400
+      - 1000
+      - 800
+      - 700
+      - 500
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 10000
+    RED_LINE: 9000
+    IDLE: 1500
+- ParentName: default
+  Name: a3
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 116
+      - 168
+      - 236
+      - 236
+      - 222
+      - 200
+      - 194
+      - 189
+      - 184
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 8000
+    RED_LINE: 6500
+    IDLE: 800
+- ParentName: a3
+  Name: a3_top
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 240
+      - 347
+      - 544
+      - 579
+      - 562
+      - 518
+      - 479
+      - 446
+      - 430
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 8000
+    RED_LINE: 8000
+    IDLE: 800
+- ParentName: default
+  Name: bmwm3csl
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 105
+      - 186
+      - 236
+      - 261
+      - 272
+      - 273
+      - 262
+      - 246
+      - 211
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.5
+      - 0.64999997615814209
+      - 0.69999998807907104
+    FLYWHEEL_MASS: 8.1000003814697266
+    MAX_RPM: 9000
+    RED_LINE: 8000
+    IDLE: 850
+- ParentName: bmwm3csl
+  Name: 0x551B0D26
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 235
+      - 361
+      - 438
+      - 576
+      - 590
+      - 542
+      - 521
+      - 485
+      - 434
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.51999998092651367
+      - 0.68000000715255737
+      - 0.87999999523162842
+    FLYWHEEL_MASS: 9.1000003814697266
+    MAX_RPM: 9000
+    RED_LINE: 9000
+    IDLE: 850
+- ParentName: default
+  Name: rx8
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 77
+      - 97
+      - 123
+      - 153
+      - 159
+      - 147
+      - 135
+      - 123
+      - 117
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 9000
+    RED_LINE: 9000
+    IDLE: 800
+- ParentName: rx8
+  Name: rx8_top
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 265
+      - 323
+      - 446
+      - 563
+      - 589
+      - 538
+      - 491
+      - 451
+      - 413
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 10000
+    RED_LINE: 10000
+    IDLE: 800
+- ParentName: default
+  Name: jesko
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 220
+      - 330
+      - 450
+      - 580
+      - 710
+      - 650
+      - 610
+      - 575
+      - 525
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 11
+    MAX_RPM: 9500
+    RED_LINE: 8500
+    IDLE: 875
+- ParentName: jesko
+  Name: 0x12C15C61
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 270
+      - 400
+      - 520
+      - 680
+      - 830
+      - 750
+      - 700
+      - 630
+      - 580
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 7
+    MAX_RPM: 9500
+    RED_LINE: 8500
+    IDLE: 875
+- ParentName: default
+  Name: 0xD7B140CC
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 475
+      - 695
+      - 845
+      - 950
+      - 1193
+      - 1095
+      - 965
+      - 942
+      - 930
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.81999999284744263
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 11
+    MAX_RPM: 9000
+    RED_LINE: 8500
+    IDLE: 800
+- ParentName: 0xD7B140CC
+  Name: 0xB58932BA
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 485
+      - 775
+      - 875
+      - 994
+      - 1365
+      - 1245
+      - 1185
+      - 1165
+      - 1135
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 8.5
+    MAX_RPM: 9000
+    RED_LINE: 9000
+    IDLE: 800
+- ParentName: default
+  Name: s28103
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 100
+      - 150
+      - 210
+      - 300
+      - 400
+      - 370
+      - 335
+      - 330
+      - 305
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.75
+      - 0.80000001192092896
+    FLYWHEEL_MASS: 12
+    MAX_RPM: 7000
+    RED_LINE: 6250
+    IDLE: 800
+- ParentName: s28103
+  Name: 0xD651B679
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 253
+      - 325
+      - 433
+      - 618
+      - 677
+      - 623
+      - 551
+      - 497
+      - 477
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 7500
+    RED_LINE: 7500
+    IDLE: 800
+- ParentName: default
+  Name: cts
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 110
+      - 155
+      - 245
+      - 252
+      - 247
+      - 235
+      - 227
+      - 209
+      - 198
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 14
+    MAX_RPM: 8000
+    RED_LINE: 7000
+    IDLE: 800
+- ParentName: cts
+  Name: cts_top
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 197
+      - 367
+      - 598
+      - 665
+      - 614
+      - 575
+      - 546
+      - 535
+      - 487
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 14
+    MAX_RPM: 8000
+    RED_LINE: 8000
+    IDLE: 800
+- ParentName: default
+  Name: tiburon
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 86
+      - 115
+      - 136
+      - 169
+      - 181
+      - 176
+      - 173
+      - 158
+      - 145
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.89999997615814209
+      - 0.86000001430511475
+      - 0.85000002384185791
+    FLYWHEEL_MASS: 11
+    MAX_RPM: 8000
+    RED_LINE: 6500
+    IDLE: 100
+- ParentName: tiburon
+  Name: 0xD7327B02
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 270
+      - 327
+      - 460
+      - 560
+      - 550
+      - 535
+      - 525
+      - 520
+      - 500
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.89999997615814209
+      - 0.86000001430511475
+      - 0.85000002384185791
+    FLYWHEEL_MASS: 11
+    MAX_RPM: 8500
+    RED_LINE: 8500
+    IDLE: 1000
+- ParentName: default
+  Name: slr
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 210
+      - 270
+      - 370
+      - 529
+      - 575
+      - 525
+      - 461
+      - 416
+      - 393
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 12
+    MAX_RPM: 8000
+    RED_LINE: 7000
+    IDLE: 800
+- ParentName: slr
+  Name: slr_top
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 265
+      - 350
+      - 500
+      - 675
+      - 721
+      - 705
+      - 690
+      - 630
+      - 590
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 9
+    MAX_RPM: 8000
+    RED_LINE: 8000
+    IDLE: 800
+- ParentName: default
+  Name: 3000gt
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 150
+      - 185
+      - 225
+      - 273
+      - 300
+      - 285
+      - 281
+      - 260
+      - 250
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.89999997615814209
+      - 0.85000002384185791
+      - 1
+    FLYWHEEL_MASS: 11
+    MAX_RPM: 8200
+    RED_LINE: 7200
+    IDLE: 800
+- ParentName: 3000gt
+  Name: 0xCDF97732
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 265
+      - 344
+      - 434
+      - 542
+      - 627
+      - 619
+      - 563
+      - 518
+      - 491
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.94999998807907104
+      - 1
+      - 1.2000000476837158
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 8000
+    RED_LINE: 8000
+    IDLE: 800
+- ParentName: default
+  Name: 0xE679F9CD
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 147
+      - 184
+      - 221
+      - 250
+      - 280
+      - 243
+      - 209
+      - 162
+      - 125
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.77999997138977051
+      - 0.75999999046325684
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 8000
+    RED_LINE: 7000
+    IDLE: 850
+- ParentName: default
+  Name: 0xE8155144
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 141
+      - 174
+      - 191
+      - 210
+      - 235
+      - 201
+      - 189
+      - 166
+      - 145
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 12
+    MAX_RPM: 5800
+    RED_LINE: 4800
+    IDLE: 800
+- ParentName: 0xE8155144
+  Name: 0x09D10C7C
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 198
+      - 385
+      - 572
+      - 653
+      - 587
+      - 517
+      - 507
+      - 457
+      - 413
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 11
+    MAX_RPM: 5800
+    RED_LINE: 4800
+    IDLE: 800
+- ParentName: default
+  Name: clio
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 100
+      - 123
+      - 163
+      - 221
+      - 218
+      - 200
+      - 180
+      - 165
+      - 158
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 12
+    MAX_RPM: 9000
+    RED_LINE: 7500
+    IDLE: 800
+- ParentName: clio
+  Name: clio_top
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 330
+      - 415
+      - 520
+      - 697
+      - 670
+      - 630
+      - 600
+      - 575
+      - 556
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 12
+    MAX_RPM: 9000
+    RED_LINE: 9000
+    IDLE: 800
+- ParentName: default
+  Name: crx91
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 65
+      - 90
+      - 101
+      - 112
+      - 112
+      - 105
+      - 95
+      - 90
+      - 85
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 9
+    MAX_RPM: 9000
+    RED_LINE: 8000
+    IDLE: 800
+- ParentName: crx91
+  Name: 0x898C9100
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 202
+      - 329
+      - 400
+      - 498
+      - 450
+      - 395
+      - 382
+      - 374
+      - 341
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.88999998569488525
+    FLYWHEEL_MASS: 8
+    MAX_RPM: 10000
+    RED_LINE: 10000
+    IDLE: 800
+- ParentName: default
+  Name: is350
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 144
+      - 165
+      - 215
+      - 226
+      - 280
+      - 251
+      - 225
+      - 203
+      - 186
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 8000
+    RED_LINE: 6600
+    IDLE: 800
+- ParentName: is350
+  Name: 0x94740429
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 280
+      - 310
+      - 391
+      - 549
+      - 625
+      - 604
+      - 601
+      - 546
+      - 513
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 8000
+    RED_LINE: 8000
+    IDLE: 800
+- ParentName: default
+  Name: skylinelm
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 145
+      - 145
+      - 189
+      - 256
+      - 305
+      - 290
+      - 257
+      - 230
+      - 203
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 9
+    MAX_RPM: 7800
+    RED_LINE: 6800
+    IDLE: 800
+- ParentName: skylinelm
+  Name: 0x52FC2B94
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 200
+      - 241
+      - 274
+      - 320
+      - 399
+      - 378
+      - 335
+      - 299
+      - 263
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 7.5
+    MAX_RPM: 7800
+    RED_LINE: 6800
+    IDLE: 800
+- ParentName: default
+  Name: gt3rs
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 123
+      - 214
+      - 245
+      - 299
+      - 287
+      - 269
+      - 254
+      - 238
+      - 220
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.93000000715255737
+      - 0.85000002384185791
+      - 0.86000001430511475
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 9000
+    RED_LINE: 8400
+    IDLE: 950
+- ParentName: gt3rs
+  Name: 0xEC43A26C
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 305
+      - 417
+      - 652
+      - 723
+      - 684
+      - 611
+      - 592
+      - 570
+      - 535
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 10
+    MAX_RPM: 9500
+    RED_LINE: 9500
+    IDLE: 950
+- ParentName: default
+  Name: 0xF4979035
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 67
+      - 98
+      - 113
+      - 127
+      - 130
+      - 121
+      - 110
+      - 101
+      - 94
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 13
+    MAX_RPM: 8000
+    RED_LINE: 7000
+    IDLE: 800
+- ParentName: 0xF4979035
+  Name: 0x5BC65689
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 225
+      - 389
+      - 594
+      - 687
+      - 637
+      - 597
+      - 534
+      - 507
+      - 463
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 15
+    MAX_RPM: 10000
+    RED_LINE: 10000
+    IDLE: 800
+- ParentName: default
+  Name: civichb
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 61
+      - 84
+      - 95
+      - 103
+      - 103
+      - 102
+      - 97
+      - 84
+      - 83
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 12
+    MAX_RPM: 8000
+    RED_LINE: 6800
+    IDLE: 800
+- ParentName: civichb
+  Name: 0xD1D2908A
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 250
+      - 470
+      - 590
+      - 616
+      - 606
+      - 568
+      - 530
+      - 497
+      - 464
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.5
+      - 0.60000002384185791
+      - 0.69999998807907104
+    FLYWHEEL_MASS: 12
+    MAX_RPM: 8999.9990234375
+    RED_LINE: 8999.9990234375
+    IDLE: 800
+- ParentName: default
+  Name: delta
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 95
+      - 110
+      - 140
+      - 190
+      - 227
+      - 201
+      - 187
+      - 150
+      - 135
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 13
+    MAX_RPM: 8000
+    RED_LINE: 6500
+    IDLE: 800
+- ParentName: delta
+  Name: 0x239513FF
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 190
+      - 297
+      - 440
+      - 579
+      - 562
+      - 518
+      - 479
+      - 446
+      - 430
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 11
+    MAX_RPM: 8000
+    RED_LINE: 8000
+    IDLE: 800
+- ParentName: default
+  Name: s2000
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 95
+      - 125
+      - 155
+      - 161
+      - 161
+      - 155
+      - 145
+      - 130
+      - 120
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 15
+    MAX_RPM: 9000
+    RED_LINE: 9000
+    IDLE: 1000
+- ParentName: s2000
+  Name: 0xD664C8F5
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 281
+      - 336
+      - 431
+      - 536
+      - 600
+      - 548
+      - 525
+      - 510
+      - 480
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 15
+    MAX_RPM: 10000
+    RED_LINE: 10000
+    IDLE: 1000
+- ParentName: default
+  Name: 0xFA58F4D9
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 190
+      - 210
+      - 310
+      - 470
+      - 509
+      - 475
+      - 425
+      - 385
+      - 365
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 11
+    MAX_RPM: 9000
+    RED_LINE: 8350
+    IDLE: 800
+- ParentName: 0xFA58F4D9
+  Name: 0x0491E10A
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 399
+      - 485
+      - 594
+      - 699
+      - 794
+      - 824
+      - 794
+      - 700
+      - 631
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.80000001192092896
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 11
+    MAX_RPM: 9500
+    RED_LINE: 9500
+    IDLE: 800
+- ParentName: default
+  Name: f40
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 230
+      - 298
+      - 399
+      - 426
+      - 424
+      - 412
+      - 399
+      - 371
+      - 349
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 8
+    MAX_RPM: 9000
+    RED_LINE: 7500
+    IDLE: 800
+- ParentName: f40
+  Name: 0x243B31B9
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 350
+      - 450
+      - 590
+      - 724
+      - 748
+      - 704
+      - 686
+      - 630
+      - 570
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 8
+    MAX_RPM: 9000
+    RED_LINE: 9000
+    IDLE: 800
+- ParentName: default
+  Name: 0xFCDE8A4D
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 95
+      - 125
+      - 135
+      - 140
+      - 140
+      - 132
+      - 127
+      - 114
+      - 103
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 12
+    MAX_RPM: 8000
+    RED_LINE: 6500
+    IDLE: 800
+- ParentName: 0xFCDE8A4D
+  Name: 0xA69BE971
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 200
+      - 270
+      - 390
+      - 525
+      - 535
+      - 518
+      - 480
+      - 447
+      - 414
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.5
+      - 0.60000002384185791
+      - 0.69999998807907104
+    FLYWHEEL_MASS: 12
+    MAX_RPM: 8000
+    RED_LINE: 8000
+    IDLE: 800
+- ParentName: default
+  Name: r8lms
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 165
+      - 195
+      - 275
+      - 395
+      - 398
+      - 395
+      - 385
+      - 342
+      - 330
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.75
+      - 0.81999999284744263
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 11
+    MAX_RPM: 9000
+    RED_LINE: 8700
+    IDLE: 800
+- ParentName: r8lms
+  Name: 0x0C3A2590
+  Data:
+    TORQUE:
+      Capacity: 9
+      Data:
+      - 335
+      - 498
+      - 594
+      - 680
+      - 741
+      - 720
+      - 685
+      - 635
+      - 619
+    SPEED_LIMITER:
+      Capacity: 2
+      Data: []
+    ENGINE_BRAKING:
+      Capacity: 3
+      Data:
+      - 0.69999998807907104
+      - 0.80000001192092896
+      - 0.89999997615814209
+    FLYWHEEL_MASS: 8.5
+    MAX_RPM: 9500
+    RED_LINE: 9500
+    IDLE: 800

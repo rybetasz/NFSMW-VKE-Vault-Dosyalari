@@ -1,0 +1,12 @@
+- ParentName: 
+  Name: default
+  Data:
+    MAX_FRAGMENTS: 20
+    CONTROLLER_CURVE: 0
+    TRAFFIC_TYPES:
+      Capacity: 2
+      Data:
+      - Value: trafha
+      - Value: semilog
+    MAX_SMACKABLES: 20
+    MAX_NEWTONS: 64

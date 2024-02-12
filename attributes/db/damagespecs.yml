@@ -1,0 +1,546 @@
+- ParentName: 
+  Name: default
+  Data:
+    DZ_LFRONT:
+      VisualScale: 0
+      HitPointScale: 0
+    DZ_FRONT:
+      VisualScale: 0
+      HitPointScale: 0
+    DZ_BOTTOM:
+      VisualScale: 0
+      HitPointScale: 0
+    DZ_LEFT:
+      VisualScale: 0
+      HitPointScale: 0
+    DZ_RREAR:
+      VisualScale: 0
+      HitPointScale: 0
+    DZ_LREAR:
+      VisualScale: 0
+      HitPointScale: 0
+    DZ_RIGHT:
+      VisualScale: 0
+      HitPointScale: 0
+    DZ_REAR:
+      VisualScale: 0
+      HitPointScale: 0
+    DZ_TOP:
+      VisualScale: 0
+      HitPointScale: 0
+    DZ_RFRONT:
+      VisualScale: 0
+      HitPointScale: 0
+    SHOCK_TIME: 3
+    HP_THRESHOLD: 0
+    SUPPRESS_DIST: 0
+    SHOCK_FORCE: 40
+    FORCE: 20
+    HIT_POINTS: 0
+- ParentName: default
+  Name: cars
+  Data:
+    DZ_LFRONT:
+      VisualScale: 0
+      HitPointScale: 0
+    DZ_FRONT:
+      VisualScale: 0
+      HitPointScale: 65
+    DZ_BOTTOM:
+      VisualScale: 0
+      HitPointScale: 0
+    DZ_LEFT:
+      VisualScale: 0
+      HitPointScale: 0
+    DZ_RREAR:
+      VisualScale: 0
+      HitPointScale: 0
+    DZ_LREAR:
+      VisualScale: 0
+      HitPointScale: 0
+    DZ_RIGHT:
+      VisualScale: 0
+      HitPointScale: 0
+    DZ_REAR:
+      VisualScale: 0
+      HitPointScale: 0
+    DZ_TOP:
+      VisualScale: 0
+      HitPointScale: 0
+    DZ_RFRONT:
+      VisualScale: 0
+      HitPointScale: 0
+    SHOCK_TIME: 3
+    HP_THRESHOLD: 0
+    SUPPRESS_DIST: 0
+    SHOCK_FORCE: 40
+    FORCE: 20
+    HIT_POINTS: 0
+- ParentName: cars
+  Name: trailer
+  Data:
+    DZ_LFRONT:
+      VisualScale: 0
+      HitPointScale: 0
+    DZ_FRONT:
+      VisualScale: 0
+      HitPointScale: 0
+    DZ_BOTTOM:
+      VisualScale: 0
+      HitPointScale: 0
+    DZ_LEFT:
+      VisualScale: 0
+      HitPointScale: 0
+    DZ_RREAR:
+      VisualScale: 1
+      HitPointScale: 0
+    DZ_LREAR:
+      VisualScale: 1
+      HitPointScale: 0
+    DZ_RIGHT:
+      VisualScale: 0
+      HitPointScale: 0
+    DZ_REAR:
+      VisualScale: 1
+      HitPointScale: 0
+    DZ_TOP:
+      VisualScale: 0
+      HitPointScale: 0
+    DZ_RFRONT:
+      VisualScale: 0
+      HitPointScale: 0
+    SHOCK_TIME: 3
+    HP_THRESHOLD: 0
+    SUPPRESS_DIST: 0
+    SHOCK_FORCE: 0
+    FORCE: 20
+    HIT_POINTS: 0
+- ParentName: cars
+  Name: racers
+  Data:
+    DZ_LFRONT:
+      VisualScale: 3.5
+      HitPointScale: 0
+    DZ_FRONT:
+      VisualScale: 0.80000001192092896
+      HitPointScale: 0
+    DZ_BOTTOM:
+      VisualScale: 0.69999998807907104
+      HitPointScale: 0
+    DZ_LEFT:
+      VisualScale: 3.5
+      HitPointScale: 0
+    DZ_RREAR:
+      VisualScale: 7.5
+      HitPointScale: 0
+    DZ_LREAR:
+      VisualScale: 7.5
+      HitPointScale: 0
+    DZ_RIGHT:
+      VisualScale: 3.5
+      HitPointScale: 0
+    DZ_REAR:
+      VisualScale: 1.5
+      HitPointScale: 0
+    DZ_TOP:
+      VisualScale: 3.5
+      HitPointScale: 0
+    DZ_RFRONT:
+      VisualScale: 3.5
+      HitPointScale: 0
+    SHOCK_TIME: 3
+    HP_THRESHOLD: 0
+    SUPPRESS_DIST: 0
+    SHOCK_FORCE: 40
+    FORCE: 20
+    HIT_POINTS: 0
+- ParentName: cars
+  Name: cops
+  Data:
+    DZ_LFRONT:
+      VisualScale: 0.5
+      HitPointScale: 1
+    DZ_FRONT:
+      VisualScale: 0.5
+      HitPointScale: 0.5
+    DZ_BOTTOM:
+      VisualScale: 0
+      HitPointScale: 0
+    DZ_LEFT:
+      VisualScale: 1
+      HitPointScale: 1
+    DZ_RREAR:
+      VisualScale: 0.5
+      HitPointScale: 1
+    DZ_LREAR:
+      VisualScale: 0.5
+      HitPointScale: 1
+    DZ_RIGHT:
+      VisualScale: 1
+      HitPointScale: 1
+    DZ_REAR:
+      VisualScale: 0.5
+      HitPointScale: 0.5
+    DZ_TOP:
+      VisualScale: 0.5
+      HitPointScale: 0.5
+    DZ_RFRONT:
+      VisualScale: 0.5
+      HitPointScale: 1
+    SHOCK_TIME: 3
+    HP_THRESHOLD: 0.75
+    SUPPRESS_DIST: 35
+    SHOCK_FORCE: 40
+    FORCE: 20
+    HIT_POINTS: 5
+- ParentName: cops
+  Name: copc6
+  Data:
+    DZ_LFRONT:
+      VisualScale: 0.5
+      HitPointScale: 1
+    DZ_FRONT:
+      VisualScale: 0.5
+      HitPointScale: 0.5
+    DZ_BOTTOM:
+      VisualScale: 0
+      HitPointScale: 0
+    DZ_LEFT:
+      VisualScale: 1
+      HitPointScale: 1
+    DZ_RREAR:
+      VisualScale: 0.5
+      HitPointScale: 1
+    DZ_LREAR:
+      VisualScale: 0.5
+      HitPointScale: 1
+    DZ_RIGHT:
+      VisualScale: 1
+      HitPointScale: 1
+    DZ_REAR:
+      VisualScale: 0.5
+      HitPointScale: 0.5
+    DZ_TOP:
+      VisualScale: 0.5
+      HitPointScale: 0.5
+    DZ_RFRONT:
+      VisualScale: 0.5
+      HitPointScale: 1
+    SHOCK_TIME: 3
+    HP_THRESHOLD: 1.5
+    SUPPRESS_DIST: 35
+    SHOCK_FORCE: 40
+    FORCE: 20
+    HIT_POINTS: 10
+- ParentName: cops
+  Name: copsuv
+  Data:
+    DZ_LFRONT:
+      VisualScale: 0.5
+      HitPointScale: 1
+    DZ_FRONT:
+      VisualScale: 0.5
+      HitPointScale: 0.5
+    DZ_BOTTOM:
+      VisualScale: 0
+      HitPointScale: 0
+    DZ_LEFT:
+      VisualScale: 1
+      HitPointScale: 1
+    DZ_RREAR:
+      VisualScale: 0.5
+      HitPointScale: 1
+    DZ_LREAR:
+      VisualScale: 0.5
+      HitPointScale: 1
+    DZ_RIGHT:
+      VisualScale: 1
+      HitPointScale: 1
+    DZ_REAR:
+      VisualScale: 0.5
+      HitPointScale: 0.5
+    DZ_TOP:
+      VisualScale: 0.5
+      HitPointScale: 0.5
+    DZ_RFRONT:
+      VisualScale: 0.5
+      HitPointScale: 1
+    SHOCK_TIME: 3
+    HP_THRESHOLD: 2
+    SUPPRESS_DIST: 35
+    SHOCK_FORCE: 40
+    FORCE: 20
+    HIT_POINTS: 10
+- ParentName: cops
+  Name: copghost
+  Data:
+    DZ_LFRONT:
+      VisualScale: 0.5
+      HitPointScale: 1
+    DZ_FRONT:
+      VisualScale: 0.5
+      HitPointScale: 0.5
+    DZ_BOTTOM:
+      VisualScale: 0
+      HitPointScale: 0
+    DZ_LEFT:
+      VisualScale: 1
+      HitPointScale: 1
+    DZ_RREAR:
+      VisualScale: 0.5
+      HitPointScale: 1
+    DZ_LREAR:
+      VisualScale: 0.5
+      HitPointScale: 1
+    DZ_RIGHT:
+      VisualScale: 1
+      HitPointScale: 1
+    DZ_REAR:
+      VisualScale: 0.5
+      HitPointScale: 0.5
+    DZ_TOP:
+      VisualScale: 0.5
+      HitPointScale: 0.5
+    DZ_RFRONT:
+      VisualScale: 0.5
+      HitPointScale: 1
+    SHOCK_TIME: 3
+    HP_THRESHOLD: 0.75
+    SUPPRESS_DIST: 35
+    SHOCK_FORCE: 40
+    FORCE: 20
+    HIT_POINTS: 6
+- ParentName: cops
+  Name: copgto
+  Data:
+    DZ_LFRONT:
+      VisualScale: 0.5
+      HitPointScale: 1
+    DZ_FRONT:
+      VisualScale: 0.5
+      HitPointScale: 0.5
+    DZ_BOTTOM:
+      VisualScale: 0
+      HitPointScale: 0
+    DZ_LEFT:
+      VisualScale: 1
+      HitPointScale: 1
+    DZ_RREAR:
+      VisualScale: 0.5
+      HitPointScale: 1
+    DZ_LREAR:
+      VisualScale: 0.5
+      HitPointScale: 1
+    DZ_RIGHT:
+      VisualScale: 1
+      HitPointScale: 1
+    DZ_REAR:
+      VisualScale: 0.5
+      HitPointScale: 0.5
+    DZ_TOP:
+      VisualScale: 0.5
+      HitPointScale: 0.5
+    DZ_RFRONT:
+      VisualScale: 0.5
+      HitPointScale: 1
+    SHOCK_TIME: 3
+    HP_THRESHOLD: 1.5
+    SUPPRESS_DIST: 35
+    SHOCK_FORCE: 40
+    FORCE: 20
+    HIT_POINTS: 7
+- ParentName: cops
+  Name: copcross
+  Data:
+    DZ_LFRONT:
+      VisualScale: 0.5
+      HitPointScale: 1
+    DZ_FRONT:
+      VisualScale: 0.5
+      HitPointScale: 1
+    DZ_BOTTOM:
+      VisualScale: 0
+      HitPointScale: 0
+    DZ_LEFT:
+      VisualScale: 1
+      HitPointScale: 1
+    DZ_RREAR:
+      VisualScale: 0.5
+      HitPointScale: 1
+    DZ_LREAR:
+      VisualScale: 0.5
+      HitPointScale: 1
+    DZ_RIGHT:
+      VisualScale: 1
+      HitPointScale: 1
+    DZ_REAR:
+      VisualScale: 0.5
+      HitPointScale: 1
+    DZ_TOP:
+      VisualScale: 0.5
+      HitPointScale: 0.5
+    DZ_RFRONT:
+      VisualScale: 0.5
+      HitPointScale: 1
+    SHOCK_TIME: 3
+    HP_THRESHOLD: 10
+    SUPPRESS_DIST: 25
+    SHOCK_FORCE: 40
+    FORCE: 20
+    HIT_POINTS: 400
+- ParentName: cops
+  Name: copgtoghost
+  Data:
+    DZ_LFRONT:
+      VisualScale: 0.5
+      HitPointScale: 1
+    DZ_FRONT:
+      VisualScale: 0.5
+      HitPointScale: 0.5
+    DZ_BOTTOM:
+      VisualScale: 0
+      HitPointScale: 0
+    DZ_LEFT:
+      VisualScale: 1
+      HitPointScale: 1
+    DZ_RREAR:
+      VisualScale: 0.5
+      HitPointScale: 1
+    DZ_LREAR:
+      VisualScale: 0.5
+      HitPointScale: 1
+    DZ_RIGHT:
+      VisualScale: 1
+      HitPointScale: 1
+    DZ_REAR:
+      VisualScale: 0.5
+      HitPointScale: 0.5
+    DZ_TOP:
+      VisualScale: 0.5
+      HitPointScale: 0.5
+    DZ_RFRONT:
+      VisualScale: 0.5
+      HitPointScale: 1
+    SHOCK_TIME: 3
+    HP_THRESHOLD: 1.5
+    SUPPRESS_DIST: 35
+    SHOCK_FORCE: 40
+    FORCE: 20
+    HIT_POINTS: 8
+- ParentName: cars
+  Name: choppers
+  Data:
+    DZ_LFRONT:
+      VisualScale: 0
+      HitPointScale: 0
+    DZ_FRONT:
+      VisualScale: 0
+      HitPointScale: 0
+    DZ_BOTTOM:
+      VisualScale: 0
+      HitPointScale: 0
+    DZ_LEFT:
+      VisualScale: 0
+      HitPointScale: 0
+    DZ_RREAR:
+      VisualScale: 0
+      HitPointScale: 0
+    DZ_LREAR:
+      VisualScale: 0
+      HitPointScale: 0
+    DZ_RIGHT:
+      VisualScale: 0
+      HitPointScale: 0
+    DZ_REAR:
+      VisualScale: 0
+      HitPointScale: 0
+    DZ_TOP:
+      VisualScale: 0
+      HitPointScale: 0
+    DZ_RFRONT:
+      VisualScale: 0
+      HitPointScale: 0
+    SHOCK_TIME: 3
+    HP_THRESHOLD: 0
+    SUPPRESS_DIST: 0
+    SHOCK_FORCE: 40
+    FORCE: 20
+    HIT_POINTS: 0
+- ParentName: cars
+  Name: challengeseries
+  Data:
+    DZ_LFRONT:
+      VisualScale: 0.5
+      HitPointScale: 1
+    DZ_FRONT:
+      VisualScale: 0.5
+      HitPointScale: 1
+    DZ_BOTTOM:
+      VisualScale: 0
+      HitPointScale: 0
+    DZ_LEFT:
+      VisualScale: 1
+      HitPointScale: 1
+    DZ_RREAR:
+      VisualScale: 0.5
+      HitPointScale: 1
+    DZ_LREAR:
+      VisualScale: 0.5
+      HitPointScale: 1
+    DZ_RIGHT:
+      VisualScale: 1
+      HitPointScale: 1
+    DZ_REAR:
+      VisualScale: 0.5
+      HitPointScale: 1
+    DZ_TOP:
+      VisualScale: 2
+      HitPointScale: 2
+    DZ_RFRONT:
+      VisualScale: 0.5
+      HitPointScale: 1
+    SHOCK_TIME: 3
+    HP_THRESHOLD: 999
+    SUPPRESS_DIST: 40
+    SHOCK_FORCE: 40
+    FORCE: 20
+    HIT_POINTS: 900
+- ParentName: cars
+  Name: traffic
+  Data:
+    DZ_LFRONT:
+      VisualScale: 5
+      HitPointScale: 0
+    DZ_FRONT:
+      VisualScale: 1
+      HitPointScale: 0
+    DZ_BOTTOM:
+      VisualScale: 1
+      HitPointScale: 0
+    DZ_LEFT:
+      VisualScale: 5
+      HitPointScale: 0
+    DZ_RREAR:
+      VisualScale: 10
+      HitPointScale: 0
+    DZ_LREAR:
+      VisualScale: 10
+      HitPointScale: 0
+    DZ_RIGHT:
+      VisualScale: 5
+      HitPointScale: 0
+    DZ_REAR:
+      VisualScale: 5
+      HitPointScale: 0
+    DZ_TOP:
+      VisualScale: 5
+      HitPointScale: 0
+    DZ_RFRONT:
+      VisualScale: 5
+      HitPointScale: 0
+    SHOCK_TIME: 3
+    HP_THRESHOLD: 0
+    SUPPRESS_DIST: 0
+    SHOCK_FORCE: 10
+    FORCE: 20
+    HIT_POINTS: 0

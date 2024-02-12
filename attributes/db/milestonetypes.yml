@@ -1,0 +1,169 @@
+- ParentName: 
+  Name: pursuit_length
+  Data:
+    CollectionName: pursuit_length
+    MilestoneType: 3
+    ResetWhenPursuitStarts: true
+    LocalizationTag: 1
+- ParentName: 
+  Name: margin_of_victory
+  Data:
+    CollectionName: margin_of_victory
+    MilestoneType: 1
+- ParentName: 
+  Name: hit_and_run_ticket
+  Data:
+    CollectionName: hit_and_run_ticket
+    MilestoneType: 1
+- ParentName: 
+  Name: damage_property_ticket
+  Data:
+    CollectionName: damage_property_ticket
+    MilestoneType: 1
+- ParentName: 
+  Name: helis_in_pursuit
+  Data:
+    CollectionName: helis_in_pursuit
+    MilestoneType: 1
+- ParentName: 
+  Name: bounty_in_pursuit
+  Data:
+    CollectionName: bounty_in_pursuit
+    MilestoneType: 1
+    ResetWhenPursuitStarts: true
+    LocalizationTag: 3
+- ParentName: 
+  Name: insurance_claims
+  Data:
+    CollectionName: insurance_claims
+    MilestoneType: 1
+- ParentName: 
+  Name: 911_calls
+  Data:
+    CollectionName: 911_calls
+    MilestoneType: 1
+- ParentName: 
+  Name: pursuits_in_a_row
+  Data:
+    CollectionName: pursuits_in_a_row
+    MilestoneType: 1
+- ParentName: 
+  Name: cops_destroyed_in_pursuit
+  Data:
+    CollectionName: cops_destroyed_in_pursuit
+    MilestoneType: 1
+    ResetWhenPursuitStarts: true
+    LocalizationTag: 3
+- ParentName: 
+  Name: outrun_pursuits_won
+  Data:
+    CollectionName: outrun_pursuits_won
+    MilestoneType: 1
+- ParentName: 
+  Name: fleeing_ticket
+  Data:
+    CollectionName: fleeing_ticket
+    MilestoneType: 1
+- ParentName: 
+  Name: cops_destroyed
+  Data:
+    CollectionName: cops_destroyed
+    MilestoneType: 1
+    LocalizationTag: 3
+- ParentName: 
+  Name: pursuit_evasion_time
+  Data:
+    CollectionName: pursuit_evasion_time
+    MilestoneType: 2
+    ResetWhenPursuitStarts: true
+    LocalizationTag: 2
+- ParentName: 
+  Name: outrun_races_won
+  Data:
+    CollectionName: outrun_races_won
+    MilestoneType: 1
+- ParentName: 
+  Name: driving_sidewalk_ticket
+  Data:
+    CollectionName: driving_sidewalk_ticket
+    MilestoneType: 1
+- ParentName: 
+  Name: cops_damaged
+  Data:
+    CollectionName: cops_damaged
+    MilestoneType: 1
+    ResetWhenPursuitStarts: true
+    LocalizationTag: 7
+- ParentName: 
+  Name: racing_ticket
+  Data:
+    CollectionName: racing_ticket
+    MilestoneType: 1
+- ParentName: 
+  Name: speeding_ticket
+  Data:
+    CollectionName: speeding_ticket
+    MilestoneType: 1
+- ParentName: 
+  Name: speedtrap_speed
+  Data:
+    CollectionName: speedtrap_speed
+    MilestoneType: 1
+- ParentName: 
+  Name: cops_in_pursuit
+  Data:
+    CollectionName: cops_in_pursuit
+    MilestoneType: 1
+- ParentName: 
+  Name: total_infractions
+  Data:
+    CollectionName: total_infractions
+    MilestoneType: 1
+    ResetWhenPursuitStarts: true
+    LocalizationTag: 8
+- ParentName: 
+  Name: reckless_ticket
+  Data:
+    CollectionName: reckless_ticket
+    MilestoneType: 1
+- ParentName: 
+  Name: opponents_damaged
+  Data:
+    CollectionName: opponents_damaged
+    MilestoneType: 1
+- ParentName: 
+  Name: total_cops_in_pursuit
+  Data:
+    CollectionName: total_cops_in_pursuit
+    MilestoneType: 1
+- ParentName: 
+  Name: tire_spikes_dodged
+  Data:
+    CollectionName: tire_spikes_dodged
+    MilestoneType: 1
+    ResetWhenPursuitStarts: true
+- ParentName: 
+  Name: cost_to_state
+  Data:
+    CollectionName: cost_to_state
+    MilestoneType: 1
+    LocalizationTag: 5
+- ParentName: 
+  Name: heat_meter
+  Data:
+    CollectionName: heat_meter
+    MilestoneType: 1
+- ParentName: 
+  Name: roadblocks_dodged
+  Data:
+    CollectionName: roadblocks_dodged
+    MilestoneType: 1
+    ResetWhenPursuitStarts: true
+    LocalizationTag: 6
+- ParentName: 
+  Name: cost_to_state_in_pursuit
+  Data:
+    CollectionName: cost_to_state_in_pursuit
+    MilestoneType: 1
+    ResetWhenPursuitStarts: true
+    LocalizationTag: 5
